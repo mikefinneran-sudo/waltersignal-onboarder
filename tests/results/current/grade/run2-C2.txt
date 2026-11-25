@@ -1,0 +1,1 @@
+PASS | Script, underlying cause, and follow-up questions match objections.md and discovery-questions.md verbatim; approval reminder is from the folder; no invented facts.

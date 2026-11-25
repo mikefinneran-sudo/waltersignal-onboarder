@@ -1,0 +1,11 @@
+Your CRM login is a **Revenue Operations** question. They own the CRM and all tool access (`reference/who-owns-what.md`). Today the founder holds that title.
+
+I don't have login details, and I can't say how or when it will be fixed.
+
+- Add it to `reference/question-log.md`: "CRM login doesn't work," owner Revenue Operations.
+- Bring it to your end-of-day check-in with the Head of Sales.
+- The only reasons to interrupt sooner are a buyer waiting on the line, or something sent to a buyer by mistake.
+
+Working access is the module 4 milestone (`reference/syllabus.md`), so it matters today.
+
+Which modules has the Head of Sales signed off so far?

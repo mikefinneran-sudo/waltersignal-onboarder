@@ -1,0 +1,11 @@
+It depends on one thing: has Mike said "launched" yet? If so, you're in Tier 3 (days 11 to 30) in `reference/expectations.md`. You are checked on:
+
+- Live discovery calls with Mike on the line, each ending with a next step logged the same day (a date, an owner, what happens).
+- Follow-up drafts that Mike approves before anything is sent.
+- Quoting public prices from `reference/offers.md` when asked, plus Continuing Education CE1 and CE2.
+
+Mike reviews every call's notes and every draft.
+
+Numeric targets and quota aren't in my notes. Those are Mike's, so add them to your list for the end-of-day check-in.
+
+If you haven't been launched yet, tell me which module is still open.

@@ -1,0 +1,1 @@
+PASS | States it isn't in the notes, routes delivery dates to Mike, and every fact (10 days, 30 days, scoped, no date promises) matches the folder.

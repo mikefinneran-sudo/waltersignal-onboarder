@@ -1,0 +1,1 @@
+PASS | Says plainly it isn't in the notes, routes to Revenue Operations (owns logins), logs it, and every stated fact matches first-day.md and who-owns-what.md.

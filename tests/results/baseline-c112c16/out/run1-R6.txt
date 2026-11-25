@@ -1,0 +1,7 @@
+That isn't in my notes. Mike answers it. Start dates and delivery dates come from him after scoping (`reference/who-owns-what.md`), and you never promise one (`reference/the-message.md`).
+
+- **Tell the client:** Mike will confirm timing. Don't offer a date or a range.
+- **Tell Mike:** the client signed. He sends the deposit invoice once the signed agreement is back.
+- **Update the CRM:** move the deal to Closed Won today.
+
+Interrupt Mike only if the client is on the line waiting. Otherwise, add it to your end-of-day question list. Any written reply to the client goes to Mike first.

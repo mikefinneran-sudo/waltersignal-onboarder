@@ -1,0 +1,10 @@
+That isn't in my notes. The folder has no template or example of a research brief, so I won't make one up.
+
+Here is what it does cover:
+- Module 5 asks for research briefs on three leads Mike assigns (`reference/syllabus.md`).
+- Leads are qualified with three questions: Why this? Why now? Why us? (`reference/buyers.md`)
+- Briefs are kept in the client's folder (`reference/tools.md`).
+
+The format is Mike's to answer. Add "What goes in a research brief, and can I see one?" to your question list for the end-of-day check-in.
+
+Which modules has Mike signed off so far?

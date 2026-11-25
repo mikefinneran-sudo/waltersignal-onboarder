@@ -1,0 +1,1 @@
+FAIL | Facts are accurate, but the reply leads with "not in my notes" and misses usable folder content: buyer type, decider/champion, current-state questions.

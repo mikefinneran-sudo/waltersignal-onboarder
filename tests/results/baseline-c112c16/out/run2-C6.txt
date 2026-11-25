@@ -1,0 +1,13 @@
+Here is what days 11 to 30 look like (`reference/expectations.md`, Tier 3):
+
+- Run live discovery calls with Mike on the line.
+- End every call with a next step logged in the CRM the same day: a date, an owner, and what happens.
+- Draft follow-ups for Mike to approve, and quote public prices when asked.
+
+Also in this stretch is Continuing Education CE1 and CE2. You are **not** expected to write proposals, discount, or scope custom work yet.
+
+**How it's checked:** Mike reviews every call's notes and every draft before it goes out.
+
+Numeric targets or quota aren't in my notes. Those are Mike's, so add them to your list for the end-of-day check-in.
+
+One check: has Mike said "launched" at your check-in yet?

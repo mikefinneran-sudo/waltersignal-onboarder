@@ -1,9 +1,9 @@
 # Tiered Expectations
 
 Four tiers, tied to the milestones in `syllabus.md`. Each tier says what the new hire should be
-able to do, what they are **not** expected to do yet, and how it is checked. The model is crawl,
-walk, run: Mike does it, then Mike and the new hire do it together, then the new hire does it and
-Mike reviews.
+able to do, what they are **not** expected to do yet, and the scorecard the Head of Sales checks.
+The model is crawl, walk, run: the Head of Sales does it, then you do it together, then you do it
+and the Head of Sales reviews.
 
 ## Tier 1: Day 1 (Learn the Ground)
 
@@ -12,35 +12,56 @@ three steps of the work.
 
 **Not expected yet:** pitching, quoting any price, contacting any prospect, sending anything.
 
-**Checked by:** saying it back to Mike at the end-of-day check-in.
+| Scorecard | Target |
+|---|---|
+| Day-one checklist items done (`first-day.md`) | 6 of 6 |
 
-## Tier 2: Days 2 to 10 (Initial Training, Mike Does It)
+## Tier 2: Days 2 to 10 (Initial Training, Head of Sales Does It)
 
-**Able to do by day 10:** modules 4 to 6, and pass the Launch Gate. Sit in on Mike's calls, write
-research briefs, pass a practice call, know which prices may be said.
+**Able to do by day 10:** modules 4 to 6, and pass the Launch Gate.
 
 **Not expected yet:** running a live call alone, quoting before launch, writing a proposal.
 
-**Checked by:** Mike signs off each milestone, then says "launched."
+| Scorecard | Target |
+|---|---|
+| Modules signed off | 6 of 6 by day 10 |
+| Discovery calls sat in on | Every call the Head of Sales runs |
+| Research briefs written (`templates.md`) | 3 |
+| Practice call passed | 1 |
+| First live call co-run | By day 10 |
 
-## Tier 3: Days 11 to 30 (In Production, We Do It)
+## Tier 3: Days 11 to 30 (In Production, Done Together)
 
-**Able to do:** run live discovery calls with Mike on the line. End every call with a next step
-logged the same day: a date, an owner, and what happens. Draft follow-ups for Mike to approve.
-Quote public prices from `offers.md` when the buyer asks. Continuing Education CE1 and CE2.
+**Able to do:** run live discovery calls with the Head of Sales on the line. Quote public prices
+from `offers.md` when the buyer asks. Draft follow-ups for approval. Continuing Education CE1 and
+CE2.
 
 **Not expected yet:** proposals, discounts, scoping custom work.
 
-**Checked by:** Mike reviews every call's notes and every draft before it is sent.
+| Scorecard | Target |
+|---|---|
+| Calls ending with a next step logged the same day | 100% |
+| Research brief written before each call | 100% |
+| Anything sent to a buyer without approval | 0 |
+| CE1 and CE2 signed off | By day 30 |
 
-## Tier 4: Days 31 to 90 (You Do It, Mike Reviews)
+## Tier 4: Days 31 to 90 (You Do It, Head of Sales Reviews)
 
 **Able to do by day 90:** Continuing Education CE3 to CE6. Run discovery calls alone, source and
-qualify your own leads, draft three-option proposals for Mike to price, and manage your own deals
-through the CRM stages.
+qualify your own leads, draft three-option proposals, and manage your own deals through the CRM
+stages.
 
 **Still not yours:** final prices, discounts, contract terms, and sending anything that commits
-WalterSignal. Those stay with Mike.
+WalterSignal.
 
-**Checked by:** the 90-day review with Mike. Targets for that review are set by Mike and are not
-in this folder.
+| Scorecard | Target |
+|---|---|
+| Calls ending with a next step logged the same day | 100% |
+| New leads qualified with all three questions before a second call | 100% |
+| Deals in the right CRM stage at the weekly review | 100% |
+| Proposals drafted for the Founder & CEO to price | At least 1 |
+| First solo discovery call | By day 90 |
+| CE3 to CE6 signed off | By day 90 |
+
+Meeting, pipeline, and revenue targets are set by the Head of Sales at launch. They are not in
+this folder.

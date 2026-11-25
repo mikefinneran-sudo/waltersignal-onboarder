@@ -1,0 +1,13 @@
+Today is small on purpose, so I won't hand you everything at once. Day 1 covers three things (`reference/first-day.md`):
+
+1. **The one line:** "The hardest part of AI isn't the technology. It's knowing what to ignore."
+2. **The two buyers:** the Advisory Buyer and the Get-Me-Online Buyer. They are never mixed.
+3. **The three steps of the work:** Research, Validate, Build.
+
+Pricing, tools in depth, and discovery calls come later. Nothing goes to a buyer today, and anything you send later goes to Mike first.
+
+Before we start:
+- What have you sold before, and to whom?
+- Has Mike signed off any modules yet?
+
+Then we begin with the one line.

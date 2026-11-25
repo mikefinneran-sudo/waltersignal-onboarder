@@ -1,0 +1,6 @@
+Whether you can expense it isn't in my notes, so I won't guess.
+
+- **Owner:** People Operations. Equipment and workplace policy sit with that title (`reference/who-owns-what.md`).
+- **Next step:** Add it to `reference/question-log.md` and bring it to the end-of-day check-in with the Head of Sales.
+
+Quick check so I can help with what's next: which modules has the Head of Sales signed off so far? On day 3, you should be starting module 5, The Discovery Call.

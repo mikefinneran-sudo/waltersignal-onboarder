@@ -1,0 +1,14 @@
+Don't give a number. The Signal Audit price isn't public (`reference/offers.md`). Say this:
+
+> "The scope is fixed, and Mike will quote the price after the call."
+
+Then tell them what the audit returns:
+- A map of how the business really runs, and what to automate and what to skip.
+- Three ranked pilots and a 90-day plan.
+- A PDF plus a 60-minute walkthrough, in 10 business days.
+
+Before you hang up:
+- Log the next step in the CRM today: a date, an owner, and what happens.
+- Tell Mike the buyer asked for the price. Anything sent to them goes through Mike first.
+
+Try saying the price line back to me in your own words.

@@ -1,0 +1,11 @@
+That isn't in my notes, so I won't guess which fields are required. Which CRM fields are required is a Revenue Operations question (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for the end-of-day check-in.
+
+What I can give you is the call note template in `reference/templates.md`. It lists:
+
+- Date and attendees, current state, gap, why now, and decider/champion
+- The next step: a date, an owner, and what happens
+- The stage: Leads, Proposals, Closed Won, or Closed Lost
+
+That is the note's shape, not the CRM's required-field list. Log every call the same day.
+
+Has the Head of Sales signed off modules 1 to 3 yet?

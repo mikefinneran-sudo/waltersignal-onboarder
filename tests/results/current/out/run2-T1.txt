@@ -1,0 +1,9 @@
+That isn't in my notes, and I never hold passwords. Wi-Fi isn't listed on the org chart in `reference/who-owns-what.md`, so I won't guess who owns it. Revenue Operations is the closest title, since it owns tool access and logins.
+
+Add it to `reference/question-log.md` for the end-of-day check-in.
+
+The folder does say day one runs on video, 9:00 AM to 4:30 PM Eastern, so have your connection ready for the 9:00 welcome call (`reference/first-day.md`).
+
+Two quick questions so we start in the right place:
+1. What have you sold before, and to whom?
+2. Has the Head of Sales signed off any modules yet?

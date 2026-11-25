@@ -1,0 +1,1 @@
+PASS | Owner-operator decides, office manager champions, both from buyers.md. It correctly flags that the Get-Me-Online decider isn't in the folder and adds no invented facts.

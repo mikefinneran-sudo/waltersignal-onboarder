@@ -1,0 +1,10 @@
+That isn't in my notes. The Full Build timeline is listed only as "scoped to the system" (`reference/offers.md`), and there is no standard length.
+
+What I can say:
+- A Full Build comes after the Integration Pilot (30 days), which comes after the Signal Audit (10 business days).
+- Delivery dates come from Mike after scoping. Never promise one to a buyer (`reference/the-message.md`).
+- Whether an HVAC company's setup changes the timeline is also Mike's call.
+
+Add this to your question list for the end-of-day check-in. If a buyer asks before then, say: "Mike will give you a date after scoping."
+
+If this is for a real deal, I can help you note what you know about their current workflow, so Mike has it when he scopes.

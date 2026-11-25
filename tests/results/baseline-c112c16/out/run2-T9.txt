@@ -1,0 +1,15 @@
+The price isn't public. Say this to the prospect: "Mike will quote that after the call." Don't give a number or a range.
+
+What you can say (`reference/offers.md`):
+- BananaForce is in early access.
+- It's an operations platform: CRM, quoting, scheduling, inventory, and the books.
+- It's a one-time license, not a per-seat subscription.
+
+Whether the four ownership terms apply to products like BananaForce isn't in my notes. That's Mike's. Don't promise them for it.
+
+Next steps:
+1. Log the question and the prospect's name in the CRM today.
+2. Tell Mike about the pricing question.
+3. Send Mike any written reply before it goes to the prospect.
+
+Add the ownership-terms question to your list for the end-of-day check-in. If the prospect is on the line right now, you can interrupt Mike.

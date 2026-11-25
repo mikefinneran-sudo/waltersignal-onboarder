@@ -1,0 +1,11 @@
+A scripted objection answer isn't in my notes. Objection handling is one of the topics Mike teaches directly, so add it to your question list for the check-in.
+
+The message in `reference/the-message.md` does cover this. This prospect is feeling the Noise. Don't argue. Agree, then use our lines:
+
+> "A lot of it is. That's why we start with how your business actually runs, and you see it working on your own numbers before the rest is built."
+
+Then go back to discovery (`reference/sales-process.md`): "How does that work run today?"
+
+Avoid "AI audit" and any multiple above 5×.
+
+Try it in your own words. Anything you send afterward goes to Mike first.

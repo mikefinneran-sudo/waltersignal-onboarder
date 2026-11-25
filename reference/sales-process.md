@@ -34,13 +34,14 @@ Every deal sits in exactly one stage. Move it the day it changes.
 - Every proposal offers three options: Good, Better, Best.
 - Each step up adds at least $1,000 and real value. Best is the target.
 - Written in plain client language.
-- Mike sets the prices and approves every proposal before it is sent.
+- The Founder & CEO sets the prices. The Head of Sales approves every proposal before it is sent.
 
 ## After a Yes
 
-1. Send the agreement alone.
-2. Only after the signed agreement comes back, send the deposit invoice.
+1. The agreement goes alone.
+2. Only after the signed agreement comes back does the deposit invoice go out.
 3. Payment: 50% at signing. Engagements of 90 days or more bill the balance monthly; shorter
    ones bill the balance at go-live.
 
-Mike sends the agreement and the invoice. The Sales Executive tells Mike the buyer said yes.
+Legal & Contracts sends the agreement. Finance & Billing sends the deposit invoice. The Sales
+Executive tells the Head of Sales the buyer said yes, the same day.

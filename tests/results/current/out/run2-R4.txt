@@ -1,0 +1,8 @@
+That isn't in my notes, so I won't guess a date.
+
+- **When it's paid:** commission payouts belong to Finance & Billing (`reference/who-owns-what.md`).
+- **How your commission is calculated:** the plan belongs to the Head of Sales.
+
+Add the question to `reference/question-log.md` for your end-of-day check-in. You could word it as: "When is commission paid out, and what triggers it?" It isn't one of the two cases that justify interrupting anyone.
+
+Once you have the answer, ask the Head of Sales to add it to the right file in `reference/` so the next hire doesn't have to ask.

@@ -1,0 +1,1 @@
+PASS | Gives the first three discovery-call steps verbatim from sales-process.md, correctly tied to module 5 on day 4; no invented facts.

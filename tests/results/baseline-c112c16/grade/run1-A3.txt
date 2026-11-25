@@ -1,0 +1,1 @@
+PASS | Correct public price ($1,500, list $2,000, 14 days, Dig Drive only); ownership terms, routing and tier rules all match the folder.

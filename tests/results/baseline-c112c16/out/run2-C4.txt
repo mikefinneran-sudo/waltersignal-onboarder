@@ -1,0 +1,10 @@
+Day 4 is Module 5, the discovery call (`reference/sales-process.md`). The call runs in four steps. Here are the first two:
+
+1. **Current state:** How does the work run today? Who calls, what gets written on paper, where does a job fall through the cracks?
+2. **Gap:** What does that cost them, in their own numbers?
+
+Two more steps, solution and next step, when you're ready.
+
+Try it: take the first question and put it in your own words for a buyer you've sold to before.
+
+Also, what have you sold before, and which modules has Mike signed off so far?

@@ -1,0 +1,7 @@
+Logins and access are Mike's (`reference/who-owns-what.md`). I don't know how to get into any tool, so I can't help with the login itself.
+
+Add it to your question list for the end-of-day check-in. It's not one of the two cases where you interrupt Mike (a buyer waiting on the line, or something sent to a client by mistake).
+
+Until it's fixed, you can read the four CRM stages in `reference/sales-process.md`. They're part of Module 4.
+
+Two quick questions so I pitch today right: have Modules 1 to 3 been signed off, and what have you sold before?

@@ -1,0 +1,5 @@
+That's Mike's. Contract wording is his, and contract terms are still not yours at day 40 (`reference/expectations.md`, `reference/who-owns-what.md`).
+
+- **Don't answer the client on the clause.** Don't say yes, no, or maybe. Anything that commits WalterSignal goes through Mike first.
+- **Write down exactly what they asked to change,** in their words, and log the next step in the CRM today.
+- **Put it on your list for the end-of-day check-in.** Interrupt Mike only if the client is on the line waiting, or something has already gone out by mistake.

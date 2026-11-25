@@ -35,5 +35,5 @@ about.
 - Never lead a cold conversation with a voice agent, an "AI audit," an "assessment," or a
   "strategy session." Lead with a working outcome the buyer can picture.
 - Never promise a speed or productivity multiple above 5×.
-- Never discount. Discounts are Mike's call, and only in exchange for something real.
-- Never promise a delivery date. Dates come from Mike after scoping.
+- Never discount. Discounts belong to the Founder & CEO, and only in exchange for something real.
+- Never promise a delivery date. Dates come from Solutions Engineering after scoping.

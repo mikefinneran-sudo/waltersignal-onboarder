@@ -1,0 +1,1 @@
+PASS | Every step (tell Mike, agreement alone, invoice after signing, 50% at signing, CRM stages) matches `sales-process.md`; no invented facts.

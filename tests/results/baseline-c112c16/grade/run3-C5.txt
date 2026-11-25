@@ -1,0 +1,1 @@
+FAIL | Facts check out, but the reply mainly says "not in my notes"; its three bullets are logistics, not what a good brief contains.

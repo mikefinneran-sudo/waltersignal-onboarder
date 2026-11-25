@@ -1,0 +1,13 @@
+Day 12 puts you in Tier 3 (days 11 to 30), if Mike has said "launched." Has he?
+
+Here is what `reference/expectations.md` says you are measured on:
+
+- Run live discovery calls with Mike on the line. End each one with a next step logged the same day: a date, an owner, and what happens.
+- Draft follow-ups for Mike to approve, and quote public prices from `reference/offers.md` when asked.
+- Work through CE1 and CE2.
+
+Mike reviews every call's notes and every draft before it goes out.
+
+Sales targets or quota aren't in my notes. Those are Mike's, so put them on your list for the end-of-day check-in.
+
+Not expected yet: proposals, discounts, or scoping custom work.

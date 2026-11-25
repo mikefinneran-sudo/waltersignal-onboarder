@@ -1,0 +1,11 @@
+That isn't in my notes. The folder doesn't list the CRM's fields, so I won't guess which are required. The CRM is Mike's to explain, so add it to your question list for the end-of-day check-in.
+
+What the folder does say about logging a call (`reference/sales-process.md`):
+
+- Log the call the same day.
+- Every call ends with a next step: a date, an owner, and what happens.
+- Move the deal's stage the day it changes.
+
+Logging a practice call in the CRM is part of the Module 4 milestone (`reference/syllabus.md`).
+
+Which modules has Mike signed off so far?

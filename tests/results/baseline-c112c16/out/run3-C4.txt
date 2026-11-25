@@ -1,0 +1,9 @@
+This is module 5, and it's in `reference/sales-process.md`. A discovery call runs in order. Here are the first three parts:
+
+1. **Current state:** How does the work run today? Who calls, what gets written on paper, where does a job fall through the cracks?
+2. **Gap:** What does that cost them, in their own numbers?
+3. **Solution:** What's the smallest working outcome that closes the gap?
+
+The fourth part, and the three qualifying questions, are next when you're ready.
+
+Try it: write one question in your own words for each part. Tell me what you've sold before and I'll fit the examples to that. Also, sit in on Mike's calls this week.

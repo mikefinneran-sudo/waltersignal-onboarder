@@ -1,0 +1,1 @@
+PASS | Three main items (line, buyers, steps). Modules 4 to 6 timing matches first-day.md. Every fact traces to the folder; nothing invented.

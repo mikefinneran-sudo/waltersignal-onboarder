@@ -1,0 +1,13 @@
+Proposals are not a day-one task. They are Continuing Education module CE5, weeks 9 to 10. Today is modules 1 to 3, and nothing goes to anyone.
+
+Here is the short version from `reference/sales-process.md`:
+
+- Every proposal offers three options: Good, Better, Best.
+- It is written in plain client language.
+- The Founder & CEO sets the prices, and the Head of Sales approves it before it is sent.
+
+You quote no price to anyone until the Launch Gate on day 10.
+
+Today, start with module 1: the one line in `reference/the-message.md`.
+
+What have you sold before, and to whom? Has the Head of Sales signed off any modules yet?

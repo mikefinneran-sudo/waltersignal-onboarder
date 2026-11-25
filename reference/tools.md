@@ -1,15 +1,16 @@
 # Tools and Where Things Live
 
-This page lists what each tool is for. It never lists passwords or how to log in. Mike sets up
-access on day 1; until then, read this folder.
+This page lists what each tool is for. It never lists passwords or how to log in. Revenue
+Operations sets up access on day 1 (`first-day.md`).
 
 | Tool | What it is for | You use it to |
 |---|---|---|
-| Company email | Talking to buyers | Send drafts to Mike first, then to buyers once approved |
+| Company email | Talking to buyers | Send drafts to the Head of Sales first, then to buyers once approved |
 | CRM (BananaForce) | Every lead and deal, by stage | Log calls, next steps, and stage changes the same day |
 | Client folders | One folder per client, filed by CRM stage (Leads, Proposals, Closed Won, Closed Lost) | Keep research briefs and call notes with the client |
-| Proposal documents | One document per proposal, in the client's folder | Draft the three options at day 90; Mike prices them |
-| Linear | WalterSignal's task tracker | See tasks Mike assigns you |
+| Templates | Research briefs, call notes, follow-ups (`templates.md`) | Copy before every call |
+| Proposal documents | One document per proposal, in the client's folder | Draft the three options (CE5); the Founder & CEO prices them |
+| Linear | WalterSignal's task tracker | See tasks the Head of Sales assigns you |
 | waltersignal.io | The public website | Send buyers to the right page (below) |
 
 ## We Run What We Sell

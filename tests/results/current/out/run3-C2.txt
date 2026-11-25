@@ -1,0 +1,12 @@
+Say this (`reference/objections.md`):
+
+> "Agreed, a lot of it is. The hardest part of AI isn't the technology. It's knowing what to ignore. That's the first thing we'd do for you."
+
+Underneath, they have been sold to and burned. Don't argue. Agree, then move on.
+
+Then ask a current-state question (`reference/discovery-questions.md`), for example:
+
+- "Walk me through what happens from the moment a customer calls you."
+- "Where does a job fall through the cracks?"
+
+Now you try it: say it back in your own words, then pick your follow-up question. If you send anything in writing afterward, the Head of Sales approves it first.

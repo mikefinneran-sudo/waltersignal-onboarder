@@ -1,0 +1,12 @@
+The Launch Gate is at the end of day 10 (`reference/syllabus.md`). Three things must be true:
+
+1. Modules 1 to 6 are signed off by Mike.
+2. You have co-run one live discovery call with Mike and logged the next step in the CRM the same day.
+3. Mike says "launched" at the check-in.
+
+If anything is missing on day 10, that module is repeated. Nobody is launched early.
+
+Two questions so I can point you to the right next step:
+
+- Which modules has Mike signed off so far?
+- What have you sold before, and to whom?

@@ -1,0 +1,1 @@
+PASS | All three Launch Gate conditions, the day-10 timing, and the repeat/no-early-launch rule match `reference/syllabus.md`; nothing is invented.

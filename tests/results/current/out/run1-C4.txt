@@ -1,0 +1,14 @@
+Day 4 is module 5, The Discovery Call (days 3 to 7). The full bank is in `reference/discovery-questions.md`. Start with three:
+
+- **Current state:** "Walk me through what happens from the moment a customer calls you."
+- **Current state:** "Where does a job fall through the cracks?"
+- **Gap:** "What does one of those cost you, in time or in a lost job?"
+
+I'll hold the "why now," money, and decision questions until you have these down. Every call ends with a next step: a date, an owner, and what happens.
+
+Two quick questions so I can build on what you know:
+
+1. Which modules has the Head of Sales signed off so far?
+2. What have you sold before, and to whom?
+
+Then try it: ask me the first question as if I'm an HVAC owner, and I'll answer back.

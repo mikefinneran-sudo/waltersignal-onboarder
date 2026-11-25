@@ -1,8 +1,8 @@
 # What We Sell
 
 Only the prices marked **Public** may be said to a buyer, and only after the Launch Gate (`syllabus.md`). Everything
-else is quoted by Mike after a conversation. If a price is not on this page, it does not exist
-yet: say "Mike will quote that after the call."
+else is quoted by the Founder & CEO after a conversation. If a price is not on this page, it
+does not exist yet: say "We'll quote that after the call."
 
 ## Consulting: Research, Validate, Build
 
@@ -10,10 +10,10 @@ Each phase is optional and quoted up front. Source: waltersignal.io/consulting.
 
 | Phase | What the buyer gets | Timeline | Price |
 |---|---|---|---|
-| Signal Audit (Research) | Map of the real workflow, what to automate and skip, three ranked pilots, a 90-day plan, PDF plus a 60-minute walkthrough | 10 business days | Not public. Scope is fixed; Mike quotes the price |
+| Signal Audit (Research) | Map of the real workflow, what to automate and skip, three ranked pilots, a 90-day plan, PDF plus a 60-minute walkthrough | 10 business days | Not public. Scope is fixed; the Founder & CEO quotes the price |
 | Integration Pilot (Validate) | One production workflow live in the tools they already use, measured against one number, 30 days of close support | 30 days | Quoted from the audit |
 | Full Build (Build) | The complete system, owned outright, with documentation and a staff handoff | Scoped to the system | One-time, quoted from the pilot |
-| Managed services (add-on) | Hosting, monitoring, tuning, monthly report | Month to month | Quoted by Mike |
+| Managed services (add-on) | Hosting, monitoring, tuning, monthly report | Month to month | Quoted by the Founder & CEO |
 
 ## Client Skills Package (Public)
 
@@ -31,7 +31,7 @@ Business knowledge written as tested agent skills. Source: waltersignal.io/consu
 
 ## Products
 
-Source: waltersignal.io/products. Prices for all three are quoted by Mike.
+Source: waltersignal.io/products. Prices for all three are quoted by the Founder & CEO.
 
 - **WalterFetch** (live): research and data engine. Returns finished dossiers and enriched lists.
 - **BananaForce** (early access): operations platform (CRM, quoting, scheduling, inventory, the
@@ -42,14 +42,16 @@ Source: waltersignal.io/products. Prices for all three are quoted by Mike.
 
 These are true of every custom build: landing pages, custom projects, and Full Builds. Say them
 often. Whether they apply to a product (WalterFetch, BananaForce, BananaBots) is not in this
-folder; ask Mike.
+folder; ask the Founder & CEO.
 
 1. No monthly fee for the software.
 2. No per-user fees.
 3. Five years of updates, written into the agreement.
-4. The client owns it: domain, code, and data in their name.
+4. The client owns it: domain, code, and data in their name. They may change the code or hand it
+   to another developer.
 
 ## Referral Partners (Public, on waltersignal.io/partners)
 
 Partners earn 30% of a referred client's first project. If a buyer asks about becoming a partner,
-send them to waltersignal.io/partners. Partner questions beyond that page go to Mike.
+send them to waltersignal.io/partners. Partner questions beyond that page go to Partnerships. Partners are paid
+30 days after the client accepts the project (waltersignal.io/partners).

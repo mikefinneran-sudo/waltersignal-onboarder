@@ -1,0 +1,11 @@
+That isn't in my notes. Nothing in `reference/` covers how data is stored or protected, so I won't guess.
+
+**Mike owns it.** Security is a technical question about what we build, and any answer touching contract wording is his too (`reference/who-owns-what.md`).
+
+- Tell the prospect nothing about data safety yet.
+- Add it to your question list for the end-of-day check-in.
+- Send Mike your draft reply before anything goes to the prospect.
+
+One related fact: on custom builds, the client owns the domain, code, and data in their name (`reference/offers.md`). That is about ownership, not security, so don't present it as an answer to their question.
+
+If the prospect is on the line with you right now, interrupt Mike. Otherwise it can wait for the check-in.

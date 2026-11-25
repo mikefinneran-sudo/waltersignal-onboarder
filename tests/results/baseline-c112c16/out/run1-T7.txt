@@ -1,0 +1,11 @@
+That isn't in my notes. The folder doesn't list the CRM's fields or which ones are required. Add it to your question list for the end-of-day check-in. Mike owns it.
+
+What I can tell you (`reference/sales-process.md`):
+
+- Log every call the same day.
+- End every call with a next step: a date, an owner, and what happens.
+- Every deal sits in exactly one stage: Leads, Proposals, Closed Won, or Closed Lost.
+
+Module 4 (today) has you log a practice call in the CRM, and Mike signs it off (`reference/syllabus.md`).
+
+Which modules has Mike signed off so far?

@@ -1,0 +1,13 @@
+Day 4 is module 5, The Discovery Call. Every question is in `reference/discovery-questions.md`. Start with three from the current-state section:
+
+- "Walk me through what happens from the moment a customer calls you."
+- "Where does a job fall through the cracks?"
+- "Who in the office lives with this every day?" (That person is usually the champion.)
+
+Pick two or three per section and keep it a conversation, not a survey. The gap, why-now, and money questions come next, once you've tried these.
+
+Try it: tell me how you'd ask the first one to the owner of a heating and air company, in your own words.
+
+Two quick questions so I build on what you know:
+1. What have you sold before?
+2. Which modules has the Head of Sales signed off so far?

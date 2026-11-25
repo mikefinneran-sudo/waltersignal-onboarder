@@ -1,0 +1,1 @@
+PASS | Gives the exact one line and the Noise → Clarity → Accountability arc from `reference/the-message.md`; every other claim also traces to the folder.

@@ -1,0 +1,9 @@
+Day 4 is Module 5, The Discovery Call (`reference/sales-process.md`). The folder gives the order and the kinds of questions, not a full script. Start with three:
+
+- **Current state:** How does the work run today? Who calls, what gets written on paper, where does a job fall through the cracks?
+- **Gap:** What does that cost them, in their own numbers?
+- **Qualifying** (`reference/buyers.md`): Why this? Why now? Why us?
+
+Two more when you are ready: solution and next step.
+
+Try it: pick one of the leads Mike assigned you and write your first two questions. Then tell me which modules Mike has signed off, and what you sold before, so I can build on it.

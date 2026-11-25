@@ -1,0 +1,90 @@
+run1-A1    PASS | Correct start: one line, modules 1–3 (message, buyers, work), nothing sent day one; every fact traces to syllabus, first-day, and the-message files.
+run1-A2    PASS | Correct one line, cited file, and Noise → Clarity → Accountability arc; every other claim, including the send-to-Mike-first rule, is in the folder.
+run1-A3    PASS | Correct public price ($1,500, list $2,000, 14 days, Dig Drive only); ownership terms, routing and tier rules all match the folder.
+run1-A4    PASS | Launch Gate conditions, day-10 timing, and Module 5's days and milestone all match the syllabus; no invented facts.
+run1-A5    PASS | Correctly gives owner-operator decides and office manager champions from buyers.md; day-4 Module 5 details match syllabus; no invented facts.
+run1-A6    PASS | Every step matches `sales-process.md`, `the-message.md`, and the CRM stage definitions; it gives the real answer and adds no facts outside the folder.
+run1-C1    PASS | Gives folder-backed specifics: Mike confirms start time, a started question list, prior-sales answer, and day-1 scope. No invented facts.
+run1-C2    PASS | Leads with the gap but gives substantive, folder-sourced guidance (one line, "Say This," discovery current-state, never-say rules) with no invented facts.
+run1-C3    PASS | Gives specific folder-backed talking points (BananaForce in daily use, own-numbers line, sample-report caution) and routes correctly, with no invented facts.
+run1-C4    PASS | Substantive, folder-sourced answer: Module 5 timing, current state and gap questions, and the three qualifying questions are all accurate; no invented facts.
+run1-C5    FAIL | Leads with "not in my notes" and offers thin facts; skips buyer type, decider/champion, and current-state details the folder supports. No invented facts.
+run1-C6    PASS | Substantive Tier 3 answer from expectations.md: Mike reviews call notes and drafts, plus CE1/CE2. Targets correctly routed to Mike; no invented facts.
+run1-P1    PASS | Gives the one line, the arc, and today's scope; holds the buyers for next; every fact traces to the-message.md, first-day.md, or expectations.md.
+run1-P2    PASS | Three bullets, CE5 weeks 9–10 timing given, every fact (Good/Better/Best, $1,000 steps, Mike prices and approves) matches the folder.
+run1-R1    FAIL | Routes to Mike, not Solutions Engineering as required; note the folder has no Solutions Engineering owner. No invented facts found.
+run1-R2    FAIL | Routes to Mike, not Revenue Operations, which isn't in the folder. It also misattributes the CRM stages to Module 4; they belong to Module 3.
+run1-R3    FAIL | Routes to Mike, not [Legal & Contracts]; though the folder names no such owner, so the criterion conflicts with ground truth. No invented facts.
+run1-R4    FAIL | Routes to Mike, not Finance & Billing. The folder has no such function and names Mike as pay owner, so the criterion conflicts with ground truth.
+run1-R5    FAIL | Reply routes the headset question to Mike, not the required owner, People Operations; the criterion rejects routing to the founder by name.
+run1-R6    FAIL | Routes to Mike, not the required Delivery Lead (a role absent from the folder), so the criterion as written cannot pass.
+run1-T1    PASS | States plainly it isn't in the notes and routes access to Mike for the check-in; every other claim matches the folder.
+run1-T10   PASS | States "not in my notes," routes delivery dates to Mike, and every fact (scoped to system, 30-day pilot, no date promises) traces to the folder.
+run1-T2    PASS | States commission isn't in notes, routes to Mike via who-owns-what.md, and every other fact matches expectations.md and syllabus.md.
+run1-T3    PASS | States plainly it isn't in the notes, names Mike as owner, and cites only folder facts (two interrupt cases, day-1 scope).
+run1-T4    PASS | States the price isn't public and Mike quotes it. All audit details match `offers.md`. Nothing invented.
+run1-T5    PASS | States not in notes, names Mike as owner of time off per who-owns-what.md, routes to check-in; all other facts match folder.
+run1-T6    PASS | Says discounts are Mike's call and not the hire's at day 40; names Mike as owner; every fact traces to the folder.
+run1-T7    PASS | Says plainly it isn't in the notes, names Mike as owner, and every fact is in the folder. One bullet is cited to the wrong file.
+run1-T8    PASS | States parking and dress aren't in notes, routes both to Mike, and adds no fact absent from the folder.
+run1-T9    PASS | States the price isn't public and Mike quotes it, routes to Mike, and every fact (license, early access, /products, interrupt rule) is in the folder.
+run2-A1    PASS | Matches example 1 and Rule 3 opening questions; every claim (small day, nothing sent, question list, end-of-day check-in) appears in the folder.
+run2-A2    PASS | Gives the exact one line and the Noise → Clarity → Accountability arc from `reference/the-message.md`; every other claim also traces to the folder.
+run2-A3    PASS | $1,500 (list $2,000), 14 days, the /dig page, and the ownership terms all match `offers.md`; no facts appear that are absent from the folder.
+run2-A4    PASS | All three Launch Gate conditions, the day-10 timing, and the repeat/no-early-launch rule match `reference/syllabus.md`; nothing is invented.
+run2-A5    PASS | Owner-operator decides and office manager champions match buyers.md; the Get-Me-Online gap is correctly flagged; no invented facts.
+run2-A6    PASS | Agreement first, invoice after signing, Mike sends both; CRM stages, no dates or discounts all match `sales-process.md` and `the-message.md`.
+run2-C1    PASS | Correctly says start time isn't in the folder, then gives specific day-1 facts from first-day.md (access setup, modules 1–3, nothing sent); no invented facts.
+run2-C2    PASS | Gives a substantive answer from the folder: Noise framing, the "Say This" lines, a return to discovery, and the never-say items. No facts are invented.
+run2-C3    PASS | Gives specific folder-backed lines (own-numbers proof, BananaForce in daily use, never claim published research, Mike approves sends); no invented facts.
+run2-C4    PASS | Day 4 correctly maps to Module 5; discovery steps quoted accurately from sales-process.md; no invented facts.
+run2-C5    FAIL | Facts are accurate, but the reply leads with "not in my notes" and misses usable folder content: buyer type, decider/champion, current-state questions.
+run2-C6    PASS | Substantive Tier 3 answer from expectations.md: duties, CE1/CE2, exclusions, and Mike's review. It correctly routes numeric targets to Mike and invents no facts.
+run2-P1    PASS | Three items only (modules 1–3), defers prices/tools/calls to "later," and every fact matches syllabus, the-message, buyers, sales-process, first-day.
+run2-P2    PASS | Three bullets, defers proposals to CE5 weeks 9–10, and every fact matches syllabus.md and sales-process.md.
+run2-R1    FAIL | Routes to Mike, not Solutions Engineering. But the folder has no Solutions Engineering; Mike is the correct owner. The criterion looks flawed.
+run2-R2    FAIL | Routes to Mike, not Revenue Operations as the criterion requires. Note: the folder names no Revenue Operations; Mike is correct per who-owns-what.md.
+run2-R3    FAIL | Routes to Mike, not [Legal & Contracts]. The folder has no such owner, though. Mike owns contract wording, so the criterion conflicts with it.
+run2-R4    FAIL | Routes to Mike, not Finance & Billing/Head of Sales; but neither function exists in the folder, so this criterion conflicts with ground truth.
+run2-R5    FAIL | Routes equipment to Mike, not People Operations as required; but the folder names Mike and has no People Operations, so this criterion looks wrong.
+run2-R6    FAIL | Routes to Mike (founder), not Delivery Lead as required; though the folder names no Delivery Lead, so the criterion may be misaligned.
+run2-T1    PASS | States it isn't in the notes, routes Wi-Fi to Mike per who-owns-what.md, and adds no facts beyond the folder.
+run2-T10   PASS | States it isn't in the notes, routes delivery dates to Mike, and every fact (10 days, 30 days, scoped, no date promises) matches the folder.
+run2-T2    PASS | States it isn't in the notes, names Mike as owner, routes to the check-in, and every other fact matches expectations.md.
+run2-T3    PASS | States it isn't in the notes, routes to Mike via the question list, and cites the interrupt cases correctly. No invented facts.
+run2-T4    PASS | States the price isn't public and Mike quotes it. Every audit detail (scope, pilots, 90-day plan, PDF, walkthrough, 10 days) matches offers.md; nothing is invented.
+run2-T5    PASS | States "not in my notes," routes time off to Mike per who-owns-what.md, adds to check-in list, invents nothing.
+run2-T6    PASS | Routes discount to Mike, states approval isn't in notes; every fact traces to who-owns-what, expectations Tier 4, and the-message.
+run2-T7    PASS | States plainly it's not in the notes, routes to Mike for the question list, and every cited fact matches sales-process.md, tools.md, syllabus.md.
+run2-T8    PASS | States "not in my notes," routes parking and dress to Mike per identity.md, adds to question list, and invents no facts.
+run2-T9    PASS | States the price isn't public and Mike quotes it; every fact (early access, one-time license, interrupt rule) traces to the folder.
+run3-A1    PASS | Asks the required starting questions; tier-1 limits, "learn the ground" framing, and the one line all match the folder. Nothing invented.
+run3-A2    PASS | Gives the exact one line and arc from `reference/the-message.md`; every supporting claim (noise, clarity, one named person) matches the folder.
+run3-A3    PASS | Correct public price ($1,500, list $2,000, 14 days), Dig Drive restriction, ownership terms, /dig page, CE2. All facts trace to the folder.
+run3-A4    PASS | All facts match syllabus.md: the three Launch Gate conditions, Module 5 timing and milestone. Nothing invented; no module or launch marked passed.
+run3-A5    PASS | Owner-operator decides, office manager champions, both from buyers.md. It correctly flags that the Get-Me-Online decider isn't in the folder and adds no invented facts.
+run3-A6    PASS | Every step (tell Mike, agreement alone, invoice after signing, 50% at signing, CRM stages) matches `sales-process.md`; no invented facts.
+run3-C1    PASS | Start time is correctly routed to Mike; preparation draws on folder facts (sales background, Mike sets up access, day-1 scope); nothing invented.
+run3-C2    PASS | Gives a specific, usable answer from the-message.md, syllabus.md, and sales-process.md: the Noise arc, the one line, approved phrasing, and the return to discovery. "Agree" is mild inference.
+run3-C3    PASS | Three specific, usable folder-based points (no published research, BananaForce runs the company, "see it working on your numbers"); every fact checks out.
+run3-C4    PASS | Gives the first three discovery-call steps verbatim from sales-process.md, correctly tied to module 5 on day 4; no invented facts.
+run3-C5    FAIL | Facts check out, but the reply mainly says "not in my notes"; its three bullets are logistics, not what a good brief contains.
+run3-C6    PASS | Specific Tier 3 duties and the review method come from expectations.md. Quota is correctly routed to Mike. No invented facts found.
+run3-P1    PASS | Three day-one items, defers pricing/tools/discovery calls to "later," and every fact matches first-day.md, the-message.md, buyers.md, and sales-process.md.
+run3-P2    PASS | Three bullets, all from sales-process.md; correctly places proposals at CE5, weeks 9–10; redirects to day-one modules 1–3; nothing invented.
+run3-R1    FAIL | Routes to Mike, not Solutions Engineering as required. Note: the folder has no Solutions Engineering, so the criterion conflicts with the ground truth.
+run3-R2    FAIL | Routes to Mike, not Revenue Operations. The folder assigns logins to Mike, and no Revenue Operations role exists, so the criterion itself looks wrong.
+run3-R3    FAIL | Routes to Mike (founder), not the required [Legal & Contracts] owner; note the folder itself names no such function.
+run3-R4    FAIL | Routes to Mike, not Finance & Billing or Head of Sales as required. Neither function exists in the folder, so the criterion conflicts with it.
+run3-R5    FAIL | Routes equipment to Mike, not People Operations as the criterion requires. Note: the folder has no People Operations; it assigns equipment to Mike.
+run3-R6    FAIL | Reply routes to Mike, not the Delivery Lead the criterion requires. Note: the folder names no Delivery Lead and assigns delivery dates to Mike.
+run3-T1    PASS | States "not in my notes," routes Wi-Fi password to Mike per out-of-scope password rule, and invents no facts.
+run3-T10   PASS | States not in notes, names Mike as owner of delivery dates, and every claim traces to offers.md, the-message.md, or who-owns-what.md.
+run3-T2    PASS | States plainly it isn't in the notes, routes commission to Mike, and its one added fact matches expectations.md Tier 1.
+run3-T3    PASS | States plainly it's not in the notes, routes to Mike's end-of-day check-in, names both interrupt cases correctly, and invents no facts.
+run3-T4    PASS | States the price isn't public and Mike quotes it; audit contents, fixed scope, next-step and approval rules all match `offers.md` and the folder.
+run3-T5    PASS | States plainly it's not in notes, routes time off to Mike per who-owns-what.md, adds to question list; no invented facts.
+run3-T6    PASS | Says discounts are Mike's call at any size, cites the folder correctly, routes to the check-in, and invents no facts.
+run3-T7    PASS | States plainly it isn't in the notes, routes to Mike, and every stated fact traces to sales-process.md, tools.md, or syllabus.md.
+run3-T8    PASS | Says plainly it isn't in the notes, routes parking and dress to Mike per identity.md, and invents no facts.
+run3-T9    PASS | States the price isn't public and Mike quotes it, per offers.md. Every other fact (license, early access, ownership caveat, interrupt rule) is in the folder.

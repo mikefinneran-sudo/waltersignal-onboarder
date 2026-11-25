@@ -1,0 +1,8 @@
+TURN 1: PASS | Builds on copier experience, facts trace to buyers.md and the-message.md, holds to modules 1–3.
+TURN 2: PASS | Restates the one line and the Mike-approval rule from the folder, then repeats the try-it check.
+TURN 3: FAIL | Defines Get-Me-Online buyer as having "found us through" Dig Drive; folder says only "many arrive."
+TURN 4: PASS | Says "isn't in my notes" first, routes passwords to Mike, adds it to the question list.
+TURN 5: PASS | Declines the full handbook, explains the pacing, and points to only the three day-one files.
+TURN 6: FAIL | Gives the $1,500 price on day one, and calls it the only public website price, missing the custom project.
+TURN 7: FAIL | Claims the hire asked about commission, which never came up in the conversation.
+TURN 8: FAIL | Flags clock times as missing but never names Mike as owner, though first-day.md says Mike confirms them.

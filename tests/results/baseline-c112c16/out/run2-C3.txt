@@ -1,0 +1,11 @@
+That isn't in my notes. The folder has no case studies, results, or client names, so I won't make any up. What to show a prospect is Mike's call. Add it to your list for the end-of-day check-in.
+
+Here is what I can give you:
+
+- **Say:** "You see it working on your own numbers before the rest is built" (`reference/the-message.md`).
+- **Say, if they ask about the software:** the company runs on BananaForce every day (`reference/tools.md`).
+- **Don't say:** that WalterSignal publishes research. It doesn't.
+
+Don't send the prospect anything until Mike approves it.
+
+Is this prospect waiting on you today?

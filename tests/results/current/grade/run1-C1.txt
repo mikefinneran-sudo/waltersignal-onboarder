@@ -1,0 +1,1 @@
+PASS | Start time, video format, items to have ready, welcome email and fallback are all drawn directly from first-day.md; nothing invented.

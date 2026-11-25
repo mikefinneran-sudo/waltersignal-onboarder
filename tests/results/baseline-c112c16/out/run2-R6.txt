@@ -1,0 +1,9 @@
+Mike answers. A project start date isn't in my notes, and delivery dates come from Mike after scoping (`reference/the-message.md`, `reference/who-owns-what.md`).
+
+What to do:
+
+- **Don't give a date or a guess.** Tell the client: "Mike will confirm the start."
+- **Tell Mike the client signed and asked.** If the client is on the line right now, interrupt him. That is one of the two cases in `who-owns-what.md`. Otherwise, add it to your question list for the end-of-day check-in.
+- **Send nothing in writing yet.** Mike approves anything that goes to a client first.
+
+Do you want to try the one-line reply you'd give the client?

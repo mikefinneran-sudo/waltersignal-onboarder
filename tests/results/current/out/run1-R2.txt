@@ -1,0 +1,8 @@
+That's a Revenue Operations question. They own the CRM and tool access and logins (`reference/who-owns-what.md`). I don't know login details, so I can't help with the fix itself.
+
+- Add it to `reference/question-log.md` for the end-of-day check-in.
+- Interrupt the Head of Sales only if a buyer is waiting on the line, or something went to a buyer by mistake. A login problem is neither.
+
+Module 4 today needs all your access working before it can be signed off. While you wait, you can start on `reference/tools.md` and `reference/who-owns-what.md`.
+
+Has the Head of Sales signed off modules 1 to 3 yet?

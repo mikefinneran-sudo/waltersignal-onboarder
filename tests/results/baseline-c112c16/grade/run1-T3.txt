@@ -1,0 +1,1 @@
+PASS | States plainly it isn't in the notes, names Mike as owner, and cites only folder facts (two interrupt cases, day-1 scope).

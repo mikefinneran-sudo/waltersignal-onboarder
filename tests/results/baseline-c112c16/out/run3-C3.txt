@@ -1,0 +1,9 @@
+That isn't in my notes. `reference/` has no case studies or results, so I won't point you to any. Mike owns that answer. Add it to your question list for the end-of-day check-in.
+
+Here is what the folder does cover:
+
+- **Don't claim research.** WalterSignal does not publish it, and sample reports are paid client work (`the-message.md`).
+- **Say the true thing.** The CRM is BananaForce, and the company runs on it every day (`tools.md`).
+- **Say the proof-by-process line.** "You see it working on your own numbers before the rest is built."
+
+Anything you send this prospect goes to Mike first.

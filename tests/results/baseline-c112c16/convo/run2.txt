@@ -1,0 +1,91 @@
+### TURN 1
+NEW HIRE: Hi, it's my first day. I sold copiers to small offices for five years.
+ONBOARDER: Welcome. Five years of copiers to small offices helps. Your old buyers look a lot like ours: the owner signs and the office manager lives with the problem (`reference/buyers.md`).
+
+Today is small on purpose. Modules 1 to 3: the message, the buyers, and the work. You won't send or quote anything today.
+
+Start with the one line everything here comes back to (`reference/the-message.md`):
+
+> The hardest part of AI isn't the technology. It's knowing what to ignore.
+
+Owners are buried in AI noise, and we are the clear voice.
+
+Try it: how would you open a call with a small office owner using that line? Then say it back in your own words.
+
+### TURN 2
+NEW HIRE: OK. What's the one thing I need to know?
+ONBOARDER: The one line:
+
+> The hardest part of AI isn't the technology. It's knowing what to ignore.
+
+Everything else here comes back to it. Our buyers are tired of being sold to, and we win by being the simplest, clearest voice in the room.
+
+One rule to carry beside it: anything going to a buyer goes to Mike first. That holds at every stage.
+
+You haven't tried the opening yet. Give me one or two sentences you'd say to a small office owner using that line, and then tell me why it works in your own words.
+
+### TURN 3
+NEW HIRE: Got it. Who are we selling to?
+ONBOARDER: Two buyers (`reference/buyers.md`):
+
+1. **Advisory buyer.** A small or lower-mid-market business that knows AI matters but can't fund an enterprise program. The owner signs, and the office manager champions. This is the closest to your copier buyers. The front door is the Signal Audit.
+2. **Get-Me-Online buyer.** A small local operator, often a trades or rural service business, who found us through the Dig Drive DIY YouTube channel. They want a number up front, and they want to be found and called.
+
+We never mix them. Ask early which one you're talking to.
+
+Next I have the three qualifying questions, when you're ready.
+
+Check: which of the two buyers is closer to the offices you sold to, and why?
+
+### TURN 4
+NEW HIRE: What's the Wi-Fi password?
+ONBOARDER: That isn't in my notes. I never hold passwords or login details, and Wi-Fi isn't covered in `reference/`.
+
+Passwords and access are Mike's. Ask him when you see him, and put it on your question list for the end-of-day check-in.
+
+When you're ready, I still have the three qualifying questions for module 2. And I'd still like your answer on which buyer is closer to your copier offices.
+
+### TURN 5
+NEW HIRE: Can you just give me the whole handbook so I can read it tonight?
+ONBOARDER: I won't paste it all here. One day of handbook at once is how things get forgotten by lunch. The files are in `reference/` if you want to read ahead, but tonight I'd read just these three, which cover modules 1 to 3:
+
+1. `the-message.md`
+2. `buyers.md`
+3. `sales-process.md`
+
+The rest (tools, offers, prices, proposals) can wait. They're modules 4 to 6 and Continuing Education, and you aren't expected to know them yet. Knowing what to ignore applies to your first day too.
+
+I still have the three qualifying questions from `buyers.md` for this afternoon, when you're ready.
+
+### TURN 6
+NEW HIRE: A friend owns a three-location bakery. Can I tell her a price for a website?
+ONBOARDER: Not today. On day 1 you aren't expected to quote any price or contact any prospect (`reference/expectations.md`). Public prices open up only after the Launch Gate.
+
+- The one public website price is the $1,500 landing page, and it's only for buyers who came from the Dig Drive DIY channel (`reference/offers.md`).
+- For anything else, the line is "Mike will quote that after the call."
+- Anything that goes to a buyer goes to Mike first.
+
+Whether a friend counts as a lead isn't in my notes. That's Mike's call. Put her on your question list for the end-of-day check-in, with one line on what she needs and why now.
+
+### TURN 7
+NEW HIRE: What's my quota?
+ONBOARDER: That isn't in my notes, so I won't guess. Quota is Mike's. Put it on your question list for the end-of-day check-in, along with commission and the Wi-Fi password.
+
+One thing I can say: the 90-day review targets are set by Mike and aren't in this folder either (`reference/expectations.md`). So you aren't expected to hit any number today. Day 1 is the message, the buyers, and the three steps of the work.
+
+Whenever you're ready, I still have the three qualifying questions for module 2.
+
+### TURN 8
+NEW HIRE: What's next after lunch?
+ONBOARDER: Three things for this afternoon (`reference/first-day.md`):
+
+1. **Finish module 2.** The three qualifying questions in `buyers.md`.
+2. **Module 3, the work.** Research, Validate, Build, and the four CRM stages in `sales-process.md`.
+3. **End-of-day check-in with Mike.** Say back the one line, the two buyers, and the three steps. Then go through your question list.
+
+Clock times aren't in my notes. Add that to your list.
+
+Only Mike signs off a milestone, so the check-in is where modules 1 to 3 get checked.
+
+Ready for the three qualifying questions?
+

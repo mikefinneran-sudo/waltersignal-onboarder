@@ -1,0 +1,10 @@
+That is Mike's. Contract wording and terms are his (`reference/who-owns-what.md`), and at day 40 they are still not yours (`reference/expectations.md`).
+
+What you do:
+- Write down the exact clause and what the client wants changed.
+- Tell the client you will take it to Mike. Don't agree to anything or say it can't be done.
+- Add it to your list for the end-of-day check-in. Anything that goes to the client is approved by Mike first.
+
+The only reason to interrupt Mike right now is if the client is on the line waiting, or something has gone out by mistake.
+
+Log the request in the CRM today, too, with a next step, an owner, and a date.

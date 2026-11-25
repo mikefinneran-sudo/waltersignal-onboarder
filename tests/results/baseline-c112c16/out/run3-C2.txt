@@ -1,0 +1,11 @@
+Objection handling isn't in my notes. Mike teaches it directly, so put it on your list for the end-of-day check-in. Here is what the folder does give you (`reference/the-message.md`).
+
+"All hype" is the **Noise** step of our arc. Don't argue with it. Agree, then give clarity:
+
+- Use the one line: "The hardest part of AI isn't the technology. It's knowing what to ignore."
+- Then: "We start with how your business actually runs."
+- Then go back to discovery: how does the work run today?
+
+Don't lead with "AI audit" and don't promise any multiples.
+
+Try it in your own words, then say back why agreeing works better than defending.

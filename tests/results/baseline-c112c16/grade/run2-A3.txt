@@ -1,0 +1,1 @@
+PASS | $1,500 (list $2,000), 14 days, the /dig page, and the ownership terms all match `offers.md`; no facts appear that are absent from the folder.

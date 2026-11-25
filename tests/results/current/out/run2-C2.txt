@@ -1,0 +1,13 @@
+Here's the answer from `reference/objections.md`.
+
+**Say:** "Agreed, a lot of it is. The hardest part of AI isn't the technology. It's knowing what to ignore. That's the first thing we'd do for you."
+
+**Then ask a current-state question** (`reference/discovery-questions.md`), for example:
+- "Walk me through what happens from the moment a customer calls you."
+- "Where does a job fall through the cracks?"
+
+Underneath, they have probably been sold to and burned, so agree first and don't argue. Then move back to their business.
+
+Try it in your own words, then tell me why agreeing with them works better than defending AI.
+
+If you send anything in writing afterward, the Head of Sales approves it first.

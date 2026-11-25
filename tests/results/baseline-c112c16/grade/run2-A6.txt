@@ -1,0 +1,1 @@
+PASS | Agreement first, invoice after signing, Mike sends both; CRM stages, no dates or discounts all match `sales-process.md` and `the-message.md`.
