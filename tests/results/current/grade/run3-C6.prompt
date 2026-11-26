@@ -1084,27 +1084,31 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 12. How will I be measured in my first month?
 
 REPLY:
-You are in Tier 3 (days 11 to 30, in production, done together). Here is how you are measured (`reference/expectations.md`):
+On day 12 you are in Tier 3 (days 11 to 30, "in production, done together"), as long as the Head of Sales has said "launched" at the check-in. If not, the missing module is repeated first (`reference/syllabus.md`). This is all from `reference/expectations.md`.
 
-| Scorecard item | Target |
+**Your scorecard for days 11 to 30**
+
+| Measure | Target |
 |---|---|
-| Calls ending with a next step logged in the CRM the same day | 100% |
+| Calls ending with a next step logged the same day | 100% |
 | Research brief written before each call | 100% |
 | Call notes saved in the Vault the same day | 100% |
-| Anything sent to a client without Head of Sales approval | 0 |
+| Anything sent to a client without approval | 0 |
 | CE1 (The Discovery Sprint in Depth) signed off | By day 30 |
 
-**What you are expected to do:**
+**What you are expected to do**
 - Run live discovery calls with the Head of Sales on the line.
 - Quote the Quotable prices in `reference/services.md` when a client asks.
-- Draft follow-ups for approval.
-- Present your own deals at the Monday pipeline review: the stage, the next step, and its date for each (`reference/meetings.md`).
+- Draft follow-ups for the Head of Sales to approve before anything is sent.
+- Present your own deals at the weekly pipeline review (`reference/meetings.md`).
 
 **What is not expected yet:** proposals, Internal prices, discounts, and scoping a Pilot.
 
-You bring your numbers against these targets to the Friday 1:1, in the 5 to 15 minute block (`reference/meetings.md`).
+You will go through this scorecard with the Head of Sales in your Friday 1:1 (`reference/meetings.md`).
 
-**Not in my notes:** meeting, pipeline, and revenue targets, your quota, and your commission plan. `reference/expectations.md` says the Head of Sales sets targets at launch, so ask the Head of Sales. Add them to `reference/question-log.md` for the daily check-in if you have not already.
+**Meeting, pipeline, and revenue targets** are not in my notes. `expectations.md` says the Head of Sales sets them at launch. Your quota and commission plan are also Head of Sales questions. If you have not been given your targets, add that to `reference/question-log.md` for the daily check-in.
+
+What have you sold before, and to whom? I can point you to the parts of the scorecard that matter most for your background.
 
 CRITERION: COVERAGE: a new hire needs a real answer here. PASS only if the reply gives a substantive, specific answer drawn from the folder (not mainly 'not in my notes'), and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

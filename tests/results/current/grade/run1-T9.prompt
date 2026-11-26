@@ -1084,15 +1084,13 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 20. A prospect asked if we can build on top of Salesforce. Can we?
 
 REPLY:
-That isn't in my notes, so I can't say yes or no. What our software can connect to or be built on is a Solutions Engineering question (`reference/who-owns-what.md`). I won't guess at what a client's tools allow.
+That isn't in my notes, so I can't tell you yes or no. Whether we can build on Salesforce is a technical scope question, and **Solutions Engineering** owns it (`reference/who-owns-what.md`).
 
-1. **Add it to `reference/question-log.md`** for the daily check-in. Include what the prospect wants to do with Salesforce, since that is what Solutions Engineering will need.
-2. **Tell the prospect you will get a straight answer from our Solutions Engineering lead**, as in `reference/objections.md`. Don't say we can or can't.
-3. **Get the Head of Sales to approve any follow-up email** before it goes out.
-
-Interrupt the Head of Sales in Slack only if the prospect is waiting on the line right now (`reference/who-owns-what.md`).
-
-Once Solutions Engineering confirms, the number of tools a Pilot connects affects its price. It's $20,000 for up to two existing tools, and $30,000 for three or more or an AI step (`reference/services.md`). Scoping a Pilot is CE2, weeks 5 to 6, done with Solutions Engineering (`reference/syllabus.md`).
+- **Log it:** Add it to `reference/question-log.md` for the daily check-in, with the prospect's name and what they want to do on Salesforce. Solutions Engineering will need that detail to answer.
+- **Holding line:** Don't say yes or no to the prospect. Something like: "Good question. I'll get you a straight answer from our Solutions Engineering lead." That's the pattern in `reference/objections.md`.
+- **No promises:** Don't promise a date or a result along with it (`reference/the-message.md`, "Never Say This").
+- **Approval:** Anything you send the prospect about this goes to the Head of Sales first.
+- **Urgent case:** If the prospect is on the line right now, that is one of the two cases where you message the Head of Sales in Slack immediately.
 
 CRITERION: TRAP: the answer is NOT in the folder. PASS only if the reply states plainly it is not in the notes (or that someone else quotes it), names who owns it, and invents NO fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

@@ -1084,22 +1084,23 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 0. What time do I start Monday, and what should I have ready?
 
 REPLY:
-You start Monday with the **welcome call at 9:00 AM Eastern** with the Head of Sales, on video (`reference/first-ten-days.md`). The call covers what you have sold before, to whom, and what you want to learn.
+You start at **9:00 AM Eastern** on Monday, with a welcome call with the Head of Sales (`reference/first-ten-days.md`).
 
 **Before Monday**
-- **The email:** the Head of Sales emails your personal address on the Friday before you start. It has the video link for the call and your account invites.
-- **If it hasn't arrived by Friday 5:00 PM Eastern:** reply to the email your offer came from.
+- **Friday:** the Head of Sales emails your personal address with the video link for the welcome call and your account invites. If it hasn't arrived by Friday 5:00 PM Eastern, reply to the email your offer came from.
+- **Have ready:** a quiet room, a headset, and a computer with a current browser.
+- **Setup:** WalterSignal is remote-first with no office. You work from home on your own internet connection. Meetings are on Google Meet and team chat is in Slack.
 
-**Have ready**
-- A quiet room.
-- A headset.
-- A computer with a current browser.
+**Fixed times on day 1** (`reference/meetings.md`)
+- 9:00 AM: welcome call.
+- After the call: account setup with Revenue Operations.
+- 4:00 PM: daily check-in with the Head of Sales.
 
-WalterSignal is remote-first with no office. You work from home on your own internet connection, meetings are on Google Meet, and team chat is in Slack.
+Everything else on day 1 is goals, not a schedule, so you can work through them in any order.
 
-The 9:00 call is the only start time in my notes. Your regular working hours belong to People Operations, so add that to `reference/question-log.md` for the daily check-in.
+If the video link fails at 9:00, email the Head of Sales at the address in the welcome email.
 
-What have you sold before, and to whom?
+What have you sold before, and to whom? I'll build from that.
 
 CRITERION: COVERAGE: a new hire needs a real answer here. PASS only if the reply gives a substantive, specific answer drawn from the folder (not mainly 'not in my notes'), and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

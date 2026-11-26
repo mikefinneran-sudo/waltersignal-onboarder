@@ -1,43 +1,43 @@
-Brennan Mechanical shows all three phases, so it is the best story for showing how the work moves from Research to Validate to Build. Everything below is from `reference/case-study.md`.
+Brennan shows all three phases, so it is the story to use when you want to show the whole Research, Validate, Build path. It is in `reference/case-study.md`. Tell it as Brennan's story with Brennan's numbers.
 
-## The facts
+## The story in order
 
-**Client:** a 38-person heating, cooling, and plumbing contractor serving three counties. The owner is the decider and the office manager is the champion.
+**1. The client.** A 38-person heating, cooling, and plumbing contractor serving three counties. The owner was the decider and the office manager was the champion.
 
-**Problem:** quotes took two days because an estimator rebuilt each one from a spreadsheet price book and old jobs. Dispatch ran on a whiteboard. Every finished job was typed again into the accounting software.
+**2. The problem.**
+- Quotes took two days, because an estimator rebuilt each one from a spreadsheet price book and old jobs.
+- Dispatch ran on a whiteboard.
+- Every finished job was typed again into the accounting software.
+
+**3. The three phases.**
 
 | Phase | What happened | Length |
 |---|---|---|
-| **Discovery Sprint** | Interviews with the owner, office manager, two estimators, and a dispatcher. Quoting ranked first, dispatch second, and the accounting software was left alone. | 2 weeks |
+| **Discovery Sprint** | Interviews with the owner, office manager, two estimators, and a dispatcher. They ranked quoting first and dispatch second, and said to leave the accounting software alone. | 2 weeks |
 | **Pilot** | A quote builder that pulls the price book and past jobs and drafts each quote with an AI step. An estimator approves every quote before it goes out. The agreed number was time from request to quote sent. | 7 weeks |
-| **Build** | A dispatch board, a technician phone app for job notes and photos, and an automatic hand-off of finished jobs to the accounting software. Staff were trained by role. Delivered in three modules. | 5 months |
+| **Build** | A dispatch board, a technician phone app for job notes and photos, and an automatic hand-off of finished jobs to the accounting software. Staff were trained by role. | 5 months, in three modules |
 
-**Result (Brennan's numbers):**
-- The median time to send a quote fell from two business days to four hours during the Pilot.
+**4. The result (Brennan's numbers).**
+- Median time to send a quote fell from two business days to four hours during the Pilot.
 - After the Build, finished jobs stopped being typed twice.
 - Brennan now pays for the Standard Support Plan.
 
-## A two-minute telling
+**5. The point to land.** The Sprint said to leave the accounting software alone, and that saved Brennan money. WalterSignal recommends less when less is right. It also ties to the "AI is all hype" objection in `reference/objections.md`.
 
-> Brennan Mechanical is a 38-person heating, cooling, and plumbing company. Their quotes took two days, because an estimator rebuilt each one by hand from a spreadsheet price book. Dispatch was a whiteboard, and every finished job got typed again into the accounting software.
->
-> We started with a two-week Discovery Sprint. We talked to the owner, the office manager, two estimators, and a dispatcher, and ranked what to fix. Quoting came first, dispatch second. We told them to leave the accounting software alone, and that saved them money.
->
-> Then a seven-week Pilot: one workflow, quoting. It pulls their price book and past jobs and drafts each quote with an AI step, and an estimator approves every quote before it goes out. The number we agreed to measure was time from request to quote sent. For Brennan, the median went from two business days to four hours.
->
-> Only after they saw that did they move to the Build: a dispatch board, a phone app for technicians, and an automatic hand-off to accounting. Finished jobs stopped being typed twice. They own all of it, and they now have a monthly support plan with us.
+## Rules for telling it
 
-## Points to hit
+- Say "Brennan's quotes went from two days to four hours," never "you'll get quotes down to four hours." Never promise a prospect the same result (`reference/the-message.md`).
+- Keep the AI step in the story with the estimator approving every quote. Every AI step has a person approving it (`reference/services.md`).
+- Leave the dollar amounts out of the telling. The case study lists what Brennan paid, but Build prices are Internal and never said to a client (`reference/services.md`). If you are unsure whether any figure from the case study may be said aloud, add it to `reference/question-log.md` for the Head of Sales at the check-in.
+- You are not launched yet, so you quote no price to anyone until the Launch Gate on day 10.
+- Anything you send a prospect afterward goes to the Head of Sales first.
 
-1. **We recommend less when less is right.** The Sprint said to leave the accounting software alone.
-2. **Proof comes before the big commitment.** Brennan saw the four-hour number before funding the Build.
-3. **A person approves the AI step.** The estimator checks every quote.
-4. **Each phase stands on its own.** Brennan chose to continue. Harbor Dental, the other story, stopped after the Pilot and kept what was built (`reference/case-study.md`).
+## Two-minute shape
 
-## Rules while telling it
+1. Who they were and the problem (about 20 seconds).
+2. Sprint, Pilot, Build, one sentence each (about 50 seconds).
+3. The result, in Brennan's numbers (about 20 seconds).
+4. The "leave accounting alone" point (about 15 seconds).
+5. A close that ties back to the prospect's own problem (about 15 seconds).
 
-- **Brennan's result is Brennan's.** Say "Brennan's median quote time fell from two days to four hours." Never promise a prospect the same number (`reference/the-message.md`).
-- **Prices:** the case study lists what Brennan paid in each phase. You quote no price to anyone until the Launch Gate on day 10, so practice with the Head of Sales only. Build prices are Internal and never said to a client (`reference/services.md`), so I would keep Brennan's Build amount out of the telling. Confirm that in your role-play.
-- **Match the story to the prospect.** If the problem is not quoting or dispatch, check Harbor Dental in the same file.
-
-Telling a case study in two minutes is part of the module 6 milestone, and the Head of Sales signs it off (`reference/syllabus.md`). Say it aloud against a timer before your check-in.
+The day 8 goal in `reference/first-ten-days.md` is to tell one case study in two minutes. Say it out loud to the Head of Sales at the check-in, and time yourself.

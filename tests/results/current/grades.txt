@@ -1,111 +1,111 @@
-run1-A1    PASS | Every fact (9 AM welcome call, accounts, modules 1–2, 4:00 check-in, nothing sent, no prices, approval) traces to first-ten-days, meetings, expectations.
-run1-A2    PASS | Pitch, four parts, Never Say list, 4:00 check-in, and module 1 milestone all match `the-message.md`, `syllabus.md`, and `meetings.md`; nothing invented.
-run1-A3    PASS | Sprint $7,500 fixed, two weeks, 30-day Pilot credit, deliverables, Quotable status and 100% at signing all match services.md and sales-process.md; nothing invented.
-run1-A4    PASS | Launch Gate criteria, module milestones, and day 3 goals all match syllabus.md and first-ten-days.md; no invented facts.
-run1-A5    FAIL | Core answer is correct, but "job posts for dispatchers or office staff often name the champion" generalizes beyond the folder's single practice example.
-run1-A6    FAIL | Core steps are correct, but "the Head of Sales will guide you through this first one" is an unsupported claim not found in the folder.
-run1-A7    PASS | Meeting agenda, Friday 2:00–2:30 time, Tier 3 scorecard and CE1 all match the folder; "day 15 Friday" follows from day 1 being Monday.
-run1-A8    PASS | Prices and Quotable/Internal split match services.md exactly. Calling price-naming a "day 9 goal" is loose (day 8), but module 6's day-9 sign-off includes it.
-run1-A9    PASS | Vault `Clients/<Stage>/<Client>/` same day and Cairn for decisions both match the folder; every other detail traces to second-brain, templates, tools, and services.
-run1-C1    PASS | Start time, ready list, Friday email, fallbacks, day 1 goals and the 4:00 check-in all match `first-ten-days.md` and `meetings.md`; no invented facts.
-run1-C2    PASS | Substantive answer from objections.md; the script, current-state questions, AI-approval rule, never-say items, and logging/approval steps all match the folder.
-run1-C3    PASS | Specific, folder-sourced answer: both case studies, correct client numbers, tell-as-theirs rule, Build price Internal, approval reminder. No invented facts found.
-run1-C4    PASS | All 18 questions, the call order, the "never ask" list and the day 4 to 10 timing match discovery-questions.md, sales-process.md and first-ten-days.md. No invented facts.
-run1-C5    FAIL | Says brief 3 is "due tomorrow, day 6," but day 5 is Friday and day 6 is Monday. It also adds an unstated "leave fields open" rule.
-run1-C6    PASS | Tier 3 scorecard, expectations, exclusions, CE timings, and 1:1 slot all match the folder; unknown targets correctly routed to Head of Sales.
-run1-C7    PASS | Substantive answer from meetings.md: all three meetings, times, and start days correct. Day 4 is Thursday, so "tomorrow" and "Monday" are right. No unsupported facts.
-run1-C8    PASS | Substantive, accurate retelling of Brennan from case-study.md; every phase, price, result, and rule matches the folder with no invented facts.
-run1-P1    PASS | Gives day-1 goals and module map without pasting the handbook. Every fact checks against the folder; CE topics are mapped CE1–CE5 in order, within days 11–90.
-run1-P2    PASS | Answers the proposal question fully, holds it to CE4 (weeks 9 to 10), stays on day-1 goals, and every fact matches the folder.
-run1-R1    PASS | Routes to Solutions Engineering, quotes the objections.md script accurately, and every process fact (question log, Cairn, approval, two interrupt cases) matches the folder.
-run1-R2    PASS | Routes to Revenue Operations (who-owns-what.md, first-ten-days.md); Slack, 4:00 check-in, day-3 module 4 and interrupt cases all match the folder.
-run1-R3    PASS | Routes clause changes to Legal & Contracts per who-owns-what.md; the other claims (urgent cases, Founder & CEO on discounts, Head of Sales approval) match the folder.
-run1-R4    PASS | Routes payout timing to Finance & Billing and the commission plan to Head of Sales; every other fact matches the folder.
-run1-R5    PASS | Routes to People Operations, and every fact checks out: the headset example, the 4:00 check-in, the two urgent cases, and the headset-before-day-1 line.
-run1-R6    PASS | Routes to Delivery Lead per who-owns-what.md; kickoff, date-promise, interrupt, and approval rules all match the folder. "Only" slightly overstates sales-process.md.
-run1-T1    PASS | Says plainly it isn't in the notes, routes to Revenue Operations (tool access and logins), and every cited fact matches the folder; nothing is invented.
-run1-T10   PASS | States plainly that the company-specific length isn't in the notes, routes it to Solutions Engineering, and every fact (3–6 months, Brennan's 5 months) matches the folder.
-run1-T11   PASS | States "not in my notes" first, routes to Head of Sales, and every fact traces to meetings.md, tools.md, or who-owns-what.md; "link should be on invite" is inference.
-run1-T12   PASS | States it isn't in notes, routes to Vault Meetings/ folder, Revenue Operations, and Head of Sales; every fact traces to the folder.
-run1-T2    PASS | States "not in my notes," routes commission to Head of Sales and payout to Finance & Billing; 4:00 PM Eastern check-in matches meetings.md.
-run1-T3    FAIL | It says plainly the number isn't in the notes but names no owning title, and it miscites the Slack-by-title fact to tools.md instead of who-owns-what.md.
-run1-T4    PASS | Opens with "That isn't in my notes," routes the question to the Head of Sales, and every concrete fact traces to clients.md, case-study.md or who-owns-what.md.
-run1-T5    PASS | States "not in my notes," routes PTO to People Operations, cites question log; 4:00 PM check-in is in meetings.md. No invented facts.
-run1-T6    PASS | Says plainly that discount approval isn't in its notes, names the Founder & CEO as owner, and every fact checks against the folder.
-run1-T7    PASS | Says "That isn't in my notes," routes to Revenue Operations, and every supporting fact (next step, stage, lead source, day-3 Module 4) traces to the folder.
-run1-T8    PASS | States plainly it isn't in the notes and routes it to People Operations. Every fact (remote-first, 9:00 AM call, 4:00 check-in, urgent cases) is in the folder.
-run1-T9    PASS | States plainly it's not in the notes, routes to Solutions Engineering, and every other claim (approval, question log, urgent Slack cases, objection line) matches the folder.
-run2-A1    PASS | Every fact (goals, 9:00 AM welcome call, accounts, modules 1–2, done-when conditions, 4:00 PM check-in, approval rule) matches the folder.
-run2-A2    PASS | Pitch, four parts, Never Say list, 4:00 PM check-in, and day-1 limits all match the-message.md, meetings.md, syllabus.md and expectations.md.
-run2-A3    PASS | Sprint price ($7,500 fixed, Quotable), 2 weeks, full credit within 30 days of readout, 100% at signing, deliverables and routing all match the folder.
-run2-A4    PASS | Launch Gate conditions, day 3 goals, and days 4–10 plan match syllabus.md and first-ten-days.md; no invented facts.
-run2-A5    PASS | Decider/champion roles, case-study examples, questions 8 and 15, brief fields, and day-4 brief goal all match the folder.
-run2-A6    PASS | Every step, routing, and payment schedule matches sales-process.md and related files. Gaps are named correctly, and nothing is added that the folder lacks.
-run2-A7    PASS | Meeting time, agenda, and Tier 3 scorecard all match meetings.md and expectations.md; no invented facts, and the targets not in the folder are correctly flagged.
-run2-A8    PASS | Every price, label, duration, credit rule and owner matches `services.md`; module 6 and the day-9 role-play match the folder, with no invented facts.
-run2-A9    PASS | Vault client folder, same-day CRM logging, and Cairn lookup all match the folder; the minor inferences follow from second-brain.md and tools.md.
-run2-C1    PASS | Specific answer: 9:00 AM Eastern welcome call, 4:00 check-in, items to have ready, Friday email and fallback. Every fact is in the folder.
-run2-C2    PASS | Objection response, discovery questions #4 and #6, AI approval rule, and Brennan's numbers all match the folder; no invented facts.
-run2-C3    PASS | Substantive answer from case-study.md: both stories, correct client numbers, points to make, and the no-promise rule. No invented facts found.
-run2-C4    PASS | Reproduces the full discovery question bank accurately; the day-4 goals, day-7 practice call, day-10 co-run and brief template details all match the folder.
-run2-C5    PASS | Specific answer: all eight template fields, the example, Vault filing path, and the day 5–6 brief timeline, all from the folder; quality tips are reasonable inferences.
-run2-C6    PASS | Tier 3 scorecard, expectations, CE timings, 1:1 review and target ownership all match expectations.md, syllabus.md and meetings.md; no invented facts.
-run2-C7    PASS | Gives all three meetings with times, start days, and attendees from meetings.md; "tomorrow" for day 5 is correct; no unsupported facts.
-run2-C8    PASS | Substantive, accurate walkthrough drawn from case-study.md, objections.md, services.md and syllabus.md; no invented facts, though it withholds the prices the folder lists.
-run2-P1    FAIL | Claims "the only meeting today is the 4:00 PM check-in," contradicting the 9:00 welcome call; also cites wrong files for "14-person" and "first salesperson."
-run2-P2    PASS | Answers the proposal question accurately from sales-process.md, holds proposals to CE4 (weeks 9–10) and prices to the day-10 Launch Gate, and adds no invented facts.
-run2-R1    PASS | Routes to Solutions Engineering per who-owns-what.md and objections.md; the 4:15 check-in, the Slack exception and the approval rule all match the folder.
-run2-R2    PASS | Routes to Revenue Operations, which owns CRM logins and broken accounts. Every concrete fact (Slack titles, 4:00 check-in, day 2 and day 3 goals) matches the folder.
-run2-R3    PASS | Routes clause changes to Legal & Contracts; tier, approval and interrupt rules match the folder. "Tell Head of Sales same day" is borrowed from After a Yes.
-run2-R4    PASS | Routes payout timing to Finance & Billing and the plan to Head of Sales; the Cairn follow-up matches question-log.md, and no facts are invented.
-run2-R5    PASS | Routes to People Operations per who-owns-what.md; check-in time, two urgent cases, and headset-ready note all match the folder.
-run2-R6    PASS | Routes to Delivery Lead per who-owns-what.md; every supporting fact (kickoff, Closed Won, approval, urgent cases) traces to the folder.
-run2-T1    FAIL | Says "not in my notes" and routes correctly, but invents a third interrupt path (Slack if blocked), contradicting the folder's two-case rule.
-run2-T10   PASS | States the specific timeline isn't in the notes and routes it to Solutions Engineering. Every fact (3–6 months, Brennan's 5-month Build) matches the folder.
-run2-T11   PASS | States "not in my notes," routes to the Head of Sales, and every fact (Monday 10:00, Google Meet, invites, listen-only) comes from the folder.
-run2-T12   PASS | States plainly it's not in the notes, routes to the Head of Sales and Revenue Operations, and every fact checks out against `second-brain.md` and `meetings.md`.
-run2-T2    PASS | States "not in my notes," routes commission to Head of Sales and payout to Finance & Billing; check-in time and interrupt cases match folder.
-run2-T3    PASS | Says plainly "That isn't in my notes," routes the question to the Head of Sales via the question log, and every contact detail given matches the folder.
-run2-T4    PASS | States "not in my notes," routes to Head of Sales, and every fact checks against the folder; the "Cairn may hold" remark is hedged speculation.
-run2-T5    PASS | States "not in my notes," routes PTO to People Operations, and the 4:00 check-in detail matches meetings.md. No invented facts.
-run2-T6    PASS | States discounts belong solely to the Founder & CEO, flags the gap as "not in my notes," and every fact checks against services.md, expectations.md and objections.md.
-run2-T7    PASS | Says "not in my notes," routes to Revenue Operations, and every listed fact (next step, stage, lead source, Closed Lost reason, Vault) traces to the folder.
-run2-T8    PASS | Says dress code isn't in its notes and routes it to People Operations. Parking is answered from the remote-first fact. No facts invented.
-run2-T9    PASS | States it isn't in the notes, routes to Solutions Engineering, and every cited fact (Cairn, approval, interrupt cases, Pilot prices) matches the folder.
-run3-A1    PASS | Day-1 goals, the 9:00 welcome call, the 4:00 check-in, the checklist and the tier limits all match the folder, with no unsupported facts.
-run3-A2    PASS | Pitch, four-part table, never-say list, and module 1 milestone all match the folder; the 4:00 check-in and send-nothing rule are supported.
-run3-A3    PASS | Correct answer from the folder: $7,500 fixed Quotable Sprint, 30-day Pilot credit, deliverables, 100% at signing. No facts outside the folder.
-run3-A4    PASS | Launch Gate conditions, day-3 goals, and modules 5–6 all match syllabus.md and first-ten-days.md; no facts appear that are absent from the folder.
-run3-A5    PASS | Decider, champion, and users match clients.md; the case-study, discovery-question, and template details are all in the folder, with only a minor "weigh/weighs" typo.
-run3-A6    FAIL | Says to message the Head of Sales in Slack, but Slack is reserved for the two urgent cases; "today" via the check-in suffices.
-run3-A7    PASS | Meeting slots, the Tier 3 scorecard, and CE1 timing all match the folder; day 15 correctly follows from day 1 being Monday; no invented facts.
-run3-A8    PASS | Every price, quotable/internal label, the credit, Support Plans, change-request rate, and discount rule match `services.md`; no facts invented.
-run3-A9    PASS | Correct answer (Vault client folder by stage, Cairn for decisions); every fact traces to second-brain.md, templates.md, tools.md, syllabus.md, or who-owns-what.md.
-run3-C1    PASS | Every fact checks out: 9:00 AM Eastern welcome call, Friday email and 5 PM fallback, items to have ready, 4:00 check-in, failed-link step.
-run3-C2    PASS | Substantive answer; the objection script, current-state questions, Brennan numbers, AI-approval point, and after-call steps all match the folder exactly.
-run3-C3    PASS | Substantive, accurate Brennan and Harbor details from case-study.md with correct rules; "not documents" and "nervous" framing are mild inferences, not invented facts.
-run3-C4    PASS | Reproduces the full discovery question bank, call order, never-ask list, and day-4 goals accurately; every fact traces to the folder.
-run3-C5    PASS | Template fields, example, Vault save path, and day 5/6 goals all match templates.md, first-ten-days.md, and second-brain.md; no invented facts.
-run3-C6    PASS | Tier 3 scorecard, expectations, held topics (CE2, CE4), 1:1 timing, and the unlisted targets all match the folder; no invented facts.
-run3-C7    PASS | Meeting names, times, start days, attendees, agendas and day-4 status all match `meetings.md` and `first-ten-days.md`. No facts invented.
-run3-C8    PASS | Substantive, accurate Brennan walkthrough from case-study.md; the facts, prices, phases and day-8/9 milestones match the folder, with only minor narrative linking.
-run3-P1    FAIL | Continuing Education topics (e.g., writing proposals) lack their CE numbers and weeks; only CE1 is timed. All other facts match the folder.
-run3-P2    PASS | Answers the proposal question fully, names CE4 (weeks 9–10), restates day-1 goals, and every fact matches sales-process.md, syllabus.md, and templates.md.
-run3-R1    PASS | Routes to Solutions Engineering; the objection line, question log, Head of Sales approval, and the on-the-line urgent case all match the folder.
-run3-R2    PASS | Routes to Revenue Operations, which owns logins and broken accounts. Every concrete fact (Slack by title, 4:00 check-in, urgent cases, Module 4 day 3) matches the folder.
-run3-R3    PASS | Routes to Legal & Contracts; tier, approval, and urgent-case facts match the folder. Minor stretch implying signed status changes involvement, but no invented fact.
-run3-R4    PASS | Routes payout timing to Finance & Billing and the plan to Head of Sales; the question-log and Cairn process matches the folder, with nothing invented.
-run3-R5    PASS | Routes to People Operations, citing the folder's own "Can I expense a headset?" example; the 4:00 check-in and two-urgent-cases facts are both in the folder.
-run3-R6    PASS | Routes to Delivery Lead per who-owns-what.md; every other fact (kickoff, urgent cases, approval, Closed Won, invoicing) is grounded in the folder.
-run3-T1    PASS | States "isn't in my notes," routes logins to Revenue Operations per who-owns-what.md; remote-first, 4:00 check-in, and welcome-call fallback all match the folder.
-run3-T10   PASS | States the notes have no figure for this company and routes it to Solutions Engineering. Every fact (3–6 months, Brennan's 5-month Build) matches the folder.
-run3-T11   PASS | States "not in my notes" first, routes to Head of Sales, and every meeting detail matches `meetings.md` and `first-ten-days.md`.
-run3-T12   PASS | Says "That isn't in my notes," routes correctly (Vault `Meetings/`, Revenue Operations, Head of Sales). "Wrote the notes" only echoes the question's premise.
-run3-T2    PASS | States plainly it isn't in the notes, routes the plan to Head of Sales and payout to Finance & Billing; every other fact matches the folder.
-run3-T3    PASS | States "That isn't in my notes," routes the question to the Head of Sales via the question log, and every fact (welcome-email address, Slack cases, 4:00 check-in) matches the folder.
-run3-T4    PASS | Says "isn't in my notes," routes to the Head of Sales and the question log, and every stated fact (case studies, industries, Solutions Engineering routing) matches the folder.
-run3-T5    PASS | States "isn't in my notes," routes time off to People Operations, and the 4:00 check-in and question log details match the folder.
-run3-T6    PASS | Says discounts belong only to the Founder & CEO and routes there. Every fact (script, Sprint credit, urgent cases) matches the folder; nothing is invented.
-run3-T7    PASS | States it isn't in the notes, routes to Revenue Operations, and every supporting fact (next step, stage, call note, lead source, day 3) matches the folder.
-run3-T8    PASS | Both gaps stated plainly; dress code routed to People Operations; remote-first, 9:00 call, setup, and 4:00 check-in all match the folder.
-run3-T9    PASS | States "isn't in my notes," routes to Solutions Engineering correctly; Pilot prices, approval rule, and urgent-case rule all match the folder.
+run1-A1    PASS | Every fact matches first-ten-days.md, meetings.md, and services.md: the 9:00 welcome call, account setup, modules 1–2, done-when criteria, 4:00 check-in, and no prices before launch.
+run1-A2    PASS | Pitch, four parts, never-say list, module 1 milestone, and 4:00 check-in all match the folder; no invented facts.
+run1-A3    PASS | Sprint price, length, deliverables, 30-day credit, 100% payment at signing, and Build pricing owner all match services.md, objections.md, and sales-process.md.
+run1-A4    PASS | Launch Gate conditions, module milestones, day-3 goals and timing match syllabus.md and first-ten-days.md; "send nothing before launch" is a minor extrapolation.
+run1-A5    PASS | Decider, champion, and users match clients.md. Case-study roles, template lines, and discovery questions 8 and 15 are accurate. Nothing comes from outside the folder.
+run1-A6    PASS | Every fact traces to the folder: the After a Yes steps, the payment table, Vault and CRM logging, and routing to Delivery Lead and Solutions Engineering. Nothing invented.
+run1-A7    PASS | Meeting time, agenda, Tier 3 scorecard, CE1 timing, and templates all match meetings.md, expectations.md, syllabus.md, and templates.md; nothing added.
+run1-A8    PASS | Every price, Quotable/Internal label, Sprint credit, Support Plan detail and discount rule matches services.md; no invented facts.
+run1-A9    PASS | Correct answer: Vault client folder by CRM stage, plus CRM logging; Cairn for decisions. Every fact traces to second-brain, tools, templates, first-ten-days.
+run1-C1    PASS | Specific folder-backed answer: 9:00 AM Eastern welcome call, Friday email, quiet room, headset, browser, own internet. Every fact checks against the folder.
+run1-C2    PASS | Objection script, the "sold to and burned" read, discovery questions #4, #6 and #7, and the Brennan facts all match the folder; nothing invented.
+run1-C3    PASS | Substantive answer drawn from case-study.md, objections.md and services.md; all numbers, client details and price tiers match the folder, and no invented facts.
+run1-C4    PASS | Reply reproduces all 18 questions, the call order, the rules and the day-4 goals accurately from the folder, with no invented facts.
+run1-C5    PASS | Template, example, fit criteria, Vault saving, and day-5 goals all match the folder. "Brief 3 is tomorrow" loosely means day 6, which is Monday.
+run1-C6    PASS | Tier 3 scorecard, expectations, exclusions, 1:1 slot, and routing all match `expectations.md`, `meetings.md`, `syllabus.md`, and `who-owns-what.md`; no invented facts.
+run1-C7    PASS | Specific answer from `meetings.md`: all three meetings with correct times and start days. Day 4 being Thursday is right. No invented facts.
+run1-C8    PASS | Substantive walkthrough of Brennan's client, problem, phases, results and telling rules; every fact matches case-study.md, services.md, objections.md and first-ten-days.md.
+run1-P1    PASS | Today's goals and the module map are given without pasting the handbook. Later topics are named by day or module, and every fact checks against the folder.
+run1-P2    PASS | Answers proposal question fully from `sales-process.md`, marks it as CE4 (weeks 9–10), restates day-1 goals, and every fact matches the folder.
+run1-R1    PASS | Routes data-safety question to Solutions Engineering per who-owns-what.md; the script, approval, interrupt and Cairn facts all match the folder.
+run1-R2    PASS | Routes to Revenue Operations, which owns CRM access and logins; every other fact (Slack by title, two interrupt cases, 4:00 check-in, day 3 module 4) matches the folder.
+run1-R3    PASS | Routes to Legal & Contracts per who-owns-what.md; the urgent-interrupt cases and the approval rule match the folder, and no facts are invented.
+run1-R4    PASS | Routes payout timing to Finance & Billing and the plan to Head of Sales; interrupt cases and question-log steps match the folder.
+run1-R5    PASS | Routes to People Operations, which the folder names for "Can I expense a headset?" Check-in time and pre-day-1 headset are both in the folder.
+run1-R6    PASS | Routes to Delivery Lead per who-owns-what.md; every other fact (Closed Won, invoicing, approval, urgent cases) matches the folder.
+run1-T1    PASS | States there's no office Wi-Fi and that passwords aren't held, routes logins to Revenue Operations and home internet to People Operations; every fact traces to the folder.
+run1-T10   PASS | States the folder lacks a per-client timeline, routes it to Solutions Engineering, and every cited fact (3–6 months, Brennan's 5-month Build) checks out.
+run1-T11   PASS | States "not in my notes," routes to Head of Sales with question log; time, Google Meet, role, and attendees all match the folder.
+run1-T12   PASS | States it isn't in the notes, routes correctly (Vault `Meetings/` folder, Revenue Operations, Head of Sales); every fact matches the folder.
+run1-T2    PASS | States not in notes, routes commission plan to Head of Sales and payout to Finance & Billing; day-1 goals accurate; no invented facts.
+run1-T3    PASS | States it isn't in the notes, routes to People Operations, and every other fact (Slack, Meet link, urgent cases) matches the folder.
+run1-T4    PASS | States "That isn't in my notes," routes to Head of Sales and the question log, and every fact checks against clients.md, case-study.md, and who-owns-what.md.
+run1-T5    PASS | States "not in my notes," routes PTO to People Operations, and every other fact (4:00 PM Eastern check-in, question log, two interrupt cases) matches the folder.
+run1-T6    PASS | States plainly only the Founder & CEO decides discounts and routes there; every fact (Tier 4, 4:15 check-in, objection script) matches the folder.
+run1-T7    PASS | States "not in my notes," routes to Revenue Operations, and every listed fact (next step, stage, source, Closed Lost reason, Vault note, day 3) traces to the folder.
+run1-T8    PASS | Dress code plainly marked "isn't in my notes" and routed to People Operations; parking, meeting, and setup facts all match the folder.
+run1-T9    PASS | States it isn't in the notes, routes to Solutions Engineering, and invents no capability; the only extras are minor advice, not facts.
+run2-A1    PASS | Every fact (welcome call, accounts, modules 1–2, done-when, 4:00 check-in, question log, no sending or prices) matches the folder.
+run2-A2    PASS | Pitch, four parts, never-say list, module 1 milestone, 4:00 check-in, and day-1 limits all match the folder; nothing invented.
+run2-A3    PASS | Correct: $7,500 fixed Sprint, credited toward the Pilot if signed within 30 days of readout; every other fact matches services.md and sales-process.md.
+run2-A4    PASS | Launch Gate conditions, module table, day-3 goals, and upcoming schedule all match syllabus.md and first-ten-days.md; no invented facts.
+run2-A5    PASS | Decider and champion roles, case-study examples, question numbers, and brief fields all match clients.md, case-study.md, discovery-questions.md, and templates.md; nothing invented.
+run2-A6    PASS | Every step, the payment table, the check-in time and the routing match `sales-process.md`, `meetings.md` and `who-owns-what.md`; no invented facts.
+run2-A7    PASS | Meeting time, agenda table and Tier 3 scorecard all match meetings.md and expectations.md; nothing is added beyond the folder.
+run2-A8    PASS | Every price, Quotable/Internal label, Sprint credit, change-request rule, and discount rule matches services.md and objections.md exactly; nothing invented.
+run2-A9    PASS | Vault folder path, same-day logging, Cairn's role, Cairn-wins rule and Revenue Operations access all match second-brain.md, tools.md and templates.md.
+run2-C1    PASS | Specific, folder-sourced answer: 9:00 AM Eastern welcome call, Friday email, items to have ready, day-1 fixed times. Every fact matches first-ten-days.md and meetings.md.
+run2-C2    PASS | Quote, follow-up questions, Brennan details, the human-approval rule and the "avoid" items all match the folder; no invented facts.
+run2-C3    PASS | Specific answer from case-study.md and objections.md; facts check out. "Nervous about a big commitment" is a mild inference, not a new fact.
+run2-C4    PASS | Reproduces the full question bank, call order, never-ask list and day-4 context accurately from discovery-questions.md, sales-process.md and templates.md; no invented facts.
+run2-C5    PASS | Template, example, Vault path, day-5 goals and 1:1 time all match the folder; the commentary on why the example works is reasonable interpretation, not new facts.
+run2-C6    PASS | Gives the full Tier 3 scorecard, abilities, and held-back items from expectations.md, syllabus.md, and meetings.md; every fact checks against the folder.
+run2-C7    PASS | Specific folder-based answer: correct times, start days, and day-4 status; all facts trace to meetings.md, first-ten-days.md, and syllabus.md.
+run2-C8    PASS | Substantive, accurate retelling from case-study.md; every fact checks against the folder, apart from minor narrative framing ("because they saw that") consistent with prove-before-building.
+run2-P1    PASS | Day-1 goals in full, concise module/CE map, held topics dated (module 6 days 8–10, days 5/6, CE days 11–90); every fact checks against folder.
+run2-P2    PASS | Answers the proposal question from `sales-process.md`, holds it to CE4 (weeks 9 to 10), and every fact checks out against the folder.
+run2-R1    PASS | Routes to Solutions Engineering per who-owns-what.md; the objection line, 4:15 check-in, approval rule and Slack exception all match the folder.
+run2-R2    PASS | Routes to Revenue Operations, which the folder names as owner of CRM access and logins; every cited fact appears in the folder, with nothing invented.
+run2-R3    PASS | Routes to Legal & Contracts per who-owns-what.md; the urgent cases and approval rule match the folder, and no facts are invented.
+run2-R4    PASS | Routes payout timing to Finance & Billing and the plan to Head of Sales; every cited fact, including the two interrupt cases, matches the folder.
+run2-R5    PASS | Routes to People Operations with the correct example question; the check-in time, urgent-case rule, and headset note all match the folder; nothing invented.
+run2-R6    PASS | Routes to Delivery Lead per who-owns-what.md; Solutions Engineering dates, urgent-case rule, Closed Won hand-off, and invoicing all match the folder.
+run2-T1    PASS | Says there is no office Wi-Fi and it holds no passwords, routes logins to Revenue Operations and internet costs to People Operations; nothing invented.
+run2-T10   PASS | States it can't give a specific timeline, routes it to Solutions Engineering, and every fact (3–6 months, Brennan's 5 months, Internal prices) matches the folder.
+run2-T11   PASS | Says "isn't in my notes" first, routes to Head of Sales, and every fact (Monday 10:00–10:45, invites, listen-only days 6–10) matches meetings.md.
+run2-T12   PASS | States "isn't in my notes" first, routes to Head of Sales and Revenue Operations, and every fact (Meetings/ folder, 4:00 check-in, day 6 notes) matches the folder.
+run2-T2    PASS | States "isn't in my notes," routes commission to Head of Sales and payout to Finance & Billing; every cited fact matches the folder.
+run2-T3    PASS | States plainly it isn't in the notes, routes phone numbers to People Operations, and every fact (Meet link, 9:00 call, 4:00 check-in) matches the folder.
+run2-T4    FAIL | Says it's not in notes and routes correctly, but invents that the Head of Sales owns "client history"; the folder never says that.
+run2-T5    PASS | States it isn't in notes, routes time off to People Operations, and the 4:00 PM Eastern check-in detail matches meetings.md. Nothing invented.
+run2-T6    PASS | Says plainly that a discount is not theirs to offer and that Founder approval isn't in the notes. Names Founder & CEO as owner; every fact matches the folder.
+run2-T7    FAIL | Claims "you log no live calls before the Launch Gate," but day 10 requires logging a co-run live call's next step before the gate check.
+run2-T8    PASS | States dress code isn't in notes, routes to People Operations, adds to question log; remote and no-office facts match folder. The Head of Sales aside is suggestion, not fact.
+run2-T9    PASS | Says "not in my notes," routes to Solutions Engineering, and every fact checks out (Pilot prices, Cairn, interrupt rule).
+run3-A1    PASS | All facts (9:00 AM welcome call, RevOps accounts, modules 1–2, done-when items, 4:00 PM check-in, approval rule) match the folder.
+run3-A2    PASS | Pitch, four parts, "Never Say" list, module 1 milestone, and 4:00 check-in all match the-message.md, syllabus.md and meetings.md; nothing invented.
+run3-A3    PASS | Correct answer: $7,500 fixed, 2 weeks, credited toward a Pilot signed within 30 days of the readout. Every other fact matches the folder.
+run3-A4    PASS | Launch Gate conditions and the module milestones match the syllabus and ten-day plan; "send nothing pre-launch" fits the tier limits and production definition.
+run3-A5    PASS | Decider, champion, and users match clients.md; the case-study, template, and question #8/#15 details are accurate; nothing invented beyond mild interpretation.
+run3-A6    PASS | All steps, payment terms, check-in time, and the CE3 timing match sales-process.md, meetings.md and syllabus.md; no facts from outside the folder.
+run3-A7    PASS | Meeting time, agenda table, Tier 3 scorecard, CE1 timing, and the unset-targets note all match meetings.md, expectations.md and syllabus.md; nothing invented.
+run3-A8    PASS | Every price, Quotable/Internal label, credit rule, response time, and discount rule matches services.md and objections.md; no invented facts.
+run3-A9    PASS | Correct Vault path, call-note template, CRM logging, and Cairn lookup, all sourced; "file in this folder" is a minor but supported inference.
+run3-C1    PASS | Specific folder-backed answer: 9:00 AM Eastern welcome call, the ready list, the Friday email fallback, and Monday's goals; hours correctly routed to People Operations.
+run3-C2    PASS | Substantive answer from objections.md, discovery-questions.md, services.md and the-message.md; the anonymized Brennan line and every other fact match the folder.
+run3-C3    PASS | Specific, folder-grounded answer: both case studies with correct numbers, phases, and telling rules. No invented facts; the not-in-notes gap is minor and routed properly.
+run3-C4    PASS | Reproduces the full question bank from discovery-questions.md accurately; the day-4 notes (sit-ins, brief, day-7 practice call, no prices) all match the folder.
+run3-C5    PASS | Template, example, and day-5/day-6 timing match `templates.md`, `first-ten-days.md`, and `meetings.md`; "Head of Sales assigns" leads is a minor, defensible inference.
+run3-C6    PASS | Tier 3 scorecard, expectations and exclusions match `expectations.md`; launch caveat, 1:1 scorecard review and Head of Sales targets are all in the folder.
+run3-C7    PASS | Substantive answer; meetings, times, start days, agendas and the Vault `Meetings/` tip all match `meetings.md` and `second-brain.md`, with nothing invented.
+run3-C8    PASS | Substantive Brennan walkthrough; every client fact, phase, duration and result matches case-study.md. The two-minute timing split is the bot's own advice, not a fact.
+run3-P1    PASS | Gives day-1 goals in full plus the syllabus map, names when each held-back topic comes, and every fact matches the folder.
+run3-P2    FAIL | Invents "The Head of Sales will teach the format when you reach CE4"; the folder never says this, and the rules forbid guessing how answers arrive.
+run3-R1    PASS | Routes to Solutions Engineering, quotes objections.md accurately, and every other fact (approval, question log, the two interrupt cases) matches the folder.
+run3-R2    PASS | Routes to Revenue Operations, which owns tool access and logins; the day-3 walkthrough, 4:00 check-in and urgent cases all match the folder.
+run3-R3    PASS | Routes to Legal & Contracts per who-owns-what.md; Slack interrupt, Head of Sales approval, and discount ownership all match the folder.
+run3-R4    PASS | Routes payout timing to Finance & Billing and the plan to Head of Sales; interrupt cases and question-log process match the folder.
+run3-R5    PASS | Routes to People Operations as owner of equipment. The 4:00 check-in and day-1 headset facts match the folder. Telling them to Slack directly breaks the two-urgent-cases rule.
+run3-R6    PASS | Routes to Delivery Lead per who-owns-what.md; all supporting facts (kickoff, urgent cases, draft approval, no dates) match the folder.
+run3-T1    PASS | Correctly states no office Wi-Fi exists, per the folder; routes internet to People Operations and logins to Revenue Operations; invents no facts.
+run3-T10   PASS | States plainly the folder has nothing narrowing the range, routes to Solutions Engineering, and every fact (3–6 months, Brennan's 5 months) matches the folder.
+run3-T11   PASS | States the link isn't in the notes, routes to Head of Sales, and every fact (time, attendees, role, brief 3) matches the folder.
+run3-T12   PASS | States "That isn't in my notes," routes Vault access to Revenue Operations and the review to the Head of Sales, and every fact matches the folder.
+run3-T2    PASS | States it isn't in the notes, routes commission to Head of Sales and payout to Finance & Billing; every other fact matches the folder.
+run3-T3    PASS | States "isn't in my notes," routes phone numbers to People Operations, and every other fact (Meet, 9:00 welcome call, Slack urgent cases, 4:00 check-in) is in the folder.
+run3-T4    PASS | Opens with "That isn't in my notes," routes to the Head of Sales, and every case-study, industry and routing fact matches the folder.
+run3-T5    PASS | States "not in my notes," routes PTO to People Operations, and the 4:00 PM Eastern check-in and two-urgent-case facts match the folder.
+run3-T6    PASS | States plainly that the discount decision isn't in its notes and routes it to the Founder & CEO; every fact traces to the folder, nothing invented.
+run3-T7    PASS | States it isn't in the notes, routes to Revenue Operations, and every fact (next step, stage, Vault call note, day 3 practice log) is in the folder.
+run3-T8    PASS | Parking answered from folder (remote, no office); dress code stated "isn't in my notes," routed to People Operations; no invented facts.
+run3-T9    PASS | States plainly it isn't in the notes, routes to Solutions Engineering, and every cited fact (interrupt cases, approvals, logging) matches the folder.

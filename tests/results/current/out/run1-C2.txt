@@ -1,20 +1,16 @@
-Agree with them, then show you will not push AI where it does not belong. This is from `reference/objections.md`.
+Use the line from `reference/objections.md`:
 
-**Say:**
 > "A lot of it is. That's why we start by mapping how your work runs, and we'll tell you where AI doesn't belong. Brennan Mechanical's Sprint said to leave their accounting software alone."
 
-**Then ask a current-state question** from `reference/discovery-questions.md` to bring the conversation back to their work:
-- #4: "Walk me through what happens from the moment a customer calls you."
-- #6: "Where does a job fall through the cracks?"
-- #7: "Which tools do you pay for today, and which ones does anyone actually open?"
+Underneath, the prospect has probably been sold to and burned, so agree with them first and don't defend AI. Then move to their work with a current-state question from `reference/discovery-questions.md`:
 
-**Why it works:** they have likely been sold to and burned. You are agreeing with them, not defending AI.
+- "Walk me through what happens from the moment a customer calls you." (#4)
+- "Where does a job fall through the cracks?" (#6)
+- "Which tools do you pay for today, and which ones does anyone actually open?" (#7)
 
-**Supporting facts you can use** (all true of every engagement):
-- Brennan's Sprint recommended leaving their accounting software alone, and that saved them money (`reference/case-study.md`).
-- AI steps always have a person approving. Anything AI drafts is checked by the client's staff before it goes out (`reference/services.md`).
-- "If AI is not the right answer for a step, we will tell you" is on the Say This list (`reference/the-message.md`).
+If they push for proof, these are also in the folder:
+- **People stay in charge of AI steps.** Staff check anything AI drafts before it goes out (`reference/services.md`). At Brennan, an estimator approves every quote.
+- **Brennan's result is Brennan's.** Median time to send a quote fell from two business days to four hours during the Pilot (`reference/case-study.md`). Tell it as their result, never as a number the prospect will get (`reference/the-message.md`).
+- **Don't lead with the technology.** Stay on their work, not "AI agents" or tool names.
 
-**Avoid:**
-- Do not lead with the technology ("AI agents," "LLMs," tool names). Lead with their work.
-- If you tell the Brennan story, give it as Brennan's result. Never promise this prospect the same number.
+If you follow up in writing, the Head of Sales approves the draft before it goes out.

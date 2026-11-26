@@ -1084,18 +1084,16 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 25. The client said yes! What do I do now?
 
 REPLY:
-Congratulations. Here is what happens after a yes (`reference/sales-process.md`):
+Congratulations. The steps are in `reference/sales-process.md` ("After a Yes"):
 
-1. **Tell the Head of Sales today**, at the daily check-in (`reference/meetings.md`). If it can't wait for the check-in, that's still a Head of Sales question, but Slack-right-away is reserved for the two urgent cases in `reference/who-owns-what.md`.
-2. **Legal & Contracts sends the agreement.** It goes on its own, with nothing else attached. You don't write or change contract wording.
-3. **When the signed agreement comes back, move the deal to Closed Won** in the CRM. Finance & Billing then sends the first invoice.
-4. **The Delivery Lead runs the kickoff.** You stay the client's contact for anything new they want to buy.
+1. **Tell the Head of Sales today**, at the daily check-in (`reference/meetings.md`).
+2. **Save your records today.** Put the call note in the client's Vault folder, and log the next step in the CRM with a date, an owner, and what happens (`reference/templates.md`).
+3. **Legal & Contracts sends the agreement.** It goes on its own, with nothing else attached. Contract wording questions go to Legal & Contracts.
+4. **When the signed agreement comes back, move the deal to Closed Won** in the CRM. Move the client's Vault folder to match (`reference/second-brain.md`).
+5. **Finance & Billing sends the first invoice** once the deal is Closed Won.
+6. **The Delivery Lead runs the kickoff.** You stay the client's contact for anything new they want to buy.
 
-Also do these today:
-- Log the call's next step and stage in the CRM, and save the call note in the client's Vault folder (`reference/templates.md`). When the stage changes to Closed Won, move the client's Vault folder with it (`reference/second-brain.md`).
-- Send nothing to the client until the Head of Sales approves it, including a thank-you note.
-
-**What the client pays, by phase** (`reference/sales-process.md`):
+If the client asks when they pay, it depends on the phase they said yes to:
 
 | Phase | When the client pays |
 |---|---|
@@ -1104,13 +1102,9 @@ Also do these today:
 | Build | 50% at signing, the balance billed monthly over the Build |
 | Support Plan | Monthly, starting the month after go-live |
 
-If the client asks about kickoff dates or timelines, don't promise any. Timelines before signing are Solutions Engineering, and everything after signing is the Delivery Lead.
+Anything you write to the client, such as a thank-you or a "what happens next" note, goes to the Head of Sales for approval before you send it.
 
-How Legal & Contracts is told to send the agreement isn't in my notes. Add it to `reference/question-log.md` and ask the Head of Sales at today's check-in.
-
-Which phase did the client say yes to? The payment terms and the next steps above depend on it.
-
-The full hand-off, from Closed Won to kickoff, is Continuing Education CE3 (weeks 7 to 8). It's not expected of you yet, so this first one is done with the Head of Sales.
+When the project starts is not in my notes, and you should not promise a date to the client. That is a Delivery Lead question, and dates before signing come from Solutions Engineering. Add it to `reference/question-log.md` for the check-in.
 
 CRITERION: ANSWERABLE: PASS only if the reply gives the correct answer from the folder (not just 'ask someone') and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

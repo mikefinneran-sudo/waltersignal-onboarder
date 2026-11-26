@@ -1,1 +1,1 @@
-PASS | Every fact checks against meetings.md, expectations.md, and syllabus.md. Day 12 as Tuesday follows from the day-1-Monday rule. No invented facts.
+PASS | Meeting time, agenda, Tier 3 scorecard, CE1 timing, and templates all match meetings.md, expectations.md, syllabus.md, and templates.md; nothing added.

@@ -1,1 +1,1 @@
-You've hit your 5-hour limit · resets 3pm (America/Indianapolis)
+PASS | Tier 3 scorecard, expectations and exclusions match `expectations.md`; launch caveat, 1:1 scorecard review and Head of Sales targets are all in the folder.

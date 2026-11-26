@@ -1,6 +1,7 @@
-The payout date isn't in my notes, so I won't guess at one.
+That isn't in my notes, so I can't give you a payout date. The folder doesn't list one.
 
-- **When commission is paid:** this is a Finance & Billing question (`reference/who-owns-what.md`).
-- **How your commission is calculated:** the plan itself belongs to the Head of Sales. If you need to know what counts toward a payout, ask them.
+**Who to ask** (`reference/who-owns-what.md`):
+- **Finance & Billing** owns when commissions are paid. This is the title for your question.
+- **Head of Sales** owns your commission plan itself, meaning how it is calculated and what your targets are. Ask them if the question turns to how a payout was figured.
 
-Add the question to `reference/question-log.md` and bring it to the 4:15 daily check-in. It isn't one of the two urgent cases (a client waiting on the line, or something sent to a client by mistake), so it doesn't need a Slack interrupt. Once Finance & Billing answers, the answer gets stored in Cairn and the Head of Sales adds it to this folder.
+Add the question to `reference/question-log.md` and bring it to the daily check-in. It doesn't meet either of the two cases for interrupting someone in Slack (a client waiting on the line, or something sent to a client by mistake).

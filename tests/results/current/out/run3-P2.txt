@@ -1,23 +1,20 @@
-Writing proposals is Continuing Education CE4, in weeks 9 to 10, so it is not expected of you on day 1. Here is how it works (`reference/sales-process.md`).
+Proposals are Continuing Education CE4, weeks 9 to 10 (`reference/syllabus.md`). You are not expected to write one yet. Here is how they work (`reference/sales-process.md`).
 
 **What a proposal is:** the written offer for the next phase.
 
-| Type | Format | Price |
-|---|---|---|
-| Discovery Sprint | One page | Fixed $7,500 |
-| Pilot and Build | Three options: Good, Better, Best | Pilot prices come from `reference/services.md`. The Founder & CEO prices every Build. |
+| Phase | Proposal format |
+|---|---|
+| Discovery Sprint | One page, at the fixed $7,500 price |
+| Pilot and Build | Three options: Good, Better, Best |
 
 - **Good, Better, Best:** each step up adds real scope, such as another workflow, another connected tool, or a Support Plan. Best is the option you recommend.
 - **Language:** write it in the client's words, not technical language.
-- **Approval:** the Head of Sales approves every proposal before it is sent.
-- **CRM:** the deal moves from Leads to Proposals when the proposal is sent.
-- **Google Docs:** proposals that go to a client live there, once approved (`reference/tools.md`).
-- **CE4 milestone:** you draft a Good, Better, Best proposal for a real deal. The Head of Sales approves it and the Founder & CEO prices it (`reference/syllabus.md`).
+- **Pricing:** Pilot prices come from `reference/services.md`. The Founder & CEO prices every Build.
+- **Approval:** the Head of Sales approves every proposal before it is sent. That is true of anything that goes to a client, at every tier.
+- **CRM:** a deal moves from Leads to Proposals when the proposal is sent.
 
-A proposal template or layout isn't in my notes. `reference/templates.md` has only the research brief, call note, and follow-up email. Add it to `reference/question-log.md` for the Head of Sales at the daily check-in.
+**The CE4 milestone:** you draft a Good, Better, Best proposal for a real deal. The Head of Sales approves it and the Founder & CEO prices it. There is no proposal template in `reference/templates.md` yet. The Head of Sales will teach the format when you reach CE4.
 
-Until the Launch Gate on day 10, you quote no price to anyone, and nothing goes to a client without the Head of Sales approving it first.
+**Your first day:** the goals are the welcome call, account setup, module 1 (`reference/the-message.md`), and starting module 2 (`reference/clients.md`). You quote no prices and send nothing to anyone until the Launch Gate on day 10.
 
-Today's goals are the welcome call, your accounts, module 1 (`reference/the-message.md`), and starting module 2 (`reference/clients.md`).
-
-What have you sold before, and to whom?
+What have you sold before, and to whom? I can build on that as we go.

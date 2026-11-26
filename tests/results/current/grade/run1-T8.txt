@@ -1,1 +1,1 @@
-PASS | Dress code flagged "isn't in my notes," routed to People Operations; parking, remote, Meet, 9:00, and 4:00 facts all match the folder.
+PASS | Dress code plainly marked "isn't in my notes" and routed to People Operations; parking, meeting, and setup facts all match the folder.

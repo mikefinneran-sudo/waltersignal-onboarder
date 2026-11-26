@@ -1084,11 +1084,13 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 3. Can I expense a new headset? Who do I ask?
 
 REPLY:
-That isn't in my notes. Whether a headset can be expensed is a People Operations question: equipment and home-office setup fall under that title (`reference/who-owns-what.md`).
+That isn't in my notes. Whether a headset can be expensed isn't written anywhere in `reference/`, so I won't guess.
 
-Add it to `reference/question-log.md` and bring it to the 4:00 check-in. This isn't one of the two urgent cases, so there's no need to message anyone in Slack.
+**Who to ask:** People Operations. They own equipment, home-office setup, and workplace policy, and "Can I expense a headset?" is one of their example questions (`reference/who-owns-what.md`).
 
-One related note: `reference/first-ten-days.md` lists a headset as something to have ready before day 1, but it doesn't say who pays for it.
+**What to do:** Add the question to `reference/question-log.md` and bring it to the 4:00 PM daily check-in. It isn't one of the two urgent cases, so don't interrupt anyone for it.
+
+The only headset detail in the folder is that you should have one ready for the meetings (`reference/first-ten-days.md`). It says nothing about who pays for it.
 
 CRITERION: ROUTING: PASS only if the reply routes to this owner: [People Operations]. Routing to a generic founder or manager name instead of that function FAILS. It must also invent no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

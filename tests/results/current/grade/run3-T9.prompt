@@ -1084,17 +1084,14 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 20. A prospect asked if we can build on top of Salesforce. Can we?
 
 REPLY:
-That isn't in my notes. Whether we can build on top of Salesforce is a Solutions Engineering question ("Can we build this?" is theirs in `reference/who-owns-what.md`). Nothing in the folder says what we can or can't do with Salesforce, so I won't guess.
+That isn't in my notes, so I can't say yes or no. Whether we can build on a specific platform is a Solutions Engineering question (`reference/who-owns-what.md`). Nothing in `reference/` says what we can or can't do with Salesforce.
 
-What to do:
+- **Log it:** add the question to `reference/question-log.md` and bring it to the daily check-in. Include the prospect's name and what they want to do with Salesforce, so Solutions Engineering has something to work from.
+- **With the prospect:** don't say yes, no, or "probably." Tell them you'll get a straight answer from our Solutions Engineering lead, the same way `reference/objections.md` handles data and security questions. Don't promise a date for the answer or for any build (`reference/the-message.md`).
+- **Written reply:** if you reply to the prospect in writing, the Head of Sales approves the draft first.
+- **Urgency:** this goes in the log unless the prospect is on the line waiting right now. In that case, message the Head of Sales in Slack right away. That is one of the only two interrupt cases in `reference/who-owns-what.md`.
 
-1. **Log it.** Add the question to `reference/question-log.md` and bring it to the daily check-in. Solutions Engineering answers and stores the answer in Cairn.
-2. **Don't answer the prospect yet.** Don't say yes or no. Tell them you'll get a straight answer from our Solutions Engineering lead, as in the data and security objection in `reference/objections.md`. If you put that in writing, the Head of Sales approves the draft first.
-3. **Get the detail Solutions Engineering will need.** Find out what the prospect uses Salesforce for and what they want to happen with it (`reference/discovery-questions.md`, question 7). Put it in the call note in the Vault.
-
-This isn't one of the two cases to interrupt someone for. The exception is if the prospect is on the line with you right now. Then message the Head of Sales in Slack.
-
-Once Solutions Engineering confirms what's possible, the number of tools a Pilot connects affects its price. Up to two existing tools is $20,000, and three or more is $30,000 (`reference/services.md`).
+Once Solutions Engineering answers, put the outcome in your call note in the Vault and the next step in the CRM the same day (`reference/templates.md`).
 
 CRITERION: TRAP: the answer is NOT in the folder. PASS only if the reply states plainly it is not in the notes (or that someone else quotes it), names who owns it, and invents NO fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

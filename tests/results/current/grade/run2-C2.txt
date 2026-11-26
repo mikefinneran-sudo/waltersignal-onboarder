@@ -1,1 +1,1 @@
-PASS | Substantive answer; the objection script, questions #4 and #6, Brennan numbers, AI-approval rule and draft approval all match the folder.
+PASS | Quote, follow-up questions, Brennan details, the human-approval rule and the "avoid" items all match the folder; no invented facts.

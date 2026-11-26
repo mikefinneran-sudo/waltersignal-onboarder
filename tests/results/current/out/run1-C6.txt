@@ -1,6 +1,6 @@
-Day 12 is in Tier 3 (days 11 to 30, in production, done together). Your first month is measured against the scorecard in `reference/expectations.md`.
+You are on day 12, so Tier 3 applies (days 11 to 30, in production, done together). It assumes the Head of Sales has already said "launched" at your day-10 check-in. If not, Tier 2 still applies and the missing module is repeated (`reference/syllabus.md`).
 
-**Scorecard**
+**Your scorecard (`reference/expectations.md`)**
 
 | Measure | Target |
 |---|---|
@@ -14,16 +14,10 @@ Day 12 is in Tier 3 (days 11 to 30, in production, done together). Your first mo
 - Run live discovery calls with the Head of Sales on the line.
 - Quote the Quotable prices in `reference/services.md` when a client asks.
 - Draft follow-ups for the Head of Sales to approve before they go.
-- Present your own deals at the Monday pipeline review (`reference/meetings.md`).
-- Complete CE1. Its milestone: explain to a practice client what the Sprint delivers, why it comes first, and how the credit works (`reference/syllabus.md`).
+- Present your own deals at the Monday pipeline review: the stage, the next step, and its date (`reference/meetings.md`).
 
-**What is not expected yet**
-- Proposals (CE4, weeks 9 to 10).
-- Internal prices, discounts, and scoping a Pilot (CE2, weeks 5 to 6).
+**Not expected yet:** proposals, Internal prices, discounts, or scoping a Pilot.
 
-**What is not in my notes**
-Meeting, pipeline, and revenue targets are set by the Head of Sales at launch, and they are not in this folder. Quota and commission are also Head of Sales questions. Add them to `reference/question-log.md` for the daily check-in.
+**Where you are checked:** you bring these numbers against each target to the Friday 1:1, in the 5 to 15 minute slot (`reference/meetings.md`).
 
-I can't confirm you have passed the Launch Gate. Only the Head of Sales says "launched," and Tier 3 applies once you are.
-
-What have you sold before, and to whom? I can build on that for CE1.
+**Not in my notes:** meeting, pipeline, and revenue targets. `reference/expectations.md` says the Head of Sales sets them at launch, but the numbers are not in this folder. Quota and commission are also Head of Sales questions. Add all of these to `reference/question-log.md` for the daily check-in.

@@ -1,31 +1,36 @@
-You are launched when all three of these are true (`reference/syllabus.md`):
+You are launched at the Launch Gate, at the end of day 10 (`reference/syllabus.md`). All three of these must be true:
 
-1. Modules 1 to 6 are signed off by the Head of Sales.
+1. Modules 1 to 6 are signed off.
 2. You have co-run one live discovery call with the Head of Sales, and logged the next step in the CRM the same day.
-3. The Head of Sales says "launched" at the check-in. Nobody is launched early, and if the gate isn't met by day 10, the missing module is repeated.
+3. The Head of Sales says "launched" at the check-in.
 
-I can't see which modules are already signed off. Only the Head of Sales signs off a milestone, so confirm your status at today's check-in.
+Only the Head of Sales signs off a module or launches you. If a module is missing on day 10, it is repeated, and nobody is launched early.
 
-**Today (day 3):** module 4, where Revenue Operations walks you through the CRM, the Vault, and Cairn. Read `reference/tools.md`, `reference/second-brain.md`, and `reference/who-owns-what.md` (`reference/first-ten-days.md`). Today is done when:
-- A practice call is logged in the CRM with its call note in the Vault.
+**What is left, by module** (`reference/syllabus.md`, `reference/first-ten-days.md`):
+
+| # | Module | When | Milestone |
+|---|---|---|---|
+| 1 | The Pitch | Day 1 | 30-second pitch from memory with all four parts; name three things never to say |
+| 2 | Our Clients | Days 1 to 2 | Describe a good-fit client, decider, champion, and the four qualifying questions; sort five sample businesses |
+| 3 | The Work | Day 2 | Explain Research, Validate, Build using the Brennan Mechanical story |
+| 4 | Tools, Second Brain, Who Owns What | **Day 3 (today)** | See below |
+| 5 | The Discovery Call | Days 4 to 7 | Sit in on every discovery call the Head of Sales runs; write 3 research briefs; pass 1 practice call |
+| 6 | Prices, Proof, and Objections | Days 8 to 10 | Name every Quotable and Internal price; tell a case study in two minutes; handle five objections in a role-play |
+
+Day 10 itself is the co-run live discovery call, then the Launch Gate check at the check-in.
+
+**Today's goals (module 4):**
+
+- Revenue Operations walks you through the CRM, the Vault, and Cairn.
+- Read `reference/tools.md`, `reference/second-brain.md`, and `reference/who-owns-what.md`.
+
+Today is done when:
+- A practice call is logged in the CRM with its call note saved in the Vault.
 - You have found one decision in Cairn.
 - You can name the owning title for ten sample questions.
-- Modules 3 and 4 are signed off.
 
-**What remains after today:**
+Modules 3 and 4 are signed off at the check-in if those hold. If you are behind on any goal, say so at the 4:00 check-in. The Head of Sales moves the plan.
 
-| Day | Goal |
-|---|---|
-| 4 | Module 5 starts. Read `sales-process.md`, `discovery-questions.md`, and `templates.md`. Sit in on any discovery call the Head of Sales runs. Write research brief 1 of 3. |
-| 5 (Fri) | Research brief 2. First weekly 1:1. |
-| 6 (Mon) | Listen in on the pipeline review. Research brief 3. Know the four CRM stages. |
-| 7 | Practice discovery call with the Head of Sales playing the client. Module 5 signed off. |
-| 8 | Module 6: prices (Quotable vs. Internal) and telling one case study in two minutes. |
-| 9 | Module 6: `objections.md`, with a five-objection role-play. Module 6 signed off. |
-| 10 | Co-run one live discovery call and log the next step in the CRM the same day. The Launch Gate check happens at the check-in. |
+Until you are launched, you quote no price to anyone and send nothing to a client.
 
-Module 5 also requires that you sit in on every discovery call the Head of Sales runs.
-
-Until launch, you quote no price to anyone, and anything going to a client or prospect goes to the Head of Sales first. If you fall behind on a day's goals, say so at the check-in and the Head of Sales moves the plan.
-
-What have you sold before, and to whom? I can tie the next modules to that.
+What have you sold before, and to whom? I can build on that as we go.

@@ -1084,14 +1084,18 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 25. The client said yes! What do I do now?
 
 REPLY:
-Congratulations. Here is the sequence (`reference/sales-process.md`, "After a Yes"):
+Congratulations. Here is what happens next (`reference/sales-process.md`, "After a Yes"):
 
-1. **Tell the Head of Sales today**, at the daily check-in (`reference/meetings.md`). Save your call note in the client's Vault folder and log the next step in the CRM the same day (`reference/templates.md`).
-2. **Legal & Contracts sends the agreement.** It goes on its own, with nothing else attached. You do not send it.
-3. **When the signed agreement comes back, move the deal to Closed Won** in the CRM and move the client's Vault folder to match. Until then the deal stays where it is. Finance & Billing then sends the first invoice.
-4. **The Delivery Lead runs the kickoff.** You stay the client's contact for anything new they want to buy.
+1. **Tell the Head of Sales today**, at the daily check-in (4:15 to 4:30 Eastern).
+2. **Legal & Contracts sends the agreement.** You do not send it. It goes on its own, with nothing else attached.
+3. **Update your records the same day** (`reference/second-brain.md`, `reference/tools.md`):
+   - Save the call note in the client's Vault folder.
+   - Log the next step in the CRM.
+   - When the signed agreement comes back, move the deal to **Closed Won** in the CRM, and move the client's Vault folder to match.
+4. **Finance & Billing sends the first invoice** once the signed agreement is back.
+5. **The Delivery Lead runs the kickoff.** You stay the client's contact for anything new they want to buy.
 
-What the client pays depends on the phase they said yes to:
+What the client pays, and when, depends on the phase they said yes to:
 
 | Phase | When the client pays |
 |---|---|
@@ -1100,9 +1104,9 @@ What the client pays depends on the phase they said yes to:
 | Build | 50% at signing, the balance billed monthly over the Build |
 | Support Plan | Monthly, starting the month after go-live |
 
-- **Client messages:** anything you write to the client, even a thank-you, goes to the Head of Sales for approval first.
-- **Not in my notes:** exactly how Legal & Contracts is told to send the agreement. Ask the Head of Sales at the check-in and add it to `reference/question-log.md`.
-- **Held for later:** Support Plans and the full hand-off from Closed Won to kickoff are Continuing Education CE3, weeks 7 to 8 (`reference/syllabus.md`). They are not expected of you yet.
+Until the signed agreement is back, do not promise the client a start date or a kickoff date. Dates come from Solutions Engineering and the Delivery Lead. If the client asks to change any agreement wording, that is Legal & Contracts. Anything you write to the client in the meantime goes to the Head of Sales for approval first.
+
+Walking a deal from Closed Won to kickoff is Continuing Education CE3 (weeks 7 to 8), so you are not expected to know more than the steps above yet.
 
 CRITERION: ANSWERABLE: PASS only if the reply gives the correct answer from the folder (not just 'ask someone') and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

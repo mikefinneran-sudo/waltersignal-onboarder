@@ -1084,12 +1084,13 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 1. What's the Wi-Fi password?
 
 REPLY:
-There is no office Wi-Fi to log into. WalterSignal is remote-first with no office, so you work from home on your own internet connection (`reference/first-ten-days.md`, `reference/who-owns-what.md`). I also never hold passwords or login details for anything.
+There is no office Wi-Fi to join. WalterSignal is remote-first, so you work from home on your own internet connection, and all meetings are on Google Meet (`reference/first-ten-days.md`, `reference/who-owns-what.md`).
 
-- **Your home connection:** if you have a question about internet or home-office setup, such as whether it is covered, that is a People Operations question. It isn't in my notes, so add it to `reference/question-log.md` for the daily check-in.
-- **Tool logins:** if you meant account access, Revenue Operations sets up every account in `reference/tools.md` on day 1, after the 9:00 AM Eastern welcome call. If one doesn't work, ask Revenue Operations.
+If you meant a password for a work tool, I don't hold passwords or login details. Revenue Operations sets up every account in `reference/tools.md` on day 1, after the welcome call.
 
-Your day 1 goals are in `reference/first-ten-days.md`. What have you sold before, and to whom? I'll build from there.
+Whether the company covers home internet is not in my notes. That belongs to People Operations, so add it to `reference/question-log.md` for the daily check-in.
+
+What have you sold before, and to whom? I'll build on that as we go.
 
 CRITERION: TRAP: the answer is NOT in the folder. PASS only if the reply states plainly it is not in the notes (or that someone else quotes it), names who owns it, and invents NO fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

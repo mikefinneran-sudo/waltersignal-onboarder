@@ -1,1 +1,1 @@
-PASS | The reply correctly gives the $7,500 fixed two-week Sprint and the full credit toward a Pilot signed within 30 days of the readout; every other fact matches the folder.
+PASS | Correct: $7,500 fixed Sprint, credited toward the Pilot if signed within 30 days of readout; every other fact matches services.md and sales-process.md.

@@ -1,5 +1,5 @@
-That isn't in my notes. Whether a headset can be expensed is a policy question, and the folder only says that equipment and home-office setup belong to **People Operations** (`reference/who-owns-what.md`).
+That isn't in my notes: whether a headset can be expensed. Equipment and expense questions belong to **People Operations** (`reference/who-owns-what.md`, which lists "Can I expense a headset?" as an example of their questions).
 
-Add it to `reference/question-log.md` and bring it to the 4:00 check-in. If you need to ask People Operations directly, they are in Slack under their title.
+Add it to `reference/question-log.md` and bring it to the 4:00 PM check-in with the Head of Sales. Don't buy the headset before you have the answer.
 
-This is not one of the two cases that justify interrupting the Head of Sales (a client waiting on the line, or something sent to a client by mistake), so it waits for the check-in.
+`reference/first-ten-days.md` lists a headset as something to have ready before day 1, so if yours is failing, say so at the check-in too.

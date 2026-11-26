@@ -1,8 +1,8 @@
-TURN 1: PASS | Builds on copier background, gives day-one goals accurately, sets the no-contact limits, and asks a follow-up.
-TURN 2: PASS | Gives the pitch verbatim and all four parts from the-message.md; states the milestone and who signs off.
-TURN 3: FAIL | Silently drops one fit signal and only mentions not-fit cases, which are today's module-2 material.
-TURN 4: PASS | Correctly says there is no office Wi-Fi, gives no passwords, and routes internet costs to People Operations.
-TURN 5: PASS | Declines the handbook, gives today's goals and the module map, Launch Gate and CE timing.
-TURN 6: PASS | Forbids quoting before launch, explains the price only to the hire, and logs the missing referral process.
-TURN 7: PASS | Says plainly that quota isn't in the notes and routes it to Head of Sales and the question log.
-TURN 8: PASS | Gives the complete day-1 list with correct timings, the question-log items, and the approval reminder.
+TURN 1: PASS | Correct day-one goals, check-in, and approval rule from first-ten-days.md; builds on stated copier background.
+TURN 2: FAIL | Invents that the two-minute pitch belongs to module 5; the-message.md is module 1.
+TURN 3: PASS | Fit, roles, not-a-fit, and qualifying questions are accurate; one listed sign is omitted, a minor gap.
+TURN 4: PASS | No office, so no Wi-Fi; logins routed to Revenue Operations, internet costs to People Operations.
+TURN 5: PASS | Declines the full handbook, gives today's goals in full and the syllabus module map.
+TURN 6: FAIL | "Tell her you're still in training" contradicts objections.md: hand off to Head of Sales.
+TURN 7: PASS | Says not in notes, routes quota to Head of Sales, commission payout to Finance & Billing.
+TURN 8: PASS | Full day-one goals and checklist, accurate sign-off timing, and the question log compiled.

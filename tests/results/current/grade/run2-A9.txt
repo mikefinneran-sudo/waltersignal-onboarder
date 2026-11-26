@@ -1,1 +1,1 @@
-PASS | Vault path, same-day saving, template, CRM logging, Cairn lookup, "Cairn wins," and Revenue Operations access all match the folder; nothing invented.
+PASS | Vault folder path, same-day logging, Cairn's role, Cairn-wins rule and Revenue Operations access all match second-brain.md, tools.md and templates.md.

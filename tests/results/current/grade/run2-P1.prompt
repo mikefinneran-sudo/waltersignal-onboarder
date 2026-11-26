@@ -1084,50 +1084,41 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 1. Tell me everything I need to know about this job.
 
 REPLY:
-You don't need everything today. Today has three goals, and below them is the map of the rest.
+Today has three goals and one finish line. The rest of the job is a map you don't need to hold yet.
 
-## What WalterSignal Is
+## Today (Day 1, `reference/first-ten-days.md`)
 
-WalterSignal is a 14-person software and AI consultancy. It does client work only: custom operations software and AI automation for established businesses of roughly 10 to 250 employees. It sells no products and no subscriptions. You are its first salesperson, and the team is remote-first on US Eastern time (`reference/first-ten-days.md`).
+1. **Welcome call** with the Head of Sales at 9:00 AM Eastern, on Google Meet. Expect to talk about what you have sold before, to whom, and what you want to learn.
+2. **Accounts.** Revenue Operations sets up every tool in `reference/tools.md`. If one doesn't work, it's a Revenue Operations question.
+3. **Training.**
+   - **Module 1, the pitch:** read `reference/the-message.md`.
+   - **Module 2, our clients:** start `reference/clients.md`.
 
-## Today's Goals (`reference/first-ten-days.md`)
+**The day is done when:**
+- Every account works.
+- You can say the 30-second pitch without notes at the 4:00 PM Eastern check-in.
+- Your question list is started and was reviewed at that check-in. Unanswered questions go in `reference/question-log.md`.
 
-1. **Welcome call** with the Head of Sales at 9:00 AM Eastern. They will ask what you have sold before, to whom, and what you want to learn.
-2. **Accounts:** Revenue Operations sets up every tool in `reference/tools.md`.
-3. **Module 1, the pitch:** read `reference/the-message.md`, then start module 2 by reading `reference/clients.md`.
+**Also today:** you can describe a good-fit client, and the decider and champion inside one. Send nothing to anyone. Anything that goes to a client or prospect is approved by the Head of Sales first, at every tier.
 
-**Day 1 is done when:**
-- Every account in `reference/tools.md` works.
-- You can say the 30-second pitch at the 4:00 PM check-in.
-- Your question list is started (`reference/question-log.md`) and was reviewed at that check-in.
-- You can describe a good-fit client and the decider and champion inside one.
-- You know that anything going to a client goes to the Head of Sales first.
+## The Map
 
-**Not expected today** (`reference/expectations.md`): pitching anyone outside the company, quoting any price, contacting any prospect, or sending anything.
-
-## The Map: What Comes When (`reference/syllabus.md`)
-
-Each module ends in a milestone that only the Head of Sales signs off, at the daily check-in.
-
-| # | Module | When |
+| When | What | Source |
 |---|---|---|
-| 1 | The Pitch | Day 1 |
-| 2 | Our Clients | Days 1 to 2 |
-| 3 | The Work (phases, case studies) | Day 2 |
-| 4 | Tools, the Second Brain, Who Owns What | Day 3 |
-| 5 | The Discovery Call | Days 4 to 7 |
-| 6 | Prices, Proof, and Objections | Days 8 to 10 |
+| Days 1 to 10 | **Initial Training**, six modules: pitch, clients, the work, tools and who owns what, the discovery call, prices/proof/objections | `reference/syllabus.md` |
+| End of day 10 | **Launch Gate:** all six modules signed off, one live call co-run, and the Head of Sales says "launched" | `reference/syllabus.md` |
+| Days 11 to 90 | **Continuing Education** CE1 to CE5, one topic about every two weeks, while working live deals | `reference/syllabus.md` |
+| Day 90 | Review of every milestone, your scorecards, the CRM, and your deals | `reference/syllabus.md` |
 
-- **Launch Gate, end of day 10:** modules 1 to 6 signed off, one live discovery call co-run with the Head of Sales, and the Head of Sales says "launched." Until then, you quote no price to anyone.
-- **Days 11 to 90:** Continuing Education CE1 to CE5, about one topic every two weeks, then the 90-day review.
+Only the Head of Sales signs off a milestone. A module counts when it is signed off, not when you've read it.
 
-## Meetings
+**Meetings:** only the daily check-in applies today. The Friday 1:1 starts day 5 and the Monday pipeline review starts day 6 (`reference/meetings.md`).
 
-Only the Daily Check-In applies today, 4:00 to 4:30 PM Eastern (`reference/meetings.md`). The Friday 1:1 starts day 5 and the Monday pipeline review starts day 6.
+**Two rules to hold from the start:**
+- You quote no price to anyone, including friends and family, until you pass the Launch Gate. Prices are module 6, days 8 to 10.
+- Pay, commission, quota, benefits, and time off aren't in my notes. Add those to the question log for your check-in. Commission and quota go to the Head of Sales, and the rest of that list goes to People Operations (`reference/who-owns-what.md`).
 
-## Two Questions for You
-
-What have you sold before, and to whom? I'll build on that rather than teach you how to sell.
+What have you sold before, and to whom? I'll build from that rather than teach you how to sell.
 
 CRITERION: PACING: PASS only if the reply answers what was asked, does not dump later material or paste the handbook, names the day or module when each held-back topic comes, and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

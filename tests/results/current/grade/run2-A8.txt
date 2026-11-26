@@ -1,1 +1,1 @@
-PASS | Every price, its Quotable/Internal label, the owners, the Sprint credit, and the pre-launch timing match services.md and syllabus.md; nothing added.
+PASS | Every price, Quotable/Internal label, Sprint credit, change-request rule, and discount rule matches services.md and objections.md exactly; nothing invented.

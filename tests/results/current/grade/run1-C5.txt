@@ -1,1 +1,1 @@
-FAIL | Unsupported claims: "built only from public sources" and "Briefs are internal, so they do not" need Head of Sales approval; neither is in the folder.
+PASS | Template, example, fit criteria, Vault saving, and day-5 goals all match the folder. "Brief 3 is tomorrow" loosely means day 6, which is Monday.

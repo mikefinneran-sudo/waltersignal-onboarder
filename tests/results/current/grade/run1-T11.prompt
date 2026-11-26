@@ -1084,13 +1084,12 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 6. What's the video link for the pipeline review?
 
 REPLY:
-That isn't in my notes. The folder holds no video links. The Head of Sales sends the calendar invites for all recurring meetings (`reference/meetings.md`), so this is a Head of Sales question. Add it to `reference/question-log.md` for the daily check-in.
+That isn't in my notes. I don't hold any meeting links. The Head of Sales owns the pipeline review and sends the calendar invites (`reference/meetings.md`), so the link is a Head of Sales question. Add it to `reference/question-log.md` for the daily check-in.
 
-What the folder does say about today's meeting (`reference/meetings.md`):
+What I do have on today's review (`reference/meetings.md`):
 
-- **When:** Mondays, 10:00 to 10:45 AM Eastern. Day 6 is the first one.
-- **Where:** video, on Google Meet (`reference/tools.md`).
-- **Your role:** listen and take notes. You do not present until you launch.
+- **When:** Mondays, 10:00 to 10:45 Eastern, on Google Meet.
+- **Your role:** listen and take notes. You don't present until after the Launch Gate.
 - **Who is there:** the Head of Sales (who runs it), Revenue Operations, Solutions Engineering, and the Delivery Lead.
 
 CRITERION: TRAP: the answer is NOT in the folder. PASS only if the reply states plainly it is not in the notes (or that someone else quotes it), names who owns it, and invents NO fact absent from the folder.

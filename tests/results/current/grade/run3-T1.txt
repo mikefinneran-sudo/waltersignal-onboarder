@@ -1,1 +1,1 @@
-You've hit your 5-hour limit · resets 3pm (America/Indianapolis)
+PASS | Correctly states no office Wi-Fi exists, per the folder; routes internet to People Operations and logins to Revenue Operations; invents no facts.

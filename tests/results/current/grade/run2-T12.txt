@@ -1,1 +1,1 @@
-PASS | States it isn't in the notes, routes to Vault `Meetings/` and Revenue Operations. Facts check out; "Head of Sales owns the notes" is a mild stretch.
+PASS | States "isn't in my notes" first, routes to Head of Sales and Revenue Operations, and every fact (Meetings/ folder, 4:00 check-in, day 6 notes) matches the folder.

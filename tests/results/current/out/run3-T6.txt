@@ -1,9 +1,9 @@
-No. You never offer, hint at, or agree to a discount, at any tier. Only the Founder & CEO decides discounts (`reference/services.md`, `reference/who-owns-what.md`). That holds on day 40 (`reference/expectations.md` lists discounts as not yours through day 90).
+No. You never offer, hint at, or agree to a discount, at any tier. Only the Founder & CEO decides discounts (`reference/services.md`, `reference/the-message.md`). On day 40 you are in Tier 4, and `reference/expectations.md` still lists discounts as not yours.
 
-What to do:
+What to do this week:
 
-- **If the client asks for a lower price:** say "Let me take that to our Founder." Don't suggest a number or hint that one is possible (`reference/objections.md`, "Can You Do It Cheaper?").
-- **Get the question to the owner:** add it to `reference/question-log.md` and bring it to today's daily check-in with the Head of Sales. Messaging the Head of Sales in Slack right away is only for two cases: a client is waiting on the line, or something went to a client by mistake. A deal you'd like to close this week is not one of them.
-- **Before anything goes to the client:** the Head of Sales approves it first, including any follow-up about price.
+- **With the client:** quote only the Quotable prices in `reference/services.md`. If they ask for a lower price, say "Let me take that to our Founder," and don't signal that a discount is possible (`reference/objections.md`).
+- **Inside the company:** the Founder & CEO owns the decision. Put the request on your question list and bring it to the daily check-in with the Head of Sales (`reference/who-owns-what.md`). Interrupt the Head of Sales in Slack only if a client is waiting on the line or something went to a client by mistake.
+- **Anything in writing:** the Head of Sales approves every draft before it goes to a client. Proposals also go to the Founder & CEO for pricing.
 
-The price list in `reference/services.md` is the only pricing you can use. The Founder & CEO prices every Build. Whether a discount could be approved, and how fast, isn't in my notes, so I can't say.
+Whether a discount is possible on this deal isn't in my notes. That answer comes from the Founder & CEO, not from me.

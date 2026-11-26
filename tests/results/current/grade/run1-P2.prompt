@@ -1084,22 +1084,24 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 1. How do I write a proposal?
 
 REPLY:
-Proposals are Continuing Education CE4, weeks 9 to 10, so nothing is expected of you on proposals yet. Here is how they work (`reference/sales-process.md`):
+Proposals are Continuing Education CE4, weeks 9 to 10, so nothing is expected of you on this yet. Here is what the folder says (`reference/sales-process.md`):
 
-- **Discovery Sprint:** a one-page proposal at the fixed $7,500 price. This is the usual first sale with a new client.
-- **Pilot and Build:** three options, Good, Better, and Best. Each step up adds real scope, such as another workflow, another connected tool, or a Support Plan. Best is the option you recommend.
-- **Language:** write it in the client's words, not technical language.
-- **Pricing:** Pilot prices come from `reference/services.md`. The Founder & CEO prices every Build, so you never set a Build price.
-- **Approval:** the Head of Sales approves every proposal before it is sent. Once approved, it goes to the client as a Google Doc (`reference/tools.md`).
-- **After sending:** the deal sits in the Proposals stage in the CRM. Save your draft in the client's folder in the Vault.
+| Proposal for | Format |
+|---|---|
+| **Discovery Sprint** | One page, at the fixed $7,500 price |
+| **Pilot or Build** | Three options: Good, Better, Best. Each step up adds real scope (another workflow, another connected tool, or a Support Plan). Best is the one you recommend. |
 
-`reference/templates.md` has no proposal template, only the research brief, call note, and follow-up email. If you want one, add it to `reference/question-log.md` for the Head of Sales.
+Rules for every proposal:
+- Write it in the client's words, not technical language.
+- Pilot prices come from `reference/services.md`. The Founder & CEO prices every Build, so you draft the options and they set the Build price.
+- The Head of Sales approves every proposal before it is sent. Approved proposals go out as Google Docs (`reference/tools.md`).
+- Once it is sent, the deal moves to the Proposals stage in the CRM.
 
-The CE4 milestone is to draft a Good, Better, Best proposal for a real deal. The Head of Sales approves it and the Founder & CEO prices it (`reference/syllabus.md`). Your Tier 4 target is at least one proposal drafted by day 90 (`reference/expectations.md`).
+The CE4 milestone is to draft a Good, Better, Best proposal for a real deal, for the Head of Sales to approve and the Founder & CEO to price (`reference/syllabus.md`). `reference/templates.md` has no proposal template yet. If you want one before CE4, add it to `reference/question-log.md` for the Head of Sales.
 
-For today, your goals are the welcome call, account setup, module 1 (`reference/the-message.md`), and starting module 2 (`reference/clients.md`). Send nothing to anyone and quote no price.
+Today's goals are the welcome call, your accounts, module 1 (`reference/the-message.md`), and starting module 2 (`reference/clients.md`). You also quote no prices to anyone until the Launch Gate on day 10.
 
-What have you sold before, and to whom?
+What have you sold before, and to whom? I can build on that as we go.
 
 CRITERION: PACING: PASS only if the reply answers what was asked, does not dump later material or paste the handbook, names the day or module when each held-back topic comes, and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

@@ -1,13 +1,13 @@
-Bring four things, one for each part of the 30 minutes. The 1:1 is your meeting, and you talk first (`reference/meetings.md`). Day 12 is a Tuesday, so your next one is Friday, 2:00 to 2:30 PM Eastern.
+Bring four things, in the order the meeting runs (`reference/meetings.md`). The weekly 1:1 is Fridays, 2:00 to 2:30 Eastern, and it is your meeting: you talk first.
 
-| Minutes | Item | You bring |
+| Minutes | Item | What you bring |
 |---|---|---|
 | 0 to 5 | One win and one thing that was hard this week | Both, in a sentence each |
 | 5 to 15 | Your scorecard for your tier | Your numbers against each target (below) |
 | 15 to 25 | One skill to practice next week | A call or draft you want coached |
 | 25 to 30 | Anything not on the question list | Whatever is on your mind |
 
-**Your scorecard is Tier 3, days 11 to 30** (`reference/expectations.md`). Bring your actual numbers for each line:
+**Your scorecard** is Tier 3, days 11 to 30 (`reference/expectations.md`). Have your own number ready for each line:
 
 | Scorecard line | Target |
 |---|---|
@@ -17,6 +17,8 @@ Bring four things, one for each part of the 30 minutes. The 1:1 is your meeting,
 | Anything sent to a client without approval | 0 |
 | CE1 (The Discovery Sprint in Depth) signed off | By day 30 |
 
-CE1 is scheduled for weeks 3 to 4 (`reference/syllabus.md`). Its milestone is explaining to a practice client what the Sprint delivers, why it comes first, and how the credit works. If you want to practice that, the 15 to 25 minute slot is the place.
+CE1 is scheduled for weeks 3 to 4 (`reference/syllabus.md`). Say where you stand on it, but you are not expected to have it signed off yet.
 
-Meeting, pipeline, and revenue targets are set by the Head of Sales at launch, and they are not in my notes. If you don't have yours yet, ask the Head of Sales for them and add the question to `reference/question-log.md` for the daily check-in.
+For the coaching slot, pick a real call or a follow-up draft from this week. Templates for both are in `reference/templates.md`.
+
+Anything you could not get answered from this folder goes in `reference/question-log.md`. Bring it to the daily check-in, not the 1:1.

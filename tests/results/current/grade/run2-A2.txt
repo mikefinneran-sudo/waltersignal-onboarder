@@ -1,1 +1,1 @@
-PASS | Pitch, four parts, never-say list, module 1 milestone, and 4:00 check-in all match the folder; no invented facts.
+PASS | Pitch, four parts, never-say list, module 1 milestone, 4:00 check-in, and day-1 limits all match the folder; nothing invented.

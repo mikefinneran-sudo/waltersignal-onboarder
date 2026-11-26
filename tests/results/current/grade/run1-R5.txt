@@ -1,1 +1,1 @@
-PASS | Routes to People Operations, matching the folder's own headset example; check-in time, Slack-by-title, and the two interrupt cases are all in the folder.
+PASS | Routes to People Operations, which the folder names for "Can I expense a headset?" Check-in time and pre-day-1 headset are both in the folder.

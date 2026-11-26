@@ -1,22 +1,24 @@
-Bring four things to the Friday 1:1 (2:00 to 2:30 Eastern). It's your meeting, so you talk first (`reference/meetings.md`).
+Your weekly 1:1 is Fridays, 2:00 to 2:30 Eastern, with the Head of Sales (`reference/meetings.md`). It is your meeting, not a status report, so you talk first. Here is what to bring:
 
-| Minutes | Item | What you bring |
+| Minutes | Item | You bring |
 |---|---|---|
 | 0 to 5 | One win and one thing that was hard this week | Both, in a sentence each |
-| 5 to 15 | Your scorecard | Your numbers against each target below |
-| 15 to 25 | One skill to practice next week, taught tell, show, do, check | A call or draft you want coached |
-| 25 to 30 | Anything not on your question list | Whatever is on your mind |
+| 5 to 15 | Your scorecard for your tier | Your numbers against each target |
+| 15 to 25 | One skill to practice next week | A call or draft you want coached |
+| 25 to 30 | Anything not on the question list | Whatever is on your mind |
 
-**Your scorecard** is the Tier 3 one for days 11 to 30 (`reference/expectations.md`):
+At day 12 you are in Tier 3 (days 11 to 30). Your scorecard targets (`reference/expectations.md`):
 
-| Measure | Target |
+| Scorecard item | Target |
 |---|---|
 | Calls ending with a next step logged the same day | 100% |
 | Research brief written before each call | 100% |
 | Call notes saved in the Vault the same day | 100% |
 | Anything sent to a client without approval | 0 |
-| CE1 (The Discovery Sprint in Depth) signed off | By day 30 |
+| CE1 signed off | By day 30 |
 
-Check your CRM and Vault entries before the meeting so you have real counts for each line.
+Have your numbers ready for each row, pulled from the CRM and your client folders in the Vault.
 
-Meeting, pipeline, and revenue targets are set by the Head of Sales at launch. They aren't in my notes, so if you don't have yours yet, add it to `reference/question-log.md` for the daily check-in.
+Meeting, pipeline, and revenue targets are not in my notes. The Head of Sales sets them at launch, so bring those numbers too if you were given them.
+
+Which call or draft you bring for coaching is your pick. What have you sold before, and to whom? That would help me point you to the right skill to practice.

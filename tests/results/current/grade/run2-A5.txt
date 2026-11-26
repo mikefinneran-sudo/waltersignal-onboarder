@@ -1,1 +1,1 @@
-PASS | Decider and champion roles, case-study examples, discovery questions, and brief-template lines all match the folder; no invented facts.
+PASS | Decider and champion roles, case-study examples, question numbers, and brief fields all match clients.md, case-study.md, discovery-questions.md, and templates.md; nothing invented.

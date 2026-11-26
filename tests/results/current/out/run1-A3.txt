@@ -1,16 +1,17 @@
-Tell them the first step is a Discovery Sprint at a fixed **$7,500**, and yes, it counts toward the next phase (`reference/services.md`).
+Yes, you can quote this now that you're launched. The first step is the **Discovery Sprint**, and it does count toward the next phase (`reference/services.md`).
 
-**What to say**
-- **The Sprint:** two weeks. The client gets interviews with their team, a map of how the work runs today, a ranked list of what to fix and what to leave alone, a recommended Pilot, and a 60-minute readout with the decider.
-- **The credit:** if they sign a Pilot within 30 days of the Sprint readout, the full $7,500 is credited toward the Pilot.
-- **The Pilot:** $20,000 for one workflow connected to up to two existing tools, or $30,000 if it connects to three or more tools or includes an AI step. Both are Quotable after launch.
-- **Payment:** the Sprint is 100% at signing (`reference/sales-process.md`).
+**What to tell them:**
 
-**What not to say**
-- Don't quote a Build price or range. The Founder & CEO prices every Build.
-- Don't offer or hint at a discount. Discounts belong to the Founder & CEO.
-- Don't promise the Sprint will lead to a Pilot or to any result. A client can stop after any phase and keep what was delivered.
+- **Price:** $7,500, fixed.
+- **Length:** 2 weeks.
+- **What they get:** interviews with their team, a map of how the work runs today, a ranked list of what to fix and what to leave alone, a recommended Pilot, and a 60-minute readout with the decider.
+- **Credit:** if they sign a Pilot within 30 days of the Sprint readout, the full $7,500 is credited toward the Pilot price.
 
-**Proof:** if they ask for an example, Brennan Mechanical paid the $7,500 Sprint and had it credited to their Pilot (`reference/case-study.md`).
+A line you can use (from `reference/objections.md`): "The first step is a two-week Discovery Sprint at a fixed $7,500, and it's credited toward the Pilot if you go ahead within 30 days."
 
-If you send a proposal or a follow-up, the Head of Sales approves the draft first. The Sprint proposal is one page at the fixed price.
+**Keep in mind:**
+
+- The credit applies only to a Pilot signed within the 30 days. Don't say it carries over after that.
+- Don't promise they will go ahead with a Pilot or quote them a Pilot or Build number unless they ask. If they ask about Build cost, the Founder & CEO prices every Build, so you don't give a range.
+- The Sprint is paid 100% at signing (`reference/sales-process.md`).
+- If you send any of this in writing, the Head of Sales approves the draft first.

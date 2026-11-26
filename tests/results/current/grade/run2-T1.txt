@@ -1,1 +1,1 @@
-PASS | Says there is no office Wi-Fi and it holds no passwords, routes to People Operations and Revenue Operations correctly, and every fact is in the folder.
+PASS | Says there is no office Wi-Fi and it holds no passwords, routes logins to Revenue Operations and internet costs to People Operations; nothing invented.

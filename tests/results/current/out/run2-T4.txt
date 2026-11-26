@@ -1,13 +1,14 @@
-That isn't in my notes, so don't tell the prospect either yes or no yet. The only client stories in the folder are Brennan Mechanical (an HVAC and plumbing contractor) and Harbor Dental Group (`reference/case-study.md`). Neither is a law firm, and I have no full client list. I also can't see Cairn or the Vault, so if a law-firm client is recorded there, you can search for it yourself.
+Whether we've worked with a law firm isn't in my notes, so I can't tell you yes or no. The two client stories in `reference/case-study.md` are Brennan Mechanical (HVAC, plumbing) and Harbor Dental Group (multi-location dental). Neither is a law firm.
 
-**What you can say truthfully:**
-- Professional services firms are listed among our common industries, and no industry is excluded. We judge each business on its own facts (`reference/clients.md`).
-- Tell the closest case study, matched to their problem, as that client's story with that client's numbers. Never promise the prospect the same result (`reference/case-study.md`, `reference/objections.md`).
-- Do not imply we have done law-firm work unless the Head of Sales confirms it.
+**What the folder does support**
+- Professional services firms are listed as a common industry, and no industry is excluded. Judge each business on its own facts (`reference/clients.md`).
+- The closest honest proof is one of the two stories, told as that client's story with that client's numbers. Never present those numbers as a result the prospect will get (`reference/the-message.md`, `reference/objections.md`).
+- A law firm fits if it matches the good-fit profile: roughly 10 to 250 people, work running on spreadsheets and disconnected tools, and a problem worth more than a $20,000 Pilot (`reference/clients.md`).
 
-**What to do next:**
-- Add the question to `reference/question-log.md`. The Head of Sales can confirm whether we have law-firm experience.
-- If the prospect is on the line right now waiting for the answer, that is one of the two urgent cases. Message the Head of Sales in Slack. Otherwise, bring it to the check-in.
-- If you reply in writing before then, the Head of Sales approves the draft first.
+**What to do**
+1. **Look it up yourself.** I can't see the second brain. Search Cairn and the Vault's `Clients/Closed Won/` folders for a law firm (`reference/second-brain.md`). If Revenue Operations hasn't set up your access, they own that.
+2. **Ask the Head of Sales.** They own this folder and the client history you'd be citing. Add the question to `reference/question-log.md` for the daily check-in.
+3. **Don't claim or deny experience until it's confirmed.** Don't say "yes, we have" or "no, we haven't."
+4. **Get approval before replying.** Anything that goes to a prospect is approved by the Head of Sales first, so send them your draft.
 
-If they ask how a law firm's confidential data would be handled, that is a Solutions Engineering question. This folder doesn't answer security questions (`reference/objections.md`).
+If the prospect is waiting on a live call right now, that is one of the two cases to message the Head of Sales in Slack immediately (`reference/who-owns-what.md`).

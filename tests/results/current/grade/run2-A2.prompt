@@ -1095,18 +1095,18 @@ Say it in your own words once you know it, but all four parts must be there:
 | **Who it is for** | Established businesses of roughly 10 to 250 people, running on spreadsheets, whiteboards, and tools that do not talk to each other |
 | **Understand first** | We map how the work runs before recommending anything |
 | **Prove before building** | One workflow goes live and is measured before the full build |
-| **You own it** | The client owns the code, the data, and the accounts |
+| **You own it** | The client owns the code, the data, and the accounts. No lock-in, no per-user fees, no subscription to us |
 
-**Never say:**
-- A delivery date. Dates come from Solutions Engineering after scoping.
-- A promised result (hours saved, revenue gained) for a prospect's business. Results in `reference/case-study.md` belong to those clients.
-- A discount, or a hint of one. Discounts belong to the Founder & CEO.
-- Technology first ("AI agents," "LLMs," tool names). Lead with the client's work.
-- That WalterSignal sells a product or a software subscription. It does client work only.
+**Never say** (`reference/the-message.md`):
+- Never promise a delivery date.
+- Never promise a prospect a result, such as hours saved or revenue gained.
+- Never discount, or hint at one.
+- Never lead with the technology ("AI agents," "LLMs"). Lead with the client's work.
+- Never claim WalterSignal sells a product or a software subscription. It does client work only.
 
-This is module 1. Its milestone is saying the pitch from memory with all four parts and naming three of the "never say" items. The Head of Sales signs it off at the 4:00 PM check-in. You send nothing to anyone today.
+This is module 1. It is signed off when you can say all four parts from memory and name three of the "never say" items. You will say the pitch at the 4:00 PM Eastern check-in with the Head of Sales. Today you pitch to no one outside the company and send nothing to anyone.
 
-What have you sold before, and to whom? I can tie the pitch to what you already know.
+What have you sold before, and to whom? I can build on that.
 
 CRITERION: ANSWERABLE: PASS only if the reply gives the correct answer from the folder (not just 'ask someone') and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

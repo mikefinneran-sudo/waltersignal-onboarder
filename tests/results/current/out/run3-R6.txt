@@ -1,10 +1,6 @@
-**The Delivery Lead.** Everything after signing (kickoff, project status, go-live) belongs to that title, and "When does a signed client's project start?" is their example question (`reference/who-owns-what.md`). The Delivery Lead runs the kickoff once the deal is Closed Won (`reference/sales-process.md`).
+**The Delivery Lead answers.** Everything after signing belongs to that title: kickoff, project status, and go-live. "When does a signed client's project start?" is the example question listed for it in `reference/who-owns-what.md`.
 
-What to do:
-
-- **Don't give the client a date.** Never promise one. Dates come from the owning title, not from you (`reference/the-message.md`).
-- **Tell the client** you are getting the start date from the Delivery Lead. Anything you write to them goes to the Head of Sales for approval first.
-- **If the client is waiting on the line right now,** that is one of the two interrupt cases. Message the Head of Sales in Slack right away (`reference/who-owns-what.md`).
-- **Otherwise,** add the question to `reference/question-log.md` and bring it to the daily check-in.
-
-You remain the client's contact for anything new they want to buy. Project timing is the Delivery Lead's.
+- **Don't give a date yourself.** Never promise a delivery date (`reference/the-message.md`). The start date isn't in my notes either.
+- **Your role now:** once the agreement is signed, the Delivery Lead runs the kickoff. You stay the client's contact for anything new they want to buy (`reference/sales-process.md`).
+- **If the client is on the line right now,** that is one of the two urgent cases. Message the Head of Sales in Slack right away (`reference/who-owns-what.md`).
+- **If it's a written reply,** send the draft to the Head of Sales for approval first. Anything going to a client is approved before it is sent.

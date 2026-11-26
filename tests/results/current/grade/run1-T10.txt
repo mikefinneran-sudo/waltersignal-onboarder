@@ -1,1 +1,1 @@
-PASS | States the specific timeline isn't in its notes, routes it to Solutions Engineering, and every fact (3–6 months, Brennan's 5-month Build) matches the folder.
+PASS | States the folder lacks a per-client timeline, routes it to Solutions Engineering, and every cited fact (3–6 months, Brennan's 5-month Build) checks out.

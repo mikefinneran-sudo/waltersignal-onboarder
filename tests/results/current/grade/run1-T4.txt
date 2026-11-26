@@ -1,1 +1,1 @@
-PASS | States "That isn't in my notes" up front, routes to the Head of Sales via the question log, and every cited fact matches the folder.
+PASS | States "That isn't in my notes," routes to Head of Sales and the question log, and every fact checks against clients.md, case-study.md, and who-owns-what.md.

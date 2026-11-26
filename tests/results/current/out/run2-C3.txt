@@ -1,17 +1,15 @@
-Tell them one of the two stories in `reference/case-study.md`, whichever is closest to the prospect's industry or problem. The file frames them as stories to tell, so I don't have anything in my notes that makes them a handout.
+Tell the story of the one closest to the prospect's industry or problem. Both are in `reference/case-study.md`.
 
-| Story | Pick it when | The client's numbers |
+| Story | Pick it when the prospect is... | Client's result (their numbers) |
 |---|---|---|
-| **Brennan Mechanical** (38-person HVAC/plumbing contractor) | Field service, slow quotes, dispatch on a whiteboard, double entry into accounting | Median time to send a quote fell from two business days to four hours during the Pilot. After the Build, finished jobs stopped being typed twice. |
-| **Harbor Dental Group** (four offices, about 60 staff) | Multi-location offices, front-desk or admin time lost to manual checks, or a prospect wary of a big commitment | Staff time per insurance check fell from about 12 minutes to about 3. Harbor stopped after the Pilot and owns everything built. |
+| **Brennan Mechanical**, 38-person HVAC/plumbing contractor | Field service, or has slow quoting, whiteboard dispatch, or double entry. It shows all three phases. | Median time to send a quote fell from two business days to four hours during the Pilot. Finished jobs stopped being typed twice after the Build. |
+| **Harbor Dental Group**, four offices, about 60 staff | Multi-location healthcare, or nervous about a big commitment. It shows a client who stopped after the Pilot. | Staff time per insurance check fell from about 12 minutes to about 3. They kept the Pilot running and own everything built. |
 
-Brennan shows all three phases: Discovery Sprint, Pilot, Build. Harbor shows that a client can stop after a phase and keep what was delivered.
+**How to tell it** (`reference/objections.md`, "Do you have results?"):
+- Tell it as that client's result, with that client's numbers.
+- Never promise the prospect the same number (`reference/the-message.md`, "Never Say This").
+- Point out what each story proves. Brennan's Sprint said to leave their accounting software alone, so we recommend less when less is right. Harbor shows a client can stop after any phase and keep what was delivered.
 
-**Rules when you tell it** (`reference/the-message.md`, `reference/objections.md`):
-- Tell it as that client's result, with that client's numbers. Never say or imply the prospect will get the same number.
-- Don't give the Brennan Build price from the case study. Build prices are Internal and never said to a client (`reference/services.md`). The Sprint and Pilot prices are Quotable after launch.
-- A good line from Brennan: its Sprint said to leave the accounting software alone, which saved the client money.
+**Leave out the Build price.** The Brennan table lists a Build price, but Build prices are Internal and never said to a client (`reference/services.md`). The Sprint and Pilot prices are Quotable.
 
-If you send anything in writing afterward, such as a follow-up with the story, the Head of Sales approves the draft first. Whether a written version of these stories exists for sending isn't in my notes, so add that to `reference/question-log.md` for the Head of Sales at the check-in.
-
-If you tell me the prospect's industry and what problem they described, I can say which story fits better.
+If the prospect wants something in writing, send nothing until the Head of Sales approves the draft.

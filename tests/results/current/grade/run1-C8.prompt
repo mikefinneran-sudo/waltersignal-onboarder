@@ -1084,42 +1084,47 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 8. Walk me through the Brennan Mechanical case study so I can tell it on a call.
 
 REPLY:
-The story is in `reference/case-study.md`. Tell it as Brennan's story with Brennan's numbers, never as a promise to the prospect.
+Brennan Mechanical is the right story to practice, because it is the only one that shows all three phases (`reference/case-study.md`).
 
 ## The story, in order
 
-**1. The client.** Brennan Mechanical is a 38-person heating, cooling, and plumbing contractor serving three counties. The owner is the decider and the office manager is the champion.
+**The client.** A 38-person heating, cooling, and plumbing contractor serving three counties. The owner is the decider and the office manager is the champion.
 
-**2. The problem.**
+**The problem.**
 - Quotes took two days, because an estimator rebuilt each one from a spreadsheet price book and old jobs.
 - Dispatch ran on a whiteboard.
 - Every finished job was typed again into the accounting software.
 
-**3. The three phases.**
-
-| Phase | What happened | Length |
+| Phase | What happened | How long |
 |---|---|---|
 | **Discovery Sprint** | Interviews with the owner, office manager, two estimators, and a dispatcher. Quoting ranked first, dispatch second, and the accounting software was left alone. | 2 weeks |
 | **Pilot** | A quote builder that pulls the price book and past jobs and drafts each quote with an AI step. An estimator approves every quote before it goes out. The agreed number was time from request to quote sent. | 7 weeks |
-| **Build** | A dispatch board, a technician phone app for job notes and photos, and an automatic hand-off of finished jobs to the accounting software. Staff were trained by role. | 5 months |
+| **Build** | A dispatch board, a technician phone app for job notes and photos, and an automatic hand-off of finished jobs to the accounting software. Staff were trained by role. | 5 months, in three modules |
 
-**4. The result (Brennan's numbers).**
+**The result, in Brennan's numbers.**
 - Median time to send a quote fell from two business days to four hours during the Pilot.
 - After the Build, finished jobs stopped being typed twice.
 - Brennan now pays for the Standard Support Plan.
 
-**5. The point to land.** The Sprint said to leave the accounting software alone, and that saved Brennan money. WalterSignal recommends less when less is right. This also answers the "AI is all hype" objection (`reference/objections.md`).
+## The point to land
+
+The Sprint said to leave the accounting software alone, and that saved Brennan money. WalterSignal recommends less when less is right. This also answers the "AI is all hype" objection (`reference/objections.md`).
 
 ## Rules for telling it
 
-- **Say "Brennan's quotes went from two days to four hours."** Never say "you'll get the same." Results are not promised to a prospect (`reference/the-message.md`).
-- **Keep the person in the loop.** The estimator approves every AI-drafted quote, which matches what every client gets (`reference/services.md`).
-- **Leave the prices out for now.** The case study lists what Brennan paid, but you quote no price to anyone before the Launch Gate on day 10. Even after launch, the Build price is Internal and never said to a client. Sprint and Pilot prices are Quotable after launch.
-- **Leave out anything the folder doesn't say.** It doesn't explain how "left the accounting software alone" fits with the later hand-off to it. If someone asks, don't guess. Add it to `reference/question-log.md` for Solutions Engineering.
+- **Say the numbers as Brennan's.** "Brennan's quotes went from two days to four hours." Never "you'd get the same" (`reference/the-message.md`).
+- **Keep dollar amounts out.** You quote no price to anyone before the Launch Gate on day 10. Even after launch, the Build price is Internal and never said to a client (`reference/services.md`).
+- **Mention the person approving.** The estimator approving every AI-drafted quote reinforces that AI steps always have a person approving.
 
-## Your day-8 target
+## A two-minute shape
 
-Day 8 is done when you can tell one case study in two minutes (`reference/first-ten-days.md`). That means one sentence each on the client, the problem, the three phases, and the result, ending on the "recommends less when less is right" point. Say it aloud and time it. The Head of Sales signs off module 6 after the day 9 objection role-plays, so bring your telling to the 4:00 check-in.
+1. **Who:** a 38-person HVAC and plumbing contractor, and the three problems above.
+2. **Sprint:** we mapped how the work ran and ranked quoting first. We told them to leave accounting alone.
+3. **Pilot:** one workflow live, measured on one number. Quote time went from two days to four hours.
+4. **Build:** the rest of the system, in modules, with their staff trained.
+5. **Close:** they own it, and they chose a Support Plan afterward.
+
+Practice it out loud against a two-minute timer. Day 8 is "tell one case study in two minutes" (`reference/first-ten-days.md`). The Head of Sales signs off module 6, at the day 9 role-play and the check-in.
 
 CRITERION: COVERAGE: a new hire needs a real answer here. PASS only if the reply gives a substantive, specific answer drawn from the folder (not mainly 'not in my notes'), and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

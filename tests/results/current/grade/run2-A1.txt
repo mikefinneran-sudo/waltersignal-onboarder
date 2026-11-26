@@ -1,1 +1,1 @@
-PASS | Every fact matches `first-ten-days.md`, `meetings.md` and `expectations.md`: goals, done-when criteria, 4:00 PM Eastern check-in, and no sending or quoting today.
+PASS | Every fact (welcome call, accounts, modules 1–2, done-when, 4:00 check-in, question log, no sending or prices) matches the folder.

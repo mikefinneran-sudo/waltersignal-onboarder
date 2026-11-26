@@ -1084,41 +1084,45 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 5. What does a good research brief look like?
 
 REPLY:
-A good research brief is one page, written before the call, and built only from public sources. The template and a filled example are in `reference/templates.md`.
+A good research brief is one page, written before a call, and every line comes from something you can point to. It is in `reference/templates.md`.
 
 **The template**
 
-| Field | What goes in it |
-|---|---|
-| Business | Name, town, what they do, how many people |
-| Fit | Why it fits (`reference/clients.md`), or why it may not |
-| Who decides | The owner-operator's name, if public |
-| Likely champion | The office manager or equivalent, if public |
-| What they use now | Tools visible on their website or job posts |
-| Why-now signals | New location, hiring, reviews, a season coming |
-| Three questions | The first three you will ask, from `reference/discovery-questions.md` |
-| Sources | Every link you used |
+```
+Business:            name, town, what they do, how many people
+Fit:                 why it fits (clients.md), or why it may not
+Who decides:         the owner-operator's name, if public
+Likely champion:     the office manager or equivalent, if public
+What they use now:   tools visible on their website or job posts
+Why-now signals:     new location, hiring, reviews, a season coming
+Three questions:     the first three you will ask, from discovery-questions.md
+Sources:             every link you used
+```
 
-**What the example shows** (Example Heating & Air, a made-up practice business)
+**A filled example (a practice business, not a client)**
 
-- **Fit** gives a reason, not just "good": growing, hiring, and the job post asks for spreadsheet skills.
-- **Names** come from public pages: the owner from the About page, the likely champion from a job post for a second dispatcher.
-- **Tools** come from what is visible: an online booking widget on the site, and "spreadsheet skills" in a job post.
-- **Why now** is specific: hiring a second dispatcher, and heating season starting.
-- **The three questions** are picked by number from the question bank (#4, #6, #12), each matched to what the research turned up.
-- **Sources** are listed: company website, job post, Google Business Profile.
+```
+Business:            Example Heating & Air (practice only), Springfield, residential HVAC, ~25 people
+Fit:                 Good. Growing, hiring, and the job post asks for spreadsheet skills.
+Who decides:         The owner, named on the About page
+Likely champion:     Office manager, named in a job post for a second dispatcher
+What they use now:   Online booking widget on the site; job post asks for "spreadsheet skills"
+Why-now signals:     Hiring a second dispatcher; heating season starting
+Three questions:     #4 (call to job), #6 (falls through the cracks), #12 (why this quarter)
+Sources:             company website, job post, Google Business Profile
+```
 
-**Where it goes:** save each brief in the client's folder in the Vault (`reference/second-brain.md`), under its CRM stage.
+**What makes it good**
 
-**Your plan this week** (`reference/first-ten-days.md`)
+- **Fit is judged against `reference/clients.md`:** 10 to 250 employees, work running on spreadsheets or disconnected tools. If it may not fit, say why.
+- **Decider and champion are named** only if the information is public.
+- **The three questions are numbered** from `reference/discovery-questions.md` and match what you learned about the business.
+- **Every line has a source,** and the sources are listed.
+- **Save it in the Vault** in the client's folder (`Clients/<Stage>/<Client>/`) the same day (`reference/second-brain.md`).
 
-- Brief 1 of 3 was due on day 4. Brief 2 is today's goal, and you review it in your first weekly 1:1 with the Head of Sales (Friday, 2:00 to 2:30 Eastern).
-- Brief 3 is due on day 6.
-- Module 5 is signed off by the Head of Sales after your practice call on day 7.
+**Where you are on day 5:** research brief 2 is today's goal, and it gets reviewed in your first weekly 1:1 with the Head of Sales (Friday, 2:00 to 2:30 Eastern). Brief 3 is tomorrow. The briefs are written on leads the Head of Sales assigns, and from launch you write one before every call.
 
-Anything you send to a lead or client goes to the Head of Sales first. Briefs are internal, so they do not.
-
-What have you sold before, and to whom? I can point you to the closest case study for your practice leads.
+What have you sold before, and to whom? I can point out which parts of the brief will be familiar.
 
 CRITERION: COVERAGE: a new hire needs a real answer here. PASS only if the reply gives a substantive, specific answer drawn from the folder (not mainly 'not in my notes'), and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

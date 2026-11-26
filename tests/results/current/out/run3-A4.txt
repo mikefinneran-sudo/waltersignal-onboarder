@@ -1,20 +1,20 @@
-You are launched when three things are true at the Launch Gate check at the day 10 check-in (`reference/syllabus.md`):
+To be launched, three things must be true by the end of day 10 (`reference/syllabus.md`):
 
-1. Modules 1 to 6 are all signed off by the Head of Sales.
-2. You have co-run one live discovery call with the Head of Sales and logged the next step in the CRM the same day.
-3. The Head of Sales says "launched." Only they can say it, and nobody is launched early. If the gate is not met by day 10, the missing module is repeated.
+1. Modules 1 to 6 are signed off by the Head of Sales.
+2. You have co-run one live discovery call with the Head of Sales, with the next step logged in the CRM the same day.
+3. The Head of Sales says "launched" at the check-in. Only the Head of Sales can sign off a module or launch you. If the gate isn't met by day 10, the missing module is repeated.
 
-I can't see which modules are signed off, so confirm that at your check-in.
+**What's left, by day** (`reference/first-ten-days.md`):
 
-**What is left, by day** (`reference/first-ten-days.md`):
-
-| Days | Module | What you finish |
+| Days | Module | Milestone |
 |---|---|---|
-| 3 (today) | 4: Tools, Second Brain, Who Owns What | A practice call logged in the CRM with its call note saved in the Vault. One decision found in Cairn. The owning title named for ten sample questions. This also gets modules 3 and 4 signed off. |
-| 4 to 7 | 5: The Discovery Call | Sit in on every discovery call the Head of Sales runs. Write 3 research briefs (one each on days 4, 5, and 6). Pass one practice call on day 7, with the Head of Sales playing the client: current state, gap, solution, next step. |
-| 8 to 10 | 6: Prices, Proof, Objections | Name every Quotable and Internal price and say which is which. Tell one case study in two minutes. Handle five objections in a role-play. |
-| 10 | Launch Gate | Co-run one live discovery call, then the gate check at the check-in. |
+| 3 (today) | 4: Tools, Second Brain, Who Owns What | Every account works. A practice call is logged in the CRM with its call note in the Vault. You've found one decision in Cairn. You can name the owning title for ten sample questions. |
+| 4 to 7 | 5: The Discovery Call | Sit in on every discovery call the Head of Sales runs. Write 3 research briefs (one each on days 4, 5, and 6). Pass one practice call on day 7, with the Head of Sales playing the client. |
+| 8 to 10 | 6: Prices, Proof, and Objections | Name every Quotable and Internal price and say which is which. Tell one case study in two minutes. Handle five objections in a role-play. |
+| 10 | Live call | Co-run one live discovery call, then the Launch Gate check at the daily check-in. |
 
-Until you are launched, you quote no price to anyone, including friends and family. Prices are module 6 (days 8 to 10).
+Today, read `tools.md`, `second-brain.md`, and `who-owns-what.md`, and have Revenue Operations walk you through the CRM, the Vault, and Cairn. Modules 3 and 4 are signed off at the check-in if you're ready.
 
-Before I go further, what have you sold before, and to whom?
+Until you're launched, you quote no price to anyone and send nothing to a client.
+
+What have you sold before, and to whom? I can build on that as we go.

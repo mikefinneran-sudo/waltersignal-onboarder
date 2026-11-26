@@ -1,9 +1,7 @@
-A Build usually takes **3 to 6 months** (`reference/services.md`). It is scoped after the Pilot, per module, so the length for a particular 20-person HVAC company isn't known until then (`reference/objections.md`).
+A Build usually takes 3 to 6 months (`reference/services.md`). The folder has nothing that narrows that range for a 20-person HVAC company, because a Build is scoped after the Pilot, from what the Pilot shows. Any estimate beyond the range would be a guess.
 
-- **Company size and trade don't change the range.** My notes have no estimate by headcount or industry, so I can't narrow it for a 20-person company.
-- **Closest example:** Brennan Mechanical, a 38-person heating, cooling, and plumbing contractor, had a 5-month Build in three modules (`reference/case-study.md`). That is their timeline. Tell it as theirs, never as a promise to your prospect.
-- **What you may say to the prospect:** the Discovery Sprint takes 2 weeks, a Pilot takes 6 to 8 weeks, and a Build is scoped after the Pilot, usually 3 to 6 months.
-- **Never promise a date.** Timelines before signing belong to Solutions Engineering (`reference/who-owns-what.md`). If the prospect needs a firmer answer, tell them you'll get one from Solutions Engineering.
-- **Build prices are Internal.** Don't give a number or a range. The Founder & CEO prices every Build.
+- **Closest example:** Brennan Mechanical, a 38-person HVAC contractor, had a 5-month Build in three modules (`reference/case-study.md`). That is their story, not a forecast for another client.
+- **What you can say to a prospect:** the Sprint takes 2 weeks, a Pilot 6 to 8 weeks, and a Build is scoped after the Pilot, usually 3 to 6 months (`reference/objections.md`, "How Long Will It Take?").
+- **What you must not say:** a delivery date or a firm Build length. Dates come from Solutions Engineering after scoping (`reference/the-message.md`).
 
-If you need a timeline for this specific deal, that is a Solutions Engineering question. Add it to `reference/question-log.md` for the daily check-in. Anything you send the prospect about timing goes to the Head of Sales for approval first.
+If you need a specific timeline for a live deal, that is a Solutions Engineering question (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for the daily check-in.

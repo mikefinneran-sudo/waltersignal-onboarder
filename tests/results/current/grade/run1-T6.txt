@@ -1,1 +1,1 @@
-PASS | States only the Founder & CEO decides discounts, routes correctly, and every fact (Founder line, Sprint credit, Slack cases) matches the folder.
+PASS | States plainly only the Founder & CEO decides discounts and routes there; every fact (Tier 4, 4:15 check-in, objection script) matches the folder.

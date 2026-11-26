@@ -1,1 +1,1 @@
-You've hit your 5-hour limit · resets 3pm (America/Indianapolis)
+FAIL | Claims "you log no live calls before the Launch Gate," but day 10 requires logging a co-run live call's next step before the gate check.

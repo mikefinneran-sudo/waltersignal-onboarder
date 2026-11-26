@@ -1,13 +1,20 @@
-You are in three recurring meetings, all on video and all run by the Head of Sales (`reference/meetings.md`). Times are Eastern.
+You are in three recurring meetings, all on video, all owned by the Head of Sales, all in Eastern time (`reference/meetings.md`). The Head of Sales sends the calendar invites.
 
-| Meeting | When | Starts | Status on day 4 |
+| Meeting | When | Starts | Who |
 |---|---|---|---|
-| Daily Check-In | Every workday, 4:00 to 4:30 through day 10 (4:15 to 4:30 after launch) | Day 1 | Already running. Today's is at 4:00. |
-| Weekly 1:1 | Fridays, 2:00 to 2:30 | Day 5 | Tomorrow, your first Friday |
-| Weekly Pipeline Review | Mondays, 10:00 to 10:45 | Day 6 | Next Monday, your second Monday |
+| **Daily Check-In** | Every workday, 4:00 to 4:30 through day 10. After launch, 4:15 to 4:30. | Day 1, so you are already in it | You and the Head of Sales |
+| **Weekly 1:1** | Fridays, 2:00 to 2:30 | **Tomorrow, day 5** | You and the Head of Sales |
+| **Weekly Pipeline Review** | Mondays, 10:00 to 10:45 | **Day 6, the second Monday** | Head of Sales (runs it), you, Revenue Operations, Solutions Engineering, Delivery Lead |
 
-- **Daily Check-In:** bring your question list, and say whether any module is ready for sign-off. Finish with the one thing you will do first tomorrow.
-- **Weekly 1:1:** it is your meeting, so you talk first. Bring one win and one hard thing, and your scorecard numbers against your tier in `reference/expectations.md`. Also bring a call or draft you want coached, and anything else on your mind. Research brief 2 gets reviewed here tomorrow.
-- **Weekly Pipeline Review:** the Head of Sales runs it, with Revenue Operations, Solutions Engineering, and the Delivery Lead. On days 6 to 10 you listen and take notes. You present your own deals only after launch.
+**What to bring**
+- **Daily Check-In (today, 4:00):** your question list, one question at a time. Then any milestone sign-offs, and the one thing you do first tomorrow.
+- **Weekly 1:1 (tomorrow):** it is your meeting, so you talk first.
+  - Minutes 0 to 5: one win and one thing that was hard this week, a sentence each.
+  - Minutes 5 to 15: your scorecard against the targets for your tier in `reference/expectations.md`.
+  - Minutes 15 to 25: a call or draft you want coached.
+  - Minutes 25 to 30: anything not on your question list.
+- **Pipeline Review (Monday):** on days 6 to 10 you listen and take notes. You do not present. You present your own deals only after launch. Read the last pipeline review in the Vault's `Meetings/` folder beforehand (`reference/second-brain.md`).
 
-The Head of Sales sends the calendar invites. If one is missing, add it to your question list for today's check-in.
+There is also one one-time meeting later: the Launch Gate Check on day 10, held at that day's daily check-in.
+
+What have you sold before, and to whom? I can build on that as we go.

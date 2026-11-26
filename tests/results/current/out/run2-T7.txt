@@ -1,13 +1,16 @@
-That isn't in my notes. The folder doesn't list which CRM fields are required. Required fields are a Revenue Operations question (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for the daily check-in.
+That isn't in my notes. The folder doesn't list which CRM fields are required. That is a Revenue Operations question (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for the daily check-in.
 
-The folder does say what a logged call must include:
+The folder does say what to record when you log a call:
 
-- **Next step:** a date, an owner, and what happens, written in the CRM the same day (`reference/sales-process.md`, `reference/discovery-questions.md`).
-- **Stage:** every deal sits in exactly one of Leads, Proposals, Closed Won, or Closed Lost, and you move it the day it changes (`reference/sales-process.md`).
-- **Lead source:** log how they heard about us (referral, website, event, or outreach) (`reference/discovery-questions.md`).
-- **Closed Lost reason:** log the reason whenever a deal goes there (`reference/sales-process.md`).
-- **Call note:** it goes in the client's folder in the Vault the same day, not in the CRM (`reference/templates.md`).
+- **Next step:** a date, an owner, and what happens. Log it in the CRM the same day (`reference/sales-process.md`, `reference/templates.md`).
+- **Stage:** every deal sits in exactly one of Leads, Proposals, Closed Won, or Closed Lost. Move it the day it changes (`reference/sales-process.md`).
+- **Lead source:** log how they heard about us: referral, website, event, or outreach (`reference/discovery-questions.md`).
+- **Closed Lost or not a fit:** log the reason (`reference/clients.md`, `reference/sales-process.md`).
 
-I can't tell you whether the CRM enforces any of these as required fields.
+The call note itself (current state, gap, why now, decider and champion) is saved in the Vault the same day, not in the CRM (`reference/templates.md`, `reference/tools.md`).
 
-Your CRM walkthrough with Revenue Operations is day 3, module 4 (`reference/first-ten-days.md`). You log a practice call there.
+I can't tell you whether these are the system's required fields.
+
+The CRM walkthrough with Revenue Operations is module 4 on day 3 (`reference/first-ten-days.md`). You won't log a practice call until then, and you log no live calls before the Launch Gate on day 10.
+
+Since this is your first message with me: what have you sold before, and to whom?

@@ -1,1 +1,1 @@
-PASS | It says plainly the folder has no company-specific timeline, routes to Solutions Engineering, and every fact (3–6 months, Brennan's 5-month Build) matches the folder.
+PASS | States it can't give a specific timeline, routes it to Solutions Engineering, and every fact (3–6 months, Brennan's 5 months, Internal prices) matches the folder.

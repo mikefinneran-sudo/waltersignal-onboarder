@@ -1,1 +1,1 @@
-FAIL | The "After it is sent" section volunteers CRM stages and post-yes hand-off without saying when they come (day 6, CE3).
+PASS | Answers the proposal question from `sales-process.md`, holds it to CE4 (weeks 9 to 10), and every fact checks out against the folder.

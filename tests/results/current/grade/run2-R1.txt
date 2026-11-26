@@ -1,1 +1,1 @@
-PASS | Routes to Solutions Engineering per who-owns-what.md and objections.md; the script, question log, approval and Slack-interrupt rule are all in the folder.
+PASS | Routes to Solutions Engineering per who-owns-what.md; the objection line, 4:15 check-in, approval rule and Slack exception all match the folder.

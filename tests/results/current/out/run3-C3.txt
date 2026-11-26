@@ -1,28 +1,17 @@
-Show the story closest to the prospect's industry or problem, told as that client's story with that client's numbers (`reference/case-study.md`). There are two:
+Tell the story closest to the prospect's industry or problem, as the client's story with the client's numbers. Both stories are in `reference/case-study.md`.
 
-| Story | Pick it when the prospect has | What it shows |
+| If the prospect is... | Tell | Their numbers |
 |---|---|---|
-| **Brennan Mechanical** (38-person HVAC/plumbing contractor) | Slow quotes, dispatch on a whiteboard, or the same job typed twice. Field service, distribution, and light manufacturing are close matches. | All three phases: Sprint, Pilot, Build |
-| **Harbor Dental Group** (four offices, about 60 staff) | Staff time lost to manual, repetitive checks. Multi-location healthcare offices are the closest match. | A client who stopped after the Pilot and kept everything built |
+| Field service, or has slow quotes, whiteboard dispatch, or work typed twice | **Brennan Mechanical** (38-person HVAC and plumbing contractor) | Median time to send a quote fell from two business days to four hours in the Pilot. After the Build, finished jobs stopped being typed twice. |
+| A multi-location office, or staff losing time to a manual routine, or hesitant to commit to a big project | **Harbor Dental Group** (four offices, about 60 staff) | Staff time per insurance check fell from about 12 minutes to about 3. Harbor stopped after the Pilot, kept what was built, and owns it. |
 
-**Brennan's numbers:**
-- Median time to send a quote fell from two business days to four hours during the Pilot.
-- After the Build, finished jobs stopped being typed twice into the accounting software.
-- Phases: 2-week Sprint, 7-week Pilot, 5-month Build.
+**Brennan** shows all three phases: Discovery Sprint (2 weeks), Pilot (7 weeks), Build (5 months). The point to make is that the Sprint told them to leave the accounting software alone, which saved them money.
 
-**Harbor's numbers:**
-- Staff time per insurance check fell from about 12 minutes to about 3.
-- Phases: 2-week Sprint, 6-week Pilot. Harbor kept the Pilot running on the Essentials Support Plan.
+**Harbor** shows that a client can stop after any phase and keep what was delivered (`reference/services.md`).
 
-**Points to make:**
-- Brennan: the Sprint told them to leave their accounting software alone, which saved them money. We recommend less when less is right.
-- Harbor: each phase stands on its own, and a client can stop after any phase and keep what was delivered (`reference/services.md`).
-- In both stories, staff approve the AI step before anything goes out.
+**Rules for telling it:**
+- Never promise the prospect the same result. Say "that was Brennan's number," not "you'd see that."
+- Brennan's Build price is in the case-study file, but Build prices are Internal. Never say it to a prospect. Sprint, Pilot, and Support Plan prices are Quotable after launch.
+- Don't promise a delivery date (`reference/the-message.md`).
 
-**Never:**
-- Promise the prospect the same result. These numbers belong to Brennan and Harbor (`reference/the-message.md`).
-- Say the Build price from the Brennan story. The case study lists it, but Build prices are Internal and the Founder & CEO prices every Build (`reference/services.md`).
-
-The folder holds only these two written stories, with no deck or one-pager. If you want to send anything in writing, the Head of Sales approves it first.
-
-What industry is the prospect in? I can tell you which story fits.
+**Sending anything in writing:** anything that goes to a prospect is approved by the Head of Sales first. Whether there is a shareable, client-facing version of these stories, or whether these clients can be named in writing, isn't in my notes. Add it to `reference/question-log.md` for the Head of Sales at the daily check-in. Until then, tell the story on the call.

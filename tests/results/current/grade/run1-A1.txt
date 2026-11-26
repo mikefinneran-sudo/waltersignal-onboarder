@@ -1,1 +1,1 @@
-PASS | Day-1 goals, done-when conditions, 4:00 PM Eastern check-in, and the no-sending and no-quoting rules all match the folder; no invented facts.
+PASS | Every fact matches first-ten-days.md, meetings.md, and services.md: the 9:00 welcome call, account setup, modules 1–2, done-when criteria, 4:00 check-in, and no prices before launch.

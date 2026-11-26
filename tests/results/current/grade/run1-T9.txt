@@ -1,1 +1,1 @@
-PASS | States "not in my notes," routes to Solutions Engineering correctly; Pilot prices, CE2 timing, approval and interrupt rules all match the folder.
+PASS | States it isn't in the notes, routes to Solutions Engineering, and invents no capability; the only extras are minor advice, not facts.

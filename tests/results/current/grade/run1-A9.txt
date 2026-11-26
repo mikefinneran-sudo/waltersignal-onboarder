@@ -1,1 +1,1 @@
-PASS | Vault folder path, call note template, Cairn lookup, the newest-wins rule, Revenue Operations access, and the module 4 milestone all match the folder; nothing invented.
+PASS | Correct answer: Vault client folder by CRM stage, plus CRM logging; Cairn for decisions. Every fact traces to second-brain, tools, templates, first-ten-days.

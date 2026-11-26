@@ -1,5 +1,6 @@
-There is no WalterSignal Wi-Fi password. The company is remote-first with no office, so you work from home on your own internet connection (`reference/first-ten-days.md`, `reference/who-owns-what.md`). Meetings run on Google Meet and team chat is in Slack.
+There isn't an office Wi-Fi password, because WalterSignal has no office. Everyone works from home on their own internet connection, with meetings on Google Meet and chat in Slack (`reference/first-ten-days.md`, `reference/who-owns-what.md`).
 
-If your home internet is a problem, that's a People Operations question, since they own home-office setup including internet. Add it to `reference/question-log.md` for the 4:00 PM check-in. If it blocks you from the 9:00 AM Eastern welcome call, email the Head of Sales at the address in the welcome email.
+- **Home internet or equipment setup:** that's a People Operations question. Add it to `reference/question-log.md` for the 4:00 PM check-in if you need something.
+- **Logins for company tools:** I never hold passwords or know how to get into tools. Revenue Operations sets up every account today, right after the 9:00 AM Eastern welcome call with the Head of Sales (`reference/tools.md`). If one doesn't work, that's Revenue Operations too.
 
 So I can build on what you already know: what have you sold before, and to whom?

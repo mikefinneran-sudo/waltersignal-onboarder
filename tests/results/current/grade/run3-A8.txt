@@ -1,1 +1,1 @@
-You've hit your 5-hour limit · resets 3pm (America/Indianapolis)
+PASS | Every price, Quotable/Internal label, credit rule, response time, and discount rule matches services.md and objections.md; no invented facts.

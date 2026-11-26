@@ -1,1 +1,1 @@
-PASS | Gives the full template, the example, where to save it, and the day 5 to 6 timing. Every fact matches templates.md, first-ten-days.md, meetings.md, and second-brain.md.
+PASS | Template, example, Vault path, day-5 goals and 1:1 time all match the folder; the commentary on why the example works is reasonable interpretation, not new facts.

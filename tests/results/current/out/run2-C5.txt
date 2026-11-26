@@ -1,19 +1,17 @@
-A good research brief is one page, written before the call, with all eight fields filled in from public sources and every link listed. The template and a worked example are in `reference/templates.md`.
+A research brief is one page, written before every call, with eight fields (`reference/templates.md`):
 
-**The eight fields**
+```
+Business:            name, town, what they do, how many people
+Fit:                 why it fits (clients.md), or why it may not
+Who decides:         the owner-operator's name, if public
+Likely champion:     the office manager or equivalent, if public
+What they use now:   tools visible on their website or job posts
+Why-now signals:     new location, hiring, reviews, a season coming
+Three questions:     the first three you will ask, from discovery-questions.md
+Sources:             every link you used
+```
 
-| Field | What goes in it |
-|---|---|
-| Business | Name, town, what they do, how many people |
-| Fit | Why it fits (judged against `reference/clients.md`), or why it may not |
-| Who decides | The owner-operator's name, if public |
-| Likely champion | The office manager or equivalent, if public |
-| What they use now | Tools visible on their website or job posts |
-| Why-now signals | New location, hiring, reviews, a season coming |
-| Three questions | The first three you will ask, from `reference/discovery-questions.md` |
-| Sources | Every link you used |
-
-**The practice example in the template**
+Here is the filled example from the folder. The business is made up for practice and is not a client:
 
 ```
 Business:            Example Heating & Air (practice only), Springfield, residential HVAC, ~25 people
@@ -26,15 +24,15 @@ Three questions:     #4 (call to job), #6 (falls through the cracks), #12 (why t
 Sources:             company website, job post, Google Business Profile
 ```
 
-**What the example does well**
-- Every claim is tied to something visible, such as a job post or the About page.
-- The fit line gives the reason, not just "good."
-- The why-now signals are specific and current.
-- The questions are picked by number from the bank, and they match what the research found.
-- The sources are listed, so someone else can check them.
+What makes the example work:
 
-**Where it goes:** save the brief in the client's folder in the Vault (`reference/second-brain.md`), under the lead's CRM stage.
+- **Fit gives a reason.** It says why the business fits, judged against the good-fit client description in `reference/clients.md`. If it may not fit, say that instead.
+- **Every claim traces to a public source.** The decider, champion, tools, and why-now signals each come from the website, a job post, or a profile, and the Sources line lists them.
+- **The questions are numbered from the bank.** They match what you found, so you walk into the call with a plan. The bank is `reference/discovery-questions.md`.
+- **Why-now is specific.** A hire or a coming season gives you something to ask about. It also helps with the "Why now?" qualifying question in `clients.md`.
 
-**Where you are today:** brief 2 of 3 is today's goal, and it gets reviewed in your first weekly 1:1 with the Head of Sales on Friday at 2:00 PM Eastern (`reference/first-ten-days.md`, `reference/meetings.md`). Brief 3 is due on day 6.
+Save each brief in the client's folder in the Vault under `Clients/<Stage>/<Client>/` (`reference/second-brain.md`).
 
-What have you sold before, and to whom? That tells me which fields will come easily and which to watch.
+On day 5, brief 2 of 3 is your goal. You review it in your first weekly 1:1 with the Head of Sales, Friday 2:00 to 2:30 Eastern (`reference/first-ten-days.md`, `reference/meetings.md`). Brief 3 follows on day 6.
+
+What have you sold before, and to whom? I can point to the discovery questions closest to your background.

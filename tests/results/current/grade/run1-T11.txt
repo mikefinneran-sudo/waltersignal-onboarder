@@ -1,1 +1,1 @@
-PASS | States "That isn't in my notes," routes to Head of Sales, and every fact (time, Google Meet, role, attendees) matches meetings.md and tools.md.
+PASS | States "not in my notes," routes to Head of Sales with question log; time, Google Meet, role, and attendees all match the folder.

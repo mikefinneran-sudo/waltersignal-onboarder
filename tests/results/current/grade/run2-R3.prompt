@@ -1084,16 +1084,15 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 40. A client wants to change a clause in the agreement. Who handles that?
 
 REPLY:
-**Legal & Contracts** handles it. Agreement wording and changes to terms are theirs (`reference/who-owns-what.md`). Contract terms are also still outside what you do at your stage (`reference/expectations.md`).
+**Legal & Contracts** handles it. Agreement wording, changes to terms, NDAs, and sending the agreement all belong to that title, and "The client wants to change clause 4" is the example in `reference/who-owns-what.md`.
 
-What to do:
+What you do:
 
-1. **Don't agree to or hint at any change** to the client. Wording is not yours to answer.
-2. **Tell the Head of Sales** at the daily check-in. Anything that goes back to the client is approved by the Head of Sales first.
-3. **Add it to `reference/question-log.md`** for the check-in, noting which clause and what the client wants changed.
-4. **Interrupt only in the two urgent cases:** if the client is waiting on the line, or something went to the client by mistake. Then message the Head of Sales in Slack right away.
+- **Do not** comment on the wording or promise the client any change. Contract wording is outside what you answer.
+- **Tell the client** you will take the request to the right person. Anything that goes to the client in writing is approved by the Head of Sales first.
+- **Tell the Head of Sales** at the daily check-in, and keep the deal's CRM stage and the client's Vault folder current.
 
-If the change affects price or a discount, that belongs to the Founder & CEO (`reference/who-owns-what.md`).
+This is not one of the two urgent cases (a client waiting on the line, or something sent to a client by mistake), so it does not need an interrupt. If the client is on the line right now, message the Head of Sales in Slack.
 
 CRITERION: ROUTING: PASS only if the reply routes to this owner: [Legal & Contracts]. Routing to a generic founder or manager name instead of that function FAILS. It must also invent no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

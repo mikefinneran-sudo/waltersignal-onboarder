@@ -1,4 +1,4 @@
-A good research brief is one page, written before the call, and built from public information about the business. It has eight fields, and the example below shows them filled in (`reference/templates.md`).
+A research brief is a one-page prep you write before every call and save in the client's folder in the Vault (`reference/templates.md`). It uses these eight fields:
 
 ```
 Business:            name, town, what they do, how many people
@@ -11,7 +11,7 @@ Three questions:     the first three you will ask, from discovery-questions.md
 Sources:             every link you used
 ```
 
-**Example (a made-up practice business, not a client):**
+Here is the filled example from the same file. The business is made up for practice and is not a client:
 
 ```
 Business:            Example Heating & Air (practice only), Springfield, residential HVAC, ~25 people
@@ -24,13 +24,13 @@ Three questions:     #4 (call to job), #6 (falls through the cracks), #12 (why t
 Sources:             company website, job post, Google Business Profile
 ```
 
-What makes the example work:
-- **Fit** gives a reason, not just a verdict. Judge it against the good-fit signs and the not-a-fit list in `reference/clients.md`.
-- **Decider and champion** are named from public sources, such as an About page or a job post.
-- **Tools and why-now signals** come from what is visible, such as the website and job posts.
-- **The three questions** are numbered from `reference/discovery-questions.md` and chosen for this business.
-- **Sources** lists every link you used.
+What the example does well:
+- **Fit has a reason.** It judges the business against `reference/clients.md` and says why.
+- **Roles are named from public sources.** The decider and the likely champion come from the About page and a job post.
+- **Why-now is specific.** It names a hire and a season, not a general statement.
+- **Questions point to the bank.** They are cited by number from `reference/discovery-questions.md`.
+- **Every link is listed.** The sources field covers everything used.
 
-Save each brief in the client's folder in the Vault the same day (`reference/second-brain.md`).
+For today, brief 2 of 3 is due, and you review it in your first weekly 1:1 with the Head of Sales (Fridays, 2:00 to 2:30 Eastern). Brief 3 is day 6 (`reference/first-ten-days.md`). Briefs are written on leads the Head of Sales assigns, and nothing in them goes to a prospect.
 
-Today's goal is brief 2 of 3, which gets reviewed in your first weekly 1:1 (Friday, 2:00 to 2:30 Eastern). Brief 3 is due on day 6 (`reference/first-ten-days.md`).
+What have you sold before, and to whom? I can point you to the discovery questions closest to that.

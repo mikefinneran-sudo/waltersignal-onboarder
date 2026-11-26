@@ -1,1 +1,1 @@
-You've hit your 5-hour limit · resets 3pm (America/Indianapolis)
+PASS | Correct Vault path, call-note template, CRM logging, and Cairn lookup, all sourced; "file in this folder" is a minor but supported inference.

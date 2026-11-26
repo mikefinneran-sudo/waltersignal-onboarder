@@ -1,1 +1,1 @@
-PASS | Substantive answer from case-study.md and objections.md; Brennan and Harbor numbers, phases, durations and the Internal Build-price rule all match the folder.
+PASS | Substantive answer drawn from case-study.md, objections.md and services.md; all numbers, client details and price tiers match the folder, and no invented facts.

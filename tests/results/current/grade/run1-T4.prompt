@@ -1084,24 +1084,18 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: I'm on day 15 and launched. A prospect asked whether we've worked with any law firms. What do I tell them?
 
 REPLY:
-**That isn't in my notes.** The folder doesn't say whether WalterSignal has worked with a law firm, so don't claim it and don't deny it.
+That isn't in my notes. The folder doesn't say whether WalterSignal has worked with a law firm, and I won't guess. The only two client stories in it are Brennan Mechanical (HVAC) and Harbor Dental Group (`reference/case-study.md`).
 
-**What the folder does say**
-- Professional services firms are listed as a common industry, and no industry is excluded. Judge each business on its own facts (`reference/clients.md`).
-- The only two client stories in the folder are Brennan Mechanical (HVAC contractor) and Harbor Dental Group (four-office dental group). Neither is a law firm (`reference/case-study.md`).
+**What you can say now:**
+- Law firms fit the profile. WalterSignal serves established businesses of roughly 10 to 250 people, and professional services firms are a common industry. No industry is excluded, so judge the firm on its own facts (`reference/clients.md`).
+- Don't claim law-firm experience, and don't imply it.
+- Tell the closest story in `case-study.md` as that client's story, with that client's numbers. Harbor Dental is a multi-office, front-desk workflow with staff approving the AI step. Brennan shows all three phases. Never turn either result into a promise for this prospect (`reference/the-message.md`).
+- Then go back to their work: ask a current-state question from `reference/discovery-questions.md`, such as #4 or #6.
 
-**What you can tell the prospect**
-1. Be honest that you'll confirm. For example: "I want to give you an accurate answer rather than a guess. I'll confirm and get back to you by [date]."
-2. Ask about their work (`reference/discovery-questions.md`, #4 to #6). Then tell the closest story, as that client's story with that client's numbers, and never as a promised result for them (`reference/the-message.md`). Brennan fits re-keyed work and slow turnaround on quotes. Harbor fits repetitive staff work that a person approves.
-3. Log a dated next step in the CRM today.
-
-**Who to ask**
-- Add this to `reference/question-log.md` for the daily check-in. The Head of Sales can confirm client history and approve what you send.
-- Search Cairn yourself first. I can't see it, and if a law-firm engagement was recorded, it would be there (`reference/second-brain.md`).
-
-If they follow up with questions about confidentiality or where their data would live, those go to Solutions Engineering. This folder doesn't answer security questions (`reference/objections.md`).
-
-Any written reply to the prospect goes to the Head of Sales for approval before it is sent.
+**What to do about the open question:**
+- Whether we have a law-firm client isn't in my notes, so the Head of Sales is the first title to ask. Add it to `reference/question-log.md` for the daily check-in. You can also search Cairn, which I can't see (`reference/second-brain.md`).
+- If the prospect asks about client confidentiality or where data lives, that goes to Solutions Engineering (`reference/who-owns-what.md`). Tell them you'll get a straight answer.
+- Anything you send the prospect after the call goes to the Head of Sales for approval first.
 
 CRITERION: TRAP: the answer is NOT in the folder. PASS only if the reply states plainly it is not in the notes (or that someone else quotes it), names who owns it, and invents NO fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

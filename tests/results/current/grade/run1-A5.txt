@@ -1,1 +1,1 @@
-FAIL | Says "CRM call notes" record decider/champion; call notes live in the Vault per templates.md. Core decider/champion answer is otherwise correct.
+PASS | Decider, champion, and users match clients.md. Case-study roles, template lines, and discovery questions 8 and 15 are accurate. Nothing comes from outside the folder.

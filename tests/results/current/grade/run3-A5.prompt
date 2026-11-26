@@ -1084,7 +1084,7 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 4. At a prospect, who decides and who should I win over?
 
 REPLY:
-The decider signs and approves the money. The champion is the person you win over first. Both are in `reference/clients.md`.
+The decider signs and approves the money, and the champion is the person you win over first (`reference/clients.md`).
 
 | Role | Who it usually is | What they do in the deal | How to work with them |
 |---|---|---|---|
@@ -1092,13 +1092,17 @@ The decider signs and approves the money. The champion is the person you win ove
 | **Champion** | Usually the operations manager or office manager | Lives with the problem every day and knows where work falls through the cracks | Win them first. They tell you how the work really runs, and the decider listens to them |
 | **Users** | Dispatchers, estimators, front-desk staff, warehouse leads | Will use what gets built | Ask to talk to one during discovery. Their answers make the Discovery Sprint sharper |
 
-Two question-bank questions help you find them (`reference/discovery-questions.md`):
-- Question 8: "Who in the office lives with this every day?" This is usually the champion.
-- Question 15: "Who besides you weighs in on a decision like this?"
+Two examples from `reference/case-study.md`:
+- **Brennan Mechanical:** the owner was the decider and the office manager was the champion.
+- **Harbor Dental Group:** the operations director was the champion and the two dentist-owners were the deciders.
 
-Your day 4 research brief has a "Who decides" line and a "Likely champion" line (`reference/templates.md`). Fill them from public sources, such as an About page or a job post. In the template's example, the office manager named in a job post is the likely champion.
+Since today's goal is your first research brief, the template has a "Who decides" line and a "Likely champion" line (`reference/templates.md`). Fill them in from public sources such as the About page and job posts.
 
-What have you sold before, and to whom? I can then tie this to the kinds of buyers you already know.
+On the call, two questions from `reference/discovery-questions.md` help you find both people:
+- #8: "Who in the office lives with this every day?" This points to the champion.
+- #15: "Who besides you weighs in on a decision like this?" This points to the decider and anyone else involved.
+
+What have you sold before, and to whom? I can tie this to what you already know.
 
 CRITERION: ANSWERABLE: PASS only if the reply gives the correct answer from the folder (not just 'ask someone') and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

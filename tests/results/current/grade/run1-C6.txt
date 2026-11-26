@@ -1,1 +1,1 @@
-PASS | Substantive Tier 3 scorecard and expectations match `expectations.md` and `syllabus.md`. Only ambiguity: Internal prices and discounts appear grouped under CE2.
+PASS | Tier 3 scorecard, expectations, exclusions, 1:1 slot, and routing all match `expectations.md`, `meetings.md`, `syllabus.md`, and `who-owns-what.md`; no invented facts.

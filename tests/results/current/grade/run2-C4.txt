@@ -1,1 +1,1 @@
-PASS | Questions, order, never-ask list and day-4 pacing all match discovery-questions.md, sales-process.md and first-ten-days.md, with no invented facts.
+PASS | Reproduces the full question bank, call order, never-ask list and day-4 context accurately from discovery-questions.md, sales-process.md and templates.md; no invented facts.

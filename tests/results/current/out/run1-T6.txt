@@ -1,10 +1,8 @@
-No. You never offer, hint at, or agree to a discount at any tier, and that includes 10%. Only the Founder & CEO decides discounts (`reference/services.md`, `reference/who-owns-what.md`). At days 31 to 90, discounts are still not yours (`reference/expectations.md`).
+No. You never offer, hint at, or agree to a discount, at any tier. Only the Founder & CEO decides discounts (`reference/services.md`, `reference/who-owns-what.md`). At day 40 you are in Tier 4, and discounts are listed there as "still not yours" (`reference/expectations.md`).
 
-- **If the client asks for a lower price:** say "Let me take that to our Founder." Do not suggest a number or a range (`reference/objections.md`).
-- **If you want to ask for one:** add it to `reference/question-log.md` and bring it to the daily check-in with the Head of Sales. The Founder & CEO owns the answer. My notes don't say how a discount request reaches the Founder, so that is a question for the Head of Sales.
-- **Don't interrupt anyone in Slack** unless a client is waiting on the line right now, or something went to a client by mistake (`reference/who-owns-what.md`).
-- **Anything you send the client about this deal** goes to the Head of Sales for approval first.
+- **If the client asks for a discount:** say "Let me take that to our Founder." Don't suggest a number or a range (`reference/objections.md`, "Can You Do It Cheaper?").
+- **Your next step:** add the question to `reference/question-log.md` and bring it to the 4:15 check-in with the Head of Sales. Tell them which deal it is and what the client asked for.
+- **Messaging the Head of Sales in Slack right away:** only if a client is waiting on the line, or something went to a client by mistake. A discount question is neither, so it waits for the check-in.
+- **Anything you send the client about this deal:** the Head of Sales approves it first (`reference/who-owns-what.md`).
 
-If the deal involves a Build, the Founder & CEO prices every Build, so that price is not yours to change either (`reference/services.md`).
-
-The Sprint credit is not a discount you offer. If the client signs a Pilot within 30 days of the Sprint readout, the $7,500 is credited toward it. That is standard in `reference/services.md`.
+That the Founder & CEO will decide before the end of this week isn't in my notes. I can't say how quickly a decision comes back, so don't promise the client a date for it.

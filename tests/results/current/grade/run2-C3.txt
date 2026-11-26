@@ -1,1 +1,1 @@
-PASS | Substantive answer from the folder: both case studies, correct client numbers, the rules for telling them, and Build-price caution. No invented facts.
+PASS | Specific answer from case-study.md and objections.md; facts check out. "Nervous about a big commitment" is a mild inference, not a new fact.

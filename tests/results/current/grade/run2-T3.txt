@@ -1,1 +1,1 @@
-PASS | States "isn't in my notes," routes to People Operations, logs it; welcome-call, Meet, email, Revenue Operations, and interrupt-case facts all match the folder.
+PASS | States plainly it isn't in the notes, routes phone numbers to People Operations, and every fact (Meet link, 9:00 call, 4:00 check-in) matches the folder.

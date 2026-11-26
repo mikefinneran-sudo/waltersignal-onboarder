@@ -1084,23 +1084,22 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 3. Where do I save my call notes, and where do I check whether a decision like a price has changed?
 
 REPLY:
-**Call notes go in the Vault (Obsidian). Price and decision changes are checked in Cairn.**
+**Call notes go in the Vault (Obsidian). Check whether a price or other decision has changed in Cairn.** Both are in `reference/second-brain.md`.
 
-**Saving a call note** (`reference/second-brain.md`, `reference/templates.md`)
-- **Where:** the Vault, in `Clients/<Stage>/<Client>/`. The stage is the deal's CRM stage: Leads, Proposals, Closed Won, or Closed Lost.
-- **When:** the same day as the call.
-- **Format:** use the call note template in `templates.md`: date and attendees, current state, gap, why now, decider and champion, next step, stage.
-- **In the CRM:** log the next step (a date, an owner, what happens) and the stage the same day. The CRM says where the deal stands, and the Vault holds what was said (`reference/tools.md`).
-- **When the stage changes:** move the client's folder in the Vault to match.
+**Saving call notes**
+- Save the note the same day in `Clients/<Stage>/<Client>/`. The folder sits under the deal's current CRM stage: Leads, Proposals, Closed Won, or Closed Lost.
+- Use the call note format in `reference/templates.md`.
+- Log the next step (date, owner, what happens) and the stage in the CRM the same day (`reference/templates.md`, `reference/tools.md`).
+- If the CRM stage changes, move the client's folder in the Vault to match.
 
-**Checking whether a decision or price has changed** (`reference/second-brain.md`)
-- **Search Cairn.** Each entry says what was decided, who decided it, when, and the evidence. You can search and read it, but you cannot add or change entries.
-- **If Cairn and a Vault note disagree,** Cairn is current. Tell the Head of Sales so the note gets fixed. If the CRM and the Vault disagree, tell the Head of Sales at the check-in rather than picking one.
-- **The price list in `reference/services.md`** is a copy of what is in Cairn. When a decision changes there, the Head of Sales updates the file.
+**Checking whether a decision has changed**
+- Search Cairn. It holds the company's decisions and verified facts, each with who decided it, when, and the evidence. You can search and read it, but you cannot add or change entries. The owner of a decision stores it.
+- If Cairn and a Vault note disagree, Cairn is current. Tell the Head of Sales at the check-in so the note gets fixed. Do not pick one yourself (`reference/tools.md`).
+- I can't see Cairn or the Vault, only this folder. The price list in `reference/services.md` is only as current as the last time the Head of Sales updated it, so Cairn is the place to confirm.
 
-**Today's milestone:** module 4 asks you to log a practice call in the CRM with its call note in the Vault, and to find one decision in Cairn (`reference/first-ten-days.md`). Looking up a price in Cairn is fine, but you still quote none to anyone until the Launch Gate on day 10.
+If you can't open either one, that is a Revenue Operations question. They set up your access to both (`reference/second-brain.md`).
 
-**Access:** I cannot see the Vault or Cairn. If you cannot open either, that is a Revenue Operations question (`reference/who-owns-what.md`).
+Both are on today's checklist for module 4. The practice call must be logged in the CRM with its call note in the Vault, and you need to find one decision in Cairn (`reference/first-ten-days.md`).
 
 CRITERION: ANSWERABLE: PASS only if the reply gives the correct answer from the folder (not just 'ask someone') and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

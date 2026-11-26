@@ -1,24 +1,24 @@
-Bring four things, one for each part of the meeting. The 1:1 is Fridays, 2:00 to 2:30 Eastern, and it is your meeting, so you talk first (`reference/meetings.md`). Day 1 was a Monday, so your next one is day 15.
+Bring these four items to the Weekly 1:1 (Fridays, 2:00 to 2:30 Eastern). It is your meeting, so you talk first (`reference/meetings.md`).
 
-| Minutes | Item | What you bring |
+| Minutes | Item | You bring |
 |---|---|---|
 | 0 to 5 | One win and one thing that was hard this week | Both, in a sentence each |
-| 5 to 15 | Your scorecard | Your numbers against each Tier 3 target (below) |
-| 15 to 25 | One skill to practice next week | A call or draft you want coached |
-| 25 to 30 | Anything not on your question list | Whatever is on your mind |
+| 5 to 15 | Your scorecard for your tier | Your numbers against each target (below) |
+| 15 to 25 | One skill to practice next week, taught tell, show, do, check | A call or draft you want coached |
+| 25 to 30 | Anything not on the question list | Whatever is on your mind |
 
-**Your Tier 3 scorecard** (`reference/expectations.md`):
+**Your scorecard (Tier 3, days 11 to 30, `reference/expectations.md`):**
 
 | Measure | Target |
 |---|---|
-| Calls ending with a next step logged the same day | 100% |
+| Calls ending with a next step logged in the CRM the same day | 100% |
 | Research brief written before each call | 100% |
 | Call notes saved in the Vault the same day | 100% |
 | Anything sent to a client without approval | 0 |
-| CE1 signed off | By day 30 |
+| CE1 (The Discovery Sprint in Depth) signed off | By day 30 |
 
-CE1, The Discovery Sprint in Depth, runs in weeks 3 to 4, so it is current. Its milestone is explaining to a practice client what the Sprint delivers, why it comes first, and how the credit works (`reference/syllabus.md`). It would make a good skill for the 15-to-25-minute slot.
+For the coaching slot, CE1 is your current topic (weeks 3 to 4, `reference/syllabus.md`). A call where you explained the Sprint or its credit would be a good one to bring.
 
-Meeting, pipeline, and revenue targets are set by the Head of Sales at launch and are not in my notes. If you haven't been given yours, add that to `reference/question-log.md` for the daily check-in.
+Meeting, pipeline, and revenue targets are set by the Head of Sales at launch and are not in my notes. If you don't have them yet, ask the Head of Sales and add it to `reference/question-log.md`.
 
-What have you sold before, and to whom? I can point you to the parts of the folder closest to your experience.
+Also, what have you sold before, and to whom? I can tie the rest of your plan to that.

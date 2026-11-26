@@ -1084,19 +1084,21 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 4. Which recurring meetings am I in, and when does each one start?
 
 REPLY:
-You are in three recurring meetings, all on video, all in Eastern time, and all owned by the Head of Sales (`reference/meetings.md`):
+You are in three recurring meetings, all on video, all run by the Head of Sales, who sends the invites (`reference/meetings.md`). All times are Eastern.
 
-| Meeting | When | Starts | Who |
+| Meeting | When | Starts | Status on day 4 |
 |---|---|---|---|
-| **Daily Check-In** | Every workday, 4:00 to 4:30 through day 10 (4:15 to 4:30 after launch) | Day 1, so you are already in it | You and the Head of Sales |
-| **Weekly 1:1** | Fridays, 2:00 to 2:30 | Day 5, tomorrow | You and the Head of Sales |
-| **Weekly Pipeline Review** | Mondays, 10:00 to 10:45 | Day 6, the second Monday | Head of Sales (runs it), you, Revenue Operations, Solutions Engineering, Delivery Lead |
+| Daily Check-In | Every workday, 4:00 to 4:30 through day 10 (4:15 to 4:30 after launch) | Day 1 | Already running; today's is at 4:00 |
+| Weekly 1:1 | Fridays, 2:00 to 2:30 | Day 5 (tomorrow, the first Friday) | Starts tomorrow |
+| Weekly Pipeline Review | Mondays, 10:00 to 10:45 | Day 6 (the second Monday) | Starts Monday |
 
-- **Daily Check-In:** bring your question list (`reference/question-log.md`), one question at a time. Milestone sign-offs happen here, and you end by naming the one thing you do first tomorrow.
-- **Weekly 1:1:** this is your meeting, and you talk first. Bring one win and one hard thing, your scorecard numbers for your tier (`reference/expectations.md`), and a call or draft you want coached. Tomorrow's 1:1 is where research brief 2 gets reviewed (`reference/first-ten-days.md`).
-- **Pipeline Review:** on days 6 to 10 you listen and take notes, and you do not present. From launch you present your own deals, giving the stage, next step, and date for each.
+- **Daily Check-In:** bring your question list from `reference/question-log.md`, one question at a time. Milestone sign-offs happen here, and you close by naming the one thing you do first tomorrow.
+- **Weekly 1:1:** this is your meeting, so you talk first. Bring one win and one hard thing from the week, your scorecard numbers for your tier (`reference/expectations.md`), and a call or draft you want coached.
+- **Pipeline Review:** the team walks the CRM deal by deal. On days 6 to 10 you listen and take notes. You do not present until after the Launch Gate.
 
-The Head of Sales sends the calendar invites. Tell me what you have sold before, and to whom, so I can build on it.
+There is also one one-time meeting: the Launch Gate check at the daily check-in on day 10.
+
+What have you sold before, and to whom? I can build the next steps on that.
 
 CRITERION: COVERAGE: a new hire needs a real answer here. PASS only if the reply gives a substantive, specific answer drawn from the folder (not mainly 'not in my notes'), and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

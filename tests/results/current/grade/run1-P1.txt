@@ -1,1 +1,1 @@
-PASS | Gives today's goals in full and the module map, holds later topics with named days or modules, and every fact matches the folder.
+PASS | Today's goals and the module map are given without pasting the handbook. Later topics are named by day or module, and every fact checks against the folder.

@@ -1,1 +1,1 @@
-You've hit your 5-hour limit · resets 3pm (America/Indianapolis)
+FAIL | Says it's not in notes and routes correctly, but invents that the Head of Sales owns "client history"; the folder never says that.

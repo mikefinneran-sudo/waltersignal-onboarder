@@ -1,4 +1,4 @@
-Use the bank in `reference/discovery-questions.md`. Pick two or three questions per section, in the order of the call in `reference/sales-process.md`: current state, gap, solution, next step. It is a conversation, not a survey.
+Use the question bank in `reference/discovery-questions.md`. Pick two or three per section, in the order of the call in `reference/sales-process.md`. It is a conversation, not a survey.
 
 **Opening: why are we talking?**
 1. "What made you reach out now?"
@@ -6,6 +6,7 @@ Use the bank in `reference/discovery-questions.md`. Pick two or three questions 
 3. "How did you hear about us?" Log the source in the CRM: referral, website, event, or outreach.
 
 **Current state: how does the work run today?**
+
 4. "Walk me through what happens from the moment a customer calls you."
 5. "What gets written on paper, or kept in someone's head?"
 6. "Where does a job fall through the cracks?"
@@ -13,21 +14,25 @@ Use the bank in `reference/discovery-questions.md`. Pick two or three questions 
 8. "Who in the office lives with this every day?" That is usually the champion.
 
 **Gap: what does it cost?**
+
 9. "How often does that happen in a month?"
 10. "What does one of those cost you, in time or in a lost job?"
 11. "If nothing changes, what does this look like a year from now?"
 
 **Why now, why us**
+
 12. "What changed that makes this worth fixing this quarter?"
 13. "Have you tried to fix it before? What happened?"
 14. "What would you need to see to trust a fix?"
 
 **Money and decision.** Money comes up by the second conversation at the latest.
+
 15. "Who besides you weighs in on a decision like this?"
 16. "Do you have a range in mind, or would it help to see options?"
 17. "When would you want this working?"
 
-**Next step, on every call**
+**Next step, every call**
+
 18. "Here's what I'll do next, by [date]. Here's what I need from you. Does that work?"
 
 Write the next step in the CRM the same day: a date, an owner, and what happens.
@@ -37,10 +42,10 @@ Write the next step in the CRM the same day: a date, an owner, and what happens.
 - "What's your budget?" in the first five minutes. Earn it with the gap questions first.
 - Anything about competitors' private pricing or the prospect's personal details.
 
-**Also keep in mind**
-- Before a second call, make sure you can answer the four qualifying questions in `reference/clients.md`: Why this? Why now? Why us? Is it big enough to justify a $20,000 Pilot?
-- Don't give away free consulting on the call. The call finds the problem; the Sprint maps the fix (`reference/sales-process.md`).
+**For day 4**
+- You are not running calls yet. Sit in on any discovery call the Head of Sales runs.
+- Your research brief 1 of 3 needs "the first three questions you will ask" from this list (`reference/templates.md`).
+- The practice call, where the Head of Sales plays the client, is day 7. It covers current state, gap, solution, and next step.
+- Do not give a price on any call. Prices are module 6, days 8 to 10, and you quote none until the Launch Gate.
 
-**For today**, your day 4 goals (`reference/first-ten-days.md`) are to sit in on any discovery call the Head of Sales runs and to write research brief 1 of 3. Pick the three questions you would open with for that brief from this bank. Template and example are in `reference/templates.md`. You don't run live calls yet, and you quote no price to anyone.
-
-What have you sold before, and to whom? I can point out which of these questions will carry over most directly.
+What have you sold before, and to whom? I can point out which of these questions will feel most familiar.

@@ -1,8 +1,8 @@
-That isn't in my notes: the payout date and schedule for commission aren't written anywhere in `reference/`, so I won't guess.
+That isn't in my notes, so I can't give you a payout date. The folder doesn't say when commissions are paid.
 
-**Who to ask** (`reference/who-owns-what.md`):
+- **Payout timing:** Finance & Billing owns commission payouts. "When are commissions paid?" is listed as one of their questions in `reference/who-owns-what.md`.
+- **The commission plan itself** (rates, what counts, how it's calculated): this is a Head of Sales question.
 
-- **When commission is paid out:** Finance & Billing. They own commission and partner payouts.
-- **What your commission plan is** (rate, how it's calculated): Head of Sales.
+Add the question to `reference/question-log.md` and bring it to the daily check-in. The Head of Sales can get it to Finance & Billing, and the answer then goes into Cairn and this folder.
 
-Add the payout-timing question to `reference/question-log.md` and bring it to the daily check-in. This isn't one of the two urgent cases (a client waiting on the line, or something sent to a client by mistake), so it doesn't need a Slack interrupt.
+This doesn't meet the bar for interrupting anyone. Only a client waiting on the line, or something sent to a client by mistake, does (`reference/who-owns-what.md`).

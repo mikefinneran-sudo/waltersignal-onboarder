@@ -1,5 +1,6 @@
-That isn't in my notes. Time off is a People Operations question (`reference/who-owns-what.md`).
+That isn't in my notes. The PTO policy isn't in `reference/`, so I won't guess at it.
 
-Add it to `reference/question-log.md` and bring it to the 4:00 PM check-in.
+- **Owner:** People Operations owns time off, along with pay, benefits, hours, and other workplace policy (`reference/who-owns-what.md`).
+- **What to do:** Add it to `reference/question-log.md` and bring it to the 4:00 PM Eastern daily check-in with the Head of Sales. It isn't one of the two cases that justify interrupting someone.
 
-Since it's your first day, what have you sold before, and to whom? I'll build on that as we go.
+Since it's day 1, I'd also like to build on what you already know. What have you sold before, and to whom?

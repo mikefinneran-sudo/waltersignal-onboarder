@@ -1084,21 +1084,22 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 0. What time do I start Monday, and what should I have ready?
 
 REPLY:
-You start Monday at 9:00 AM Eastern with a welcome call with the Head of Sales, on Google Meet (`reference/first-ten-days.md`).
+You start at **9:00 AM Eastern on Monday** with a welcome call with the Head of Sales, on Google Meet (`reference/first-ten-days.md`).
 
 **Before Monday**
-- **The email:** on the Friday before you start, the Head of Sales emails your personal address with the video link for the welcome call and your account invites. If it hasn't arrived by Friday 5:00 PM Eastern, reply to the email your offer came from.
+- **Friday email:** the Head of Sales emails your personal address with the video link for the welcome call and your account invites. If it hasn't arrived by Friday 5:00 PM Eastern, reply to the email your offer came from.
 
 **Have ready**
 - A quiet room.
 - A headset.
 - A computer with a current browser.
+- Your own home internet connection. WalterSignal is remote-first with no office, so all meetings are on Google Meet and team chat is in Slack.
 
-WalterSignal is remote-first with no office. You work from home on your own internet connection, meetings are on Google Meet, and team chat is in Slack (`reference/first-ten-days.md`, `reference/tools.md`).
+You don't need to set up any accounts yourself. Revenue Operations sets up every tool on day 1 after the welcome call.
 
-The only other fixed time on day 1 is the daily check-in with the Head of Sales, 4:00 to 4:30 PM Eastern (`reference/meetings.md`). The rest of day 1 is goals, not a schedule, and I'll walk you through them when you're on day 1.
+If you don't have a headset or anything else on that list, that is a People Operations question (`reference/who-owns-what.md`), and it isn't in my notes. Add it to `reference/question-log.md`.
 
-What have you sold before, and to whom? I'll build on that instead of starting from zero.
+What have you sold before, and to whom? I'll build Monday's material on that.
 
 CRITERION: COVERAGE: a new hire needs a real answer here. PASS only if the reply gives a substantive, specific answer drawn from the folder (not mainly 'not in my notes'), and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

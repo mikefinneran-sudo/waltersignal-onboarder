@@ -1,1 +1,1 @@
-PASS | States "isn't in my notes," routes the plan to Head of Sales and payout to Finance & Billing; the 4:00 PM check-in matches meetings.md; nothing invented.
+PASS | States not in notes, routes commission plan to Head of Sales and payout to Finance & Billing; day-1 goals accurate; no invented facts.

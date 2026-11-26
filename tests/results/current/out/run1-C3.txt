@@ -1,17 +1,20 @@
-Show them the story closest to their industry or problem. `reference/case-study.md` has two, and `reference/objections.md` ("Do you have results?") says to tell the closest one with that client's numbers, as that client's result.
+Tell the closest story from `reference/case-study.md`, using that client's numbers, as that client's result. Never turn it into a promise for the prospect (`reference/objections.md`, "Do you have results?").
 
-| If the prospect is... | Tell | Their numbers |
+**Which story to use**
+
+| If the prospect... | Tell | Their numbers |
 |---|---|---|
-| Field service or a similar operation with slow quotes, whiteboard scheduling, or jobs typed twice | **Brennan Mechanical**, a 38-person HVAC and plumbing contractor | Median time to send a quote fell from two business days to four hours during the Pilot. After the Build, finished jobs stopped being typed twice. |
-| Multi-location healthcare, or staff tied up in repetitive manual checks | **Harbor Dental Group**, a four-office group with about 60 staff | Staff time per insurance check fell from about 12 minutes to about 3. |
+| Is a trades or field-service business, or has slow quoting, a whiteboard for dispatch, or re-typed jobs | **Brennan Mechanical** (38-person HVAC/plumbing contractor) | Median time to send a quote fell from two business days to four hours during the Pilot. After the Build, finished jobs stopped being typed twice. |
+| Is a multi-location office, or loses staff time to a repetitive manual check | **Harbor Dental Group** (four offices, about 60 staff) | Staff time per insurance check fell from about 12 minutes to about 3. |
+| Worries about committing too much, or about AI hype | Either, with the point below | |
 
-- **Brennan** shows all three phases: a 2-week Sprint, a 7-week Pilot, and a 5-month Build. Point out that the Sprint told them to leave their accounting software alone. It shows that we recommend less when less is right.
-- **Harbor** shows a client who stopped after the Pilot, kept it running on the Essentials Support Plan, and owns everything built so far. Use it to show that each phase stands on its own.
+**What to point out**
+- **Brennan** shows all three phases. The Sprint told them to leave their accounting software alone, which saved them money. WalterSignal recommends less when less is right.
+- **Harbor** stopped after the Pilot, kept it running on the Essentials Support Plan, and owns everything built. Each phase stands on its own, and a client can stop after any phase and keep what was delivered (`reference/services.md`).
 
-**Rules for telling it**
-- Tell it as the client's result. Never say or imply the prospect will get the same number (`reference/the-message.md`, "Never Say This").
-- **Do not say Brennan's $140,000 Build price.** Build prices are Internal and never said to a client (`reference/services.md`).
-- Sprint ($7,500) and Pilot prices are Quotable only after the Launch Gate. If the Head of Sales has not said "launched," quote no price.
-- The folder has no client-facing handout or deck. If you want to send anything written, such as a summary of the story, draft it and get the Head of Sales to approve it before it goes.
+**Watch these**
+- **Build prices are Internal.** Brennan's story lists a Build price, but you never say a Build price to a prospect. The Founder & CEO prices every Build. The Sprint ($7,500) and Pilot ($20,000 or $30,000) prices are Quotable, if the prospect asks.
+- **Don't say "you'll get the same result."** Say "that was Brennan's result."
+- **Approval comes first.** If you want to send anything in writing to this prospect, the Head of Sales approves it first.
 
-What industry is the prospect in, and what problem did they describe? I can help you pick between the two.
+The folder has the stories but no send-ready case-study document, and I can't see whether one exists elsewhere. If you need one, add it to `reference/question-log.md` for the Head of Sales at the check-in.

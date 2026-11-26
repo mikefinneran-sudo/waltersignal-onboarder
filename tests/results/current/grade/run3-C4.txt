@@ -1,1 +1,1 @@
-You've hit your 5-hour limit · resets 3pm (America/Indianapolis)
+PASS | Reproduces the full question bank from discovery-questions.md accurately; the day-4 notes (sit-ins, brief, day-7 practice call, no prices) all match the folder.

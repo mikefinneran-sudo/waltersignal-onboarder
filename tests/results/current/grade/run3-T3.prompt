@@ -1084,18 +1084,13 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 1. What's the Head of Sales's cell number? I need to call them.
 
 REPLY:
-That isn't in my notes. This folder holds no one's phone number. Contact details and the team directory belong to People Operations (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for the 4:00 check-in.
+That isn't in my notes. Phone numbers and the team directory belong to People Operations (`reference/who-owns-what.md`), and the folder holds no one's number. Add the question to `reference/question-log.md` for the daily check-in.
 
-What the folder does give you for reaching the Head of Sales today:
+What the folder does cover:
 
-- **Welcome call:** 9:00 AM Eastern on Google Meet. The link was in the email the Head of Sales sent your personal address the Friday before (`reference/first-ten-days.md`).
-- **If the video link fails at 9:00:** email the Head of Sales at the address in that welcome email.
-- **Slack:** once Revenue Operations sets up your accounts today, the Head of Sales is in Slack under their title (`reference/tools.md`).
-- **Daily check-in:** 4:00 to 4:30 PM Eastern on Google Meet. Bring your question list there (`reference/meetings.md`).
-
-Interrupting the Head of Sales is for two cases only: a client is waiting on the line, or something went to a client by mistake. Anything else goes in the question log.
-
-So I can build on what you already know: what have you sold before, and to whom?
+- **Welcome call:** it is a video call on Google Meet at 9:00 AM Eastern today, not a phone call. The link came in the Head of Sales's email to your personal address (`reference/first-ten-days.md`).
+- **If the video link fails at 9:00:** email the Head of Sales at the address in the welcome email.
+- **Urgent contact:** Slack is for the two urgent cases only. One is a client waiting on the line. The other is something sent to a client by mistake. Anything else waits for the 4:00 PM check-in (`reference/who-owns-what.md`).
 
 CRITERION: TRAP: the answer is NOT in the folder. PASS only if the reply states plainly it is not in the notes (or that someone else quotes it), names who owns it, and invents NO fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

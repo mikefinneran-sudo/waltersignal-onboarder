@@ -1,9 +1,9 @@
-Pick two or three questions from each section below, in this order. A discovery call is a conversation, not a survey. All of this is in `reference/discovery-questions.md`.
+The full question bank is in `reference/discovery-questions.md`. Pick two or three per section; a discovery call is a conversation, not a survey. The call runs in this order (`reference/sales-process.md`): current state, gap, solution, next step.
 
 **Opening: why are we talking?**
 1. "What made you reach out now?"
 2. "If one part of the business ran better a year from now, which part would it be?"
-3. "How did you hear about us?" Log the source in the CRM: referral, website, event, or outreach.
+3. "How did you hear about us?" (Log the source in the CRM: referral, website, event, or outreach.)
 
 **Current state: how does the work run today?**
 
@@ -11,7 +11,7 @@ Pick two or three questions from each section below, in this order. A discovery 
 5. "What gets written on paper, or kept in someone's head?"
 6. "Where does a job fall through the cracks?"
 7. "Which tools do you pay for today, and which ones does anyone actually open?"
-8. "Who in the office lives with this every day?" That is usually the champion.
+8. "Who in the office lives with this every day?" (That is usually the champion.)
 
 **Gap: what does it cost?**
 
@@ -25,13 +25,11 @@ Pick two or three questions from each section below, in this order. A discovery 
 13. "Have you tried to fix it before? What happened?"
 14. "What would you need to see to trust a fix?"
 
-**Money and decision**
+**Money and decision** (money comes up by the second conversation at the latest)
 
 15. "Who besides you weighs in on a decision like this?"
 16. "Do you have a range in mind, or would it help to see options?"
 17. "When would you want this working?"
-
-Money comes up by the second conversation at the latest.
 
 **Next step (every call)**
 
@@ -44,6 +42,6 @@ Write the next step in the CRM the same day: a date, an owner, and what happens.
 - "What's your budget?" in the first five minutes. Earn it with the gap questions first.
 - Anything about competitors' private pricing or the prospect's personal details.
 
-**How this fits the call** (`reference/sales-process.md`): the call runs current state, then gap, then solution, then next step. The solution is usually "a Discovery Sprint to find out which fix comes first." Do not give away free consulting; the call finds the problem and the Sprint maps the fix.
+**For day 4:** you sit in on discovery calls the Head of Sales runs. Your first research brief is due today, and it asks for the three questions you would ask first, chosen from this bank (`reference/templates.md`). You run a live call yourself only after the Launch Gate on day 10.
 
-**Where you are today:** your day 4 goal is research brief 1 of 3 on an assigned lead (`reference/templates.md`). The brief has a line for the three questions you will ask first, so pick them from this list. For now you sit in on the Head of Sales's calls rather than running your own. The practice call is day 7, and you co-run your first live call on day 10 (`reference/first-ten-days.md`).
+What have you sold before, and to whom? I can point you to the questions that map best to that.

@@ -1,1 +1,1 @@
-PASS | Hand-off steps, payment terms, routing and CE3 timing all match `sales-process.md`, `who-owns-what.md` and `syllabus.md`; no invented facts.
+PASS | Every fact traces to the folder: the After a Yes steps, the payment table, Vault and CRM logging, and routing to Delivery Lead and Solutions Engineering. Nothing invented.

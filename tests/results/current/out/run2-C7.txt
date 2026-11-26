@@ -1,15 +1,19 @@
-You are in three recurring meetings, all on video and all run by the Head of Sales (`reference/meetings.md`). Times are Eastern.
+You are in three recurring meetings, all on video and all run by the Head of Sales (`reference/meetings.md`).
 
-| Meeting | When | Starts | Who |
+| Meeting | When (Eastern) | Starts | Status on day 4 |
 |---|---|---|---|
-| Daily Check-In | Every workday, 4:00 to 4:30 through day 10 (4:15 to 4:30 after launch) | Day 1, so you are already in it | You and the Head of Sales |
-| Weekly 1:1 | Fridays, 2:00 to 2:30 | Day 5, tomorrow | You and the Head of Sales |
-| Weekly Pipeline Review | Mondays, 10:00 to 10:45 | Day 6, next Monday | Head of Sales (runs it), you, Revenue Operations, Solutions Engineering, Delivery Lead |
+| Daily Check-In | Every workday, 4:00 to 4:30 through day 10 (4:15 to 4:30 after launch) | Day 1 | Already running. Today's is at 4:00 PM. |
+| Weekly 1:1 | Fridays, 2:00 to 2:30 | Day 5 | Tomorrow, your first Friday |
+| Weekly Pipeline Review | Mondays, 10:00 to 10:45 | Day 6 | Next Monday, your second Monday |
 
-- **Today's check-in:** bring your question list from `reference/question-log.md`, any module ready for sign-off, and the one thing you will do first tomorrow.
-- **Tomorrow's 1:1:** it is your meeting, so you talk first. Bring one win and one hard thing from the week, and your numbers against your tier's scorecard in `reference/expectations.md`. Also bring a call or draft you want coached.
-- **Monday's pipeline review:** on days 6 to 10 you listen and take notes. You do not present until after the Launch Gate.
+What to bring to each:
 
-The Head of Sends sends the calendar invites. If an invite is missing, tell the Head of Sales at the check-in.
+- **Daily Check-In:** your question list from `reference/question-log.md`, one question at a time. Also milestone sign-offs if a module is ready, and the one thing you do first tomorrow.
+- **Weekly 1:1:** this is your meeting, so you talk first. Bring one win and one hard thing from the week, your scorecard numbers against your tier in `reference/expectations.md`, a call or draft you want coached, and anything not on your question list. Per `reference/first-ten-days.md`, tomorrow's goal is research brief 2, which gets reviewed in this meeting.
+- **Weekly Pipeline Review:** the Head of Sales runs it, and Revenue Operations, Solutions Engineering, and the Delivery Lead attend. On days 6 to 10 you only listen and take notes. You start presenting your own deals after launch.
 
-What have you sold before, and to whom? I can build on that as we go.
+The Head of Sales sends the calendar invites. If one has not arrived, add that to your question list for the check-in.
+
+One non-recurring meeting also falls in your first ten days: the Launch Gate check at the day 10 check-in (`reference/syllabus.md`).
+
+What have you sold before, and to whom? I can build on that as you move through the next modules.

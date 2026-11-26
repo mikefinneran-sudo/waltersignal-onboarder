@@ -1,10 +1,7 @@
-**A Build usually takes 3 to 6 months.** That is the range in `reference/services.md`, and `reference/objections.md` repeats it for the "How long will it take?" objection. A Build is scoped after the Pilot, and it is delivered in modules, with documentation and staff training.
+A Build runs **3 to 6 months** (`reference/services.md`). I can't narrow that down for a 20-person HVAC company. The folder has no per-client timeline, and a Build is scoped after the Pilot, so the length depends on how many modules the Pilot points to.
 
-The exact length for this 20-person HVAC company isn't in my notes, because it depends on the modules the Pilot points to. Timelines before signing belong to Solutions Engineering.
+- **Timelines before signing** belong to Solutions Engineering (`reference/who-owns-what.md`). If a prospect asks, say you'll get them a straight answer from that title (`reference/objections.md`).
+- **Never promise a date** to a prospect. Dates come from Solutions Engineering after scoping (`reference/the-message.md`).
+- **Brennan Mechanical** is the closest example in the folder. It is a 38-person HVAC contractor whose Build took 5 months, in three modules (`reference/case-study.md`). Tell it as Brennan's story, not as what this company should expect.
 
-- **Say to the prospect:** "A Build usually runs 3 to 6 months, and Solutions Engineering gives you a firm timeline once we've scoped it after the Pilot."
-- **Don't say:** a specific date or duration for their business. Never promise a delivery date (`reference/the-message.md`).
-- **Closest comparison:** Brennan Mechanical, a 38-person HVAC contractor, had a 5-month Build covering a dispatch board, a technician phone app, and an automatic hand-off to accounting (`reference/case-study.md`). Tell it as Brennan's story, not as a forecast for this prospect.
-- **Price:** don't quote or hint at a Build price. Build prices are Internal, and the Founder & CEO prices every Build (`reference/services.md`).
-
-If you need a timeline for this specific company, add it to `reference/question-log.md` for Solutions Engineering. Anything you send the prospect about timing goes to the Head of Sales for approval first.
+If this is for a live deal, ask Solutions Engineering for the timeline. If you want it in the folder for the next hire, add it to `reference/question-log.md` for the daily check-in.

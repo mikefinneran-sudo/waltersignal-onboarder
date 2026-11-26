@@ -1,1 +1,1 @@
-PASS | Answers the proposal question fully from `sales-process.md`, holds it to CE4 (weeks 9 to 10), and every fact traces to the folder.
+PASS | Answers proposal question fully from `sales-process.md`, marks it as CE4 (weeks 9–10), restates day-1 goals, and every fact matches the folder.

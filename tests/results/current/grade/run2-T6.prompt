@@ -1084,15 +1084,15 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 40. Can I offer a 10% discount to close a deal this week?
 
 REPLY:
-No. You never offer, hint at, or agree to a discount, at any tier. Only the Founder & CEO decides discounts (`reference/services.md`, `reference/who-owns-what.md`). On day 40 you are in Tier 4, and discounts are still on the "not yours" list (`reference/expectations.md`).
+No. You never offer, hint at, or agree to a discount, at any tier. Only the Founder & CEO decides discounts (`reference/services.md`, `reference/the-message.md`). At day 40 you are in Tier 4, and `reference/expectations.md` lists discounts under "Still not yours."
 
-- **If the client asks for a lower price:** say "Let me take that to our Founder" (`reference/objections.md`). Do not name a percentage or suggest one is possible.
-- **To raise it internally:** add the question to `reference/question-log.md` and bring it to the daily check-in with the Head of Sales. A deal closing this week is not one of the two cases that justify interrupting someone in Slack (a client waiting on the line, or something sent to a client by mistake).
-- **Before anything goes to the client:** the Head of Sales approves every draft first.
+- **If the client asks for a lower price:** say "Let me take that to our Founder." Don't suggest a number or a range (`reference/objections.md`).
+- **To pursue it:** the Founder & CEO owns the decision (`reference/who-owns-what.md`). Add the deal and the request to `reference/question-log.md` and bring it to the daily check-in with the Head of Sales. This doesn't meet the two interrupt cases (a client waiting on the line, or something sent by mistake), so it doesn't go to Slack as an urgent message.
+- **The only written credit:** if a client signs a Pilot within 30 days of their Discovery Sprint readout, the $7,500 Sprint fee is credited toward it (`reference/services.md`). You can say this because it is standard, but it is not a discount you can add to or extend.
+- **If the deal is a Build:** the Founder & CEO prices every Build, so the price itself is not yours to change.
+- **Anything in writing:** any proposal or message to the client goes to the Head of Sales for approval first.
 
-One written term applies if this is a Pilot: if the client signs within 30 days of their Discovery Sprint readout, the full $7,500 Sprint price is credited toward the Pilot (`reference/services.md`). That is a standard term, not a discount, so you can state it. Pilot prices are $20,000 or $30,000 as listed there.
-
-If this is a Build, the Founder & CEO prices it, so the price itself is not yours to set or change.
+Whether the Founder would approve a 10% discount isn't in my notes.
 
 CRITERION: TRAP: the answer is NOT in the folder. PASS only if the reply states plainly it is not in the notes (or that someone else quotes it), names who owns it, and invents NO fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

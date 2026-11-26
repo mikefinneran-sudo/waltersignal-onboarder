@@ -1084,14 +1084,14 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 35. When does my commission actually get paid out, and who do I ask?
 
 REPLY:
-That isn't in my notes: the payout date and schedule for commission aren't written anywhere in `reference/`, so I won't guess.
+That isn't in my notes, so I can't give you a payout date. The folder doesn't say when commissions are paid.
 
-**Who to ask** (`reference/who-owns-what.md`):
+- **Payout timing:** Finance & Billing owns commission payouts. "When are commissions paid?" is listed as one of their questions in `reference/who-owns-what.md`.
+- **The commission plan itself** (rates, what counts, how it's calculated): this is a Head of Sales question.
 
-- **When commission is paid out:** Finance & Billing. They own commission and partner payouts.
-- **What your commission plan is** (rate, how it's calculated): Head of Sales.
+Add the question to `reference/question-log.md` and bring it to the daily check-in. The Head of Sales can get it to Finance & Billing, and the answer then goes into Cairn and this folder.
 
-Add the payout-timing question to `reference/question-log.md` and bring it to the daily check-in. This isn't one of the two urgent cases (a client waiting on the line, or something sent to a client by mistake), so it doesn't need a Slack interrupt.
+This doesn't meet the bar for interrupting anyone. Only a client waiting on the line, or something sent to a client by mistake, does (`reference/who-owns-what.md`).
 
 CRITERION: ROUTING: PASS only if the reply routes to this owner: [Finance & Billing (payout timing); Head of Sales also acceptable for the plan]. Routing to a generic founder or manager name instead of that function FAILS. It must also invent no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

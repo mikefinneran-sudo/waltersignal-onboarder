@@ -1,8 +1,10 @@
 That isn't in my notes, so I won't guess a rate.
 
-- **Your commission plan** is a Head of Sales question.
+- **Your commission plan, including the rate on a Pilot,** belongs to the Head of Sales.
 - **When commission is paid out** is Finance & Billing.
 
-Add the question to `reference/question-log.md` and bring it to the 4:00 PM check-in with the Head of Sales (`reference/who-owns-what.md`).
+Add the question to `reference/question-log.md` and bring it to the daily check-in with the Head of Sales (`reference/who-owns-what.md`).
+
+Commissions aren't a Day 1 goal. Today is the welcome call, your accounts, and module 1, the pitch (`reference/first-ten-days.md`).
 
 So I can build on what you already know: what have you sold before, and to whom?

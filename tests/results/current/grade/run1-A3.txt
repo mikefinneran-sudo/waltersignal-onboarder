@@ -1,1 +1,1 @@
-PASS | Sprint $7,500 fixed, two weeks, credited toward Pilot within 30 days of readout; every other fact matches services.md, sales-process.md, and case-study.md.
+PASS | Sprint price, length, deliverables, 30-day credit, 100% payment at signing, and Build pricing owner all match services.md, objections.md, and sales-process.md.

@@ -60,12 +60,12 @@ call that failed, and `score.sh` lists it as UNGRADED so it can be regraded.
 | Category | Baseline (`c112c16`) | `4695c84` | `b03dc24` | Current (`256954d`) |
 |---|---|---|---|---|
 | T Trap | 30/30 | 30/30 | 31/33 | 34/36 |
-| A Answerable | 18/18 | 18/18 | 21/21 | 24/27 |
-| P Pacing | 6/6 | 6/6 | 6/6 | 4/6 |
-| C Coverage | 15/18 | 17/18 | 19/21 | 23/24 |
+| A Answerable | 18/18 | 18/18 | 21/21 | 27/27 |
+| P Pacing | 6/6 | 6/6 | 6/6 | 5/6 |
+| C Coverage | 15/18 | 17/18 | 19/21 | 24/24 |
 | R Routing | 0/18 | 17/18 | 18/18 | 18/18 |
-| **Single-turn total** | **69/90** | **88/90** | **95/99** | **103/111** |
-| **Multi-turn turns** | **11/16** (2 runs) | **21/24** (3 runs) | **21/24** (3 runs) | **21/24** (3 runs) |
+| **Single-turn total** | **69/90** | **88/90** | **95/99** | **108/111** |
+| **Multi-turn turns** | **11/16** (2 runs) | **21/24** (3 runs) | **21/24** (3 runs) | **22/24** (3 runs) |
 
 The baseline routed every question to the founder by name, so it failed every routing question.
 `4695c84` routes by title on the org chart. `b03dc24` adds `reference/meetings.md` and three
@@ -78,19 +78,14 @@ questions to match, so its scores are not a like-for-like comparison with earlie
 These are the misses from the current run, as the grader wrote them. They are left in on purpose
 so the next edit has a target.
 
-- **A5 (run 1):** "Job posts for dispatchers or office staff often name the champion" generalizes
-  beyond the folder's single practice example.
-- **A6 (runs 1 and 3):** claimed the Head of Sales will guide the first one, which the folder does
-  not say; once sent a non-urgent question to Slack, which is reserved for the two urgent cases.
-- **C5 (run 1):** said brief 3 is due "tomorrow, day 6," but day 5 is Friday and day 6 is Monday.
-- **P1 (runs 2 and 3):** once said the only meeting today is the 4:00 check-in, contradicting the
-  9:00 welcome call; once gave Continuing Education topics without their numbers and weeks.
-- **T1 (run 2):** invented a third interrupt path (Slack if blocked), breaking the two-case rule.
-- **T3 (run 1):** said the number is not in the notes but named no owning title.
-- **Multi-turn, turn 3:** dropped one fit signal and led with not-fit cases, which are module 2.
-- **Multi-turn, turn 5:** guessed that tomorrow's goals arrive after the check-in.
-- **Multi-turn, turn 8:** said module 2 finishes today and implied module 1 is signed off today;
-  both happen on day 2.
+- **T4 (run 2):** said it is not in the notes and routed correctly, but invented that the Head of
+  Sales owns "client history."
+- **T7 (run 2):** said no live calls are logged before the Launch Gate, but day 10 requires
+  logging the next step of a co-run live call.
+- **P2 (run 3):** invented "the Head of Sales will teach the format when you reach CE4."
+- **Multi-turn, turn 2 (run 2):** placed the two-minute pitch in module 5; it is module 1.
+- **Multi-turn, turn 6 (run 2):** told the hire to say "you're still in training" instead of
+  handing off to the Head of Sales, as `objections.md` says.
 
 ## How the Folder Was Improved
 

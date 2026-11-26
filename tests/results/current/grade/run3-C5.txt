@@ -1,1 +1,1 @@
-You've hit your 5-hour limit · resets 3pm (America/Indianapolis)
+PASS | Template, example, and day-5/day-6 timing match `templates.md`, `first-ten-days.md`, and `meetings.md`; "Head of Sales assigns" leads is a minor, defensible inference.

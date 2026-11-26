@@ -1084,17 +1084,14 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 50. A client who just signed asks when their project starts. Who answers?
 
 REPLY:
-**The Delivery Lead.** Everything after signing (kickoff, project status, go-live) belongs to that title, and "When does a signed client's project start?" is the example question listed for it (`reference/who-owns-what.md`).
+**The Delivery Lead answers.** Everything after signing, including kickoff, project status, and go-live, is theirs (`reference/who-owns-what.md`). The Delivery Lead runs the kickoff, and you stay the client's contact for anything new they want to buy (`reference/sales-process.md`).
 
-What to do:
+- **Give no date yourself.** Never promise a delivery date. Dates come from Solutions Engineering after scoping (`reference/the-message.md`). This folder doesn't say when any signed client's project starts.
+- **Anything you send is approved first.** If you reply to the client in writing, the Head of Sales approves the draft before it goes.
+- **If the client is on the line right now,** that is one of the two urgent cases. Message the Head of Sales in Slack right away (`reference/who-owns-what.md`).
+- **If they asked by email or can wait,** tell them the Delivery Lead will confirm the start. Then bring it to the daily check-in.
 
-- **Don't give the client a date.** Never promise one. Dates come from the owning title (`reference/the-message.md`).
-- **Tell the client** the Delivery Lead runs the kickoff and will be in touch about the start (`reference/sales-process.md`).
-- **If the client is waiting on the line** for an answer, that is one of the two cases where you message the Head of Sales in Slack right away (`reference/who-owns-what.md`).
-- **Check the CRM.** If the signed agreement is back, the deal should be in Closed Won, and the Head of Sales should have heard about the yes at the daily check-in (`reference/sales-process.md`).
-- **Approval:** anything you send the client about this goes to the Head of Sales first.
-
-You stay the client's contact for anything new they want to buy (`reference/sales-process.md`).
+Also check that the deal is in Closed Won in the CRM, since that is the hand-off to Delivery. Finance & Billing sends the first invoice after that (`reference/sales-process.md`).
 
 CRITERION: ROUTING: PASS only if the reply routes to this owner: [Delivery Lead]. Routing to a generic founder or manager name instead of that function FAILS. It must also invent no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

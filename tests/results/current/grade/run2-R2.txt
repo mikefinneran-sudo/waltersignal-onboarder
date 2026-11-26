@@ -1,1 +1,1 @@
-PASS | Routes to Revenue Operations; every fact (Slack titles, 4:00 check-in, day-3 CRM walkthrough, module 4) matches the folder.
+PASS | Routes to Revenue Operations, which the folder names as owner of CRM access and logins; every cited fact appears in the folder, with nothing invented.

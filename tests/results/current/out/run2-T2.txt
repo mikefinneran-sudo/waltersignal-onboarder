@@ -1,8 +1,8 @@
 That isn't in my notes, so I won't guess a rate.
 
 - **Your commission plan**, including any rate on a Pilot, belongs to the Head of Sales.
-- **When commission is paid out** belongs to Finance & Billing (`reference/who-owns-what.md`).
+- **When commission is paid out** is Finance & Billing (`reference/who-owns-what.md`).
 
-Add the question to `reference/question-log.md` and bring it to the 4:00 PM Eastern check-in with the Head of Sales (`reference/meetings.md`). Your question list is one of today's goals (`reference/first-ten-days.md`).
+Add the question to `reference/question-log.md` and bring it to the 4:00 PM Eastern daily check-in (`reference/meetings.md`). It isn't one of the two cases that justify interrupting anyone in Slack.
 
-So I can build on what you know: what have you sold before, and to whom?
+What have you sold before, and to whom? I'll build on that as we go through day 1.

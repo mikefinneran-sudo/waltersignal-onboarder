@@ -1,1 +1,1 @@
-PASS | Gives day-1 goals in full plus the syllabus map, names when held-back topics come, and every fact traces to the folder.
+PASS | Day-1 goals in full, concise module/CE map, held topics dated (module 6 days 8–10, days 5/6, CE days 11–90); every fact checks against folder.

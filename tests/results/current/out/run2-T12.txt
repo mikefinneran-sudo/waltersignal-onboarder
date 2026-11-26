@@ -1,7 +1,7 @@
-That isn't in my notes. I only see the `reference/` folder and can't open the Vault or Cairn (`reference/second-brain.md`).
+That isn't in my notes. I can't see the Vault or Cairn (`reference/second-brain.md`), so I don't know what the Head of Sales wrote.
 
-- **Where to look:** pipeline review notes are in the Vault's `Meetings/` folder. You have access to it from day 1, and the Head of Sales owns what is written there.
-- **If you can't open it:** that is a Revenue Operations question (`reference/who-owns-what.md`).
-- **If the notes leave you with a question:** add it to `reference/question-log.md` and bring it to today's 4:00 check-in.
+- **Where to look:** pipeline review notes are in the Vault's `Meetings/` folder (`reference/second-brain.md`). You can read them yourself.
+- **If you can't open the Vault:** that is a Revenue Operations question, since they set up your access to the Vault and Cairn (`reference/who-owns-what.md`).
+- **If the note isn't there or is unclear:** the Head of Sales wrote it, so add the question to `reference/question-log.md` and bring it to today's 4:00 PM check-in.
 
-Monday was your first pipeline review (day 6), where you listen and take notes (`reference/meetings.md`). Your own notes are the other record of what was said.
+Your own notes from the review are also a source. On day 6 you listen and take notes without presenting (`reference/meetings.md`).

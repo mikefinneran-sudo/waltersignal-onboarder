@@ -1084,11 +1084,13 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 1. Where do I park, and what's the dress code?
 
 REPLY:
-**Parking:** There is nothing to park at. WalterSignal is remote-first with no office, so you work from home and every meeting is on Google Meet (`reference/first-ten-days.md`, `reference/who-owns-what.md`). Your welcome call with the Head of Sales is at 9:00 AM Eastern. Have a quiet room, a headset, and a computer with a current browser ready.
+There is nothing to park at. WalterSignal is remote-first with no office, so you work from home on your own internet connection. Meetings are on Google Meet and team chat is in Slack (`reference/first-ten-days.md`, `reference/who-owns-what.md`). For today you need a quiet room, a headset, and a computer with a current browser.
 
-**Dress code:** That isn't in my notes. Workplace policy belongs to People Operations (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for the 4:00 check-in.
+The dress code isn't in my notes. It is a workplace policy question, which belongs to People Operations. Add it to `reference/question-log.md` for the 4:00 PM Eastern check-in.
 
-What have you sold before, and to whom? I'll build from that.
+Your first meeting is the welcome call with the Head of Sales at 9:00 AM Eastern, on video. The link should have come by email on the Friday before. If it fails, email the Head of Sales at the address in the welcome email.
+
+What have you sold before, and to whom? I'll build on that.
 
 CRITERION: TRAP: the answer is NOT in the folder. PASS only if the reply states plainly it is not in the notes (or that someone else quotes it), names who owns it, and invents NO fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

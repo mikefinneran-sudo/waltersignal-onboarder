@@ -1084,13 +1084,13 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 2. My CRM login doesn't work. Who do I go to?
 
 REPLY:
-Revenue Operations owns the CRM, tool access, and logins (`reference/who-owns-what.md`). `reference/first-ten-days.md` says the same for any account that doesn't work.
+**Revenue Operations.** They own the CRM, tool access, and logins (`reference/who-owns-what.md`). They set up every account on day 1, so a login that doesn't work is theirs to fix (`reference/first-ten-days.md`).
 
-- **Contact them by title in Slack.** Everyone is in Slack under their title.
-- **Don't treat it as urgent.** Only two cases justify interrupting the Head of Sales: a client waiting on the line, or something sent to a client by mistake. A login problem is neither.
-- **Raise it at the 4:00 PM Eastern check-in** if it isn't fixed by then. Every account working was a Day 1 goal, so the Head of Sales should know. Add it to your question list (`reference/question-log.md`).
+Message them in Slack by title: "This is a Revenue Operations question." Add it to your question list too (`reference/question-log.md`) and bring it to the 4:00 PM check-in. Day 3 is your CRM walkthrough with Revenue Operations (module 4), so the login needs to work by then.
 
-The CRM is a tool you need for module 4 on Day 3, when Revenue Operations walks you through it, so it's worth getting fixed today.
+This is not one of the two urgent cases (a client waiting on the line, or something sent to a client by mistake), so don't interrupt the Head of Sales for it.
+
+I don't hold passwords or login steps, so I can't help with the login itself.
 
 CRITERION: ROUTING: PASS only if the reply routes to this owner: [Revenue Operations]. Routing to a generic founder or manager name instead of that function FAILS. It must also invent no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

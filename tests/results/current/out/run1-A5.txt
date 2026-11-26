@@ -1,18 +1,15 @@
-The **decider** signs the agreement and approves the money. The **champion** is the one to win over first. Both are in `reference/clients.md`.
+The decider is who signs and approves the money. The champion is who you win over first (`reference/clients.md`).
 
-| Role | Who it usually is | What they do in the deal | How to work with them |
-|---|---|---|---|
-| **Decider** | The owner, CEO, or general manager | Signs the agreement and approves the money | Talk about cost, risk, and what they will be able to see and control |
-| **Champion** | Usually the operations manager or office manager | Lives with the problem every day and knows where work falls through the cracks | Win them first. They tell you how the work really runs, and the decider listens to them |
-| **Users** | Dispatchers, estimators, front-desk staff, warehouse leads | Will use what gets built | Ask to talk to one during discovery; their answers make the Discovery Sprint sharper |
+| Role | Who it usually is | How to work with them |
+|---|---|---|
+| **Decider** | The owner, CEO, or general manager | Talk about cost, risk, and what they will be able to see and control |
+| **Champion** | Usually the operations manager or office manager | Win them first. They live with the problem daily and know where work falls through the cracks, and the decider listens to them |
+| **Users** | Dispatchers, estimators, front-desk staff, warehouse leads | Ask to talk to one during discovery. Their answers sharpen the Discovery Sprint |
 
-Two discovery questions help you find them (`reference/discovery-questions.md`):
+The case studies show the pattern (`reference/case-study.md`):
+- **Brennan Mechanical:** the owner is the decider and the office manager is the champion.
+- **Harbor Dental Group:** the operations director is the champion and the two dentist-owners are the deciders. Deciders can be more than one person.
 
-- #8: "Who in the office lives with this every day?" That is usually the champion.
-- #15: "Who besides you weighs in on a decision like this?"
+For your day-4 research brief, `reference/templates.md` has a "Who decides" line (the owner-operator's name, if public) and a "Likely champion" line (the office manager or equivalent, if public). In discovery, question 8 finds the champion ("Who in the office lives with this every day?") and question 15 finds other voices in the decision (`reference/discovery-questions.md`).
 
-The Brennan Mechanical story shows the pattern: the owner was the decider and the office manager was the champion (`reference/case-study.md`).
-
-Since you are on day 4, this is your research brief work. The brief template has a "Who decides" line and a "Likely champion" line, so fill both in from public sources before each call (`reference/templates.md`). Your first brief is due today, on the lead the Head of Sales assigned you (`reference/first-ten-days.md`).
-
-Your CRM call notes also record decider and champion, and anything sent to either of them goes to the Head of Sales for approval first.
+Before I go further, what have you sold before, and to whom? I can map it to this.

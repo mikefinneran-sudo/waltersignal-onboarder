@@ -1,30 +1,21 @@
-Quotable prices are the Discovery Sprint, the Pilot, and the Support Plans. Internal prices are the Build range and the change-request rate. You quote none of them until you pass the Launch Gate at the end of day 10. Until then you quote no price to anyone, including friends and family (`reference/services.md`).
+Quotable means you may say it to a client after the Launch Gate. Internal means it is only for qualifying a lead and is never said to a client (`reference/services.md`).
 
-**Quotable (after launch)**
+**Until the Launch Gate at the end of day 10, you quote no price to anyone, even the Quotable ones.** If a prospect asks for a price before then, bring in the Head of Sales (`reference/objections.md`).
 
-| Item | Price |
-|---|---|
-| Discovery Sprint (2 weeks) | $7,500, fixed |
-| Pilot, one workflow connected to up to two existing tools | $20,000 |
-| Pilot, three or more tools, or any AI step | $30,000 |
-| Support Plan: Essentials | $1,500 per month |
-| Support Plan: Standard | $3,000 per month |
-| Support Plan: Priority | $5,000 per month |
-
-- **Sprint credit:** if the client signs a Pilot within 30 days of the Sprint readout, the full $7,500 is credited toward it.
-- **Support Plans** are month to month.
-
-**Internal (never say to a client)**
-
-| Item | Price | Why it is internal |
+| Item | Price | Status |
 |---|---|---|
-| Build | Usually $60,000 to $180,000, priced per module from the Pilot | Use it only to qualify a lead. The Founder & CEO prices every Build. |
-| Change request | $175 per hour | The Delivery Lead sends the written quote, not you. |
+| Discovery Sprint (2 weeks) | $7,500 fixed | Quotable |
+| Pilot, one workflow connected to up to two existing tools (6 to 8 weeks) | $20,000 | Quotable |
+| Pilot, three or more tools or includes an AI step | $30,000 | Quotable |
+| Support Plan, Essentials | $1,500/month | Quotable |
+| Support Plan, Standard | $3,000/month | Quotable |
+| Support Plan, Priority | $5,000/month | Quotable |
+| Build (3 to 6 months) | Usually $60,000 to $180,000, priced per module from the Pilot | Internal. The Founder & CEO prices every Build. |
+| Change request | $175/hour | Internal. The Delivery Lead sends the written quote, not you. |
 
-**Never yours**
-- **Discounts:** you never offer, hint at, or agree to one. Only the Founder & CEO decides them.
-- **Any price not on this page:** the Founder & CEO prices it.
+- **Sprint credit:** if the client signs a Pilot within 30 days of the Sprint readout, the full $7,500 is credited toward the Pilot.
+- **Support Plans:** they are month to month. Essentials includes hosting, monitoring, and fixes, with a 2-business-day response. Standard adds up to 10 hours of changes a month, with a 1-business-day response. Priority adds up to 25 hours a month, with a same-day response.
+- **Discounts:** you never offer, hint at, or agree to one. If a client asks "Can you do it cheaper?", say "Let me take that to our Founder," and route it to the Founder & CEO.
+- **Anything not on the price list:** don't guess. The Founder & CEO prices anything not in `services.md`.
 
-If a prospect asks "just send me a price" before you launch, say you will get them the right person and bring in the Head of Sales (`reference/objections.md`).
-
-Naming every Quotable and Internal price and saying which is which is the module 6 milestone. Only the Head of Sales signs it off, at the check-in.
+Your module 6 milestone is to name every Quotable and Internal price and say which is which. Today's goals are `reference/objections.md` and a five-objection role-play with the Head of Sales.

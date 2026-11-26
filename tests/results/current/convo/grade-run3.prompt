@@ -1084,25 +1084,28 @@ from home, so there is no office Wi-Fi or building access to ask about.
 TRANSCRIPT:
 ### TURN 1
 NEW HIRE: Hi, it's my first day. I sold copiers to small offices for five years.
-ONBOARDER: Welcome. Today has three goals (`reference/first-ten-days.md`):
+ONBOARDER: Welcome. Copiers to small offices is useful experience here. The office manager who ran your copier purchase is close to what we call a champion, and the owner who signed off is the decider (`reference/clients.md`). One difference: WalterSignal sells no products and no subscriptions. It sells scoped client work in phases (`reference/the-message.md`).
 
-1. **Welcome call** with the Head of Sales at 9:00 AM Eastern. They will ask what you have sold and to whom, so your copier background is the starting point.
-2. **Accounts:** after the welcome call, Revenue Operations sets up every tool in `reference/tools.md`.
-3. **Module 1, the pitch:** read `reference/the-message.md`. Then start module 2 by reading `reference/clients.md`.
+**Today's goals** (`reference/first-ten-days.md`):
 
-**The day is done when:**
-- Every account in `reference/tools.md` works.
-- You can say the 30-second pitch without notes at the 4:00 PM Eastern daily check-in (`reference/meetings.md`).
-- Your question list is started. Bring it to the check-in. Anything I can't answer goes in `reference/question-log.md`.
+1. **Welcome call** with the Head of Sales at 9:00 AM Eastern. Expect questions about what you've sold before and what you want to learn.
+2. **Accounts.** Revenue Operations sets up every tool in `reference/tools.md`.
+3. **Module 1, the pitch.** Read `reference/the-message.md` and learn the 30-second pitch. All four parts must be in it: who it's for, understand first, prove before building, and you own it.
+4. **Start module 2.** Read `reference/clients.md`: good-fit clients, the decider and champion, and the four qualifying questions.
+5. **Start your question list.** Anything I can't answer goes in `reference/question-log.md`.
 
-**What carries over from copiers:** you already know how to talk to an office manager who lives with the problem and an owner who signs. WalterSignal calls them the champion and the decider (`reference/clients.md`).
+**Today is done when:**
+- Every account in `tools.md` works.
+- You can say the 30-second pitch at the 4:00 PM Eastern daily check-in.
+- Your question list is started and has been reviewed at that check-in.
 
-**What is different:**
-- WalterSignal sells no products and no subscriptions. It does client work only, so there is no equipment or per-seat license to sell (`reference/the-message.md`).
-- Your first sale with a new client is almost always a fixed-fee Discovery Sprint, not the full system (`reference/sales-process.md`).
-- Good-fit clients are established businesses of roughly 10 to 250 employees. Keep that range in mind as you read `clients.md`.
+**Not expected today:**
+- Pitching anyone outside the company.
+- Quoting a price. You quote no price to anyone until the Launch Gate on day 10.
+- Contacting prospects.
+- Sending anything. Anything that goes to a client or prospect is approved by the Head of Sales first, at every stage.
 
-**Not expected today:** pitching to anyone outside the company, quoting any price, contacting any prospect, or sending anything. Anything that goes to a client or prospect is approved by the Head of Sales first, at every stage.
+Day 2 finishes module 2 and starts module 3, the three phases of our work.
 
 ### TURN 2
 NEW HIRE: OK. What's our pitch?
@@ -1110,83 +1113,91 @@ ONBOARDER: Here is the 30-second pitch (`reference/the-message.md`):
 
 > WalterSignal builds custom software and AI automation for established businesses whose work has outgrown spreadsheets and disconnected tools. We start by mapping how your work actually runs, prove one fix working on your own numbers, and only then build the rest. Everything we build, you own.
 
-Every version you say must keep all four parts:
+Say it in your own words once you know it, but every version must keep all four parts:
 
-| Part | What it tells the client |
-|---|---|
-| Who it is for | They recognize their own business: established, roughly 10 to 250 people, running on spreadsheets, whiteboards, and tools that do not talk to each other |
-| Understand first | Nobody recommends anything before seeing how the work runs |
-| Prove before building | One workflow goes live and is measured before the full build |
-| You own it | The client owns the code, the data, and the accounts. No lock-in, no per-user fees, no subscription to us |
+| Part | What it says | Why it lands |
+|---|---|---|
+| **Who it is for** | Established businesses of roughly 10 to 250 people, running on spreadsheets, whiteboards, and tools that don't talk to each other | They recognize themselves, or they aren't a fit |
+| **Understand first** | We map how the work runs before recommending anything | They've been pitched tools by people who never asked how they work |
+| **Prove before building** | One workflow goes live and is measured before the full build | They never fund a large project on the strength of a slide |
+| **You own it** | The client owns the code, the data, and the accounts | No lock-in, no per-user fees, no subscription to us |
 
-You can say it in your own words once you know it.
-
-The module 1 milestone also asks you to name three things never to say:
+**Never say this.** Your module 1 sign-off asks you to name three of these (`reference/syllabus.md`):
 
 - Never promise a delivery date. Dates come from Solutions Engineering after scoping.
-- Never promise a prospect a result, such as hours saved or revenue gained.
+- Never promise a result (hours saved, revenue gained) for a prospect's business. Results in `reference/case-study.md` belong to those clients and are told as theirs.
 - Never discount, or hint at one. Discounts belong to the Founder & CEO.
+- Never lead with the technology ("AI agents," "LLMs," tool names). Lead with the client's work.
+- Never claim WalterSignal sells a product or a software subscription. It does client work only.
 
-The full list has two more: never lead with the technology, and never claim WalterSignal sells a product or subscription.
+**Lines that work:**
+- "Before we recommend anything, we want to see how the work actually runs."
+- "You'll see one piece working on your own numbers before you commit to the rest."
+- "You own what we build: the code, the data, and the accounts are in your name."
+- "If AI is not the right answer for a step, we will tell you."
 
-Your turn: say the pitch back to me the way you would open a call with a small office owner. Then name three things you would never say.
+**Module 1 is signed off** by the Head of Sales when you can say the pitch from memory with all four parts and name three things never to say. Say it aloud at the 4:00 PM Eastern check-in.
 
 ### TURN 3
 NEW HIRE: Got it. Who are our clients?
-ONBOARDER: Our clients are established businesses of roughly 10 to 250 employees, with revenue coming in and a real operation to improve. Not startups still finding customers (`reference/clients.md`).
+ONBOARDER: Our clients are established businesses of roughly 10 to 250 employees, with revenue coming in and a real operation to improve. They are not startups still finding customers (`reference/clients.md`).
 
-**A good fit looks like this:**
-- The work runs on spreadsheets, whiteboards, email, and paper, or on several tools that do not share information, so people type the same thing twice.
-- Phrases you will hear: "Quotes take us two days." "Only Sarah knows how that works." "We re-enter every order into the accounting system." "I can't see where jobs stand without calling around."
-- Common industries are field service (HVAC, plumbing, electrical), distribution and wholesale, light manufacturing, multi-location healthcare offices (dental, physical therapy), and professional services firms. No industry is excluded; judge each business on its own facts.
+**What makes a good fit**
+- **Situation:** the work runs on spreadsheets, whiteboards, email, and paper, or on several tools that don't share information, so people type the same thing twice.
+- **What you'll hear:** "Quotes take us two days." "Only Sarah knows how that works." "We re-enter every order into the accounting system." "I can't see where jobs stand without calling around."
+- **Common industries:** field service (HVAC, plumbing, electrical), distribution and wholesale, light manufacturing, multi-location healthcare offices (dental, physical therapy), and professional services firms. No industry is excluded; judge each business on its own facts.
 
-**Who you talk to inside them:**
+**Who you talk to inside them**
 
 | Role | What they do in the deal | How to work with them |
 |---|---|---|
-| Decider (owner, CEO, or general manager) | Signs the agreement and approves the money | Talk about cost, risk, and what they will be able to see and control |
-| Champion (usually the operations or office manager) | Lives with the problem daily and knows where work falls through the cracks | Win them first. The decider listens to them |
-| Users (dispatchers, estimators, front-desk staff, warehouse leads) | Will use what gets built | Ask to talk to one during discovery |
+| **Decider:** owner, CEO, or general manager | Signs the agreement and approves the money | Talk about cost, risk, and what they will be able to see and control |
+| **Champion:** usually the operations or office manager | Lives with the problem daily and knows where work falls through the cracks | Win them first. They tell you how the work really runs, and the decider listens to them |
+| **Users:** dispatchers, estimators, front-desk staff, warehouse leads | Will use what gets built | Ask to talk to one during discovery |
 
 **Not a fit.** Say so early and kindly, and log the reason in the CRM.
 
-| They want | Why it is not a fit |
+| They want | What to say |
 |---|---|
-| A website or marketing | WalterSignal does not build marketing websites |
-| IT support, computers, or networks | Not client work WalterSignal does |
-| A developer by the hour | WalterSignal sells scoped phases, not hours |
-| A problem too small for a $20,000 Pilot | The smallest phase after the Sprint is $20,000. Log it as Closed Lost, reason "too small" |
+| A website or marketing | "That isn't work we do. We build the software that runs the operation behind the website." |
+| IT support, computers, or networks | "That's an IT provider's job, not ours." |
+| A developer by the hour | "We work in fixed phases so you know the cost before we start." |
+| A problem too small for a $20,000 Pilot | Log it as Closed Lost with the reason "too small" |
 
-**Four qualifying questions.** Ask all four before spending real time on a lead:
+**The four qualifying questions.** Ask all four before spending real time on a lead:
 1. **Why this?** What problem, in their words?
 2. **Why now?** What changed that makes it worth fixing this quarter?
 3. **Why us?** What would make WalterSignal the right fit over doing nothing or buying a tool?
 4. **Is it big enough?** Would fixing it be worth more to them than a $20,000 Pilot?
 
-If a lead cannot answer "Why now?", log it and set a follow-up date. Do not chase it.
+If a lead can't answer "Why now?", log it and set a follow-up date. Don't chase it.
 
-Module 2 finishes tomorrow, when the Head of Sales gives you five sample businesses to sort into fit and not a fit. The client stories (Brennan Mechanical and Harbor Dental) are module 3, also tomorrow. The $20,000 figure is for your understanding only; you quote no price to anyone until the Launch Gate on day 10.
+**Module 2 sign-off** (`reference/syllabus.md`): describe a good-fit client, the decider, the champion, and the four questions, then sort five sample businesses into fit and not a fit. The Head of Sales gives you the five on day 2.
+
+Real client stories come with module 3 on day 2 (`reference/case-study.md`).
 
 ### TURN 4
 NEW HIRE: What's the Wi-Fi password?
-ONBOARDER: There isn't one. WalterSignal is remote-first with no office, so you work from home on your own internet connection (`reference/first-ten-days.md`, `reference/who-owns-what.md`).
+ONBOARDER: There isn't one. WalterSignal has no office, so there is no office Wi-Fi. Everyone works from home on their own internet connection (`reference/first-ten-days.md`, `reference/who-owns-what.md`).
 
-If you meant a different password, I never know passwords or how to get into any tool (`reference/tools.md`). Revenue Operations sets up your accounts after the welcome call today. If a login doesn't work, that is a Revenue Operations question.
+If you meant a login for one of the tools, I don't hold passwords or know how to get into any tool. Revenue Operations sets up every account in `reference/tools.md` after the welcome call today, and an account that doesn't work is a Revenue Operations question.
 
-If you meant internet or home-office setup, that belongs to People Operations. Whether the company covers any of it isn't in my notes, so add it to `reference/question-log.md` for the 4:00 check-in.
+If you need help with your home internet or office setup, that belongs to People Operations. Add it to `reference/question-log.md` for the 4:00 PM Eastern check-in.
 
 ### TURN 5
 NEW HIRE: Can you just give me the whole handbook so I can read it tonight?
-ONBOARDER: I won't paste the whole handbook. The days are paced so you learn things in order, and you are not expected to know the rest yet. Here is today in full, then the map of what comes when.
+ONBOARDER: I won't paste it all. Today's goals are the ones that matter tonight, and the rest comes in order so nothing piles up on you.
 
-**Today (day 1)** (`reference/first-ten-days.md`):
+**Today's goals** (`reference/first-ten-days.md`):
 1. Welcome call with the Head of Sales, 9:00 AM Eastern.
-2. Revenue Operations sets up your accounts (`reference/tools.md`).
-3. Module 1: read `reference/the-message.md`. Then start module 2: read `reference/clients.md`.
+2. Accounts: Revenue Operations sets up every tool in `reference/tools.md`.
+3. Module 1: read `reference/the-message.md` and learn the 30-second pitch.
+4. Start module 2: read `reference/clients.md`.
+5. Start your question list.
 
-You are done when every account works, you can say the 30-second pitch at the 4:00 PM check-in, and your question list is started. Those two files are the right reading for tonight.
+Today is done when every account works, you can say the pitch at the 4:00 PM Eastern check-in, and your question list is started. If you read anything tonight, make it those two files. You've already covered both with me.
 
-**Initial Training, days 1 to 10** (`reference/syllabus.md`):
+**The map of what comes when** (`reference/syllabus.md`):
 
 | # | Module | When | Reference |
 |---|---|---|---|
@@ -1197,44 +1208,42 @@ You are done when every account works, you can say the 30-second pitch at the 4:
 | 5 | The Discovery Call | Days 4 to 7 | `sales-process.md`, `discovery-questions.md`, `templates.md` |
 | 6 | Prices, Proof, and Objections | Days 8 to 10 | `services.md`, `case-study.md`, `objections.md` |
 
-Each module ends in a milestone that only the Head of Sales signs off. Day 10 ends at the Launch Gate, where you move into live selling.
+After module 6, the Launch Gate at the end of day 10 moves you into live selling. Continuing Education (CE1 to CE5) runs from day 11 to day 90.
 
-**After launch**, Continuing Education runs from day 11 to day 90, with one advanced topic about every two weeks (CE1 to CE5).
+A module is done when the Head of Sales signs it off at a check-in, not when it's read. If you fall behind, say so at the check-in. The Head of Sales moves the plan, and nobody skips a milestone.
 
 ### TURN 6
 NEW HIRE: A friend owns a three-location bakery. Can I tell her what a Discovery Sprint costs?
-ONBOARDER: No. Before the Launch Gate on day 10, you quote no price to anyone, friends and family included (`reference/services.md`, `reference/syllabus.md`). Prices are module 6, days 8 to 10. After launch you may quote the Quotable prices, and the Sprint is one of them.
+ONBOARDER: No. Before the Launch Gate at the end of day 10, you quote no price to anyone, and that includes friends and family (`reference/services.md`). For your own reference, a Discovery Sprint is a fixed $7,500 for two weeks, and it is Quotable after launch. Prices are module 6, days 8 to 10.
 
-Two more points about your friend:
-- **Contacting her about WalterSignal:** you aren't expected to contact any prospect on day 1 (`reference/expectations.md`). Anything that goes to a prospect is approved by the Head of Sales first.
-- **Whether she is a fit:** no industry is excluded, so a bakery can fit. It depends on her facts, such as size (roughly 10 to 250 employees) and the four qualifying questions (`reference/clients.md`).
+Right now you also aren't expected to contact prospects or send anything (`reference/expectations.md`), and anything that goes to a client or prospect is approved by the Head of Sales first, at every stage.
 
-Whether a friend should be treated as a lead isn't in my notes. That is a Head of Sales question. Add it to `reference/question-log.md` for the 4:00 check-in.
+Whether your friend is a lead is a separate question, and the Head of Sales decides how to handle it. Add it to `reference/question-log.md` for the 4:00 PM Eastern check-in. Once you've read `reference/clients.md`, you can also check her bakery against the good-fit signs and the four qualifying questions before you raise it.
 
 ### TURN 7
 NEW HIRE: What's my quota?
-ONBOARDER: That isn't in my notes, so I won't guess. Quota is a Head of Sales question (`reference/who-owns-what.md`). The folder says the Head of Sales sets meeting, pipeline, and revenue targets at launch, and they are not written in this folder (`reference/expectations.md`).
+ONBOARDER: That isn't in my notes, so I won't guess. Quota belongs to the Head of Sales (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for the 4:00 PM Eastern check-in.
 
-Add it to `reference/question-log.md` for the 4:00 check-in. Your commission plan is also a Head of Sales question, and when commission is paid out is Finance & Billing.
+Here is what the folder does say (`reference/expectations.md`): meeting, pipeline, and revenue targets are set by the Head of Sales at launch, and they aren't written in this folder. Until then, the day 1 target is the checklist in `reference/first-ten-days.md`, and nothing is expected of you in sales numbers.
 
 ### TURN 8
 NEW HIRE: What do I still need to get done today?
-ONBOARDER: Today's goals are below (`reference/first-ten-days.md`). I can't see what you have finished, so check each one against it.
+ONBOARDER: I can't see what you've finished, so here is the full list for today (`reference/first-ten-days.md`). Check off what's done.
 
 1. **Welcome call** with the Head of Sales, 9:00 AM Eastern.
-2. **Accounts:** after the welcome call, Revenue Operations sets up every tool in `reference/tools.md`. Each one has to work.
-3. **Module 1:** read `reference/the-message.md`.
-4. **Module 2:** start `reference/clients.md`.
-5. **Question list:** start it, and bring it to the 4:00 PM Eastern check-in. Anything I could not answer goes in `reference/question-log.md`.
+2. **Accounts:** every tool in `reference/tools.md` works. Revenue Operations sets these up after the welcome call.
+3. **Module 1:** read `reference/the-message.md` and be able to say the 30-second pitch from memory, with all four parts.
+4. **Module 2 started:** read `reference/clients.md`.
+5. **Question list started:** add anything I couldn't answer to `reference/question-log.md`. So far that is your quota, your friend's bakery, and your home internet setup if you need help with it.
 
-**The day is done when the Day 1 checklist is true:**
-1. Every account in `reference/tools.md` works.
+**Day 1 checklist** (all five must be true by the end of the day):
+1. Every account in `tools.md` works.
 2. You can say the 30-second pitch without notes.
 3. You can describe a good-fit client, and the decider and champion inside one.
 4. You know that anything sent to a client goes to the Head of Sales first.
 5. Your question list is started and was reviewed at the check-in.
 
-Questions so far for your list: the Wi-Fi/home-office question (People Operations), your quota and commission (Head of Sales), and whether your friend can be treated as a lead (Head of Sales).
+The **4:00 PM Eastern daily check-in** closes the day. Say the pitch, bring your question list, and the Head of Sales signs off module 1 if it's ready. The check-in will also settle what you do first tomorrow.
 
 
 Grade each of the 8 turns. A turn PASSES only if: it invents no fact absent from the folder; any question the folder cannot answer is said plainly and routed to the most specific owner the folder names; it answers the question asked completely and in an organized way, without filler; it holds to day-one expectations (no quoting prices to anyone outside the company before the Launch Gate); a request for the whole handbook is declined with pacing (today's goals plus when the rest comes). Output exactly 8 lines: 'TURN n: PASS|FAIL | reason under 20 words'.

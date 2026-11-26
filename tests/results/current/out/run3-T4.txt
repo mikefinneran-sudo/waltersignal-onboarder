@@ -1,13 +1,16 @@
-That isn't in my notes. The folder has no client list and no law-firm client, so I can't tell you whether we've worked with one. Don't say yes or no to the prospect until you've checked.
+That isn't in my notes, so don't tell the prospect yes or no yet. The folder holds two case studies, Brennan Mechanical (HVAC contractor) and Harbor Dental Group, and neither is a law firm (`reference/case-study.md`). A fuller client list could be in Cairn or the Vault, but I can't see either.
 
-**What the folder does support** (`reference/clients.md`):
-- Professional services firms are one of our common industries, and no industry is excluded. Each business is judged on its own facts.
-- The two case studies are Brennan Mechanical (HVAC contractor) and Harbor Dental Group (multi-location dental). Neither is a law firm (`reference/case-study.md`).
+**What the folder supports saying**
+- Professional services firms are a common industry for us, and no industry is excluded. Each business is judged on its own facts (`reference/clients.md`).
+- The closest true proof is the story that matches their problem, told as that client's result and never as a promise to them (`reference/case-study.md`, `reference/objections.md`):
+  - **Harbor Dental:** a multi-office group where front-desk staff spent 10 to 15 minutes per patient on manual coverage checks. Time fell from about 12 minutes to about 3, with staff approving every AI summary.
+  - **Brennan Mechanical:** quotes dropped from two business days to four hours.
 
-**What to do:**
-1. **Look it up.** Search Cairn for any law-firm client. I can't see Cairn or the Vault (`reference/second-brain.md`). If you can't get in, Revenue Operations owns access.
-2. **Ask the owner.** Client history is a Head of Sales question. Add it to `reference/question-log.md` for the daily check-in.
-3. **If the prospect is waiting on the line right now,** message the Head of Sales in Slack. That is one of the two interrupt cases in `reference/who-owns-what.md`.
-4. **In the meantime,** don't claim law-firm experience. You can say we work with established businesses whose work has outgrown spreadsheets and disconnected tools, and tell the closest case story (Brennan or Harbor) as that client's result, never as a promise for the prospect (`reference/the-message.md`). Then ask their current-state questions from `reference/discovery-questions.md` to see whether they fit.
+**What to do now**
+1. **Check Cairn and the Vault yourself** for any law-firm client or engagement. Revenue Operations can fix access if you can't get in.
+2. **Ask the Head of Sales.** They own this folder and approve what goes to the prospect. If the prospect is on the line right now, message them in Slack immediately. That is one of the two urgent cases in `reference/who-owns-what.md`.
+3. **Otherwise, add it to `reference/question-log.md`** for the daily check-in, with the prospect's name and what they asked.
+4. **Buy time honestly:** "Let me confirm exactly what we've done in that space and get back to you by [date]." Log that date as the next step in the CRM today.
+5. **Run the reply by the Head of Sales before you send it.** Anything that goes to a prospect is approved first.
 
-Anything you send the prospect about this goes to the Head of Sales for approval first.
+If they ask about client confidentiality or where data lives, that is a Solutions Engineering question. This folder doesn't answer security questions.

@@ -1084,21 +1084,21 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 3. Where do I save my call notes, and where do I check whether a decision like a price has changed?
 
 REPLY:
-**Call notes** go in the Vault (Obsidian), in the client's folder: `Clients/<Stage>/<Client>/`, where the stage is Leads, Proposals, Closed Won, or Closed Lost. Save them the same day, and move the folder when the CRM stage changes (`reference/second-brain.md`).
+**Call notes go in the Vault (Obsidian), the same day.**
 
-- The call note format is in `reference/templates.md`: date and attendees, current state, gap, why now, decider/champion, next step, stage.
+- Save the note in `Clients/<Stage>/<Client>/`, where `<Stage>` is the deal's CRM stage: Leads, Proposals, Closed Won, or Closed Lost. Move the client folder when the CRM stage changes (`reference/second-brain.md`).
+- Use the call note format in `reference/templates.md`. It has date and attendees, current state, gap, why now, decider and champion, next step, and stage.
 - The next step (a date, an owner, and what happens) and the stage also go in the CRM the same day. The CRM says where a deal stands, and the Vault holds what was said (`reference/tools.md`).
 
-**Whether a decision like a price has changed:** search Cairn. It holds the company's decisions and verified facts, each with who decided, when, and the evidence (`reference/second-brain.md`).
+**Check whether a price or other decision has changed in Cairn.**
 
-- You can search and read Cairn, but you cannot add or change entries. The owner of the decision stores it.
-- If Cairn and a note in the Vault disagree, Cairn is current. Tell the Head of Sales so the note gets fixed.
-- If the CRM disagrees with the Vault or Cairn, tell the Head of Sales at the check-in. Do not pick one yourself (`reference/tools.md`).
-- `reference/services.md` is the price list in this folder. The Head of Sales updates it when a decision changes in Cairn, so Cairn is the first place to check.
+- Search Cairn for the decision. Each entry shows what was decided, who decided it, when, and the evidence.
+- If Cairn and a note in the Vault or a file in this folder disagree, Cairn is current. Tell the Head of Sales at the check-in so the note gets fixed. Do not pick one yourself (`reference/second-brain.md`, `reference/tools.md`).
+- You can search and read Cairn, but you cannot add or change entries. The owner of a decision stores it.
 
-I cannot see Cairn or the Vault, so I cannot confirm any current entry. Revenue Operations sets up your access to both. If you cannot open either, that is a Revenue Operations question.
+I cannot see the Vault or Cairn, so I cannot tell you what is in them. If you cannot open either one, that is a Revenue Operations question.
 
-Both are today's module 4 goals (`reference/first-ten-days.md`). The milestone is a practice call logged in the CRM with its call note in the Vault, and one decision found in Cairn.
+Both are part of today's module 4. The milestone is a practice call logged in the CRM with its call note in the Vault, and one decision found in Cairn (`reference/first-ten-days.md`).
 
 CRITERION: ANSWERABLE: PASS only if the reply gives the correct answer from the folder (not just 'ask someone') and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

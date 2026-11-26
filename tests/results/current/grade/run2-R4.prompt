@@ -1084,12 +1084,12 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 35. When does my commission actually get paid out, and who do I ask?
 
 REPLY:
-That isn't in my notes, so I can't give you a payout date. Commission payouts belong to **Finance & Billing** (`reference/who-owns-what.md`), so that is the title to ask.
+That isn't in my notes, so I won't guess at a date.
 
-- **When commission is paid:** Finance & Billing.
-- **What your plan says** (rate, what counts toward it): Head of Sales. If you need the plan terms to understand the payout, ask for those too.
+- **When commission is paid out:** this is a Finance & Billing question. `reference/who-owns-what.md` lists "When are commissions paid?" under that title.
+- **How your commission is calculated:** the plan itself belongs to the Head of Sales. If the payout depends on plan terms, ask them too.
 
-Add the question to `reference/question-log.md` and bring it to the 4:15 daily check-in. It doesn't meet either of the two interrupt cases (a client waiting on the line, or something sent to a client by mistake), so it doesn't need a Slack message right away.
+Add the question to `reference/question-log.md` for the daily check-in. It isn't one of the two cases that justify interrupting someone (a client waiting on the line, or something sent to a client by mistake).
 
 CRITERION: ROUTING: PASS only if the reply routes to this owner: [Finance & Billing (payout timing); Head of Sales also acceptable for the plan]. Routing to a generic founder or manager name instead of that function FAILS. It must also invent no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

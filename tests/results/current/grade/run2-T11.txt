@@ -1,1 +1,1 @@
-FAIL | "The link should be in the invite" is not in the folder; it guesses where the missing answer will come, which Rule 1 forbids.
+PASS | Says "isn't in my notes" first, routes to Head of Sales, and every fact (Monday 10:00–10:45, invites, listen-only days 6–10) matches meetings.md.

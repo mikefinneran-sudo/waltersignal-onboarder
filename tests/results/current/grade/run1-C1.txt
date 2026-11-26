@@ -1,1 +1,1 @@
-PASS | Gives the 9:00 AM Eastern welcome call, the Friday email and 5:00 PM fallback, and the items to have ready; every fact matches the folder.
+PASS | Specific folder-backed answer: 9:00 AM Eastern welcome call, Friday email, quiet room, headset, browser, own internet. Every fact checks against the folder.

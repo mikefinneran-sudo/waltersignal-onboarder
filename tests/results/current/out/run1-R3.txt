@@ -1,7 +1,9 @@
-**Legal & Contracts** handles it. Agreement wording and changes to terms are theirs (`reference/who-owns-what.md`). The example there is almost your exact case: "The client wants to change clause 4."
+**Legal & Contracts** owns that. Agreement wording and changes to terms are theirs (`reference/who-owns-what.md`), and the example there is nearly your case: "The client wants to change clause 4."
 
-- **You do not** promise the client the change, comment on the wording, or say what WalterSignal will accept. Contract wording is out of scope for you and for me.
-- **Tell the Head of Sales** at the daily check-in, and put the question in `reference/question-log.md`. Anything you send the client about it goes to the Head of Sales for approval first.
-- **Only interrupt in Slack** if the client is waiting on the line right now, or something went to the client by mistake. Those are the only two urgent cases (`reference/who-owns-what.md`).
+What to do:
 
-If the deal is already in Proposals, it stays there until the signed agreement comes back. Then you move it to Closed Won (`reference/sales-process.md`).
+- **Don't answer the client on the clause yourself.** Contract wording is out of scope for you, and anything that goes to a client is approved by the Head of Sales first.
+- **Tell the Head of Sales at the daily check-in**, and add the question to `reference/question-log.md`.
+- **Interrupt only if it's urgent.** The folder allows that in two cases: a client is waiting on the line, or something went to a client by mistake. If the client is on the line right now, message the Head of Sales in Slack.
+
+Whether the change is acceptable, or how Legal & Contracts wants to handle it, isn't in my notes.

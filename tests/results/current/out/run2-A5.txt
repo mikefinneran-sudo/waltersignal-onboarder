@@ -1,19 +1,13 @@
-The decider signs and approves the money. The champion is the person you win over first. Both are in `reference/clients.md`.
+Win the champion first. The decider is the one who signs. Both are in `reference/clients.md`.
 
-| Role at the prospect | Who it usually is | What they do in the deal | How to work with them |
+| Role | Who it usually is | What they do in the deal | How to work with them |
 |---|---|---|---|
 | **Decider** | Owner, CEO, or general manager | Signs the agreement and approves the money | Talk about cost, risk, and what they will be able to see and control |
 | **Champion** | Usually the operations manager or office manager | Lives with the problem every day and knows where work falls through the cracks | Win them first. They tell you how the work really runs, and the decider listens to them |
-| **Users** | Dispatchers, estimators, front-desk staff, warehouse leads | Will use what gets built | Ask to talk to one during discovery. Their answers make the Discovery Sprint sharper |
+| **Users** | Dispatchers, estimators, front-desk staff, warehouse leads | Will use what gets built | Ask to talk to one during discovery. Their answers sharpen the Discovery Sprint |
 
-Two examples from `reference/case-study.md`:
-- **Brennan Mechanical:** the owner was the decider and the office manager was the champion.
-- **Harbor Dental Group:** the operations director was the champion, and the two dentist-owners were the deciders. A deal can have more than one decider.
+- **Brennan Mechanical:** the owner was the decider and the office manager was the champion (`reference/case-study.md`). Harbor Dental Group had the operations director as champion and the two dentist-owners as deciders.
+- **Discovery questions:** #8, "Who in the office lives with this every day?", finds the champion. #15, "Who besides you weighs in on a decision like this?", finds who else is in the decision (`reference/discovery-questions.md`).
+- **Research briefs:** your day 4 brief has a "Who decides" line and a "Likely champion" line. Fill them from public sources like the About page and job posts (`reference/templates.md`).
 
-Two questions in `reference/discovery-questions.md` find these people on a call:
-- **#8:** "Who in the office lives with this every day?" This is usually the champion.
-- **#15:** "Who besides you weighs in on a decision like this?" This surfaces other deciders.
-
-For research briefs, the template in `reference/templates.md` has a "Who decides" line and a "Likely champion" line. Fill them in from public sources, such as the About page or a job post.
-
-What have you sold before, and to whom? I can tie this to what you already know.
+What have you sold before, and to whom? That tells me which of these roles will feel familiar.

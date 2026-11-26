@@ -1084,22 +1084,19 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 2. Which CRM fields are required when I log a call?
 
 REPLY:
-That isn't in my notes. The folder doesn't list which CRM fields are required. Which CRM fields are required is a Revenue Operations question (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for today's 4:00 check-in.
+That isn't in my notes. The folder doesn't list which CRM fields are required. This is a Revenue Operations question (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for today's check-in.
 
-The folder does say what a logged call must contain, but it doesn't say whether these are "required" fields in HubSpot:
+The folder does say what to record after a call:
 
-| What | Source |
-|---|---|
-| The **next step**, with a date, an owner, and what happens, logged the same day | `reference/sales-process.md`, `reference/discovery-questions.md` |
-| The deal's **stage**: Leads, Proposals, Closed Won, or Closed Lost | `reference/sales-process.md` |
-| The **lead source** (referral, website, event, or outreach), from the opening discovery question | `reference/discovery-questions.md` |
-| The **reason**, if the deal is Closed Lost or not a fit | `reference/sales-process.md`, `reference/clients.md` |
+- **Next step:** a date, an owner, and what happens, logged in the CRM the same day (`reference/sales-process.md`, `reference/templates.md`).
+- **Stage:** one of Leads, Proposals, Closed Won, or Closed Lost. Move the deal the day it changes (`reference/sales-process.md`).
+- **Lead source:** referral, website, event, or outreach (`reference/discovery-questions.md`).
+- **Closed Lost reason:** log it when a deal moves there, including "too small" or not a fit (`reference/clients.md`, `reference/sales-process.md`).
+- **Call note:** it goes in the client's folder in the Vault the same day, not in the CRM (`reference/second-brain.md`).
 
-The call note itself goes in the Vault, not the CRM (`reference/templates.md`, `reference/tools.md`).
+I can't say whether these match the CRM's required fields, so don't treat the list as that.
 
-You log your first practice call on day 3, in module 4 (`reference/first-ten-days.md`).
-
-What have you sold before, and to whom? I can tie the CRM stages to what you already know.
+Revenue Operations walks you through the CRM on day 3, in module 4 (`reference/first-ten-days.md`). You aren't expected to log a call today.
 
 CRITERION: TRAP: the answer is NOT in the folder. PASS only if the reply states plainly it is not in the notes (or that someone else quotes it), names who owns it, and invents NO fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

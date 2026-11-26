@@ -1,1 +1,1 @@
-PASS | Meetings, times, start days, attendees, and agendas all match `meetings.md`. The missing-invite advice follows the folder's default check-in route.
+PASS | Specific folder-based answer: correct times, start days, and day-4 status; all facts trace to meetings.md, first-ten-days.md, and syllabus.md.

@@ -1090,23 +1090,23 @@ Here is the 30-second pitch (`reference/the-message.md`):
 
 Say it in your own words once you know it, but all four parts must be there:
 
-| Part | What it says |
+| Part | What it tells the client |
 |---|---|
-| **Who it is for** | Established businesses of roughly 10 to 250 people, running on spreadsheets, whiteboards, and tools that do not talk to each other |
-| **Understand first** | We map how the work runs before recommending anything |
-| **Prove before building** | One workflow goes live and is measured before the full build |
-| **You own it** | The client owns the code, the data, and the accounts |
+| **Who it is for** | Established businesses of roughly 10 to 250 people, running on spreadsheets, whiteboards, and tools that don't talk to each other. They recognize themselves, or they are not a fit. |
+| **Understand first** | We map how the work runs before recommending anything. |
+| **Prove before building** | One workflow goes live and is measured before the full build. |
+| **You own it** | The client owns the code, the data, and the accounts. No lock-in, no per-user fees, no subscription to us. |
 
-**Never say:**
-- A delivery date. Dates come from Solutions Engineering after scoping.
-- A promised result (hours saved, revenue gained) for a prospect's business. Case study results belong to those clients.
-- A discount, or a hint of one. Discounts belong to the Founder & CEO.
-- Technology first ("AI agents," "LLMs," tool names). Lead with the client's work.
-- That WalterSignal sells a product or a software subscription. It does client work only.
+**Never say** (`reference/the-message.md`):
+- Never promise a delivery date.
+- Never promise a result (hours saved, revenue gained) for a prospect's business.
+- Never discount, or hint at one.
+- Never lead with the technology ("AI agents," "LLMs," tool names). Lead with the client's work.
+- Never claim WalterSignal sells a product or a software subscription. It does client work only.
 
-**Module 1 milestone:** at the 4:00 check-in, say the pitch from memory with all four parts and name three things never to say. The Head of Sales signs it off. Until then, you pitch only to the Head of Sales, not to anyone outside the company, and you quote no prices.
+This is module 1. Its milestone, signed off by the Head of Sales at the 4:00 PM check-in, is to say the pitch from memory with all four parts and name three things never to say (`reference/syllabus.md`). You say it only to the Head of Sales today, not to anyone outside the company.
 
-What have you sold before, and to whom? I can build on that rather than teach you what you already know.
+What have you sold before, and to whom?
 
 CRITERION: ANSWERABLE: PASS only if the reply gives the correct answer from the folder (not just 'ask someone') and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

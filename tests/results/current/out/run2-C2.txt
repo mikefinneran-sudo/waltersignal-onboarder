@@ -1,21 +1,21 @@
-From `reference/objections.md`:
+Agree with them first, then bring the conversation back to their work. This is the "AI Is All Hype" objection in `reference/objections.md`.
 
-**What's underneath:** they have been sold to before, and burned.
-
-**What to say:**
+**Say:**
 
 > "A lot of it is. That's why we start by mapping how your work runs, and we'll tell you where AI doesn't belong. Brennan Mechanical's Sprint said to leave their accounting software alone."
 
-**Then:** ask a current-state question from `reference/discovery-questions.md`, such as:
-- #4: "Walk me through what happens from the moment a customer calls you."
-- #6: "Where does a job fall through the cracks?"
+**Then ask a question about how their work runs today** (`reference/discovery-questions.md`). They are probably objecting because they have been sold to and burned, so these fit well:
 
-**Back-up if they push:**
-- **Proof:** tell the Brennan Mechanical story (`reference/case-study.md`) as Brennan's result. Median time to send a quote fell from two business days to four hours in the Pilot. Do not promise the prospect the same number.
-- **Human approval:** every AI step has a person approving it. Anything AI drafts is checked by the client's staff before it goes out (`reference/services.md`).
+- #13: "Have you tried to fix it before? What happened?"
+- #6: "Where does a job fall through the cracks?"
+- #7: "Which tools do you pay for today, and which ones does anyone actually open?"
+
+**If they want more:**
+
+- Tell the Brennan Mechanical story as Brennan's result (`reference/case-study.md`). The Sprint ranked quoting first, dispatch second, and left the accounting software alone. WalterSignal recommends less when less is right.
+- Every AI step has a person approving it. Anything AI drafts is checked by the client's staff before it goes out (`reference/services.md`).
 
 **Avoid:**
-- Defending AI or leading with the technology. Lead with their work (`reference/the-message.md`).
-- Promising a result or a date.
 
-If you follow up in writing, send the draft to the Head of Sales for approval first.
+- Leading with the technology ("AI agents," "LLMs," tool names). Lead with their work (`reference/the-message.md`).
+- Promising their business the same numbers Brennan got.

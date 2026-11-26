@@ -1,1 +1,1 @@
-PASS | Routes to Delivery Lead per who-owns-what.md; facts check out, though "dates come from the owning title" loosely paraphrases the-message.md (Solutions Engineering).
+PASS | Routes to Delivery Lead per who-owns-what.md; Solutions Engineering dates, urgent-case rule, Closed Won hand-off, and invoicing all match the folder.

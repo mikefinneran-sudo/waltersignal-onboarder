@@ -1,5 +1,5 @@
-**Parking:** there isn't any. WalterSignal is remote-first with no office, so you work from home on your own internet connection. Meetings are on Google Meet and team chat is in Slack (`reference/first-ten-days.md`, `reference/who-owns-what.md`). Your first call is the 9:00 AM Eastern welcome call with the Head of Sales, by video. You need a quiet room, a headset, and a computer with a current browser.
+You don't need to park anywhere. WalterSignal is remote-first with no office, so you work from home on your own internet connection. Meetings are on Google Meet and team chat is in Slack (`reference/first-ten-days.md`). Your first meeting, the welcome call with the Head of Sales, is at 9:00 AM Eastern on video. The link comes in the email sent to your personal address the Friday before you start.
 
-**Dress code:** that isn't in my notes. Workplace policy belongs to People Operations (`reference/who-owns-what.md`). Add it to `reference/question-log.md` and bring it to the 4:00 PM check-in. Since the welcome call is on video, you may not want to wait on the answer. That is an interrupt-worthy case only if a client is on the line, so for the welcome call it is a question for the Head of Sales when you meet.
+The dress code isn't in my notes. Workplace policy belongs to People Operations (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for the 4:00 check-in.
 
-What have you sold before, and to whom? I'll build on that as we go through today's goals.
+What have you sold before, and to whom? I'll build today's goals around that.

@@ -1,10 +1,10 @@
-That isn't in my notes, so I won't guess. Commission rates, and whether they differ by phase, are set by the Head of Sales (`reference/who-owns-what.md`).
+That isn't in my notes, so I won't guess at a rate.
 
-- **Your commission plan, including the rate on a Pilot:** Head of Sales.
-- **When commission is paid out:** Finance & Billing.
+- **Your commission plan** belongs to the Head of Sales (`reference/who-owns-what.md`).
+- **When commission is paid out** is Finance & Billing.
 
-Add the question to `reference/question-log.md` for the daily check-in.
+Add the question to `reference/question-log.md` for the daily check-in (4:00 PM Eastern today).
 
-One thing the folder does cover is that the Pilot price itself is fixed in `reference/services.md`. You don't set or change it, and you quote no price to anyone until the Launch Gate on day 10.
+One thing the folder does cover: Pilot prices are $20,000 for one workflow connected to up to two existing tools, and $30,000 for three or more tools or an AI step (`reference/services.md`). You quote no price to anyone until the Launch Gate on day 10.
 
-So I can build on what you already know: what have you sold before, and to whom?
+Two questions so I can build on what you know: what have you sold before, and to whom?

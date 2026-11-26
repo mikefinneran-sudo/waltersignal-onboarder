@@ -1,9 +1,7 @@
-**Legal & Contracts** handles it. Agreement wording and changes to terms are theirs (`reference/who-owns-what.md`).
+**Legal & Contracts** handles it. Agreement wording and changes to terms are theirs (`reference/who-owns-what.md`). The example there is almost your exact case: "The client wants to change clause 4."
 
-- **You do not** answer the client on the clause, and you do not promise that a change is possible. Contract wording is out of scope for you and for me.
-- **Anything you send the client** about it, even "we're looking into it," goes to the Head of Sales for approval first.
-- **Log it:** add the request to `reference/question-log.md` for the daily check-in, and record the client's ask and the next step in the CRM and the Vault the same day.
+- **Do not** answer the client on the clause or promise any change. Contract wording is not yours or mine to speak to.
+- **Tell the Head of Sales** at the daily check-in, or on Slack right away if the client is waiting on the line. Anything that goes to the client is approved by the Head of Sales first.
+- **If the change affects a price or a discount,** that part is the Founder & CEO's. You never offer or agree to either (`reference/services.md`).
 
-If the client is waiting on the line right now, or something went to them by mistake, those are the two urgent cases: message the Head of Sales in Slack right away.
-
-I'm also missing something I'd normally ask: what have you sold before, and to whom? It would help me tie answers to your background.
+Add the request to `reference/question-log.md` if you want it on the check-in list.

@@ -1,26 +1,23 @@
-Proposals are not expected of you yet. Writing them is Continuing Education CE4 (weeks 9 to 10), and the milestone is a Good, Better, Best proposal for a real deal (`reference/syllabus.md`). Here is how they work.
+Proposals are Continuing Education CE4 (weeks 9 to 10), so nothing is expected of you on this yet. Here is what the folder says (`reference/sales-process.md`, `reference/syllabus.md`).
 
-**What a proposal is:** the written offer for the client's next phase (`reference/sales-process.md`).
+**What a proposal is:** the written offer for the next phase.
 
-| Type | Format |
+| Phase | Proposal format |
 |---|---|
-| **Discovery Sprint** | One page, at the fixed $7,500 price. Your first sale with a new client is almost always this one. |
-| **Pilot and Build** | Three options: Good, Better, Best. Each step up adds real scope (another workflow, another connected tool, or a Support Plan). Best is the one you recommend. |
+| Discovery Sprint | One page, at the fixed $7,500 price |
+| Pilot and Build | Three options: Good, Better, Best |
 
-**Rules for every proposal:**
-- Write it in the client's words, not technical language.
-- Pilot prices come from `reference/services.md`. The Founder & CEO prices every Build, so you draft and they price.
-- The Head of Sales approves every proposal before it is sent. Once approved, it goes to the client as a Google Doc (`reference/tools.md`).
+**Rules for all proposals:**
+- **Good, Better, Best:** each step up adds real scope, such as another workflow, another connected tool, or a Support Plan. Best is the option you recommend.
+- **Language:** write it in the client's words, not technical language.
+- **Pricing:** Pilot prices come from `reference/services.md`. The Founder & CEO prices every Build.
+- **Approval:** the Head of Sales approves every proposal before it is sent.
+- **After sending:** the deal moves from Leads to Proposals in the CRM.
 
-**After it is sent:**
-- The deal moves from Leads to Proposals in the CRM.
-- It moves to Closed Won when the signed agreement comes back, or to Closed Lost if the client says no or goes quiet.
-- On a yes, tell the Head of Sales the same day. Legal & Contracts sends the agreement, and Finance & Billing sends the first invoice once it is signed.
+**When you will learn it:** the CE4 milestone is to draft a Good, Better, Best proposal for a real deal, for the Head of Sales to approve and the Founder & CEO to price. Your tier-4 scorecard (`reference/expectations.md`) asks for at least one proposal drafted by day 90.
 
-A proposal template or a filled example is not in my notes. `reference/templates.md` covers only the research brief, call note, and follow-up email. Add it to `reference/question-log.md` for the Head of Sales at the check-in.
+**What isn't in my notes:** there is no proposal template in `reference/templates.md`, so I can't give you a layout or section list. If you want one sooner, add it to `reference/question-log.md` for the Head of Sales at the 4:00 check-in.
 
-You quote no price to anyone until the Launch Gate on day 10.
+Today is about the pitch (module 1) and good-fit clients (module 2), plus getting your accounts working. You quote no price to anyone until the Launch Gate on day 10.
 
-Today's goals are the welcome call, your accounts, and module 1, the pitch (`reference/first-ten-days.md`).
-
-What have you sold before, and to whom?
+What have you sold before, and to whom? I can build on that.

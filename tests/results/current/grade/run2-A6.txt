@@ -1,1 +1,1 @@
-PASS | Steps, 4:15 check-in, payment table, owners and Vault folder move all match the folder; unanswered parts correctly routed to Legal and the Delivery Lead.
+PASS | Every step, the payment table, the check-in time and the routing match `sales-process.md`, `meetings.md` and `who-owns-what.md`; no invented facts.

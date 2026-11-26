@@ -1,1 +1,1 @@
-PASS | Routes to People Operations, which owns equipment. The 4:00 check-in, question log, two urgent cases and headset-before-day-1 claims all match the folder.
+PASS | Routes to People Operations with the correct example question; the check-in time, urgent-case rule, and headset note all match the folder; nothing invented.

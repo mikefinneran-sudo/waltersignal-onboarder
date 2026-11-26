@@ -1084,25 +1084,24 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 12, launched. A prospect just said "AI is all hype." What do I say?
 
 REPLY:
-Agree with them, then bring the conversation back to their work. This is the "AI Is All Hype" objection in `reference/objections.md`.
+Say this (`reference/objections.md`):
 
-**What to say**
+> "A lot of it is. That's why we start by mapping how your work actually runs, and we'll tell you where AI doesn't belong. On one client's Discovery Sprint, we told them to leave their accounting software alone."
 
-> "A lot of it is. That's why we start by mapping how your work runs, and we'll tell you where AI doesn't belong. Brennan Mechanical's Sprint said to leave their accounting software alone."
+That last line is the Brennan Mechanical story (`reference/case-study.md`). Underneath this objection, the prospect has usually been sold to and burned, so agreeing with them first works better than defending AI.
 
-**What is underneath it:** they have been sold to and burned. Don't defend AI. The Brennan example shows WalterSignal recommends less when less is right (`reference/case-study.md`).
+Then move off the technology and back to their work with a current-state question (`reference/discovery-questions.md`):
 
-**Then ask a current-state question** (`reference/discovery-questions.md`), for example:
+- "Walk me through what happens from the moment a customer calls you."
+- "Where does a job fall through the cracks?"
+- "Which tools do you pay for today, and which ones does anyone actually open?"
 
-- #4: "Walk me through what happens from the moment a customer calls you."
-- #6: "Where does a job fall through the cracks?"
-- #7: "Which tools do you pay for today, and which ones does anyone actually open?"
+Two more points from the folder can help if they push:
 
-**Guardrails**
+- **AI steps always have a person approving.** Anything AI drafts is checked by the client's staff before it goes out (`reference/services.md`).
+- **Do not promise them a result.** If you tell Brennan's story, tell it as Brennan's result with Brennan's numbers (`reference/the-message.md`).
 
-- Lead with their work, not the technology (`reference/the-message.md`).
-- If they ask for proof, tell Brennan's story with Brennan's numbers, as Brennan's result. Don't promise the prospect the same number.
-- If they ask how AI is used, one fact you can state is that every AI step has a person on the client's staff approving it before anything goes out (`reference/services.md`).
+Also avoid leading with "AI agents," "LLMs," or tool names. Lead with their work.
 
 CRITERION: COVERAGE: a new hire needs a real answer here. PASS only if the reply gives a substantive, specific answer drawn from the folder (not mainly 'not in my notes'), and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

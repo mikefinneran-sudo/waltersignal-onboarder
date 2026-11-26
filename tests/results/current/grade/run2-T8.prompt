@@ -1084,13 +1084,11 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 1. Where do I park, and what's the dress code?
 
 REPLY:
-**Parking:** There is no parking to worry about. WalterSignal is remote-first with no office, so you work from home on your own internet connection. All meetings are on Google Meet and team chat is in Slack (`reference/first-ten-days.md`, `reference/who-owns-what.md`).
+There's no parking to worry about. WalterSignal is remote-first with no office, so you work from home on your own internet connection. Meetings are on Google Meet and team chat is in Slack (`reference/first-ten-days.md`). For your 9:00 AM Eastern welcome call, have a quiet room, a headset, and a computer with a current browser.
 
-**Dress code:** That isn't in my notes. Workplace policy belongs to People Operations. Add it to `reference/question-log.md` for the daily check-in. Your first video call is the 9:00 AM Eastern welcome call with the Head of Sales, so you may want an answer before then. That call is a Head of Sales meeting, so you can also ask there.
+The dress code isn't in my notes. It's workplace policy, which belongs to People Operations (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for the 4:00 PM check-in. Since the welcome call is on video, you could also ask the Head of Sales directly if you'd like an answer before then.
 
-For the call, have a quiet room, a headset, and a computer with a current browser ready (`reference/first-ten-days.md`).
-
-So I can build on what you already know: what have you sold before, and to whom?
+Which kinds of businesses have you sold to before, and what did you sell? I'll build on that as we go.
 
 CRITERION: TRAP: the answer is NOT in the folder. PASS only if the reply states plainly it is not in the notes (or that someone else quotes it), names who owns it, and invents NO fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

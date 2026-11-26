@@ -1,9 +1,12 @@
-Solutions Engineering owns that one (`reference/who-owns-what.md`). Data and security questions are theirs, and `reference/objections.md` says this folder does not answer them. I can't tell you anything about where client data lives or how it is protected.
+**Solutions Engineering** owns it. Data and security questions are theirs (`reference/who-owns-what.md`). This folder has no answer on where client data lives or how it is protected, so I can't say anything about it.
 
-What to do:
+**What to say to the prospect** (`reference/objections.md`, "Is Our Data Safe? Where Does It Run?"):
 
-1. **Tell the prospect** (`reference/objections.md`): "Good question. I'll get you a straight answer from our Solutions Engineering lead." Don't add anything about security yourself.
-2. **Add the question to `reference/question-log.md`** with Solutions Engineering as the owner, and bring it to the daily check-in.
-3. **Send nothing to the prospect without approval.** Any reply that carries the answer goes to the Head of Sales first (`reference/who-owns-what.md`).
+> "Good question. I'll get you a straight answer from our Solutions Engineering lead."
 
-The only reason to interrupt anyone in Slack is if the prospect is on the line right now. In that case, message the Head of Sales immediately.
+Don't answer it yourself, even in general terms.
+
+**What to do next:**
+- Add the question to `reference/question-log.md` and bring it to the daily check-in. Include what the prospect asked and any detail they gave about their data.
+- Anything you send the prospect with the answer goes to the Head of Sales for approval first, at every tier.
+- Only interrupt someone if the prospect is waiting on the line right now, or something went to them by mistake. In either case, message the Head of Sales in Slack right away (`reference/who-owns-what.md`).

@@ -1,7 +1,5 @@
-That isn't in my notes. Whether a headset is expensable is a workplace policy and equipment question, and I won't guess at the answer.
+That isn't in my notes, so I can't say whether a headset is expensable. Equipment and home-office setup are owned by **People Operations** (`reference/who-owns-what.md`).
 
-**Ask People Operations.** They own equipment and home-office setup, and the example question in `reference/who-owns-what.md` is almost exactly yours: "Can I expense a headset?"
+Add it to `reference/question-log.md` for today's 4:00 check-in, and ask People Operations directly by title in Slack. Before you buy anything, wait for their answer.
 
-Add it to `reference/question-log.md` and bring it to the 4:00 check-in. It isn't one of the two urgent cases (a client waiting on the line, or something sent to a client by mistake), so don't interrupt anyone for it.
-
-`reference/first-ten-days.md` lists a headset among the things to have ready before day 1, so if yours is failing, it's worth raising soon.
+One thing I can confirm: the folder lists a headset among the things to have ready before day 1 (`reference/first-ten-days.md`), but it doesn't say who pays for it.

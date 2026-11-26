@@ -1084,28 +1084,30 @@ from home, so there is no office Wi-Fi or building access to ask about.
 QUESTION: Day 15, launched. A prospect asked what the first step costs and whether it counts toward anything later. What do I tell them?
 
 REPLY:
-Tell them the first step is a **Discovery Sprint at a fixed $7,500**, and yes, it counts toward the next phase (`reference/services.md`).
+**Tell them:** the first step is a Discovery Sprint. It is a fixed $7,500 and takes 2 weeks. If they sign a Pilot within 30 days of the Sprint readout, the full $7,500 is credited toward the Pilot (`reference/services.md`).
 
-**What you can say:**
-
-- **Price:** $7,500, fixed. It is a Quotable price, so you can say it now that you are launched.
-- **What they get:** 2 weeks of interviews with their team, a map of how the work runs today, a ranked list of what to fix and what to leave alone, a recommended Pilot, and a 60-minute readout with the decider.
-- **The credit:** if they sign a Pilot within 30 days of the Sprint readout, the full $7,500 is credited toward it.
-- **If they ask what the Pilot costs:** $20,000 for one workflow connected to up to two existing tools, or $30,000 for three or more tools or an AI step. Both are Quotable.
-- **Payment:** the Sprint is 100% at signing (`reference/sales-process.md`).
-
-**Wording from `reference/objections.md`:**
+A line you can use, from `reference/objections.md`:
 
 > "The first step is a two-week Discovery Sprint at a fixed $7,500, and it's credited toward the Pilot if you go ahead within 30 days."
 
-For proof, Brennan Mechanical paid $7,500 for the Sprint, then $30,000 for the Pilot less the $7,500 credit (`reference/case-study.md`). Tell it as Brennan's story, not as a promise of what this prospect will pay.
+**What they get for the $7,500** (`reference/services.md`):
+- Interviews with their team
+- A map of how the work runs today
+- A ranked list of what to fix and what to leave alone
+- A recommended Pilot
+- A 60-minute readout with the decider
 
-**Do not:**
+**Details to have ready if they ask:**
+- **Payment:** the Sprint is paid 100% at signing (`reference/sales-process.md`).
+- **The credit:** it applies to the Pilot only, and only inside the 30-day window. My notes say nothing about a credit toward anything else, so don't suggest one.
+- **Stopping:** each phase is signed on its own. They can stop after the Sprint and keep what was delivered.
+- **Proof:** Brennan Mechanical paid $7,500 for the Sprint, and it was credited to their Pilot (`reference/case-study.md`).
 
-- Quote a Build price or a range. The Founder & CEO prices every Build.
-- Offer or hint at a discount. If they push on price, say "Let me take that to our Founder."
+Don't quote a Pilot price or a Build price unless they ask. If they do ask about the Pilot, the Quotable prices are in `reference/services.md`. Build prices are Internal, so never guess one. The Founder & CEO prices every Build.
 
-If you put any of this in writing, send the draft to the Head of Sales for approval first.
+Don't offer or hint at a discount. If they push on price, say "Let me take that to our Founder."
+
+Anything you write to them, including a follow-up with this price, goes to the Head of Sales for approval before you send it.
 
 CRITERION: ANSWERABLE: PASS only if the reply gives the correct answer from the folder (not just 'ask someone') and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

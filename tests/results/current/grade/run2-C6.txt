@@ -1,1 +1,1 @@
-PASS | Gives the full Tier 3 scorecard, expectations, and exclusions from expectations.md and syllabus.md; every fact checks out, and it correctly flags the targets that aren't in the folder.
+PASS | Gives the full Tier 3 scorecard, abilities, and held-back items from expectations.md, syllabus.md, and meetings.md; every fact checks against the folder.

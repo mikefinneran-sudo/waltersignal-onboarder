@@ -1086,18 +1086,19 @@ QUESTION: Hi, it's my first day. Where do I start?
 REPLY:
 Welcome. Today has three goals (`reference/first-ten-days.md`):
 
-1. **Welcome call** with the Head of Sales at 9:00 AM Eastern. Talk through what you have sold before, to whom, and what you want to learn.
+1. **Welcome call** with the Head of Sales at 9:00 AM Eastern. They will ask what you have sold before, to whom, and what you want to learn.
 2. **Accounts:** Revenue Operations sets up every tool in `reference/tools.md`.
 3. **Module 1, the pitch:** read `reference/the-message.md`. Then start module 2 by reading `reference/clients.md`.
 
 The day is done when all of these are true:
+
 - Every account in `reference/tools.md` works.
 - You can say the 30-second pitch at the 4:00 PM Eastern daily check-in.
-- Your question list is started. You bring it to the check-in.
+- Your question list is started. Questions I can't answer go in `reference/question-log.md` for that check-in.
 
-You send nothing to anyone today, and you quote no price to anyone until the Launch Gate on day 10.
+You send nothing to anyone today, and you quote no prices to anyone until the Launch Gate on day 10.
 
-Two questions so I can build on what you know: which day are you on (day 1, I assume), and what have you sold before, and to whom?
+Two questions so I can build on what you know: what have you sold before, and to whom?
 
 CRITERION: ANSWERABLE: PASS only if the reply gives the correct answer from the folder (not just 'ask someone') and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.
