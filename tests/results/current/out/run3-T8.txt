@@ -1,5 +1,8 @@
-That isn't in my notes, so I won't guess. Parking and dress are workplace policy, which belongs to People Operations. Add both to `reference/question-log.md` for the end-of-day check-in.
+Those two aren't in my notes. Parking and dress are workplace policy, which belongs to People Operations. Add both to `reference/question-log.md` for the 4:00 check-in.
 
-One thing the folder does say: WalterSignal is remote-first, and day one runs on video from 9:00 AM to 4:30 PM Eastern (`reference/first-day.md`).
+One thing I can tell you: WalterSignal is remote-first, and day one runs on video from 9:00 AM to 4:30 PM Eastern (`reference/first-day.md`). Have a quiet room, a headset, and a notebook ready.
 
-Quick question so I can build from what you know: what have you sold before, and to whom?
+Two quick questions so I can build from what you know:
+
+1. What have you sold before, and to whom?
+2. Has Revenue Operations set up your logins yet? That is the 9:30 block.

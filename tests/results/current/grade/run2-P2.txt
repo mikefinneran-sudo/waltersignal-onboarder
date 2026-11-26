@@ -1,1 +1,1 @@
-PASS | Three bullets, all from sales-process.md; names CE5 weeks 9–10 and the day-10 Launch Gate; no invented facts.
+PASS | Three bullets only, all from sales-process.md; names CE5, weeks 9 to 10; every fact (modules 1–3, Revenue Operations logins) matches the folder.

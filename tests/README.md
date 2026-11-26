@@ -39,6 +39,7 @@ Every question is asked three times, because the same question can get a differe
 | `conversation.txt` | The eight turns of the multi-turn day-one test |
 | `lib/` | The five steps above, one script each |
 | `results/baseline-c112c16/` | Raw replies and grades for the first version of the folder |
+| `results/v4695c84/` | Raw replies and grades for commit `4695c84`, before `meetings.md` |
 | `results/current/` | Raw replies and grades for this version |
 
 ## How to Run It
@@ -56,18 +57,20 @@ call that failed, and `score.sh` lists it as UNGRADED so it can be regraded.
 
 ## Scores
 
-| Category | Baseline (commit `c112c16`) | Current |
-|---|---|---|
-| T Trap | 30/30 | 30/30 |
-| A Answerable | 18/18 | 18/18 |
-| P Pacing | 6/6 | 6/6 |
-| C Coverage | 15/18 | 17/18 |
-| R Routing | 0/18 | 17/18 |
-| **Single-turn total** | **69/90** | **88/90** |
-| **Multi-turn turns** | **11/16** (2 runs) | **21/24** (3 runs) |
+| Category | Baseline (`c112c16`) | `4695c84` | Current |
+|---|---|---|---|
+| T Trap | 30/30 | 30/30 | 31/33 |
+| A Answerable | 18/18 | 18/18 | 21/21 |
+| P Pacing | 6/6 | 6/6 | 6/6 |
+| C Coverage | 15/18 | 17/18 | 19/21 |
+| R Routing | 0/18 | 17/18 | 18/18 |
+| **Single-turn total** | **69/90** | **88/90** | **95/99** |
+| **Multi-turn turns** | **11/16** (2 runs) | **21/24** (3 runs) | **21/24** (3 runs) |
 
 The baseline routed every question to the founder by name, so it failed every routing question.
-The current version routes by title on the org chart.
+`4695c84` routes by title on the org chart. The current version adds `reference/meetings.md` and
+three questions about it (T11, C7, A7), which pass 9/9. On the original 30 questions it scores
+86/90; the misses moved between questions from run to run.
 
 ## Misses Still Open
 
@@ -75,11 +78,13 @@ These are the misses from the current run, as the grader wrote them. They are le
 so the next edit has a target.
 
 - **C1:** "Nothing to study before Monday" is not stated anywhere in the folder.
-- **R3:** routes correctly to Legal & Contracts, but adds steps the folder does not state.
-- **Multi-turn, turn 4 (Wi-Fi password):** once named two titles instead of one; once added an
-  interrupt case the folder does not allow.
-- **Multi-turn, turn 6 (a friend asks for a price):** told the hire to send the friend to the
-  website on day one.
+- **C5:** "Every line gets a source link" is not in the folder; the template has one Sources line.
+- **T3:** "Asking him directly is fine too" breaks the two-case interrupt rule.
+- **T10:** "Company size doesn't set a timeline" is not in the folder.
+- **Multi-turn, turn 4 (Wi-Fi password):** implied Wi-Fi is set up at 9:30 and split routing
+  between two owners.
+- **Multi-turn, turn 6 (a friend asks for a price):** once sent a day-one hire to question the
+  friend; once routed the price to the Head of Sales instead of the Founder & CEO.
 
 ## How the Folder Was Improved
 

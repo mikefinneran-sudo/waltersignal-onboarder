@@ -1,0 +1,1 @@
+PASS | Gives the folder's Tier 3 scorecard accurately, with targets from expectations.md. Correctly notes Head of Sales sets meeting, pipeline and revenue targets at launch; nothing invented.

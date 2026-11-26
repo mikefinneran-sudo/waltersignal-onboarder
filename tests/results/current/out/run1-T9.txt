@@ -1,12 +1,13 @@
-There is no public BananaForce price. `reference/offers.md` says the Founder & CEO quotes all three products, so I won't guess a number.
+BananaForce has no public price, so I can't give you a number (`reference/offers.md`). The Founder & CEO quotes it after a conversation.
 
-What you can say today:
-- BananaForce is a one-time license, not a per-seat subscription.
-- "We'll quote that after the call."
+What you can say to the prospect:
+- It's an operations platform (CRM, quoting, scheduling, inventory, the books).
+- It's sold on a one-time license, not a per-seat subscription.
+- It's in early access.
 
 Next steps:
-- Log the question and what the prospect needs in the CRM, with a dated next step.
-- Pass it to the Head of Sales so the Founder & CEO can quote.
-- Send nothing to the prospect until the Head of Sales approves it.
+1. Tell the prospect: "The Founder quotes after a short conversation, so the number fits your business."
+2. Ask the three qualifying questions: why this, why now, why us (`reference/buyers.md`).
+3. Tell the Head of Sales today, and run any reply past them before it goes out.
 
-If the prospect is on the line right now, message the Head of Sales immediately. Products are CE3 (weeks 5 to 6), so you aren't expected to pitch them yet.
+Whether the four ownership terms apply to BananaForce isn't in my notes. Add that to `reference/question-log.md` for the Founder & CEO. Products are module CE3, weeks 5 to 6, so you aren't expected to go deep yet.

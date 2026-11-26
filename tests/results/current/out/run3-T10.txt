@@ -1,10 +1,10 @@
-That isn't in my notes. A Full Build is "scoped to the system," so there is no standard length (`reference/offers.md`).
+That isn't in my notes. `reference/offers.md` says a Full Build is "scoped to the system," and the scope comes after the pilot. No length is written for it, and I won't estimate one for a 20-person HVAC company.
 
-What the folder does say:
-- Signal Audit: 10 business days.
-- Integration Pilot: 30 days.
-- Full Build: scoped after the pilot.
+What I can give you:
+- **Signal Audit:** 10 business days.
+- **Integration Pilot:** 30 days.
+- **Full Build:** scoped after the pilot.
 
-Never promise a date to a buyer. Dates come from **Solutions Engineering** after scoping (`reference/objections.md`). Add this to `reference/question-log.md` for the end-of-day check-in. If a buyer is asking now, tell them you'll get a straight answer from Solutions Engineering, and send any draft reply to the Head of Sales first.
+Never promise a date to a buyer. Timelines before signing are a Solutions Engineering question (`reference/objections.md`, `reference/who-owns-what.md`). Add it to `reference/question-log.md` for the end-of-day check-in. If a buyer is waiting on the line right now, message the Head of Sales.
 
-Is this for a live deal? And which Continuing Education modules has the Head of Sales signed off so far?
+Which CE modules has the Head of Sales signed off so far?

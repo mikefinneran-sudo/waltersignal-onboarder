@@ -1,1 +1,1 @@
-PASS | States "isn't in my notes," routes the plan to Head of Sales and the payout to Finance & Billing; every other fact matches the folder.
+PASS | States it isn't in the notes, routes to Head of Sales and Finance & Billing, and every other fact (4:00 check-in, 9:30 access, modules 1–3) matches the folder.

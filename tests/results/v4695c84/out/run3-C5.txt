@@ -1,0 +1,12 @@
+A research brief is one page, written before every call (`reference/templates.md`). In module 5 you write three on leads the Head of Sales assigns.
+
+A good one answers three things:
+- **Which buyer, and why.** Buyer 1 or 2, with one reason from what you saw.
+- **Who decides, who champions.** The owner and the office manager, if public.
+- **Why now, plus your first three questions.** A hiring post or a coming season, then three picks from `discovery-questions.md`.
+
+Every claim gets a source link. A filled example is in `templates.md`.
+
+Try it: take one assigned lead and tell me which buyer it is and why.
+
+Also, which modules has the Head of Sales signed off so far, and what have you sold before?

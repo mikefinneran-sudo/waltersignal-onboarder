@@ -1,0 +1,9 @@
+Congratulations. Here is what to do today (`reference/sales-process.md`, "After a Yes"):
+
+1. **Tell the Head of Sales today** that the buyer said yes.
+2. **Legal & Contracts sends the agreement.** It goes alone, so you don't send it.
+3. **Finance & Billing sends the deposit invoice**, but only after the signed agreement comes back. Then the deal moves to Closed Won in the CRM.
+
+Until the signed agreement is back, don't move the deal to Closed Won, and don't mention an invoice or a start date to the buyer. Kickoff belongs to the Delivery Lead. Any note you write to the buyer goes to the Head of Sales first.
+
+Log the next step in the CRM today. Is the Head of Sales already aware of this deal?

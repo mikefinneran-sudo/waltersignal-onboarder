@@ -1,0 +1,9 @@
+That one belongs to **Solutions Engineering**. Data and security questions are theirs (`reference/who-owns-what.md`). The actual answer on where client data lives isn't in my notes, so I won't guess.
+
+What to do:
+
+- **Tell the prospect:** "Good question. I'll get you a straight answer from our Solutions Engineering lead." (`reference/objections.md`)
+- **Get the answer:** Today the founder holds that title. Put the question in `reference/question-log.md` for the check-in.
+- **Before it goes out:** Send the Head of Sales any written reply first. Only message them right away if the prospect is waiting on the line.
+
+Log the next step in the CRM today, with a date and an owner.

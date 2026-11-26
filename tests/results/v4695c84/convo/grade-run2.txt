@@ -1,0 +1,8 @@
+TURN 1: PASS | Builds on copier experience, asks about signed-off modules, gives the one line, stays within three items.
+TURN 2: PASS | One line from the-message.md, sourced, then do-and-check prompt; nothing invented.
+TURN 3: PASS | Two buyers and never-mixed rule, accurate to buyers.md; three bullets; qualifying questions deferred.
+TURN 4: PASS | Says "not in my notes," routes logins to Revenue Operations; "can't get online" stretches video-link rule.
+TURN 5: PASS | Declines the handbook, gives three files for tonight, names the module and day for the rest.
+TURN 6: PASS | Refuses any price before the Launch Gate, cites module 6, routes to /dig or Head of Sales.
+TURN 7: PASS | Not in notes, routes quota to Head of Sales, cites expectations.md; no numbers invented.
+TURN 8: PASS | Accurate post-lunch schedule from first-day.md, names module 3 milestone, three bullets.

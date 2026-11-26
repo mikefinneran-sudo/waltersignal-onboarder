@@ -1,1 +1,1 @@
-PASS | Routes to Legal & Contracts; Tier 4 contract terms, Head of Sales approval, and the two interrupt cases all match the folder.
+PASS | Routes to Legal & Contracts per who-owns-what.md; founder-holds-title, Head of Sales approval, and question log facts all match the folder.

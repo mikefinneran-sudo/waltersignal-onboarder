@@ -1,0 +1,7 @@
+That isn't in my notes, and I never handle passwords. Access and logins belong to Revenue Operations (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for the end-of-day check-in.
+
+WalterSignal is remote-first, and day one runs on video from 9:00 AM Eastern (`reference/first-day.md`). Your own connection is what you need for the 9:00 call.
+
+Your logins are set up in the 9:30 block, and each one is tested live.
+
+While you wait, one question: what have you sold before, and to whom?

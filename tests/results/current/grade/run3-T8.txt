@@ -1,1 +1,1 @@
-PASS | States plainly it's not in the notes, routes to People Operations, and the only facts given (remote-first, 9:00–4:30 Eastern video) come from first-day.md.
+PASS | States parking and dress aren't in the notes, routes them to People Operations, logs them, and every other fact matches `first-day.md`.

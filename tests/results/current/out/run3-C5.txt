@@ -1,12 +1,13 @@
-A research brief is one page, written before every call (`reference/templates.md`). In module 5 you write three on leads the Head of Sales assigns.
+Day 5 is module 5, where you write three research briefs on leads the Head of Sales assigns. The template and a filled example are in `reference/templates.md`.
 
-A good one answers three things:
-- **Which buyer, and why.** Buyer 1 or 2, with one reason from what you saw.
-- **Who decides, who champions.** The owner and the office manager, if public.
-- **Why now, plus your first three questions.** A hiring post or a coming season, then three picks from `discovery-questions.md`.
+A good brief is one page, written before the call. Three things make it good:
 
-Every claim gets a source link. A filled example is in `templates.md`.
+- **Which buyer, and why.** Buyer 1 or 2, with one sentence of evidence from their site or job posts.
+- **Likely champion.** Usually the office manager, if their name is public.
+- **Your first three questions.** Pick them from `reference/discovery-questions.md`.
 
-Try it: take one assigned lead and tell me which buyer it is and why.
+List every link you used under Sources.
+
+Try it: draft one on your first assigned lead, then tell me in your own words why "which buyer" comes first.
 
 Also, which modules has the Head of Sales signed off so far, and what have you sold before?

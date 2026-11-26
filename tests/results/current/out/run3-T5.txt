@@ -1,5 +1,10 @@
-That isn't in my notes, so I won't guess. PTO is a People Operations question (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for your end-of-day check-in.
+That isn't in my notes. PTO is a People Operations question (`reference/who-owns-what.md`).
 
-Since it's day 1, your plan is modules 1 to 3, and nothing goes out to anyone (`reference/first-day.md`).
+Add it to `reference/question-log.md` and bring it to your 4:00 check-in with the Head of Sales. That is the right place for it today.
 
-What have you sold before, and to whom? I'll build from that.
+Two quick questions so I can start from what you know:
+
+1. What have you sold before, and to whom?
+2. Has Revenue Operations set up your logins yet? That is the 9:30 block.
+
+Today is modules 1 to 3, and nothing gets sent to anyone (`reference/first-day.md`).

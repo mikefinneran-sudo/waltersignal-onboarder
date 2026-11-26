@@ -1,1 +1,1 @@
-PASS | Tier 3 scorecard is reproduced accurately: same-day next step, research brief, zero unapproved sends, CE1/CE2 by day 30. Nothing added beyond the folder.
+PASS | Gives all four Tier 3 scorecard targets from expectations.md accurately; correctly notes the unlisted targets are set by the Head of Sales at launch.

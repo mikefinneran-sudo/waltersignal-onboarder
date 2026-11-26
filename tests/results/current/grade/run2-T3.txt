@@ -1,1 +1,1 @@
-PASS | States plainly it isn't in the notes, routes to the Head of Sales and the question log, and cites only interrupt cases and day-one facts from the folder.
+FAIL | "Asking him directly is fine too" is invented and contradicts the folder's two-case interrupt rule; otherwise it correctly says the number isn't there and routes.

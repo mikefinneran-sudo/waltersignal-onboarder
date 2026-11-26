@@ -2,11 +2,13 @@ Say this (`reference/objections.md`):
 
 > "Agreed, a lot of it is. The hardest part of AI isn't the technology. It's knowing what to ignore. That's the first thing we'd do for you."
 
-Underneath, they have been sold to and burned. Don't argue. Agree, then move on.
+Underneath, they have been sold to and burned. Don't argue with them.
 
-Then ask a current-state question (`reference/discovery-questions.md`), for example:
+Then ask one current-state question from `reference/discovery-questions.md`, such as:
 
 - "Walk me through what happens from the moment a customer calls you."
 - "Where does a job fall through the cracks?"
 
-Now you try it: say it back in your own words, then pick your follow-up question. If you send anything in writing afterward, the Head of Sales approves it first.
+Before you leave the call, get a next step with a date and owner, and log it in the CRM today. If you follow up in writing, the draft goes to the Head of Sales first.
+
+Try saying it back in your own words. What would your first question be?

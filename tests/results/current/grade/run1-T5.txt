@@ -1,1 +1,1 @@
-PASS | States it isn't in the notes, routes to People Operations correctly, and the 4:00 check-in and 9:30 access block both match the folder.
+PASS | States it isn't in notes, routes PTO to People Operations, and every other fact (4:00 check-in, 9:30 access block) matches the folder.

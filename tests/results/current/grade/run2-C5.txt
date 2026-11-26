@@ -1,1 +1,1 @@
-PASS | Substantive answer from templates.md: one page, before each call, key fields, and the Example Heating & Air brief. No invented facts.
+PASS | Substantive and specific, drawn from templates.md and the module 5 milestone; "source link for every fact" slightly overstates "every link you used."

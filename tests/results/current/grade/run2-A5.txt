@@ -1,1 +1,1 @@
-PASS | Decider, champion, 7–14 days, and questions #8 and #15 match buyers.md and discovery-questions.md; the buyer 2 gap is flagged honestly, with nothing invented.
+PASS | Owner-operator decides and office manager champions, per buyers.md; questions #8 and #15 quoted correctly; correctly notes the Get-Me-Online buyer has no stated decider; nothing invented.

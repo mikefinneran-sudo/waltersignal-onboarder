@@ -1,1 +1,1 @@
-PASS | Start time, video format, items to have ready, welcome email and fallback are all drawn directly from first-day.md; nothing invented.
+FAIL | Mostly accurate from first-day.md, but "Nothing to study before Monday" is a claim the folder never makes.

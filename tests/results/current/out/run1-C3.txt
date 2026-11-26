@@ -1,9 +1,11 @@
-Show them a live build they can open and check. That is `reference/case-study.md`.
+Show them the Freebies Fireworks build (`reference/case-study.md`). Three things to do:
 
-- **Freebies Fireworks** (freebiesfireworks.com): a full online store with a back office, built around how the business runs. Send them to waltersignal.io/dig to see it listed.
-- **The point to make:** it was built around how that business works, and the owner runs it. The client owns the domain, code, and data.
-- **Don't say:** any sales, traffic, or time-saved numbers, what the client paid, or "published case study." None of that is published.
+- **Say it as:** "a live build you can open and check." It is not a published case study, so don't call it one.
+- **Send them to** waltersignal.io/dig, where the live site is listed, so they can open the store themselves.
+- **Make one point:** it was built around how that business works, and the owner runs it and owns it.
 
-Anything you send the prospect goes to the Head of Sales first.
+Never quote sales, traffic, or time-saved numbers. None are published. Don't say what the client paid.
 
-Try it: tell me how you'd say this in two minutes. Also, which modules has the Head of Sales signed off so far?
+Any message to the prospect goes to the Head of Sales first.
+
+Try it: tell me how you'd answer "Do you have results?" in two sentences.

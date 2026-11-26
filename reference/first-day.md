@@ -42,6 +42,7 @@ If the video link fails at 9:00, email the Head of Sales at the address in the w
 | Topic | When |
 |---|---|
 | Tools in depth, who owns what | Module 4, day 2 |
+| Weekly 1:1 and pipeline review (`meetings.md`) | First 1:1 day 5; first pipeline review day 6 |
 | Discovery calls | Module 5, days 3 to 7 |
 | Prices, proof, objections | Module 6, days 8 to 10 |
 | Products, partners, proposals | Continuing Education, days 11 to 90 |

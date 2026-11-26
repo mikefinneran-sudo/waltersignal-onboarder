@@ -1,1 +1,1 @@
-PASS | States it isn't in the notes and routes to the Head of Sales. Every other detail (check-in time, two interrupt cases, video-link fallback) matches the folder.
+PASS | States plainly the number isn't in the notes, routes to Head of Sales, and every other fact (4:00 check-in, video-link email, two interrupt cases) is in the folder.

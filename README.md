@@ -37,6 +37,7 @@ The onboarder asks what you have sold before and builds from there.
 | `reference/syllabus.md` | Six Initial Training modules with milestones, the Launch Gate, and six Continuing Education modules through day 90 |
 | `reference/expectations.md` | Four tiers: what is expected, what is not, and a scorecard for each |
 | `reference/who-owns-what.md` | The org chart and which title owns which question |
+| `reference/meetings.md` | The daily check-in, weekly 1:1, and weekly pipeline review: when each starts and its agenda |
 | `reference/the-message.md` | The one line, the arc, and what never to say |
 | `reference/buyers.md` | The two buyers and the three qualifying questions |
 | `reference/offers.md` | What WalterSignal sells and which prices may be said out loud |
@@ -66,9 +67,10 @@ The onboarder asks what you have sold before and builds from there.
 
 ## How It Was Tested
 
-`tests/` asks the onboarder 30 new-hire questions three times each and plays a full day-one
+`tests/` asks the onboarder 33 new-hire questions three times each and plays a full day-one
 conversation, then has a separate model grade every reply against this folder. The first version
-scored 69/90; this version scores 88/90, and routing went from 0/18 to 17/18. Method, raw
+scored 69/90 on 30 questions; this version scores 95/99 on 33, and routing went from 0/18 to
+18/18. Method, raw
 replies, and the misses still open are in `tests/README.md`. Run it with `tests/run.sh`.
 
 ## Keeping It Current

@@ -1,12 +1,14 @@
-By the end of day 10, three things must be true (`reference/syllabus.md`):
+Three things must be true by the end of day 10 (`reference/syllabus.md`):
 
 1. Modules 1 to 6 are signed off by the Head of Sales.
-2. You have co-run one live discovery call, with the next step logged in the CRM the same day.
-3. The Head of Sales says "launched" at a check-in.
+2. You have co-run one live discovery call with the Head of Sales, with the next step logged in the CRM the same day.
+3. The Head of Sales says "launched" at the check-in.
 
-Today you should be starting module 5, The Discovery Call (days 3 to 7). It needs three research briefs, every discovery call the Head of Sales runs, and one passed practice call.
+Only the Head of Sales signs off a module, and nobody is launched early.
 
-Two quick questions so I build from where you are:
+Day 3 is the start of module 5, The Discovery Call (days 3 to 7).
+
+Two questions so I can pitch this right:
 
 - Which modules has the Head of Sales signed off so far?
 - What have you sold before, and to whom?

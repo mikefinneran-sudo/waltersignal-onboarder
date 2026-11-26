@@ -1,9 +1,14 @@
-That's a Solutions Engineering question. Data and security are theirs, and this folder has no answer on where client data lives or how it's protected (`reference/objections.md`, `reference/who-owns-what.md`).
+Solutions Engineering owns it. Data and security questions are theirs (`reference/who-owns-what.md`).
 
-- **To the prospect:** "Good question. I'll get you a straight answer from our Solutions Engineering lead." Don't guess or reassure beyond that.
-- **For you:** add it to `reference/question-log.md` for the end-of-day check-in.
-- **Before it goes out:** the Head of Sales approves any written answer before it reaches the prospect.
+What I can give you:
+
+- **To the prospect:** "Good question. I'll get you a straight answer from our Solutions Engineering lead." (`reference/objections.md`)
+- **What I can't give you:** how or where client data is stored or protected. That isn't in my notes, so don't guess it to the prospect.
+
+Next steps:
+
+1. Add the question to `reference/question-log.md` for today's check-in.
+2. Log a dated next step in the CRM.
+3. Send any written reply to the Head of Sales for approval before it goes to the prospect.
 
 Only message the Head of Sales right away if the prospect is on the line now.
-
-Also log a dated next step in the CRM today.

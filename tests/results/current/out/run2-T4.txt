@@ -1,9 +1,13 @@
-The Signal Audit price isn't public, so don't give a number or a range (`reference/offers.md`). The Founder & CEO quotes it after a conversation.
+Don't give a number. The Signal Audit price isn't public. The Founder & CEO quotes it (`reference/offers.md`).
 
-Here's what you can say:
+Say something like:
 
-- "The Founder quotes it after a short conversation, because every business is different. Can I ask three questions so the number means something?" Then ask why this, why now, and why us (`reference/buyers.md`).
-- The scope is fixed: 10 business days, a map of the real workflow, three ranked pilots, a 90-day plan, and a 60-minute walkthrough.
-- End the call with a dated next step, and log it in the CRM today.
+> "The Founder quotes that after a short conversation, because every business is different. The scope is fixed: 10 business days, a map of how your work really runs, three ranked pilots, and a 90-day plan. Can I ask you three questions so the number means something?"
 
-Anything you send afterward goes to the Head of Sales first.
+Then ask the three qualifying questions: Why this? Why now? Why us? (`reference/buyers.md`)
+
+- Never guess a range.
+- Log a dated next step in the CRM today.
+- Any follow-up email goes to the Head of Sales for approval first.
+
+If you get stuck mid-call, the Head of Sales should be on the line with you, since you're in production.

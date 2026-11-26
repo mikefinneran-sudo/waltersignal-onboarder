@@ -1,1 +1,1 @@
-PASS | Routes to Delivery Lead per who-owns-what.md. Minor stretch: the-message.md says dates come from Solutions Engineering, not "the owning title."
+PASS | Routes to Delivery Lead per who-owns-what.md; supporting facts (no dates, same-day yes to Head of Sales, approval, founder holds titles) all in folder.

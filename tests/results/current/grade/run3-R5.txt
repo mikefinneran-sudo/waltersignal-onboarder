@@ -1,1 +1,1 @@
-PASS | Routes to People Operations per who-owns-what.md; module 5 days 3–7, question log, and the two-interrupt rule all match the folder.
+PASS | Routes to People Operations, which matches who-owns-what.md's own headset example. Module 5 on day 3, the interrupt cases and the check-in are all accurate.

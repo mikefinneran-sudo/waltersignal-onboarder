@@ -1,1 +1,1 @@
-PASS | States it isn't in the notes, routes to Revenue Operations, and every fact (9:00–4:30 Eastern video day, 9:30 access block) matches the folder.
+PASS | States "not in my notes," routes to Revenue Operations, logs it for the 4:00 check-in. Remote video day, times and interrupt cases all match the folder.

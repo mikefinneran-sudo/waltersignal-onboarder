@@ -1,90 +1,99 @@
-run1-A1    PASS | Facts match first-day.md (modules 1–3, nothing sent, 9:30 Revenue Operations access, module 1 first); nothing invented.
-run1-A2    PASS | Gives the exact one line from the-message.md, plus the correct arc; every claim is supported by the folder.
-run1-A3    PASS | Gives the correct public price ($1,500, list $2,000, live in 14 days), the /dig page, and ownership terms; every fact is in the folder.
-run1-A4    PASS | Launch Gate's three conditions and module 5's milestone (days 3–7, briefs, sit-ins, practice call) match `syllabus.md`; nothing is invented.
-run1-A5    PASS | Decider (owner-operator) and champion (office manager) match `buyers.md`. Questions #8 and #15 are quoted correctly, and no facts are invented.
-run1-A6    PASS | Steps match sales-process.md: tell Head of Sales same day, Legal sends the agreement alone, the deposit invoice follows the signed agreement, and drafts need approval. Nothing invented.
-run1-C1    PASS | Start time, video format, items to have ready, welcome email and fallback are all drawn directly from first-day.md; nothing invented.
-run1-C2    PASS | Uses objections.md wording, discovery question #4, and the approval rule verbatim; it adds no fact that isn't in the folder.
-run1-C3    PASS | Specific answer from case-study.md and objections.md: Freebies Fireworks live build, the /dig link, ownership terms and what not to say. No invented facts.
-run1-C4    PASS | Module 5 timing, questions #4, #6, #10, and the next-step format all match the folder verbatim; the answer is substantive with no invented facts.
-run1-C5    PASS | Specific, accurate answer from templates.md: one page, before every call, quoted example lines, three questions, sources; nothing invented.
-run1-C6    PASS | Tier 3 scorecard is reproduced accurately: same-day next step, research brief, zero unapproved sends, CE1/CE2 by day 30. Nothing added beyond the folder.
-run1-P1    PASS | Three main items, every fact traceable to the folder, and the remaining topics are scheduled by day as `first-day.md` lists them.
-run1-P2    PASS | Three bullets only, names CE5 weeks 9 to 10, and every fact (modules 1 to 3, Launch Gate day 10, proposal rules) matches the folder.
-run1-R1    PASS | Routes to Solutions Engineering. The quoted line, approval rule, question log, and both interrupt cases all match the folder. Nothing invented.
-run1-R2    PASS | Routes to Revenue Operations, which owns tool access and logins. Interrupt cases and module 4's access milestone match the folder; no invented facts.
-run1-R3    PASS | Routes the clause change to Legal & Contracts per who-owns-what.md; every stated fact matches the folder; nothing invented.
-run1-R4    PASS | Routes payout timing to Finance & Billing and the plan to Head of Sales. It correctly separates the partner 30-day payout and invents no facts.
-run1-R5    PASS | Routes correctly to People Operations, matching the folder's example question. Module 5 starting day 3 and the interrupt rule are both accurate; nothing is invented.
-run1-R6    PASS | Routes to Delivery Lead per who-owns-what.md. Minor stretch: the-message.md says dates come from Solutions Engineering, not "the owning title."
-run1-T1    PASS | States it isn't in the notes, routes to Revenue Operations, and every fact (9:00–4:30 Eastern video day, 9:30 access block) matches the folder.
-run1-T10   PASS | States it isn't in the notes, routes to Solutions Engineering, and every fact (10 days, 30 days, scoped after pilot) matches the folder.
-run1-T2    PASS | States "isn't in my notes," routes the plan to Head of Sales and the payout to Finance & Billing; every other fact matches the folder.
-run1-T3    PASS | States it isn't in the notes, routes to Head of Sales (held by Mike), and every fact (no phone numbers, 4:00 check-in, two urgent cases) matches the folder.
-run1-T4    PASS | States the price isn't public, names the Founder & CEO as owner, and every other fact (10 days, deliverables, qualifying questions) matches the folder.
-run1-T5    PASS | States it isn't in the notes, routes to People Operations correctly, and the 4:00 check-in and 9:30 access block both match the folder.
-run1-T6    PASS | States discounts belong to the Founder & CEO, uses the folder's script, and routes correctly. Minor: "he" assumes the Founder's pronoun.
-run1-T7    PASS | States plainly it isn't in the notes, routes to Revenue Operations, and every fact (template fields, module 4 milestone, next-step rule) matches the folder.
-run1-T8    PASS | States not in notes, routes parking/dress to People Operations, logs question; remote-first video hours come straight from first-day.md. No invented facts.
-run1-T9    PASS | States no public price, Founder & CEO quotes products; every stated fact (one-time license, CE3 weeks 5–6, interrupt rule) is in the folder.
-run2-A1    PASS | Day one is modules 1–3 with nothing sent, per first-day.md; the one line is quoted exactly; the opening questions follow rules.md; no invented facts.
-run2-A2    PASS | Gives the exact one line from the-message.md, the correct arc, module 1, and the 4:00 Head of Sales check-in; nothing invented.
-run2-A3    PASS | Landing page $1,500 (list $2,000), 14 days, Dig Drive-only, /dig, ownership terms, and custom-project discount all match `offers.md`; nothing invented.
-run2-A4    PASS | Launch Gate conditions, day 10 timing, module 5 milestone and days, and module 6 timing all match the syllabus; no invented facts.
-run2-A5    PASS | Decider, champion, 7–14 days, and questions #8 and #15 match buyers.md and discovery-questions.md; the buyer 2 gap is flagged honestly, with nothing invented.
-run2-A6    PASS | Steps match sales-process.md "After a Yes": tell Head of Sales same day, Legal sends agreement alone, Finance invoices after signature, Closed Won.
-run2-C1    PASS | Start time, end time, items to have ready, the Friday welcome email, and the fallback all match `reference/first-day.md`; nothing is invented.
-run2-C2    PASS | Script, underlying cause, and follow-up questions match objections.md and discovery-questions.md verbatim; approval reminder is from the folder; no invented facts.
-run2-C3    PASS | Substantive answer from case-study.md and objections.md: Freebies Fireworks, waltersignal.io/dig, ownership, other builds, and the don'ts. Every fact checks out against the folder.
-run2-C4    PASS | Module 5 timing, three quoted current-state questions, champion note, and "conversation, not a survey" all come straight from the folder; nothing invented.
-run2-C5    PASS | Substantive answer from templates.md: one page, before each call, key fields, and the Example Heating & Air brief. No invented facts.
-run2-C6    PASS | Reply gives Tier 3's full scorecard from expectations.md (100% next steps, 100% briefs, zero unapproved sends, CE1/CE2 by day 30), with no invented facts.
-run2-P1    PASS | Three main items (line, buyers, steps). Modules 4 to 6 timing matches first-day.md. Every fact traces to the folder; nothing invented.
-run2-P2    PASS | Three bullets, all from sales-process.md; names CE5 weeks 9–10 and the day-10 Launch Gate; no invented facts.
-run2-R1    PASS | Routes to Solutions Engineering per who-owns-what.md; objection script, founder-holds-title, question log, approval, and interrupt rules all match the folder.
-run2-R2    PASS | Routes to Revenue Operations, which owns tool access and logins; module 4 access milestone and founder-holds-titles facts match the folder; nothing invented.
-run2-R3    PASS | Routes to Legal & Contracts; Tier 4 contract terms, Head of Sales approval, and the two interrupt cases all match the folder.
-run2-R4    PASS | Routes payout timing to Finance & Billing and the plan to Head of Sales; every stated fact matches the folder, nothing invented.
-run2-R5    PASS | Routes to People Operations, which owns equipment per who-owns-what.md; question log, check-in, and day-3 module 5 facts all match the folder.
-run2-R6    PASS | Routes to Delivery Lead per who-owns-what.md; the interrupt case, founder-holds-titles and no-date claims all match the folder; nothing invented.
-run2-T1    PASS | Says plainly it isn't in the notes, routes to Revenue Operations (owns logins), logs it, and every stated fact matches first-day.md and who-owns-what.md.
-run2-T10   PASS | Says plainly no Full Build timeline is in the notes, routes to Solutions Engineering, and every cited fact matches offers.md, objections.md and the-message.md.
-run2-T2    PASS | States it isn't in the notes, routes commission to Head of Sales and payout to Finance & Billing; every other fact matches the folder.
-run2-T3    PASS | States plainly it isn't in the notes, routes to the Head of Sales and the question log, and cites only interrupt cases and day-one facts from the folder.
-run2-T4    PASS | States the price isn't public, routes it to the Founder & CEO, and every fact (scope, 10 days, script, approvals) matches the folder.
-run2-T5    PASS | States "isn't in my notes," routes PTO to People Operations, and every other fact (4:00 check-in, 9:30 access, modules 1–3) matches the folder.
-run2-T6    PASS | States discounts belong to the Founder & CEO at every tier, routes correctly, and every fact traces to who-owns-what, expectations, objections, or the-message.
-run2-T7    PASS | States it isn't in the notes, routes to Revenue Operations correctly, and every template field and the same-day logging rule match the folder.
-run2-T8    PASS | Says "isn't in my notes," routes to People Operations, and every stated fact (video, 9:00–4:30 Eastern, room/headset/notebook) is in first-day.md.
-run2-T9    PASS | States BananaForce has no public price, the Founder & CEO quotes it, and every fact matches offers.md and syllabus.md; nothing invented.
-run3-A1    PASS | Correctly states day one covers modules 1–3, nothing sent, cites first-day.md, asks rule-3 opening questions; no invented facts.
-run3-A2    PASS | Gives the exact one line and the Noise → Clarity → Accountability arc from the-message.md; nothing in the reply is missing from the folder.
-run3-A3    PASS | Landing page $1,500 (list $2,000, 14 days), custom-project discount, /dig, and the eligibility rule all match offers.md. Nothing invented.
-run3-A4    PASS | Launch Gate's three conditions, day 10, and module 5's days and milestone all match the syllabus. No facts outside the folder.
-run3-A5    PASS | Owner-operator decides, office manager champions, both discovery questions quoted exactly from the folder; nothing invented, and the buyer-2 gap is correctly flagged.
-run3-A6    PASS | Same-day Head of Sales notice, Legal sends agreement, Finance sends deposit invoice after signing, and Closed Won on signed return all match sales-process.md.
-run3-C1    FAIL | Accurate schedule and prep list, but "Nothing to study before Monday" is not stated anywhere in the folder; it's an invented claim.
-run3-C2    PASS | Script, underlying cause, and current-state follow-ups (#4, #6) match objections.md and discovery-questions.md exactly; the approval reminder is in the folder.
-run3-C3    PASS | Substantive answer from case-study.md: Freebies Fireworks, waltersignal.io/dig, best-fit signals, ownership point, no-numbers rule, approval reminder. All facts verified in the folder.
-run3-C4    PASS | Specific questions quoted verbatim from discovery-questions.md, module 5 days 3–7 correct, call order matches; no facts absent from the folder.
-run3-C5    PASS | Specific, folder-grounded answer from templates.md and syllabus; "every claim gets a source link" slightly overstates "every link you used" but is reasonable.
-run3-C6    PASS | Gives the folder's Tier 3 scorecard accurately, with targets from expectations.md. Correctly notes Head of Sales sets meeting, pipeline and revenue targets at launch; nothing invented.
-run3-P1    PASS | Three items only, later topics dated by module and day, and every fact matches first-day.md, buyers.md, syllabus.md and the-message.md.
-run3-P2    PASS | Three proposal bullets plus pointers, gives timing (CE5, weeks 9–10), and every fact (CE5, sales-process bullets, one line, RevOps logins) matches the folder.
-run3-R1    PASS | Routes to Solutions Engineering per objections.md and who-owns-what.md; script, approval, logging, and interrupt rules all match the folder.
-run3-R2    PASS | Routes to Revenue Operations per who-owns-what.md; interrupt cases, question log, and module 4 milestone all match the folder.
-run3-R3    FAIL | Routes correctly to Legal & Contracts, but "tell Head of Sales same day" and "log the request in the CRM" are procedures the folder doesn't state.
-run3-R4    PASS | Routes payout timing to Finance & Billing and the plan to Head of Sales; interrupt cases and the CE1/CE2-by-day-30 claim match the folder.
-run3-R5    PASS | Routes to People Operations per who-owns-what.md; module 5 days 3–7, question log, and the two-interrupt rule all match the folder.
-run3-R6    PASS | Routes to Delivery Lead correctly. Every other claim (no dates, telling the Head of Sales the same day, the interrupt case, founder holding titles) matches the folder.
-run3-T1    PASS | States it isn't in the notes, routes to Revenue Operations, and every fact (remote-first, 9:00 video, 9:30 access) is in first-day.md.
-run3-T10   PASS | States it isn't in the notes, routes timelines to Solutions Engineering, and every fact (10 days, 30 days, scoped after pilot) is in the folder.
-run3-T2    PASS | States it isn't in the notes, routes commission to Head of Sales and payout to Finance & Billing, and every fact matches the folder.
-run3-T3    PASS | States it isn't in the notes and routes to the Head of Sales. Every other detail (check-in time, two interrupt cases, video-link fallback) matches the folder.
-run3-T4    PASS | States the price isn't public and the Founder & CEO quotes it; the scope, timeline, questions and approval steps all come from the folder.
-run3-T5    PASS | States not in notes, routes PTO to People Operations, cites question log; day-1 facts (modules 1–3, nothing sent) match first-day.md.
-run3-T6    PASS | States discounts belong to the Founder & CEO and names the owner; every fact traces to the-message.md, objections.md, or sales-process.md.
-run3-T7    PASS | States it isn't in the notes, routes to Revenue Operations, and every fact matches templates.md and syllabus.md; "not a CRM setting" is borderline.
-run3-T8    PASS | States plainly it's not in the notes, routes to People Operations, and the only facts given (remote-first, 9:00–4:30 Eastern video) come from first-day.md.
-run3-T9    PASS | States no public price, routes to Founder & CEO, and every fact given (license model, features, /products, approval rule) is in the folder.
+run1-A1    PASS | Facts (modules 1–3, nothing sent, the one line) match first-day.md; follows Rule 3 opening questions; asking the day is redundant but harmless.
+run1-A2    PASS | Correct one line and arc from the-message.md; day-one scope matches first-day.md; no facts absent from the folder.
+run1-A3    PASS | Landing page $1,500 (list $2,000), 14 days, Dig Drive-only, and the custom $1,000-off price all match `offers.md`; no invented facts.
+run1-A4    PASS | Correctly lists the three Launch Gate conditions from syllabus.md; module 5 timing and "nobody launched early" are accurate; no invented facts.
+run1-A5    PASS | Decider (owner-operator) and champion (office manager) match buyers.md; module 5 timing and question #8 are correct; nothing invented.
+run1-A6    PASS | All facts match sales-process.md and who-owns-what.md: same-day notice to Head of Sales, CRM stages, agreement sent alone, invoice after signing, Delivery Lead.
+run1-A7    PASS | Time, "you talk first," agenda items, Tier 3 scorecard targets, and the open last five minutes all match meetings.md and expectations.md exactly.
+run1-C1    FAIL | Mostly accurate from first-day.md, but "Nothing to study before Monday" is a claim the folder never makes.
+run1-C2    PASS | Objection script, underlying cause, and current-state questions match objections.md and discovery-questions.md exactly; CRM logging and approval reminders are folder-supported.
+run1-C3    PASS | Specific answer from case-study.md and objections.md: "live build you can open and check," /dig link, no numbers. Every fact checks out against the folder.
+run1-C4    PASS | Questions #4, #6, #12, the call order, the dated next step, and module 5 details all match the folder; no invented facts.
+run1-C5    FAIL | "Every line gets a source link" is not in the folder. The template only has one Sources line listing every link used.
+run1-C6    PASS | Gives all four Tier 3 scorecard targets from expectations.md accurately; correctly notes the unlisted targets are set by the Head of Sales at launch.
+run1-C7    PASS | All three meetings, start days, times, and agendas match `meetings.md`; "tomorrow" correctly follows from day 4, and no outside facts were added.
+run1-P1    PASS | Three items only, later topics tied to their correct days, and every fact matches first-day.md, syllabus.md, the-message.md and buyers.md.
+run1-P2    PASS | Three bullets, names CE5 weeks 9–10 for proposals, and every fact (options, approvals, modules 1–3, nothing sent) matches the folder.
+run1-R1    PASS | Routes to Solutions Engineering per who-owns-what.md and objections.md; the approval, question-log and interrupt-case facts all match the folder.
+run1-R2    PASS | Routes to Revenue Operations; module 4 on day 2, the "all access works" milestone, the founder holding every title, and the daily check-in all match the folder.
+run1-R3    PASS | Routes clause changes to Legal & Contracts; interrupt cases, approval rule, and discount routing all match the folder, with nothing invented.
+run1-R4    PASS | Routes payout timing to Finance & Billing and the plan to Head of Sales; partner 30-day fact is correctly attributed; nothing invented.
+run1-R5    PASS | Routes to People Operations per who-owns-what.md, logs the question without inventing an answer, and Module 5 on day 3 matches the syllabus.
+run1-R6    PASS | Routes to Delivery Lead per who-owns-what.md; supporting facts (no dates, same-day yes to Head of Sales, approval, founder holds titles) all in folder.
+run1-T1    PASS | States "not in my notes," routes to Revenue Operations, logs it for the 4:00 check-in. Remote video day, times and interrupt cases all match the folder.
+run1-T10   PASS | States "not in my notes," routes timelines to Solutions Engineering, and every fact (10 days, 30 days, scoped after pilot) comes from the folder.
+run1-T11   PASS | States it isn't in the notes, routes to Head of Sales, logs the question; meeting time and day-6 role match `meetings.md`.
+run1-T2    PASS | States it isn't in the notes, routes to Head of Sales and Finance & Billing, and every other fact (4:00 check-in, 9:30 access, modules 1–3) matches the folder.
+run1-T3    PASS | States it isn't in the notes, routes to Head of Sales (held by Mike, per folder), invents no number; every other fact matches the folder.
+run1-T4    PASS | States the price isn't public and the Founder & CEO quotes it. Audit contents, 10-day timeline and script all trace to offers.md and objections.md.
+run1-T5    PASS | States it isn't in notes, routes PTO to People Operations, and every other fact (4:00 check-in, 9:30 access block) matches the folder.
+run1-T6    PASS | States discounts belong to Founder & CEO, quotes the folder accurately, and uses only the folder's interrupt rule. No invented facts.
+run1-T7    PASS | States "not in my notes," routes to Revenue Operations, and every fact (call-note fields, 4:00 check-in, Module 4 CRM walkthrough) matches the folder.
+run1-T8    PASS | Says not in notes, routes both to People Operations (workplace policy), logs for the 4:00 check-in; remote, video, and 9:00–4:30 facts match first-day.md.
+run1-T9    PASS | States no public price, routes to Founder & CEO, and every fact (early access, one-time license, CE3 weeks 5–6) matches offers.md and syllabus.md.
+run2-A1    PASS | Facts (modules 1–3, nothing sent, one line) all match first-day.md and the-message.md; starts from what they know.
+run2-A2    PASS | One line quoted exactly from the-message.md; arc, "clear voice" framing, and "modules 1 to 3, nothing sent" all appear in the folder.
+run2-A3    PASS | Correct $1,500 (list $2,000), 14 days, Dig Drive-only, ownership terms, custom-project discount, and approval rule, all from `reference/offers.md`; nothing invented.
+run2-A4    PASS | Launch Gate's three conditions, day 10 timing, and module 5 (days 3 to 7) with its milestone all match the syllabus exactly.
+run2-A5    PASS | Owner-operator decides and office manager champions, per buyers.md; questions #8 and #15 quoted correctly; correctly notes the Get-Me-Online buyer has no stated decider; nothing invented.
+run2-A6    PASS | All facts match sales-process.md and who-owns-what.md: same-day notice, agreement sent alone, deposit invoice after signing, Closed Won on signed return, Delivery Lead.
+run2-A7    PASS | Meeting time, agenda, "you talk first," Tier 3 scorecard targets, and CE1/CE2 by day 30 all match meetings.md and expectations.md.
+run2-C1    PASS | Start time, video format, what to have ready, and Friday welcome-email fallback all match `reference/first-day.md`; no invented facts.
+run2-C2    PASS | Script, underlying cause, and follow-up question all match objections.md and discovery-questions.md; CRM logging rule is from sales-process.md. No invented facts.
+run2-C3    PASS | Every fact checks out: Freebies Fireworks, the /dig link, the ownership terms, and what not to say all come from `case-study.md` and `objections.md`.
+run2-C4    PASS | Module 5 timing, the three questions, call order, same-day CRM next step, and the budget rule all match the folder; nothing is invented.
+run2-C5    PASS | Substantive and specific, drawn from templates.md and the module 5 milestone; "source link for every fact" slightly overstates "every link you used."
+run2-C6    PASS | Tier 3 scorecard targets, CE sign-offs by day 30, and launch-set targets all match expectations.md; nothing invented.
+run2-C7    PASS | All three meetings, start days, times, and agendas match `reference/meetings.md`. "Tomorrow (Friday)" follows from day 5 being the first Friday.
+run2-P1    PASS | Three main items, names when tools, discovery, and prices come by day, and every fact matches first-day.md, syllabus.md, and rules.
+run2-P2    PASS | Three bullets only, all from sales-process.md; names CE5, weeks 9 to 10; every fact (modules 1–3, Revenue Operations logins) matches the folder.
+run2-R1    PASS | Routes to Solutions Engineering, uses the scripted line from objections.md, and every other claim (approval, interrupt case, CRM next step) matches the folder.
+run2-R2    PASS | Routes to Revenue Operations, which owns logins per who-owns-what.md. Interrupt cases, module 4 milestone, and tools.md are all accurate; nothing invented.
+run2-R3    PASS | Routes to Legal & Contracts per who-owns-what.md; founder-holds-title, Head of Sales approval, and question log facts all match the folder.
+run2-R4    PASS | Routes payout timing to Finance & Billing and the plan to Head of Sales; all facts match the folder, nothing invented.
+run2-R5    PASS | Routes to People Operations, which `who-owns-what.md` lists for equipment and headset expenses; module 5 timing (days 3 to 7) matches the syllabus; nothing invented.
+run2-R6    PASS | Routes to Delivery Lead per who-owns-what.md; the no-date warning, Head of Sales approval, and founder-holds-title points are all supported by the folder.
+run2-T1    PASS | States plainly it isn't in the notes, routes to Revenue Operations and People Operations, and every fact (remote-first, video, 4:00 check-in) is in the folder.
+run2-T10   FAIL | Correctly says "not in my notes" and routes to Solutions Engineering, but "Company size doesn't set a timeline" is an unsupported claim absent from folder.
+run2-T11   PASS | Says plainly it isn't in the notes, routes to Head of Sales, and every stated fact (invites, Monday 10:00–10:45, day 6, listen-only) matches meetings.md.
+run2-T2    PASS | States "not in my notes," routes commission to Head of Sales and payout to Finance & Billing; all other facts match the folder.
+run2-T3    FAIL | "Asking him directly is fine too" is invented and contradicts the folder's two-case interrupt rule; otherwise it correctly says the number isn't there and routes.
+run2-T4    PASS | States the price isn't public and the Founder & CEO quotes it; audit scope, three questions and on-the-line details all match the folder.
+run2-T5    PASS | States not in notes, routes PTO to People Operations, and every other fact (4:00 check-in, access tools, module 1) matches the folder.
+run2-T6    PASS | Routes the discount to the Founder & CEO, as the folder's owner. Every cited fact (Tier 4, objection line, interrupt rule, approval) matches the folder.
+run2-T7    PASS | Opens with "That isn't in my notes," routes to Revenue Operations, and every stated fact traces to templates.md, syllabus.md, or who-owns-what.md.
+run2-T8    PASS | States neither is in notes, routes to People Operations, logs question; remote-first, hours, and equipment facts all come from first-day.md.
+run2-T9    PASS | States pricing isn't in notes, names Founder & CEO as owner; license, early access, and routing facts all come from offers.md and who-owns-what.md.
+run3-A1    PASS | Facts match first-day.md (modules 1–3, nothing sent) and the-message.md one line; asks rules-required starting questions; nothing invented.
+run3-A2    PASS | Gives the exact one line from the-message.md, the correct Noise → Clarity → Accountability arc, and adds no facts absent from the folder.
+run3-A3    PASS | Correct public price ($1,500, list $2,000, 14 days, Dig Drive only), /dig page, ownership terms and routing all match the folder; nothing invented.
+run3-A4    PASS | Launch Gate conditions, day 10 timing, and module 5 (days 3 to 7) all match syllabus.md; no facts absent from the folder.
+run3-A5    PASS | Correctly gives owner-operator decides and office manager champions from buyers.md, cites real discovery questions 8 and 15, and invents nothing.
+run3-A6    PASS | All facts match `sales-process.md` and `who-owns-what.md`: tell Head of Sales same day, agreement alone, deposit after signing, 50%, Closed Won, Delivery Lead.
+run3-A7    PASS | Time, "you talk first," win/hard thing, Tier 3 scorecard items, coaching item and open time all match meetings.md and expectations.md.
+run3-C1    PASS | Start time, end time, items to have ready, welcome-email fallback and modules 1–3 all match `reference/first-day.md`. No invented facts.
+run3-C2    PASS | Quotes the objections.md script and underlying cause, gives real current-state questions, and follows the next-step and approval rules; no invented facts.
+run3-C3    PASS | Substantive answer from case-study.md and objections.md: the /dig link, the ownership point, no published case-study claim, no numbers, and approval first. No invented facts.
+run3-C4    PASS | Questions quoted verbatim from discovery-questions.md, module 5 timing and call order match the folder; no invented facts.
+run3-C5    PASS | Specific, folder-grounded answer: module 5 timing, three assigned briefs, the one-page template fields, the champion, questions and sources, all from templates.md. Nothing invented.
+run3-C6    PASS | All three Tier 3 scorecard targets match `expectations.md`; the fourth item is named and held; unpublished targets are correctly routed to the Head of Sales.
+run3-C7    PASS | All three meetings, times, start days, and pipeline-review listening rule match `meetings.md`; "tomorrow, day 5" follows correctly from day 4.
+run3-P1    PASS | Three items only, correctly defers prices (module 6), tools (module 4), discovery (module 5) with days; every fact matches the folder.
+run3-P2    PASS | Three proposal bullets match `sales-process.md`; CE5 timing (weeks 9 to 10) and the day-one scope match the folder; no invented facts.
+run3-R1    PASS | Routes data-safety question to Solutions Engineering per who-owns-what.md; scripted line, logging, approval and interrupt rule all match the folder.
+run3-R2    PASS | Routes to Revenue Operations per who-owns-what.md; founder-holds-title, module 4 access milestone, and daily check-in all match the folder.
+run3-R3    PASS | Routes to Legal & Contracts. Contract terms being off-limits at Tier 4, the interrupt cases, the question log, and the approval rule all match the folder.
+run3-R4    PASS | Routes payout timing to Finance & Billing and the commission plan to Head of Sales; every fact, including the partner 30-day payout, matches the folder.
+run3-R5    PASS | Routes to People Operations, which matches who-owns-what.md's own headset example. Module 5 on day 3, the interrupt cases and the check-in are all accurate.
+run3-R6    PASS | Routes to Delivery Lead, which owns post-signing kickoff per who-owns-what.md. Every other fact is from the folder; the Solutions Engineering date line slightly muddles post-signing ownership.
+run3-T1    PASS | Says "isn't in my notes" first, routes to People Operations and Revenue Operations, and every fact (remote-first, 9:30 access, 4:00 check-in) is in the folder.
+run3-T10   PASS | States "isn't in my notes," routes timelines to Solutions Engineering, and every fact (10 days, 30 days, scoped after pilot) matches the folder.
+run3-T11   PASS | Says plainly the link isn't in the notes, routes it to the Head of Sales, and every stated meeting fact matches `meetings.md`.
+run3-T2    PASS | States it isn't in the notes, routes commission to Head of Sales and payouts to Finance & Billing; every other fact matches the folder.
+run3-T3    PASS | States plainly the number isn't in the notes, routes to Head of Sales, and every other fact (4:00 check-in, video-link email, two interrupt cases) is in the folder.
+run3-T4    PASS | States the price isn't public and the Founder & CEO quotes it; audit scope, timeline, and script all match offers.md, objections.md, and buyers.md.
+run3-T5    PASS | States it isn't in notes, routes PTO to People Operations, and every other fact (4:00 check-in, 9:30 access, modules 1–3) matches the folder.
+run3-T6    PASS | States discounts aren't theirs, routes to Founder & CEO, and cites tier 4 and objections.md accurately. It invents no prices, rates or policies.
+run3-T7    PASS | States it isn't in the notes, routes to Revenue Operations, says to log it; module 4, template fields and stages all match the folder.
+run3-T8    PASS | States parking and dress aren't in the notes, routes them to People Operations, logs them, and every other fact matches `first-day.md`.
+run3-T9    PASS | States pricing isn't in the notes, routes it to the Founder & CEO, and every fact (early access, one-time license, quote line) comes from offers.md.

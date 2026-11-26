@@ -1,9 +1,6 @@
-That is a Legal & Contracts question. They own agreement wording, changes to terms, and sending the agreement (`reference/who-owns-what.md`).
+That's a **Legal & Contracts** question. Agreement wording and changes to terms belong to that title (`reference/who-owns-what.md`). Today the founder holds it, but ask by title anyway.
 
-- **Contract terms aren't yours at day 40.** Don't agree to the change, reject it, or reword anything (`reference/expectations.md`, Tier 4).
-- **Tell the Head of Sales.** Anything that goes back to the client is approved by them first.
-- **Log it.** Add it to `reference/question-log.md` for the end-of-day check-in.
+- **Don't answer the client on the clause.** Don't say yes, no, or "probably fine."
+- **Anything you write to the client** goes to the Head of Sales first.
 
-Message the Head of Sales right away only if the client is waiting on the line, or something went to them by mistake. Otherwise it waits for the check-in.
-
-That isn't in my notes beyond this: the folder doesn't say how Legal & Contracts handles the change itself.
+How to hand the request to Legal & Contracts isn't in my notes. Add it to `reference/question-log.md` and bring it to the daily check-in with the Head of Sales.

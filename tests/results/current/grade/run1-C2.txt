@@ -1,1 +1,1 @@
-PASS | Uses objections.md wording, discovery question #4, and the approval rule verbatim; it adds no fact that isn't in the folder.
+PASS | Objection script, underlying cause, and current-state questions match objections.md and discovery-questions.md exactly; CRM logging and approval reminders are folder-supported.

@@ -1,1 +1,1 @@
-PASS | Three items only, later topics dated by module and day, and every fact matches first-day.md, buyers.md, syllabus.md and the-message.md.
+PASS | Three items only, correctly defers prices (module 6), tools (module 4), discovery (module 5) with days; every fact matches the folder.

@@ -1,11 +1,7 @@
-Congratulations. Here is what happens now (`reference/sales-process.md`):
+Congratulations. That is in `reference/sales-process.md`, "After a Yes":
 
-1. **Tell the Head of Sales today.** Same day, before anything else.
-2. **Don't send anything yourself.** Legal & Contracts sends the agreement. Finance & Billing sends the deposit invoice, and only after the signed agreement comes back.
-3. **Log it in the CRM.** Write the call note and next step today. The deal stays in Proposals until the signed agreement returns, then it moves to Closed Won.
+1. **Tell the Head of Sales today.** Also log the next step in the CRM the same day.
+2. **Legal & Contracts sends the agreement.** It goes alone, with nothing else attached. Send the client nothing yourself without the Head of Sales approving it first.
+3. **Finance & Billing sends the deposit invoice**, but only after the signed agreement comes back. Payment is 50% at signing. The deal moves to Closed Won when the signed agreement is returned, not before.
 
-Any message to the client goes to the Head of Sales for approval first.
-
-Questions about timing or kickoff go in `reference/question-log.md`. Solutions Engineering owns dates, and the Delivery Lead owns the project after signing.
-
-Which offer did they say yes to?
+If the client asks when the project starts, that is a Delivery Lead question. Add it to `reference/question-log.md`. Don't promise a date.

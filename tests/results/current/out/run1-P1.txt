@@ -1,15 +1,14 @@
-Welcome. You wouldn't keep everything at once, so I'll give you three things. Today is modules 1 to 3, and nothing goes to anyone (`reference/first-day.md`).
+Welcome. I won't hand you everything at once, because you'd forget most of it by lunch. Day one is small on purpose: modules 1 to 3, and nothing sent to anyone (`reference/first-day.md`).
+
+Three things to hold today:
 
 - **The one line:** "The hardest part of AI isn't the technology. It's knowing what to ignore."
-- **Two buyers:** the Advisory buyer (owner decides, office manager champions) and the Get-Me-Online buyer (often from Dig Drive DIY). They are never mixed.
+- **Two buyers:** the advisory buyer and the get-me-online buyer. We never mix them.
 - **Three steps:** Research, Validate, Build.
 
-The rest has a day:
-- Tools and who owns what: day 2
-- Discovery calls: days 3 to 7
-- Prices, proof, objections: days 8 to 10
-- Products and proposals: days 11 to 90
+The rest comes in order: tools on day 2, discovery calls on days 3 to 7, prices and objections on days 8 to 10.
 
-Two questions for you:
+Two questions before we go on:
+
 1. What have you sold before, and to whom?
-2. Has the Head of Sales signed off any modules yet?
+2. Have any modules been signed off by the Head of Sales yet?

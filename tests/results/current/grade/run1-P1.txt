@@ -1,1 +1,1 @@
-PASS | Three main items, every fact traceable to the folder, and the remaining topics are scheduled by day as `first-day.md` lists them.
+PASS | Three items only, later topics tied to their correct days, and every fact matches first-day.md, syllabus.md, the-message.md and buyers.md.

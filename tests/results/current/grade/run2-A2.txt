@@ -1,1 +1,1 @@
-PASS | Gives the exact one line from the-message.md, the correct arc, module 1, and the 4:00 Head of Sales check-in; nothing invented.
+PASS | One line quoted exactly from the-message.md; arc, "clear voice" framing, and "modules 1 to 3, nothing sent" all appear in the folder.

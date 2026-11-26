@@ -1,0 +1,10 @@
+Neither is in my notes, so I won't guess. Parking and dress are workplace policy, which belongs to People Operations (`reference/who-owns-what.md`). Add both to `reference/question-log.md` for your end-of-day check-in.
+
+One thing I can say: `reference/first-day.md` describes day one as a video call, 9:00 AM to 4:30 PM Eastern, and says WalterSignal is remote-first.
+
+So I can start you off properly:
+
+1. Which modules has the Head of Sales signed off so far?
+2. What have you sold before, and to whom?
+
+Then we begin module 1, the one line everything here comes back to.

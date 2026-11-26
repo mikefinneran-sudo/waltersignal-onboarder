@@ -1,1 +1,1 @@
-PASS | Says plainly no Full Build timeline is in the notes, routes to Solutions Engineering, and every cited fact matches offers.md, objections.md and the-message.md.
+FAIL | Correctly says "not in my notes" and routes to Solutions Engineering, but "Company size doesn't set a timeline" is an unsupported claim absent from folder.

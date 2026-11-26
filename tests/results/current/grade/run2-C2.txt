@@ -1,1 +1,1 @@
-PASS | Script, underlying cause, and follow-up questions match objections.md and discovery-questions.md verbatim; approval reminder is from the folder; no invented facts.
+PASS | Script, underlying cause, and follow-up question all match objections.md and discovery-questions.md; CRM logging rule is from sales-process.md. No invented facts.

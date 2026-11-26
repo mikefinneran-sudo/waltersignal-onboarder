@@ -1,9 +1,11 @@
-That one belongs to **Solutions Engineering**. Data and security questions are theirs (`reference/who-owns-what.md`). The actual answer on where client data lives isn't in my notes, so I won't guess.
+**Solutions Engineering** owns data and security questions (`reference/who-owns-what.md`). The folder has no answer on where client data lives or how it is protected, so don't answer it yourself.
 
 What to do:
 
 - **Tell the prospect:** "Good question. I'll get you a straight answer from our Solutions Engineering lead." (`reference/objections.md`)
-- **Get the answer:** Today the founder holds that title. Put the question in `reference/question-log.md` for the check-in.
-- **Before it goes out:** Send the Head of Sales any written reply first. Only message them right away if the prospect is waiting on the line.
+- **Log it:** add the question to `reference/question-log.md` for the end-of-day check-in.
+- **Send nothing yet:** any written reply to the prospect goes to the Head of Sales first.
 
-Log the next step in the CRM today, with a date and an owner.
+The only reason to interrupt is if the prospect is on the line right now. In that case, message the Head of Sales immediately.
+
+Also set a dated next step in the CRM for when you will get back to them.

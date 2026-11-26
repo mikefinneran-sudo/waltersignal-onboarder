@@ -1,9 +1,9 @@
-Your CRM login is a Revenue Operations question. That title owns the CRM and tool access (`reference/who-owns-what.md`).
+That's a Revenue Operations question. They own the CRM, tool access, and logins (`reference/who-owns-what.md`). I don't hold logins or know how to reset one, so I can't help with the fix itself.
 
-- Add it to `reference/question-log.md` for the end-of-day check-in.
-- I don't know login details, so I can't help with the login itself.
-- Today, Mike holds the Revenue Operations title too.
+- Add it to `reference/question-log.md` with the owner: Revenue Operations.
+- Bring it to your daily check-in with the Head of Sales. It isn't one of the two interrupt cases (a buyer on the line, or something sent by mistake).
+- "All access works" is part of the module 4 milestone, so this is on the right list.
 
-Working access is the module 4 milestone (`reference/syllabus.md`), so this is the right thing to raise.
+While it's pending, you can start `reference/tools.md`, which covers what each tool is for.
 
-Meanwhile, you can read `tools.md` and `who-owns-what.md`. Were modules 1 to 3 signed off yesterday?
+Two quick questions: were modules 1 to 3 signed off at yesterday's check-in, and what have you sold before?

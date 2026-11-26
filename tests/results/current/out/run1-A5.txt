@@ -1,14 +1,10 @@
-For the advisory buyer (buyer 1), from `reference/buyers.md`:
+For the advisory buyer (`reference/buyers.md`):
 
-- **Who decides:** the owner-operator. They sign.
-- **Who champions:** the office manager. They live with the problem daily and will tell you where work falls through the cracks. Win them and the owner listens.
+- **Decides:** the owner-operator. They sign.
+- **Champions:** the office manager. They live with the problem daily and will tell you where work falls through the cracks. Win them and the owner listens.
 
-The file doesn't name a decider or champion for the get-me-online buyer, so I won't guess.
+The get-me-online buyer is different. They want a price and to be found, and my notes don't name a decider or champion for them.
 
-Two questions from `reference/discovery-questions.md` find them:
-- "Who in the office lives with this every day?" (#8)
-- "Who besides you weighs in on a decision like this?" (#15)
+You're in module 5 (discovery, days 3 to 7). Try this: on a call, which question would you ask to find the champion? Check `reference/discovery-questions.md`, number 8.
 
-Try it: how would you ask #8 on a call? Then say back, in your own words, why the office manager matters.
-
-Also, which modules has the Head of Sales signed off so far, and what have you sold before?
+Which modules has the Head of Sales signed off so far, and what have you sold before?

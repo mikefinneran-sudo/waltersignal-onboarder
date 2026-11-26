@@ -1,1 +1,1 @@
-PASS | States "isn't in my notes," routes PTO to People Operations, and every other fact (4:00 check-in, 9:30 access, modules 1–3) matches the folder.
+PASS | States not in notes, routes PTO to People Operations, and every other fact (4:00 check-in, access tools, module 1) matches the folder.

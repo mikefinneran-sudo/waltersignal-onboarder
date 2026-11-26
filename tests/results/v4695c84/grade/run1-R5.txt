@@ -1,0 +1,1 @@
+PASS | Routes correctly to People Operations, matching the folder's example question. Module 5 starting day 3 and the interrupt rule are both accurate; nothing is invented.

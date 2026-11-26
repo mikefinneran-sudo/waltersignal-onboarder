@@ -1,1 +1,1 @@
-PASS | States discounts belong to the Founder & CEO at every tier, routes correctly, and every fact traces to who-owns-what, expectations, objections, or the-message.
+PASS | Routes the discount to the Founder & CEO, as the folder's owner. Every cited fact (Tier 4, objection line, interrupt rule, approval) matches the folder.

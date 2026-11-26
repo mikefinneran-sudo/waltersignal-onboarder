@@ -1,0 +1,1 @@
+PASS | Start time, end time, items to have ready, the Friday welcome email, and the fallback all match `reference/first-day.md`; nothing is invented.

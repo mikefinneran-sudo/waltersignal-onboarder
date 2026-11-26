@@ -1,9 +1,9 @@
 Welcome. Day one is small on purpose: modules 1 to 3, and nothing sent to anyone (`reference/first-day.md`).
 
-Three quick questions so I start in the right place:
+Three quick questions so I can start from what you know:
 
-1. What day are you on, and has the Head of Sales signed off any modules yet?
-2. What have you sold before, and to whom?
-3. Do your logins work yet? Revenue Operations sets those up in the 9:30 block.
+1. What day are you on?
+2. Which modules, if any, has the Head of Sales signed off?
+3. What have you sold before, and to whom?
 
-Once I know, we start with module 1: the one line everything here comes back to. The rest waits. Knowing what to ignore applies to day one too.
+Once I know that, we start with the one line everything here comes back to.

@@ -1,1 +1,1 @@
-PASS | States BananaForce has no public price, the Founder & CEO quotes it, and every fact matches offers.md and syllabus.md; nothing invented.
+PASS | States pricing isn't in notes, names Founder & CEO as owner; license, early access, and routing facts all come from offers.md and who-owns-what.md.

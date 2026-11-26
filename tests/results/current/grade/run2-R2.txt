@@ -1,1 +1,1 @@
-PASS | Routes to Revenue Operations, which owns tool access and logins; module 4 access milestone and founder-holds-titles facts match the folder; nothing invented.
+PASS | Routes to Revenue Operations, which owns logins per who-owns-what.md. Interrupt cases, module 4 milestone, and tools.md are all accurate; nothing invented.

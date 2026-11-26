@@ -1,1 +1,1 @@
-PASS | States it isn't in the notes, routes commission to Head of Sales and payout to Finance & Billing, and every fact matches the folder.
+PASS | States it isn't in the notes, routes commission to Head of Sales and payouts to Finance & Billing; every other fact matches the folder.

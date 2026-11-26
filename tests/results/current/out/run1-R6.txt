@@ -1,7 +1,9 @@
-The Delivery Lead answers that. Everything after signing, including kickoff, project status, and go-live, is theirs (`reference/who-owns-what.md`). Today the founder holds that title.
+The **Delivery Lead** owns that one. Kickoff, project status, and go-live are all theirs (`reference/who-owns-what.md`).
 
-For you:
-- Don't give the client a start date. Dates come from the owning title, not from sales (`reference/the-message.md`).
-- Tell them the Delivery Lead will confirm the kickoff.
-- Anything you send the client goes to the Head of Sales first.
-- If the client is on the line right now, message the Head of Sales right away. That is one of the two interrupt cases. Otherwise, add it to `reference/question-log.md` for the end-of-day check-in.
+At day 50, here is what you do:
+
+- **Don't promise a date.** Dates come from Solutions Engineering after scoping, never from you (`reference/the-message.md`).
+- **Tell the Head of Sales** the buyer said yes, if you haven't already. That happens the same day (`reference/sales-process.md`).
+- **Get the client an answer.** Tell them you're checking with the person who runs kickoff, and add the question to your list. Anything you send them goes to the Head of Sales first.
+
+Today the founder holds the Delivery Lead title, but ask by title anyway.

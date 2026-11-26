@@ -1,1 +1,1 @@
-PASS | Gives the folder's Tier 3 scorecard accurately, with targets from expectations.md. Correctly notes Head of Sales sets meeting, pipeline and revenue targets at launch; nothing invented.
+PASS | All three Tier 3 scorecard targets match `expectations.md`; the fourth item is named and held; unpublished targets are correctly routed to the Head of Sales.

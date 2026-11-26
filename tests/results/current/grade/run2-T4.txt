@@ -1,1 +1,1 @@
-PASS | States the price isn't public, routes it to the Founder & CEO, and every fact (scope, 10 days, script, approvals) matches the folder.
+PASS | States the price isn't public and the Founder & CEO quotes it; audit scope, three questions and on-the-line details all match the folder.

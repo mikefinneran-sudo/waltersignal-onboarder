@@ -33,8 +33,8 @@ three steps of the work.
 ## Tier 3: Days 11 to 30 (In Production, Done Together)
 
 **Able to do:** run live discovery calls with the Head of Sales on the line. Quote public prices
-from `offers.md` when the buyer asks. Draft follow-ups for approval. Continuing Education CE1 and
-CE2.
+from `offers.md` when the buyer asks. Draft follow-ups for approval. Present your own deals at the weekly pipeline review
+(`meetings.md`). Continuing Education CE1 and CE2.
 
 **Not expected yet:** proposals, discounts, scoping custom work.
 

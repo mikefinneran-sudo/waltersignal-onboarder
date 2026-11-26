@@ -1,13 +1,11 @@
-Here's the answer from `reference/objections.md`.
+That is in `reference/objections.md`. Underneath, they have usually been sold to and burned.
 
-**Say:** "Agreed, a lot of it is. The hardest part of AI isn't the technology. It's knowing what to ignore. That's the first thing we'd do for you."
+**Say:**
+> "Agreed, a lot of it is. The hardest part of AI isn't the technology. It's knowing what to ignore. That's the first thing we'd do for you."
 
 **Then ask a current-state question** (`reference/discovery-questions.md`), for example:
-- "Walk me through what happens from the moment a customer calls you."
-- "Where does a job fall through the cracks?"
+> "Walk me through what happens from the moment a customer calls you."
 
-Underneath, they have probably been sold to and burned, so agree first and don't argue. Then move back to their business.
+Don't argue the point or pitch. Agree, then get them talking about their own work.
 
-Try it in your own words, then tell me why agreeing with them works better than defending AI.
-
-If you send anything in writing afterward, the Head of Sales approves it first.
+Afterward, tell me in your own words why you agree with them first. And log the call and its next step in the CRM today.

@@ -1,13 +1,11 @@
-A good brief is one page, written before every call (`reference/templates.md`). Three parts matter most:
+A good brief is one page, written before every call, with a source link for every fact (`reference/templates.md`). Three parts matter most:
 
-- **Which buyer, and why.** Buyer 1 or 2, with one reason.
-- **Who decides and who champions.** The owner, and the office manager or equivalent.
-- **Why-now signals and your first three questions.** Pick the questions from `reference/discovery-questions.md`.
+- **Which buyer:** 1 or 2, and why. The example says "workflow question, not a website."
+- **Why-now signals:** hiring, a new location, a season coming.
+- **Three questions:** your first three, picked from `reference/discovery-questions.md`.
 
-The example in `templates.md` is Example Heating & Air. It is buyer 1 because the owner is hiring a second dispatcher, so it is a workflow problem, not a website one.
+The full example is Example Heating & Air in `templates.md`. The other five fields come when you write one.
 
-The other fields (tools they use now, sources) are in the template. List every link you used.
+Try it: draft a brief for one of your three assigned leads and tell me which buyer you chose and why.
 
-Your turn: draft a brief for one of your assigned leads. Send it to the Head of Sales before it goes anywhere else.
-
-Two quick questions first: which modules are signed off so far, and what have you sold before?
+Also, which modules has the Head of Sales signed off so far, and what have you sold before?

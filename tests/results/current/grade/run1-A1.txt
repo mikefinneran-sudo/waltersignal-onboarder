@@ -1,1 +1,1 @@
-PASS | Facts match first-day.md (modules 1–3, nothing sent, 9:30 Revenue Operations access, module 1 first); nothing invented.
+PASS | Facts (modules 1–3, nothing sent, the one line) match first-day.md; follows Rule 3 opening questions; asking the day is redundant but harmless.

@@ -1,10 +1,8 @@
-Neither is in my notes, so I won't guess. Parking and dress are workplace policy, which belongs to People Operations (`reference/who-owns-what.md`). Add both to `reference/question-log.md` for your end-of-day check-in.
+Neither is in my notes, so I won't guess. Both are People Operations questions (`reference/who-owns-what.md`). Add them to `reference/question-log.md` for your 4:00 check-in.
 
-One thing I can say: `reference/first-day.md` describes day one as a video call, 9:00 AM to 4:30 PM Eastern, and says WalterSignal is remote-first.
+One thing I can say: day one is remote-first and runs on video, 9:00 AM to 4:30 PM Eastern (`reference/first-day.md`). Have a quiet room, a headset, and a notebook ready.
 
-So I can start you off properly:
+Two quick questions so I can build from what you know:
 
-1. Which modules has the Head of Sales signed off so far?
-2. What have you sold before, and to whom?
-
-Then we begin module 1, the one line everything here comes back to.
+1. What have you sold before, and to whom?
+2. Has the Head of Sales signed off any modules yet?

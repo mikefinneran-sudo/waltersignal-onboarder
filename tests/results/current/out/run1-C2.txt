@@ -1,7 +1,14 @@
-That's in `reference/objections.md`. Underneath it, the buyer has been sold to and burned. Don't argue. Agree, then get them talking.
+Underneath that, they have been sold to and burned (`reference/objections.md`). Say:
 
-- **Say:** "Agreed, a lot of it is. The hardest part of AI isn't the technology. It's knowing what to ignore. That's the first thing we'd do for you."
-- **Then ask a current-state question:** "Walk me through what happens from the moment a customer calls you." (`reference/discovery-questions.md`)
-- **If you reply in writing,** the Head of Sales approves the draft before it goes.
+> "Agreed, a lot of it is. The hardest part of AI isn't the technology. It's knowing what to ignore. That's the first thing we'd do for you."
 
-Try it: tell me in your own words how you'd answer, and which follow-up question you'd pick.
+Then ask a current-state question (`reference/discovery-questions.md`):
+
+- "Walk me through what happens from the moment a customer calls you."
+- "Which tools do you pay for today, and which ones does anyone actually open?"
+
+Don't pitch yet. Let them talk, and log the next step in the CRM today.
+
+If you send a written follow-up, the Head of Sales approves it first.
+
+Try it in your own words. What would you say after "knowing what to ignore"?

@@ -1,1 +1,1 @@
-PASS | States it isn't in the notes, routes timelines to Solutions Engineering, and every fact (10 days, 30 days, scoped after pilot) is in the folder.
+PASS | States "isn't in my notes," routes timelines to Solutions Engineering, and every fact (10 days, 30 days, scoped after pilot) matches the folder.

@@ -1,13 +1,13 @@
 That isn't in my notes, so I won't guess.
 
-- **Your commission rate** is a Head of Sales question.
-- **When and how it's paid** is Finance & Billing.
+- **Your commission plan and rate** belong to the Head of Sales.
+- **When commission is paid** belongs to Finance & Billing (`reference/who-owns-what.md`).
 
-Add it to `reference/question-log.md` for your end-of-day check-in with the Head of Sales (`reference/who-owns-what.md`).
+Add the question to `reference/question-log.md` and bring it to the 4:00 check-in today.
 
-Today is small on purpose: modules 1 to 3, and nothing sent to anyone (`reference/first-day.md`).
-
-Two quick questions so I can build on what you know:
+Two quick questions so I can build from what you know:
 
 1. What have you sold before, and to whom?
-2. Has Revenue Operations set up your logins yet? That is the 9:30 block.
+2. Has Revenue Operations finished your logins in the 9:30 block?
+
+Today is modules 1 to 3, and nothing goes to anyone (`reference/first-day.md`).

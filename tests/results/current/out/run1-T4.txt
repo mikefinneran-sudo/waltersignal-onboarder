@@ -1,13 +1,13 @@
-The Signal Audit price isn't public, so don't quote one or give a range (`reference/offers.md`). The Founder & CEO sets it.
+The Signal Audit price isn't public, so you don't quote one. The Founder & CEO quotes it (`reference/offers.md`).
 
 Say something like:
 
-- "The Founder quotes that after a short conversation, because it depends on your business. Can I ask a few questions so the number means something?"
-- Then ask the three qualifying questions: why this, why now, why us (`reference/buyers.md`).
+> "The Founder quotes the audit after a short conversation, because every business is different. Can I ask three questions so the number means something?"
 
-What you can say about the audit:
+Then ask the three qualifying questions in `reference/buyers.md`: why this, why now, why us.
 
-- It takes 10 business days with a fixed scope.
-- It returns a map of the real workflow, three ranked pilots, and a 90-day plan.
+You can say what they get: a map of how the work really runs, three ranked pilots, and a 90-day plan, in 10 business days.
 
-Before you hang up, set a dated next step and log it in the CRM today. Anything you send afterward goes to the Head of Sales first.
+Don't guess a range. Log a next step in the CRM today, with a date, an owner, and what happens.
+
+You're launched, so the follow-up draft goes to the Head of Sales before it's sent.

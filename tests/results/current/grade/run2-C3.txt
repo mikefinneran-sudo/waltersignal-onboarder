@@ -1,1 +1,1 @@
-PASS | Substantive answer from case-study.md and objections.md: Freebies Fireworks, waltersignal.io/dig, ownership, other builds, and the don'ts. Every fact checks out against the folder.
+PASS | Every fact checks out: Freebies Fireworks, the /dig link, the ownership terms, and what not to say all come from `case-study.md` and `objections.md`.

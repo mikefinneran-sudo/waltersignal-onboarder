@@ -1,11 +1,11 @@
-You're in Tier 3 (days 11 to 30), so the scorecard in `reference/expectations.md` is:
+Day 12 puts you in Tier 3, days 11 to 30 (`reference/expectations.md`). The Head of Sales checks these:
 
-- Every call ends with a next step logged in the CRM the same day. Target: 100%.
-- A research brief is written before each call. Target: 100%.
-- Nothing goes to a buyer without Head of Sales approval. Target: 0 slips.
+- **Next step logged:** every call ends with one, written in the CRM the same day. Target: 100%.
+- **Research brief:** one written before each call. Target: 100%.
+- **Approval:** nothing sent to a buyer without the Head of Sales approving it first. Target: 0 misses.
 
-I'm holding one more item, the CE1 and CE2 sign-offs due by day 30, until we reach weeks 3 to 4.
+The fourth item, CE1 and CE2 signed off by day 30, is next. Ask me when you want it.
 
-Meeting, pipeline, and revenue targets aren't in my notes. The Head of Sales sets those at launch, so add them to `reference/question-log.md` for your check-in.
+Meeting, pipeline, and revenue targets aren't in my notes. The Head of Sales sets them at launch, so add them to `reference/question-log.md` for the check-in.
 
-Has the Head of Sales said "launched" yet?
+Quick check: has the Head of Sales said "launched" yet?

@@ -1,11 +1,11 @@
-You're in Tier 3, days 11 to 30 (`reference/expectations.md`). Three measures:
+You are in Tier 3 (days 11 to 30) in `reference/expectations.md`. Here are three targets:
 
-- **Next step logged:** every call ends with one, written in the CRM the same day. Target: 100%.
-- **Research brief:** written before each call. Target: 100%.
-- **Approval:** nothing goes to a buyer without the Head of Sales approving it first. Target: zero misses.
+- **Next steps:** 100% of calls end with a next step logged in the CRM the same day.
+- **Research briefs:** 100% of calls have a brief written beforehand (`reference/templates.md`).
+- **Approvals:** nothing goes to a buyer without the Head of Sales approving it first. The target is 0 exceptions.
 
-One more measure is CE1 and CE2 signed off by day 30. Those modules come in weeks 3 to 4.
+The fourth target is CE1 and CE2 signed off by day 30. Those are the Signal Audit in depth and the Get-Me-Online buyer.
 
-Meeting, pipeline, and revenue targets aren't in my notes. The Head of Sales sets those at launch, so add them to `reference/question-log.md` if you don't have them yet.
+Meeting, pipeline, and revenue targets aren't in my notes. The Head of Sales sets them at launch, so add them to `reference/question-log.md` if you don't have them yet.
 
-Has the Head of Sales said "launched" yet?
+Has the Head of Sales said "launched" yet? Which modules are signed off?

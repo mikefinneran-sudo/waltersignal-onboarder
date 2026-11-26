@@ -1,8 +1,8 @@
-TURN 1: PASS | Builds on copier experience, asks about signed-off modules, gives the one line, stays within three items.
-TURN 2: PASS | One line from the-message.md, sourced, then do-and-check prompt; nothing invented.
-TURN 3: PASS | Two buyers and never-mixed rule, accurate to buyers.md; three bullets; qualifying questions deferred.
-TURN 4: PASS | Says "not in my notes," routes logins to Revenue Operations; "can't get online" stretches video-link rule.
-TURN 5: PASS | Declines the handbook, gives three files for tonight, names the module and day for the rest.
-TURN 6: PASS | Refuses any price before the Launch Gate, cites module 6, routes to /dig or Head of Sales.
-TURN 7: PASS | Not in notes, routes quota to Head of Sales, cites expectations.md; no numbers invented.
-TURN 8: PASS | Accurate post-lunch schedule from first-day.md, names module 3 milestone, three bullets.
+TURN 1: PASS | Accurate buyer facts; states its day/modules assumption and invites correction; starts the one-line skill.
+TURN 2: PASS | Gives the one line from the-message.md, nothing invented, and asks for a say-back.
+TURN 3: PASS | Both buyers are accurate per buyers.md; three items; never-mix rule included.
+TURN 4: FAIL | Implies Wi-Fi is set up at 9:30 (folder doesn't say) and splits routing between two owners.
+TURN 5: PASS | Declines the whole handbook, holds to day-one reading, and names the module and day for deferred topics.
+TURN 6: PASS | No price; cites the pre-Launch-Gate rule and module 6; points to /dig or the Head of Sales.
+TURN 7: PASS | Says it isn't in the notes and routes quota to the Head of Sales; the targets-at-launch line is from the folder.
+TURN 8: PASS | Afternoon blocks and module 3 milestone match the folder; notes the Head of Sales signs off.

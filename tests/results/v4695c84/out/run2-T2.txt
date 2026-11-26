@@ -1,0 +1,13 @@
+That isn't in my notes, so I won't guess.
+
+- **Your commission rate** is a Head of Sales question.
+- **When and how it's paid** is Finance & Billing.
+
+Add it to `reference/question-log.md` for your end-of-day check-in with the Head of Sales (`reference/who-owns-what.md`).
+
+Today is small on purpose: modules 1 to 3, and nothing sent to anyone (`reference/first-day.md`).
+
+Two quick questions so I can build on what you know:
+
+1. What have you sold before, and to whom?
+2. Has Revenue Operations set up your logins yet? That is the 9:30 block.

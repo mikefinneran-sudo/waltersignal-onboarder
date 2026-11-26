@@ -1,7 +1,10 @@
-That isn't in my notes, and I never handle passwords. Access and logins belong to Revenue Operations (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for the end-of-day check-in.
+That isn't in my notes, and I never hold passwords or login details.
 
-WalterSignal is remote-first, and day one runs on video from 9:00 AM Eastern (`reference/first-day.md`). Your own connection is what you need for the 9:00 call.
+- Day one runs on video, and WalterSignal is remote-first (`reference/first-day.md`). The folder doesn't say anything about a company Wi-Fi network.
+- Network or equipment questions fit **People Operations**. Tool logins are **Revenue Operations**, and they set those up in the 9:30 block.
 
-Your logins are set up in the 9:30 block, and each one is tested live.
+Add it to `reference/question-log.md` for the 4:00 check-in.
 
-While you wait, one question: what have you sold before, and to whom?
+If your own connection is working, you can carry on with the day.
+
+One quick question so I can build from what you know: what have you sold before, and to whom?

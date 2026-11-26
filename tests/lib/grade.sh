@@ -30,4 +30,4 @@ esac
 } > $res/grade/$name.prompt
 cd $SANDBOX
 claude -p --setting-sources "" --tools "" --no-session-persistence --model $GRADER_MODEL \
-  < $res/grade/$name.prompt > $res/grade/$name.txt 2>&1
+  < $res/grade/$name.prompt > $res/grade/$name.txt 2> $res/grade/$name.err

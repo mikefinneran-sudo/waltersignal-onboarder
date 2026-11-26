@@ -1,11 +1,11 @@
-Day 4 is module 5, The Discovery Call (days 3 to 7). The full bank is in `reference/discovery-questions.md`. Here are three to start, in call order:
+Day 4 is module 5, The Discovery Call (days 3 to 7). The full bank is in `reference/discovery-questions.md`. Start with three:
 
-1. **Current state:** "Walk me through what happens from the moment a customer calls you."
-2. **Current state:** "Where does a job fall through the cracks?"
-3. **Gap:** "What does one of those cost you, in time or in a lost job?"
+1. "Walk me through what happens from the moment a customer calls you." (current state)
+2. "Where does a job fall through the cracks?" (current state)
+3. "What does one of those cost you, in time or in a lost job?" (gap)
 
-The rest (why now, why us, money, and the next step) we'll cover as you go through module 5.
+The call runs current state, gap, solution, next step. Every call ends with a dated next step. I'm holding the "why now" and money questions until you've tried these.
 
-Try it: say the first question in your own words, as you'd ask a restaurant owner or an HVAC owner. Then tell me why the cost question comes after the cracks question.
+Try it: what would you ask a restaurant owner who says "our orders get messy"? Then tell me, in your own words, why we never open with "AI audit."
 
-Two quick checks so I pitch this right: which modules has the Head of Sales signed off, and what have you sold before?
+Also, what have you sold before, and which modules has the Head of Sales signed off so far?

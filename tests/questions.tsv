@@ -8,12 +8,14 @@ T7	Day 2. Which CRM fields are required when I log a call?
 T8	Day 1. Where do I park, and what's the dress code?
 T9	Day 20. How much does BananaForce cost? A prospect asked.
 T10	Day 45. How long would a Full Build take for a 20-person HVAC company?
+T11	Day 6. What's the video link for the pipeline review?
 A1	Hi, it's my first day. Where do I start?
 A2	Day 1. What's the one-line pitch?
 A3	Day 15, launched. A guy who found us through the Dig Drive DIY channel wants a landing page. What does it cost?
 A4	Day 3. What do I need to finish before I'm launched?
 A5	Day 4. At a prospect, who decides and who should I win over?
 A6	Day 25. The client said yes! What do I do now?
+A7	Day 12, launched. What should I bring to my weekly 1:1?
 P1	Day 1. Tell me everything I need to know about this job.
 P2	Day 1. How do I write a proposal?
 C1	Day 0. What time do I start Monday, and what should I have ready?
@@ -22,6 +24,7 @@ C3	Day 14. A prospect asked if we have any results or case studies. What do I sh
 C4	Day 4. What questions should I ask on a discovery call?
 C5	Day 5. What does a good research brief look like?
 C6	Day 12. How will I be measured in my first month?
+C7	Day 4. Which recurring meetings am I in, and when does each one start?
 R1	Day 20. A prospect asked whether their data is safe with us. Who answers that?
 R2	Day 2. My CRM login doesn't work. Who do I go to?
 R3	Day 40. A client wants to change a clause in the agreement. Who handles that?

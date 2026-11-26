@@ -1,9 +1,9 @@
-Show them a live build they can open and check, not a published case study (`reference/case-study.md`).
+Show them a live build they can open and check. Use Freebies Fireworks (`reference/case-study.md`).
 
-- **Lead with Freebies Fireworks.** It's an online store with a back office, live at freebiesfireworks.com. Send them to waltersignal.io/dig, where it's listed. It fits best if they have several locations, several price lists, or spreadsheets running the back office.
-- **Make one point.** It was built around how that business works, and the owner runs it. Domain, code, and data are theirs.
-- **Never say** any sales, traffic, or time-saved numbers, or what the client paid. None are published.
+- **Send them to waltersignal.io/dig.** The live sites are listed there, including freebiesfireworks.com.
+- **Make one point:** it was built around how that business works, and the owner runs it. They own the domain, code, and data.
+- **Don't call it a published case study.** WalterSignal publishes those only after completed audits and measured pilots. Also never quote sales, traffic, or time-saved numbers, and never say what the client paid.
 
-Any email to the prospect goes to the Head of Sales first.
+Any email to the prospect goes to the Head of Sales for approval first.
 
-Try the two-minute version out loud, then tell me which buyer you're talking to.
+Try it: say your two-minute version of the story to me. Also, which modules has the Head of Sales signed off so far?

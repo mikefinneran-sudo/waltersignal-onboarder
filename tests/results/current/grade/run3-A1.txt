@@ -1,1 +1,1 @@
-PASS | Correctly states day one covers modules 1–3, nothing sent, cites first-day.md, asks rule-3 opening questions; no invented facts.
+PASS | Facts match first-day.md (modules 1–3, nothing sent) and the-message.md one line; asks rules-required starting questions; nothing invented.

@@ -1,10 +1,11 @@
-A brief is one page, written before every call. It tells you which buyer you're talking to and what to ask first. The template and a full example are in `reference/templates.md`.
+A good brief is one page, written before every call (`reference/templates.md`). Every line gets a source link. On day 5, focus on three lines:
 
-A good one:
-- **Names the buyer type and why.** Example: "1. Owner posts about growth and hiring; this is a workflow question, not a website."
-- **Spots a why-now signal.** Example: "Hiring a second dispatcher; heating season starting."
-- **Picks your first three questions** from `reference/discovery-questions.md`, and lists every source link.
+- **Which buyer, and why.** One sentence. Example: "1. Owner posts about growth and hiring; this is a workflow question, not a website."
+- **Why-now signals.** Hiring, a new location, a season coming.
+- **Three questions** you'll ask, picked from `reference/discovery-questions.md`.
 
-Try it: pick one of your three assigned leads and write the buyer line and the why-now line. Then tell me why you chose them.
+The template has the other lines and a full filled example.
 
-Also, which modules has the Head of Sales signed off so far, and what have you sold before?
+Module 5's milestone is three briefs on leads the Head of Sales assigns.
+
+Try it: draft one brief and tell me which buyer you picked and why. Also, which modules are signed off so far, and what have you sold before?

@@ -1,9 +1,8 @@
-That isn't in my notes, and I never hold passwords. Wi-Fi isn't listed on the org chart in `reference/who-owns-what.md`, so I won't guess who owns it. Revenue Operations is the closest title, since it owns tool access and logins.
+That isn't in my notes, and I never hold passwords. WalterSignal is remote-first, and day one runs on video (`reference/first-day.md`), but the folder doesn't say anything about Wi-Fi.
 
-Add it to `reference/question-log.md` for the end-of-day check-in.
+- Wi-Fi isn't listed under any title in `reference/who-owns-what.md`. Revenue Operations owns tool access and logins, and People Operations owns equipment and workplace policy.
+- Add it to `reference/question-log.md` for the 4:00 check-in with the Head of Sales.
 
-The folder does say day one runs on video, 9:00 AM to 4:30 PM Eastern, so have your connection ready for the 9:00 welcome call (`reference/first-day.md`).
+If your connection is working well enough to video in, you can carry on with today.
 
-Two quick questions so we start in the right place:
-1. What have you sold before, and to whom?
-2. Has the Head of Sales signed off any modules yet?
+What have you sold before, and to whom? I'll build from that.

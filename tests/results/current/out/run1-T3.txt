@@ -1,9 +1,9 @@
-That isn't in my notes. This folder holds no one's phone number (`reference/who-owns-what.md`).
+That isn't in my notes. No phone numbers are in `reference/`, so I won't guess.
 
-- **Owner:** Head of Sales. Today Mike holds that title.
-- **What to do:** add it to `reference/question-log.md` for the 4:00 check-in (`reference/first-day.md`).
-- **Urgent:** the only two cases are a buyer waiting on the line, or something sent to a buyer by mistake. Then message the Head of Sales right away.
+Mike holds the Head of Sales title today, and he is your manager.
 
-Today is modules 1 to 3, and nothing goes to any buyer, so this should wait for the check-in.
+- **Not urgent:** add the question to `reference/question-log.md` and bring it to the 4:00 check-in.
+- **Urgent:** I can only point you to two cases, a buyer waiting on the line, or something sent to a buyer by mistake. Then message the Head of Sales right away.
+- **Video link failed at 9:00:** email the Head of Sales at the address in your welcome email (`reference/first-day.md`).
 
-What have you sold before, and to whom? I'll build from there.
+What is the call about? If it's a day-one question, I may be able to answer it.

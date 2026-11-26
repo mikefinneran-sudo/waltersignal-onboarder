@@ -1,5 +1,5 @@
-That isn't in my notes. Parking and dress are workplace policy, which belongs to People Operations (`reference/who-owns-what.md`). Add both to `reference/question-log.md` for the end-of-day check-in.
+Neither is in my notes, so I won't guess. Dress and parking are workplace policy, which belongs to People Operations (`reference/who-owns-what.md`). Add both to `reference/question-log.md` for the end-of-day check-in.
 
-What I can tell you is that day one runs on video, 9:00 AM to 4:30 PM Eastern (`reference/first-day.md`). Have a quiet room, a headset, and a notebook ready.
+What I can tell you from `reference/first-day.md`: WalterSignal is remote-first, and day one runs on video, 9:00 AM to 4:30 PM Eastern. Have a quiet room, a headset, and a notebook ready.
 
-One quick question so I can build from what you know: what have you sold before, and to whom?
+One question so I can build from what you know: what have you sold before, and to whom?

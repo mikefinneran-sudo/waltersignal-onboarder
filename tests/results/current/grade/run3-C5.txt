@@ -1,1 +1,1 @@
-PASS | Specific, folder-grounded answer from templates.md and syllabus; "every claim gets a source link" slightly overstates "every link you used" but is reasonable.
+PASS | Specific, folder-grounded answer: module 5 timing, three assigned briefs, the one-page template fields, the champion, questions and sources, all from templates.md. Nothing invented.

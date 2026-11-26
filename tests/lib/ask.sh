@@ -8,4 +8,4 @@ set -euo pipefail
 res=$1 id=$2 run=$3 question=$4
 cd $SANDBOX
 claude -p --setting-sources "" --tools "" --no-session-persistence --model $ONBOARDER_MODEL \
-  --system-prompt-file $res/system.md "$question" < /dev/null > $res/out/run$run-$id.txt 2>&1
+  --system-prompt-file $res/system.md "$question" < /dev/null > $res/out/run$run-$id.txt 2> $res/out/run$run-$id.err

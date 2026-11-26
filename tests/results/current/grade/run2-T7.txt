@@ -1,1 +1,1 @@
-PASS | States it isn't in the notes, routes to Revenue Operations correctly, and every template field and the same-day logging rule match the folder.
+PASS | Opens with "That isn't in my notes," routes to Revenue Operations, and every stated fact traces to templates.md, syllabus.md, or who-owns-what.md.

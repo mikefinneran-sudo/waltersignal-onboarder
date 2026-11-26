@@ -1,0 +1,9 @@
+That isn't in my notes. The video link isn't in `reference/`.
+
+What the folder does say (`reference/meetings.md`):
+
+- The Head of Sales sends the calendar invites for every meeting, so the link is theirs to give.
+- The pipeline review is Mondays, 10:00 to 10:45 Eastern. Day 6 is your first one.
+- Days 6 to 10, you listen and take notes. You do not present.
+
+Add "Video link for the pipeline review" to `reference/question-log.md` and bring it to the end-of-day check-in, with the Head of Sales as the owner.

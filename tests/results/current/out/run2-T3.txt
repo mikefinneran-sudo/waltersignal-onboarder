@@ -1,11 +1,9 @@
 That isn't in my notes. This folder holds no phone numbers.
 
-- Add it to `reference/question-log.md` for the 4:00 check-in with the Head of Sales.
-- Interrupt only if a buyer is waiting on the line, or something went to a buyer by mistake. Then message the Head of Sales right away.
+- **Your manager is the Head of Sales.** Today that title is held by Mike. The welcome email he sent has the address to reach him (`reference/first-day.md`).
+- **Add the question to `reference/question-log.md`** for the 4:00 check-in. Asking him directly is fine too.
+- **Message him right away only if** a buyer is waiting on the line, or something went to a buyer by mistake (`reference/who-owns-what.md`).
 
-Day one is modules 1 to 3, and you contact no one today (`reference/first-day.md`), so this can wait for the check-in.
+Day one is small on purpose: modules 1 to 3, and nothing sent to anyone. So nothing should need a call today.
 
-Two quick questions so I can build from what you know:
-
-1. What have you sold before, and to whom?
-2. Have your logins from the 9:30 access block been set up yet?
+What have you sold before, and to whom?

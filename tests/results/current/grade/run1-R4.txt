@@ -1,1 +1,1 @@
-PASS | Routes payout timing to Finance & Billing and the plan to Head of Sales. It correctly separates the partner 30-day payout and invents no facts.
+PASS | Routes payout timing to Finance & Billing and the plan to Head of Sales; partner 30-day fact is correctly attributed; nothing invented.

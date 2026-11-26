@@ -1,16 +1,11 @@
-Welcome. I won't give you everything at once. A day-one hire who gets ten things remembers none of them. Today is modules 1 to 3, and nothing goes to any buyer (`reference/first-day.md`).
-
-Three things for today:
+Welcome. I won't hand you everything at once, because you'd forget it by lunch. Here are three things for today:
 
 1. **The one line:** "The hardest part of AI isn't the technology. It's knowing what to ignore."
-2. **The two buyers:** advisory owners and get-me-online operators. We never mix them.
-3. **The three steps:** Research, Validate, Build.
+2. **Today's job:** modules 1 to 3 (the message, the buyers, the work). That's all (`reference/first-day.md`).
+3. **Today's rule:** send nothing to anyone, and quote no prices. Anything going to a buyer is approved by the Head of Sales first.
 
-The rest comes later:
-- Tools and who owns what: module 4, day 2
-- Discovery calls: module 5, days 3 to 7
-- Prices, proof, objections: module 6, days 8 to 10
+Tools come on day 2, discovery calls on days 3 to 7, and prices on days 8 to 10.
 
-Before we go on:
+Two quick questions:
 - What have you sold before, and to whom?
-- Which modules has the Head of Sales signed off so far?
+- Is your access (email, CRM, client folders, Linear) set up yet?

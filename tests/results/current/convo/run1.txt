@@ -1,14 +1,16 @@
 ### TURN 1
 NEW HIRE: Hi, it's my first day. I sold copiers to small offices for five years.
-ONBOARDER: Welcome. Five years selling copiers to small offices helps. You already know the office manager who lives with the problem and the owner who signs. That is our first buyer (`reference/buyers.md`).
+ONBOARDER: Welcome. Five years of copiers to small offices is a good start. Your buyers are close to our first one: an owner who signs, and an office manager who lives with the problem (`reference/buyers.md`).
 
-Today is modules 1 to 3, and nothing gets sent to anyone (`reference/first-day.md`). Module 1 is the one line everything here comes back to:
+Today is modules 1 to 3, and nothing goes to anyone (`reference/first-day.md`). We start with the one line everything here comes back to:
 
 > The hardest part of AI isn't the technology. It's knowing what to ignore.
 
-Try it: say it in your own words, as if to an owner buried in vendor pitches.
+It works because owners are buried in AI noise, and we are the clear voice.
 
-One question: has the 9:30 access setup (email, CRM, client folders, Linear) with Revenue Operations happened yet?
+Try it: how would you say that to a copier customer, in your own words?
+
+One question first: has Revenue Operations set up your logins yet? That is the 9:30 block.
 
 ### TURN 2
 NEW HIRE: OK. What's the one thing I need to know?
@@ -16,78 +18,83 @@ ONBOARDER: The one line:
 
 > The hardest part of AI isn't the technology. It's knowing what to ignore.
 
-It is the whole company in a sentence (`reference/the-message.md`). Owners are tired of being sold to. We win by being the clearest voice in the room.
+Every conversation here comes back to it: Noise, then Clarity, then Accountability (`reference/the-message.md`).
 
-Now say it back to me in your own words, without looking. Then we move to the arc: Noise, Clarity, Accountability.
+If you want a second thing, it is this: anything meant for a buyer goes to the Head of Sales first, every time.
+
+Now say the line back to me in your own words, as if you were talking to a copier customer.
 
 ### TURN 3
 NEW HIRE: Got it. Who are we selling to?
-ONBOARDER: Two buyers (`reference/buyers.md`):
+ONBOARDER: Two buyers, never mixed (`reference/buyers.md`):
 
-- **Advisory buyer.** Small and lower-mid-market businesses that know AI matters but can't fund an enterprise program. The owner signs. The office manager champions. Your copier customers sit here.
-- **Get-Me-Online buyer.** Small local operators barely online: trades, equipment, rural service. Many come from the Dig Drive DIY YouTube channel. They want a price up front, and they want to be found and called.
-- **They are never mixed.** Don't pitch advice to someone who wants a landing page.
+- **Advisory buyer:** a small or lower-mid-market business that knows AI matters but can't fund an enterprise program. The owner signs. The office manager champions. A decision usually takes 7 to 14 days. This is your copier customer.
+- **Get-Me-Online buyer:** a small local operator, barely online, often arriving from the Dig Drive DIY YouTube channel. They want a price up front and want to be found and called.
 
-Try it: a plumber who found us on YouTube. Which buyer, and why?
+Held for later: the three qualifying questions, also in module 2.
 
-Next come the three qualifying questions.
+Quick check: a plumber writes in after watching a Dig Drive DIY video. Which buyer is that, and why?
 
 ### TURN 4
 NEW HIRE: What's the Wi-Fi password?
-ONBOARDER: That isn't in my notes. I never hold passwords or login details, and nothing in `reference/` covers the Wi-Fi.
+ONBOARDER: That isn't in my notes. I never hold passwords or login details, and the folder doesn't say where they are kept.
 
-WalterSignal is remote-first (`reference/first-day.md`), so I can't say which network you mean. Add it to `reference/question-log.md` for the end-of-day check-in. Most questions like this belong to Revenue Operations (tool access and logins) or People Operations (equipment and workplace policy), so name whichever fits when you log it.
+- **Access and logins** belong to Revenue Operations (`reference/who-owns-what.md`).
+- Add it to `reference/question-log.md` for the 4:00 check-in with the Head of Sales.
 
-Meanwhile, the plumber from YouTube: which buyer, and why?
+Day one runs on video, and your company email, CRM, and other tools are set up in the 9:30 access block. I can't say more than that about Wi-Fi.
+
+Meanwhile, the plumber from Dig Drive DIY: which buyer is that, and why?
 
 ### TURN 5
 NEW HIRE: Can you just give me the whole handbook so I can read it tonight?
-ONBOARDER: I'll hold to three at a time, because a pile you read tonight is gone by lunch. Knowing what to ignore applies to day one too.
+ONBOARDER: I'll hand you three tonight and hold the rest. Too much at once is forgotten by lunch.
 
-For tonight, read only today's three modules:
+Read these (all in `reference/`):
+- `the-message.md`
+- `buyers.md`
+- `sales-process.md`
 
-- `reference/the-message.md` (module 1)
-- `reference/buyers.md` (module 2)
-- `reference/sales-process.md` and `reference/case-study.md` (module 3)
-
-The rest comes in order (`reference/first-day.md`):
-
+Everything else comes when you need it:
 - Tools and who owns what: module 4, day 2
-- Discovery calls: module 5, days 3 to 7
+- Discovery questions and templates: module 5, days 3 to 7
 - Prices, proof, objections: module 6, days 8 to 10
 
-Still waiting on your answer: the YouTube plumber, which buyer?
+That's the day-one plan, and the 4:00 check-in covers exactly those three.
+
+Still open: the plumber from Dig Drive DIY. Which buyer, and why?
 
 ### TURN 6
 NEW HIRE: A friend owns a three-location bakery. Can I tell her a price for a website?
-ONBOARDER: No. Before the Launch Gate you quote no price to anyone, friends and family included. Prices are module 6, days 8 to 10 (`reference/offers.md`).
+ONBOARDER: No. Before the Launch Gate on day 10, you quote no price to anyone, friends and family included. Prices are module 6, days 8 to 10 (`reference/syllabus.md`).
 
-Instead:
+What you can do:
+- Ask your friend what she wants fixed and why now. Don't promise anything.
+- Send her to the Head of Sales. If she came from the Dig Drive DIY channel, she can also see waltersignal.io/dig.
 
-- Tell your friend you'll have the right person get back to her. Point her to waltersignal.io/dig, or to the Head of Sales.
-- Tell the Head of Sales about her at the 4:00 check-in. A three-location bakery is a real lead, and anything that reaches a buyer goes through the Head of Sales first.
-- Day one isn't for contacting prospects (`reference/expectations.md`), so nothing goes to her today.
+Three locations sounds more like our advisory buyer than a get-me-online one (`reference/buyers.md`), so the Founder quotes after a conversation. Anything sent to her goes through the Head of Sales first.
 
-Now, the YouTube plumber: which buyer?
+Bring her to the 4:00 check-in.
 
 ### TURN 7
 NEW HIRE: What's my quota?
-ONBOARDER: That isn't in my notes. Quota is a Head of Sales question (`reference/who-owns-what.md`). The folder says only that the Head of Sales sets meeting, pipeline, and revenue targets at launch.
+ONBOARDER: That isn't in my notes, so I won't guess. Quota belongs to the Head of Sales (`reference/who-owns-what.md`). The folder says only that meeting, pipeline, and revenue targets are set by the Head of Sales at launch (`reference/expectations.md`).
 
-Add it to `reference/question-log.md` for the 4:00 check-in.
+Add it to `reference/question-log.md` for the 4:00 check-in. Commission is a separate question for the Head of Sales, and the payout itself is Finance & Billing.
 
-Still open from earlier: the plumber from YouTube. Which buyer, and why?
+Today you have no targets beyond finishing the six day-one checklist items.
+
+Still open from earlier: the plumber from Dig Drive DIY. Which buyer, and why?
 
 ### TURN 8
 NEW HIRE: What's next after lunch?
-ONBOARDER: At 1:30 it's module 3, The Work (`reference/first-day.md`). Read `reference/sales-process.md` and `reference/case-study.md`: one real build, from the first call to live.
+ONBOARDER: After lunch (`reference/first-day.md`), all times Eastern:
 
-The milestone is to:
+- **1:30, Module 3: The Work.** Read `sales-process.md` and `case-study.md`: one real build, from first call to live. The milestone is explaining Research, Validate, Build in your own words and naming the four CRM stages.
+- **2:30, Self-study.** Read waltersignal.io as a buyer would: /consulting, /products, /dig. Ask me anything.
+- **4:00, Check-in.** With the Head of Sales: say the one line, both buyers, and the three steps, then go through your question list.
 
-- Explain Research, Validate, Build in your own words, using the case study.
-- Name the four CRM stages.
+You're done at 4:30. Nothing is sent to anyone today.
 
-The Head of Sales signs it off, not me. After that comes self-study at 2:30, then the 4:00 check-in.
-
-Still open: the plumber from YouTube. Which buyer, and why?
+Before lunch, one last try: the plumber from Dig Drive DIY. Which buyer, and why?
 

@@ -1,10 +1,8 @@
 That isn't in my notes, so I won't guess a date.
 
-- **Payout timing** belongs to Finance & Billing (`reference/who-owns-what.md`).
-- **The commission plan itself**, meaning what earns commission, belongs to the Head of Sales.
+- **When commission is paid:** Finance & Billing owns payouts (`reference/who-owns-what.md`).
+- **How it's calculated:** the commission plan itself belongs to the Head of Sales.
 
-Add the question to `reference/question-log.md` for the end-of-day check-in.
+Add the question to `reference/question-log.md` and bring it to your daily check-in. Ask it by title: "When are commissions paid? (Finance & Billing)". The 30-day payment timing in `reference/offers.md` is for referral partners, not for you, so don't apply it here.
 
-The 30-day payout timing in `reference/offers.md` is for referral partners, not for your commission. Don't treat it as yours.
-
-One more thing: which Continuing Education modules has the Head of Sales signed off so far? Then I can tell you what's next.
+This isn't one of the two cases that justify an interruption, so it can wait for the check-in.

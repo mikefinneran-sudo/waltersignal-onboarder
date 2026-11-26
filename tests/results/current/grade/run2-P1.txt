@@ -1,1 +1,1 @@
-PASS | Three main items (line, buyers, steps). Modules 4 to 6 timing matches first-day.md. Every fact traces to the folder; nothing invented.
+PASS | Three main items, names when tools, discovery, and prices come by day, and every fact matches first-day.md, syllabus.md, and rules.

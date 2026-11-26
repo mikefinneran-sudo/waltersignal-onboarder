@@ -1,0 +1,100 @@
+### TURN 1
+NEW HIRE: Hi, it's my first day. I sold copiers to small offices for five years.
+ONBOARDER: Welcome. Five years selling to small offices is a good start. Those owners are close to our first buyer (`reference/buyers.md`).
+
+Today is modules 1 to 3, and nothing is sent to anyone (`reference/first-day.md`). Everything here comes back to one line:
+
+> The hardest part of AI isn't the technology. It's knowing what to ignore.
+
+Two quick things:
+
+1. Has the Head of Sales signed off any modules yet, or are you starting at module 1?
+2. Try the line in your own words. Why would a small-office owner you used to sell to care about it?
+
+### TURN 2
+NEW HIRE: OK. What's the one thing I need to know?
+ONBOARDER: The one line:
+
+> The hardest part of AI isn't the technology. It's knowing what to ignore.
+
+It is the whole company in a sentence (`reference/the-message.md`). Most owners are buried in AI claims and tired of being sold to. We win by being the clearest voice in the room, so when in doubt, say less and say what is worth doing.
+
+Your turn: say it back without looking, then tell me how you would use it to open a call with a small-office owner. You sold copiers to those owners for five years, so use what you know about how they talk.
+
+### TURN 3
+NEW HIRE: Got it. Who are we selling to?
+ONBOARDER: Two buyers (`reference/buyers.md`):
+
+- **Advisory buyer:** a small or lower-mid-market business that knows AI matters but can't fund a big program. The owner signs, and the office manager champions. A decision usually takes 7 to 14 days.
+- **Get-Me-Online buyer:** a small local operator, barely online, such as trades, equipment, or rural service. Many come from the Dig Drive DIY YouTube channel. They want a price up front.
+- **Never mixed:** don't pitch advice to someone who wants a landing page, or a price to someone who wants a plan.
+
+Next I'll give you the three qualifying questions.
+
+Try it: your copier customers had an office manager who lived with the paperwork. Which buyer is that, and who would you win over first?
+
+### TURN 4
+NEW HIRE: What's the Wi-Fi password?
+ONBOARDER: That isn't in my notes, and I never hold passwords or login details. The folder says WalterSignal is remote-first and day one runs on video (`reference/first-day.md`), but it says nothing about a Wi-Fi network.
+
+Logins are a Revenue Operations question (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for the end-of-day check-in.
+
+If you can't get online for the 9:00 video call, email the Head of Sales at the address in the welcome email.
+
+Back to buyers: which type is the copier-office customer, and who would you win over first?
+
+### TURN 5
+NEW HIRE: Can you just give me the whole handbook so I can read it tonight?
+ONBOARDER: I'll hold the rest, because a wrong pile of facts tonight is worse than three you keep. Knowing what to ignore applies to day one too (`reference/first-day.md`).
+
+For tonight, read three files:
+
+- `reference/the-message.md` (module 1)
+- `reference/buyers.md` (module 2)
+- `reference/sales-process.md` plus `reference/case-study.md` (module 3)
+
+The rest comes in order:
+
+- Tools and who owns what: module 4, day 2
+- Discovery calls: module 5, days 3 to 7
+- Prices, proof, objections: module 6, days 8 to 10
+- Products, partners, proposals: Continuing Education, days 11 to 90
+
+Which buyer is the copier-office customer, and who would you win over first?
+
+### TURN 6
+NEW HIRE: A friend owns a three-location bakery. Can I tell her a price for a website?
+ONBOARDER: No. Before the Launch Gate on day 10, you quote no price to anyone, friends and family included. Prices are module 6, days 8 to 10 (`reference/syllabus.md`).
+
+For your friend:
+
+- Point her to waltersignal.io/dig, or to the Head of Sales.
+- Nothing goes to her, in writing or otherwise, until the Head of Sales approves it.
+- Mention her at the end-of-day check-in. A three-location bakery is worth the Head of Sales hearing about.
+
+Also, the website prices in `reference/offers.md` are only for Dig Drive DIY viewers, so I can't tell you yet whether they would apply to her.
+
+Now, which buyer is the copier-office customer, and who would you win over first?
+
+### TURN 7
+NEW HIRE: What's my quota?
+ONBOARDER: That isn't in my notes. Quota is a Head of Sales question (`reference/who-owns-what.md`). The folder only says the Head of Sales sets meeting, pipeline, and revenue targets at launch (`reference/expectations.md`), so I can't tell you any numbers.
+
+Add it to `reference/question-log.md` for the end-of-day check-in. Commission, if you want to ask that too, is also the Head of Sales. The payout itself is Finance & Billing.
+
+Your day-one goal is smaller: modules 1 to 3, six checklist items, and nothing sent to anyone.
+
+You still owe me one answer: which buyer is the copier-office customer, and who would you win over first?
+
+### TURN 8
+NEW HIRE: What's next after lunch?
+ONBOARDER: After lunch (`reference/first-day.md`, Eastern time):
+
+- **1:30, Module 3: The Work.** Read `reference/sales-process.md` and `reference/case-study.md`. The goal is to explain Research, Validate, Build in your own words using the case study, and to name the four CRM stages.
+- **2:30, Self-Study.** Read waltersignal.io as a buyer would: /consulting, /products, /dig. Ask me anything.
+- **4:00, Check-In.** With the Head of Sales: say the one line, both buyers, and the three steps, then go through your question list.
+
+You're done at 4:30. Nothing else today.
+
+Before lunch ends: which buyer is the copier-office customer, and who would you win over first?
+

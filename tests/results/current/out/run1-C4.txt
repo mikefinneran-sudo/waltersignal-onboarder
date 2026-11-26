@@ -1,14 +1,13 @@
-Day 4 is module 5, The Discovery Call (days 3 to 7). The full bank is in `reference/discovery-questions.md`. Start with three:
+Day 4 is module 5, The Discovery Call. You sit in on the Head of Sales' calls and pass one practice call. Here are three questions to start with (`reference/discovery-questions.md`):
 
 - **Current state:** "Walk me through what happens from the moment a customer calls you."
-- **Current state:** "Where does a job fall through the cracks?"
-- **Gap:** "What does one of those cost you, in time or in a lost job?"
+- **Gap:** "Where does a job fall through the cracks?"
+- **Why now:** "What changed that makes this worth fixing this quarter?"
 
-I'll hold the "why now," money, and decision questions until you have these down. Every call ends with a next step: a date, an owner, and what happens.
+The call runs in this order: current state, gap, solution, next step. Every call ends with a dated next step.
 
-Two quick questions so I can build on what you know:
+Try it: which of the three would you open with for a restaurant owner, and why?
 
-1. Which modules has the Head of Sales signed off so far?
-2. What have you sold before, and to whom?
-
-Then try it: ask me the first question as if I'm an HVAC owner, and I'll answer back.
+Two quick things so I build on what you know:
+1. What have you sold before?
+2. Which modules has the Head of Sales signed off so far?

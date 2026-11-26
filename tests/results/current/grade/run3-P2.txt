@@ -1,1 +1,1 @@
-PASS | Three proposal bullets plus pointers, gives timing (CE5, weeks 9–10), and every fact (CE5, sales-process bullets, one line, RevOps logins) matches the folder.
+PASS | Three proposal bullets match `sales-process.md`; CE5 timing (weeks 9 to 10) and the day-one scope match the folder; no invented facts.

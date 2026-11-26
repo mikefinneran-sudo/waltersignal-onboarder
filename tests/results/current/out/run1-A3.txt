@@ -1,13 +1,13 @@
-Since you're launched, you can quote the public price (`reference/offers.md`):
+Since you're launched, you can say this price. It's in `reference/offers.md` and shown on waltersignal.io/dig:
 
-- **Landing page: $1,500** (list $2,000), shown as live in 14 days.
-- Send him to **waltersignal.io/dig**, where the price is on the page. These buyers want a number up front.
-- Say the ownership terms: no monthly fee, no per-user fee, five years of updates, and he owns the domain, code, and data.
+- **Landing page: $1,500** (list $2,000), live in 14 days.
+- If he wants more than a page, a **custom project** is $1,000 off, from $4,000 after the discount.
 
-Two cautions:
-- Confirm he really came from the Dig Drive DIY channel. The price only applies to those viewers.
-- Don't promise a date yourself. Dates come from Solutions Engineering.
+These prices are only for buyers who came from the Dig Drive DIY channel, so confirm that's how he found us.
 
-Anything you send him goes to the Head of Sales first.
+- Send him to waltersignal.io/dig so he can see the price himself.
+- Say the ownership terms: no monthly fee, no per-user fees, five years of updates, and he owns the domain, code, and data.
+- Don't offer any discount beyond what's on the page. Discounts are a Founder & CEO call.
+- Anything you write to him goes to the Head of Sales first.
 
-Did he say he came from the channel?
+Try it: what is the first question you'd ask him? Then log the call and next step in the CRM today.

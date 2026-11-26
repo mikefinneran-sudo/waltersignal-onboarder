@@ -1,1 +1,1 @@
-PASS | States no public price, routes to Founder & CEO, and every fact given (license model, features, /products, approval rule) is in the folder.
+PASS | States pricing isn't in the notes, routes it to the Founder & CEO, and every fact (early access, one-time license, quote line) comes from offers.md.

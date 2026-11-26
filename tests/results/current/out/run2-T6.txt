@@ -1,7 +1,9 @@
-No. Discounts are not yours to offer at any tier, including day 40. They belong to the Founder & CEO (`reference/who-owns-what.md`, `reference/expectations.md`).
+No. A discount of any size, 10% included, belongs to the Founder & CEO (`reference/who-owns-what.md`). At day 40 you still don't offer or hint at one (`reference/expectations.md`, Tier 4).
 
-- **To the buyer:** if they ask for a better price, say "Let me take that to the Founder." Don't offer or hint at a discount (`reference/objections.md`).
-- **Why it's not a lever:** the Founder gives a discount only in exchange for something real (`reference/the-message.md`).
-- **Today:** add the deal and the 10% question to `reference/question-log.md` and bring it to your check-in. Anything that goes to the buyer is approved by the Head of Sales first.
+- **To the buyer:** "Let me take that to the Founder." (`reference/objections.md`)
+- **To close this week:** add the deal and the question to `reference/question-log.md` and bring it to your daily check-in with the Head of Sales.
+- **Only interrupt** if the buyer is waiting on the line right now. Then message the Head of Sales.
 
-Which CRM stage is this deal in right now?
+Anything you send the buyer still goes to the Head of Sales first.
+
+Which Continuing Education modules has the Head of Sales signed off so far?

@@ -1,11 +1,6 @@
-That is a Delivery Lead question. Delivery Lead owns everything after signing: kickoff, project status, and go-live (`reference/who-owns-what.md`). The folder has no start date, so don't give one.
+That's a Delivery Lead question. The Delivery Lead owns everything after signing: kickoff, project status, and go-live (`reference/who-owns-what.md`).
 
-What to do:
+- **To the client:** don't promise a date. Say you'll get them a straight answer from the Delivery Lead.
+- **Then:** tell the Head of Sales the same day, so the handoff is clean. Anything you send the client in writing goes to the Head of Sales first.
 
-- **Tell the client:** "Good question. I'll get you a straight answer from our Delivery Lead." Don't promise a date. Dates are never yours to give (`reference/the-message.md`).
-- **Tell the Head of Sales** about the signing, if you haven't yet.
-- **Check with the Head of Sales** before sending anything to the client in writing.
-
-If the client is waiting on the line right now, message the Head of Sales immediately. That is one of the two interrupt cases.
-
-Today the founder holds the Delivery Lead title, but ask by title anyway.
+Today the founder holds that title, but ask by title anyway.

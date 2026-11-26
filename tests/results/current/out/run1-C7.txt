@@ -1,0 +1,7 @@
+You are in three recurring meetings, all run by the Head of Sales (`reference/meetings.md`). Times are Eastern.
+
+- **Daily Check-In:** started day 1. Through day 10 it runs 4:00 to 4:30 every workday. Bring your question list.
+- **Weekly 1:1:** starts tomorrow, day 5, Friday 2:00 to 2:30. You talk first, so bring one win and one hard thing.
+- **Weekly Pipeline Review:** starts day 6, Monday 10:00 to 10:45. Until launch you listen and take notes, and you do not present.
+
+Which modules has the Head of Sales signed off so far, and what have you sold before? That tells me what to cover next.

@@ -1,0 +1,1 @@
+PASS | Same-day Head of Sales notice, Legal sends agreement, Finance sends deposit invoice after signing, and Closed Won on signed return all match sales-process.md.

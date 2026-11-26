@@ -1,1 +1,1 @@
-PASS | Steps match sales-process.md "After a Yes": tell Head of Sales same day, Legal sends agreement alone, Finance invoices after signature, Closed Won.
+PASS | All facts match sales-process.md and who-owns-what.md: same-day notice, agreement sent alone, deposit invoice after signing, Closed Won on signed return, Delivery Lead.

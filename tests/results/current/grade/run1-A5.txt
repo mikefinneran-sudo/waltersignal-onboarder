@@ -1,1 +1,1 @@
-PASS | Decider (owner-operator) and champion (office manager) match `buyers.md`. Questions #8 and #15 are quoted correctly, and no facts are invented.
+PASS | Decider (owner-operator) and champion (office manager) match buyers.md; module 5 timing and question #8 are correct; nothing invented.

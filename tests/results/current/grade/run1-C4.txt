@@ -1,1 +1,1 @@
-PASS | Module 5 timing, questions #4, #6, #10, and the next-step format all match the folder verbatim; the answer is substantive with no invented facts.
+PASS | Questions #4, #6, #12, the call order, the dated next step, and module 5 details all match the folder; no invented facts.

@@ -1,0 +1,10 @@
+There's no set time for a Full Build in my notes. `reference/offers.md` says only that it is "scoped to the system," so headcount alone doesn't give a number.
+
+What I can give you:
+- A Signal Audit takes 10 business days, and an Integration Pilot takes 30 days.
+- A Full Build is scoped after the pilot.
+- Never promise a date to a buyer (`reference/the-message.md`).
+
+Timelines before signing belong to Solutions Engineering. Add this to `reference/question-log.md` for your check-in. If a buyer asks in the meantime, say: "I'll get you a straight answer from our Solutions Engineering lead."
+
+Which Continuing Education modules has the Head of Sales signed off so far?

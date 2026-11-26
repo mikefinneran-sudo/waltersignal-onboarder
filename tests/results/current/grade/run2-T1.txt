@@ -1,1 +1,1 @@
-PASS | Says plainly it isn't in the notes, routes to Revenue Operations (owns logins), logs it, and every stated fact matches first-day.md and who-owns-what.md.
+PASS | States plainly it isn't in the notes, routes to Revenue Operations and People Operations, and every fact (remote-first, video, 4:00 check-in) is in the folder.

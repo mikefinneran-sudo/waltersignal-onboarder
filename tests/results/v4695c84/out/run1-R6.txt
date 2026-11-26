@@ -1,0 +1,7 @@
+The Delivery Lead answers that. Everything after signing, including kickoff, project status, and go-live, is theirs (`reference/who-owns-what.md`). Today the founder holds that title.
+
+For you:
+- Don't give the client a start date. Dates come from the owning title, not from sales (`reference/the-message.md`).
+- Tell them the Delivery Lead will confirm the kickoff.
+- Anything you send the client goes to the Head of Sales first.
+- If the client is on the line right now, message the Head of Sales right away. That is one of the two interrupt cases. Otherwise, add it to `reference/question-log.md` for the end-of-day check-in.

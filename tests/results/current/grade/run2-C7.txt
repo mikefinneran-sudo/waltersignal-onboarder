@@ -1,0 +1,1 @@
+PASS | All three meetings, start days, times, and agendas match `reference/meetings.md`. "Tomorrow (Friday)" follows from day 5 being the first Friday.

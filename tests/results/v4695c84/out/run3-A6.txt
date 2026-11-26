@@ -1,0 +1,11 @@
+Congratulations. Here is what happens now (`reference/sales-process.md`):
+
+1. **Tell the Head of Sales today.** Same day, before anything else.
+2. **Don't send anything yourself.** Legal & Contracts sends the agreement. Finance & Billing sends the deposit invoice, and only after the signed agreement comes back.
+3. **Log it in the CRM.** Write the call note and next step today. The deal stays in Proposals until the signed agreement returns, then it moves to Closed Won.
+
+Any message to the client goes to the Head of Sales for approval first.
+
+Questions about timing or kickoff go in `reference/question-log.md`. Solutions Engineering owns dates, and the Delivery Lead owns the project after signing.
+
+Which offer did they say yes to?

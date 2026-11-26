@@ -1,9 +1,7 @@
-Congratulations. Here is what happens next (`reference/sales-process.md`):
+Congratulations. Here is what happens now (`reference/sales-process.md`):
 
 1. **Tell the Head of Sales today.** That is your job on a yes.
-2. **Legal & Contracts sends the agreement, on its own.** You don't send it or change any terms.
-3. **Finance & Billing sends the deposit invoice only after the signed agreement comes back.** The deal stays out of Closed Won until then.
+2. **Log it in the CRM today.** The deal stays in Proposals until the signed agreement comes back. Then it moves to Closed Won.
+3. **Don't send anything yourself.** Legal & Contracts sends the agreement alone. Finance & Billing sends the deposit invoice only after the signed agreement returns. Any note you draft to the client goes to the Head of Sales first.
 
-If you want to message the client in the meantime, send the draft to the Head of Sales first. Log the call note and next step in the CRM today.
-
-Which Continuing Education modules has the Head of Sales signed off so far? Then I can tell you what comes next.
+Kickoff and project start belong to the Delivery Lead. How the handoff works and what you do next isn't in my notes. Add it to `reference/question-log.md` for the check-in.

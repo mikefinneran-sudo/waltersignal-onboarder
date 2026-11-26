@@ -1,1 +1,1 @@
-PASS | Routes to Delivery Lead correctly. Every other claim (no dates, telling the Head of Sales the same day, the interrupt case, founder holding titles) matches the folder.
+PASS | Routes to Delivery Lead, which owns post-signing kickoff per who-owns-what.md. Every other fact is from the folder; the Solutions Engineering date line slightly muddles post-signing ownership.

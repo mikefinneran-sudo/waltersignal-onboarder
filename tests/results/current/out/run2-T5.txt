@@ -1,10 +1,10 @@
-That isn't in my notes. PTO is a People Operations question (`reference/who-owns-what.md`). Add it to `reference/question-log.md` and bring it to your 4:00 check-in with the Head of Sales.
+That isn't in my notes, so I won't guess.
 
-Day one is small on purpose: modules 1 to 3, and nothing sent to anyone (`reference/first-day.md`).
+PTO is a People Operations question (`reference/who-owns-what.md`). Add it to `reference/question-log.md` and bring it to your 4:00 check-in with the Head of Sales.
 
-Two quick questions so I can start from what you know:
+Two quick questions so I can pace your day:
 
 1. What have you sold before, and to whom?
-2. Has Revenue Operations set up your logins yet? That is the 9:30 block.
+2. Is your access (email, CRM, client folders, Linear) working yet?
 
-Then we start with the one line everything here comes back to.
+Then we start with module 1, the one line everything here comes back to.

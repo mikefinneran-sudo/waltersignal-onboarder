@@ -1,1 +1,1 @@
-PASS | Script, underlying cause, and current-state follow-ups (#4, #6) match objections.md and discovery-questions.md exactly; the approval reminder is in the folder.
+PASS | Quotes the objections.md script and underlying cause, gives real current-state questions, and follows the next-step and approval rules; no invented facts.

@@ -1,1 +1,1 @@
-PASS | Launch Gate's three conditions and module 5's milestone (days 3–7, briefs, sit-ins, practice call) match `syllabus.md`; nothing is invented.
+PASS | Correctly lists the three Launch Gate conditions from syllabus.md; module 5 timing and "nobody launched early" are accurate; no invented facts.

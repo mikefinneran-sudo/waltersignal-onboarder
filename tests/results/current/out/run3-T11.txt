@@ -1,0 +1,10 @@
+That isn't in my notes, so I won't guess at a link.
+
+What the folder does say (`reference/meetings.md`):
+- The pipeline review is Mondays, 10:00 to 10:45 Eastern. Day 6 is your first.
+- The Head of Sales owns it and sends the calendar invites.
+- Until launch, you listen and take notes. You don't present.
+
+The link is a Head of Sales question. Add it to `reference/question-log.md` for your end-of-day check-in.
+
+Which modules has the Head of Sales signed off so far? I'll tell you what comes next.

@@ -1,1 +1,1 @@
-PASS | Routes to People Operations, which owns equipment per who-owns-what.md; question log, check-in, and day-3 module 5 facts all match the folder.
+PASS | Routes to People Operations, which `who-owns-what.md` lists for equipment and headset expenses; module 5 timing (days 3 to 7) matches the syllabus; nothing invented.

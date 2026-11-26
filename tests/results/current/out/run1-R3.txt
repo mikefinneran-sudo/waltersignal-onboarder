@@ -1,9 +1,9 @@
-That is a Legal & Contracts question. They own agreement wording, changes to terms, and sending the agreement (`reference/who-owns-what.md`).
+That is a Legal & Contracts question. Agreement wording and changes to terms belong to that title (`reference/who-owns-what.md`).
 
-- **Don't promise the change.** Tell the client you will take it to the right person.
-- **Check with the Head of Sales before replying.** Anything that goes to a client is approved by them first.
-- **Add it to your question list** for the end-of-day check-in (`reference/question-log.md`).
+- **Don't promise the client anything** about the change, even a "that should be fine."
+- **Log it** in `reference/question-log.md` and bring it to the daily check-in with the Head of Sales.
+- **Message the Head of Sales right away** only if the buyer is waiting on the line.
 
-Message the Head of Sales right away only if the client is waiting on the line or something went out by mistake.
+Anything you write back to the client goes to the Head of Sales for approval first.
 
-I can't say how a clause change is handled. That isn't in my notes, so ask Legal & Contracts.
+If the change touches price or a discount, that part is a Founder & CEO question.

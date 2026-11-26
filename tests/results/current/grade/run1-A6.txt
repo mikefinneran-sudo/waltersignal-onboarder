@@ -1,1 +1,1 @@
-PASS | Steps match sales-process.md: tell Head of Sales same day, Legal sends the agreement alone, the deposit invoice follows the signed agreement, and drafts need approval. Nothing invented.
+PASS | All facts match sales-process.md and who-owns-what.md: same-day notice to Head of Sales, CRM stages, agreement sent alone, invoice after signing, Delivery Lead.

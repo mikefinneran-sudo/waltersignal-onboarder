@@ -1,1 +1,1 @@
-PASS | Owner-operator decides, office manager champions, both discovery questions quoted exactly from the folder; nothing invented, and the buyer-2 gap is correctly flagged.
+PASS | Correctly gives owner-operator decides and office manager champions from buyers.md, cites real discovery questions 8 and 15, and invents nothing.

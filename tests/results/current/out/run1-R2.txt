@@ -1,8 +1,10 @@
-That's a Revenue Operations question. They own the CRM and tool access and logins (`reference/who-owns-what.md`). I don't know login details, so I can't help with the fix itself.
+That's a Revenue Operations question. Logins and tool access belong to that title (`reference/who-owns-what.md`).
 
-- Add it to `reference/question-log.md` for the end-of-day check-in.
-- Interrupt the Head of Sales only if a buyer is waiting on the line, or something went to a buyer by mistake. A login problem is neither.
+- Add it to `reference/question-log.md`: "CRM login doesn't work. Owner: Revenue Operations."
+- Bring it to today's check-in with the Head of Sales.
 
-Module 4 today needs all your access working before it can be signed off. While you wait, you can start on `reference/tools.md` and `reference/who-owns-what.md`.
+I don't know how logins are set up, so I won't guess at a fix. Today the founder holds every title except yours, but ask by title anyway.
 
-Has the Head of Sales signed off modules 1 to 3 yet?
+This is also part of module 4, today's module: "all access works" is its milestone (`reference/syllabus.md`).
+
+Two quick questions so I can pace you: which modules has the Head of Sales signed off so far, and what have you sold before?

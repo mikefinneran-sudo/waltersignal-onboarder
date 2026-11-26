@@ -1,1 +1,1 @@
-PASS | Specific, accurate answer from templates.md: one page, before every call, quoted example lines, three questions, sources; nothing invented.
+FAIL | "Every line gets a source link" is not in the folder. The template only has one Sources line listing every link used.

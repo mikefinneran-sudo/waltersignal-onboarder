@@ -1,0 +1,11 @@
+For an advisory buyer (buyer 1), from `reference/buyers.md`:
+
+- **Decides:** the owner-operator. They sign.
+- **Champions:** the office manager. They live with the problem daily and will tell you where work falls through the cracks. Win them and the owner listens.
+- **Timing:** a decision usually comes in 7 to 14 days.
+
+For the get-me-online buyer (buyer 2), my notes don't say who decides or champions. Ask the Head of Sales and add it to `reference/question-log.md`.
+
+Two questions from `reference/discovery-questions.md` find them on a call: #8 "Who in the office lives with this every day?" and #15 "Who besides you weighs in on a decision like this?"
+
+Try it: say back who decides and who champions, in your own words. Also, which modules has the Head of Sales signed off, and what have you sold before?

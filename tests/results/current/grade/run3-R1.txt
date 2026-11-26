@@ -1,1 +1,1 @@
-PASS | Routes to Solutions Engineering per objections.md and who-owns-what.md; script, approval, logging, and interrupt rules all match the folder.
+PASS | Routes data-safety question to Solutions Engineering per who-owns-what.md; scripted line, logging, approval and interrupt rule all match the folder.

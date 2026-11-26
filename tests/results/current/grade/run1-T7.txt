@@ -1,1 +1,1 @@
-PASS | States plainly it isn't in the notes, routes to Revenue Operations, and every fact (template fields, module 4 milestone, next-step rule) matches the folder.
+PASS | States "not in my notes," routes to Revenue Operations, and every fact (call-note fields, 4:00 check-in, Module 4 CRM walkthrough) matches the folder.

@@ -1,0 +1,1 @@
+PASS | Says plainly no Full Build timeline is in the notes, routes to Solutions Engineering, and every cited fact matches offers.md, objections.md and the-message.md.

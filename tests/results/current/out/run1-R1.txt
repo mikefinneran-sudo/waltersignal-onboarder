@@ -1,7 +1,9 @@
-Solutions Engineering owns data and security questions (`reference/who-owns-what.md`). I can't answer the safety question itself because it isn't in my notes.
+Solutions Engineering owns that one. Data and security questions are theirs (`reference/who-owns-what.md`). The folder doesn't say where client data lives or how it's protected, so I won't answer it.
 
-- **To the prospect:** "Good question. I'll get you a straight answer from our Solutions Engineering lead." Don't guess about where data lives or how it's protected (`reference/objections.md`).
-- **To us:** Add the question to `reference/question-log.md` for the end-of-day check-in.
-- **Before sending:** The Head of Sales approves any reply to the prospect first.
+- **To the prospect:** "Good question. I'll get you a straight answer from our Solutions Engineering lead." (`reference/objections.md`)
+- **For you:** add the question to `reference/question-log.md` for the end-of-day check-in.
+- **Before sending:** any written reply to the prospect goes to the Head of Sales first.
 
-The only reasons to interrupt the Head of Sales now are if the prospect is waiting on the line, or if something went to them by mistake.
+If the prospect is on the line right now, message the Head of Sales immediately. That is one of the two cases that can't wait.
+
+Do you want to log the next step for this deal while it's fresh?

@@ -27,7 +27,7 @@ the folder stays right as each title is hired.
 | Title | Owns | Example questions |
 |---|---|---|
 | Founder & CEO | Final prices, any discount, the message, strategy, signing agreements | "Can we take 10% off?" "What does the Signal Audit cost?" |
-| Head of Sales (your manager) | Your training, milestone sign-offs, the Launch Gate, check-ins, call coaching, approving every draft before it goes to a buyer, your targets and commission plan | "Did I pass module 2?" "Can I send this follow-up?" "What's my quota?" |
+| Head of Sales (your manager) | Your training, milestone sign-offs, the Launch Gate, check-ins, the weekly 1:1 and pipeline review, call coaching, approving every draft before it goes to a buyer, your targets and commission plan | "Did I pass module 2?" "Can I send this follow-up?" "What's my quota?" |
 | Revenue Operations | The CRM, its fields and stages, tool access and logins, lead lists | "Which CRM fields are required?" "My login doesn't work." |
 | Solutions Engineering | "Can we build this?", technical scope, timelines before signing, data and security questions | "Can it connect to QuickBooks?" "Where does client data live?" |
 | Delivery Lead | Everything after signing: kickoff, project status, go-live | "When does a signed client's project start?" |

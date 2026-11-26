@@ -1,0 +1,1 @@
+PASS | Says plainly it isn't in the notes, routes to Head of Sales, and every stated fact (invites, Monday 10:00–10:45, day 6, listen-only) matches meetings.md.
