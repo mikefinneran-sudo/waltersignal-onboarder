@@ -60,7 +60,7 @@ Nothing else is needed: no connectors, no code, no other tools.
 | `reference/second-brain.md` | Files | The company's second brain (the Vault in Obsidian and the Cairn memory layer) and how this folder connects to it |
 | `reference/glossary.md` | Files | Every company term, in plain language |
 | `reference/question-log.md` | Files | Every question the onboarder could not answer, and where the answer was added |
-| `tests/` | Not uploaded | The test questions, answer key, graders, and scores |
+| `tests/` | Stays on GitHub, never in the project | The test questions, answer key, graders, and scores; kept out so the onboarder cannot see the answers |
 
 ## Design Principles
 
