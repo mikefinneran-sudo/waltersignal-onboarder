@@ -1,1 +1,1 @@
-PASS | All three Tier 3 scorecard targets match `expectations.md`; the fourth item is named and held; unpublished targets are correctly routed to the Head of Sales.
+You've hit your 5-hour limit · resets 3pm (America/Indianapolis)

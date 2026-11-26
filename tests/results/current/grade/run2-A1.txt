@@ -1,1 +1,1 @@
-PASS | Facts (modules 1–3, nothing sent, one line) all match first-day.md and the-message.md; starts from what they know.
+PASS | Every fact matches `first-ten-days.md`, `meetings.md` and `expectations.md`: goals, done-when criteria, 4:00 PM Eastern check-in, and no sending or quoting today.

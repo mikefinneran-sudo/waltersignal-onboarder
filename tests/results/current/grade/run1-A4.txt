@@ -1,1 +1,1 @@
-PASS | Correctly lists the three Launch Gate conditions from syllabus.md; module 5 timing and "nobody launched early" are accurate; no invented facts.
+PASS | The Launch Gate's three conditions, today's module 4 goals and the day 4–10 plan all match the folder; no invented facts.

@@ -1,1 +1,0 @@
-PASS | States plainly it's not in the notes, routes to Mike for the question list, and every cited fact matches sales-process.md, tools.md, syllabus.md.

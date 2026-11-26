@@ -1,8 +1,12 @@
-That isn't in my notes. This folder doesn't hold anyone's phone number.
+That isn't in my notes. This folder holds no one's phone number. Contact details and the team directory belong to People Operations (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for the 4:00 check-in.
 
-- **Who owns it:** the Head of Sales, your manager.
-- **What to do:** add it to `reference/question-log.md` and bring it to the 4:00 check-in (`reference/first-day.md`).
+What the folder does give you for reaching the Head of Sales today:
 
-If the issue is the 9:00 video link, email the Head of Sales at the address in your welcome email.
+- **Welcome call:** 9:00 AM Eastern on Google Meet. The link was in the email the Head of Sales sent your personal address the Friday before (`reference/first-ten-days.md`).
+- **If the video link fails at 9:00:** email the Head of Sales at the address in that welcome email.
+- **Slack:** once Revenue Operations sets up your accounts today, the Head of Sales is in Slack under their title (`reference/tools.md`).
+- **Daily check-in:** 4:00 to 4:30 PM Eastern on Google Meet. Bring your question list there (`reference/meetings.md`).
 
-Only message the Head of Sales right away if a buyer is waiting on the line, or something went to a buyer by mistake (`reference/who-owns-what.md`). Is it one of those?
+Interrupting the Head of Sales is for two cases only: a client is waiting on the line, or something went to a client by mistake. Anything else goes in the question log.
+
+So I can build on what you already know: what have you sold before, and to whom?

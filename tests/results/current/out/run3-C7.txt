@@ -1,9 +1,13 @@
-You're in three, all run by the Head of Sales (`reference/meetings.md`). Times are Eastern.
+You are in three recurring meetings, all on video and all run by the Head of Sales (`reference/meetings.md`). Times are Eastern.
 
-- **Daily Check-In:** started day 1. Today it runs 4:00 to 4:30, and it does through day 10. After launch it's 4:15 to 4:30.
-- **Weekly 1:1:** Fridays, 2:00 to 2:30. The first is tomorrow, day 5. You talk first, so bring one win and one hard thing.
-- **Weekly Pipeline Review:** Mondays, 10:00 to 10:45. The first is day 6. Until launch you listen and take notes. You don't present.
+| Meeting | When | Starts | Status on day 4 |
+|---|---|---|---|
+| Daily Check-In | Every workday, 4:00 to 4:30 through day 10 (4:15 to 4:30 after launch) | Day 1 | Already running. Today's is at 4:00. |
+| Weekly 1:1 | Fridays, 2:00 to 2:30 | Day 5 | Tomorrow, your first Friday |
+| Weekly Pipeline Review | Mondays, 10:00 to 10:45 | Day 6 | Next Monday, your second Monday |
 
-The Head of Sales sends the calendar invites.
+- **Daily Check-In:** bring your question list, and say whether any module is ready for sign-off. Finish with the one thing you will do first tomorrow.
+- **Weekly 1:1:** it is your meeting, so you talk first. Bring one win and one hard thing, and your scorecard numbers against your tier in `reference/expectations.md`. Also bring a call or draft you want coached, and anything else on your mind. Research brief 2 gets reviewed here tomorrow.
+- **Weekly Pipeline Review:** the Head of Sales runs it, with Revenue Operations, Solutions Engineering, and the Delivery Lead. On days 6 to 10 you listen and take notes. You present your own deals only after launch.
 
-Which modules has the Head of Sales signed off so far? That tells me what to bring up for tomorrow's 1:1.
+The Head of Sales sends the calendar invites. If one is missing, add it to your question list for today's check-in.

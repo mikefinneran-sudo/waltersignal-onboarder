@@ -1,10 +1,14 @@
-Welcome. Monday starts at **9:00 AM Eastern** (Fort Wayne time) on video, and the day ends at 4:30 PM (`reference/first-day.md`).
+Your first fixed time is the **welcome call with the Head of Sales, Monday at 9:00 AM Eastern**, on Google Meet (`reference/first-ten-days.md`).
 
-Have ready:
-- A quiet room and a headset.
-- A notebook and a computer with a current browser.
-- The Friday welcome email from the Head of Sales, with your video link and account invites. If it hasn't arrived by Friday 5:00 PM Eastern, reply to the email your offer came from.
+**Have ready:**
+- A quiet room, a headset, and a computer with a current browser.
+- Your own internet connection. WalterSignal is remote-first with no office, so you work from home.
+- Your personal email open on Friday. The Head of Sales sends the video link for the welcome call and your account invites then.
 
-Day one is only modules 1 to 3, and you send nothing to anyone.
+**If the email hasn't arrived by Friday 5:00 PM Eastern,** reply to the email your offer came from.
 
-One question before Monday: what have you sold before, and to whom? I'll build from that.
+**If the video link fails Monday at 9:00,** email the Head of Sales at the address in the welcome email.
+
+The folder gives no general working hours beyond the 9:00 call. That is a People Operations question, so add it to `reference/question-log.md` for your daily check-in.
+
+To prepare for the welcome call, which covers what you have sold before, to whom, and what you want to learn, think through your answers now.

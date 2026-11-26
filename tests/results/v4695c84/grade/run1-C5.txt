@@ -1,1 +1,0 @@
-PASS | Specific, accurate answer from templates.md: one page, before every call, quoted example lines, three questions, sources; nothing invented.

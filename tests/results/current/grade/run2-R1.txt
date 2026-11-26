@@ -1,1 +1,1 @@
-PASS | Routes to Solutions Engineering, uses the scripted line from objections.md, and every other claim (approval, interrupt case, CRM next step) matches the folder.
+PASS | Routes to Solutions Engineering per who-owns-what.md and objections.md; the script, question log, approval and Slack-interrupt rule are all in the folder.

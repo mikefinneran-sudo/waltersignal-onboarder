@@ -1,13 +1,14 @@
-BananaForce pricing isn't in my notes, so I won't guess. `reference/offers.md` says all three products are quoted by the Founder & CEO.
+That isn't in my notes. Nothing in `reference/` says what WalterSignal can or can't build on, or connect to, Salesforce. I won't guess, and please don't tell the prospect yes or no.
 
-What you can tell the prospect:
-- "We'll quote that after a short call."
-- BananaForce is a one-time license, not a per-seat subscription.
-- It is in early access (`reference/offers.md`).
+- **Owner:** "Can we build this?" and technical scope belong to Solutions Engineering (`reference/who-owns-what.md`).
+- **Log it:** add the question to `reference/question-log.md` for the daily check-in, with the prospect's exact words on what they want built on Salesforce.
+- **If the prospect is waiting on the line right now:** that is one of the two cases where you message the Head of Sales in Slack immediately.
 
-Next steps:
-- Add the question to `reference/question-log.md` and bring it to the check-in.
-- If the prospect is on the line right now, message the Head of Sales immediately.
-- Send nothing in writing to them until the Head of Sales approves it.
+What the folder does cover is how connected tools affect the Pilot price (`reference/services.md`):
 
-Do you know yet whether this prospect is buyer 1 or buyer 2?
+- **$20,000** for one workflow connected to up to two existing tools.
+- **$30,000** for three or more tools, or if it includes an AI step.
+
+Any Pilot price is Solutions Engineering's call on scope first, so don't quote one for this prospect until they've answered.
+
+Anything you send the prospect about this goes to the Head of Sales for approval first.

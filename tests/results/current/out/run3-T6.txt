@@ -1,9 +1,9 @@
-No. At day 40, discounts are still not yours to offer, of any size (`reference/expectations.md`, tier 4).
+No. You never offer, hint at, or agree to a discount, at any tier. Only the Founder & CEO decides discounts (`reference/services.md`, `reference/who-owns-what.md`). That holds on day 40 (`reference/expectations.md` lists discounts as not yours through day 90).
 
-- **Discounts** belong to the Founder & CEO, and only in exchange for something real (`reference/objections.md`).
-- **Say to the buyer:** "Let me take that to the Founder." Don't offer or hint at a number.
-- **Anything going to the buyer** goes to the Head of Sales for approval first.
+What to do:
 
-If the buyer is pushing on price, ask what would make them decide this week. That tells you what the Founder can ask for in return.
+- **If the client asks for a lower price:** say "Let me take that to our Founder." Don't suggest a number or hint that one is possible (`reference/objections.md`, "Can You Do It Cheaper?").
+- **Get the question to the owner:** add it to `reference/question-log.md` and bring it to today's daily check-in with the Head of Sales. Messaging the Head of Sales in Slack right away is only for two cases: a client is waiting on the line, or something went to a client by mistake. A deal you'd like to close this week is not one of them.
+- **Before anything goes to the client:** the Head of Sales approves it first, including any follow-up about price.
 
-Put the question in `reference/question-log.md` and bring it to the check-in.
+The price list in `reference/services.md` is the only pricing you can use. The Founder & CEO prices every Build. Whether a discount could be approved, and how fast, isn't in my notes, so I can't say.

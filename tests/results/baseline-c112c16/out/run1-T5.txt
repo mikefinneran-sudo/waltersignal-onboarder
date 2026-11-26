@@ -1,9 +1,0 @@
-That isn't in my notes. Time off is Mike's call (`reference/who-owns-what.md`). Add it to your question list for the end-of-day check-in.
-
-Since it's day 1, here's what matters today:
-
-- Say the one line: "The hardest part of AI isn't the technology. It's knowing what to ignore."
-- Name the two buyers.
-- Name the three steps: Research, Validate, Build.
-
-Before we start, what have you sold before, and to whom? I'll build from that.

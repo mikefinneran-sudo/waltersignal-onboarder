@@ -1,7 +1,0 @@
-Solutions Engineering owns data and security questions (`reference/who-owns-what.md`). I can't answer the safety question itself because it isn't in my notes.
-
-- **To the prospect:** "Good question. I'll get you a straight answer from our Solutions Engineering lead." Don't guess about where data lives or how it's protected (`reference/objections.md`).
-- **To us:** Add the question to `reference/question-log.md` for the end-of-day check-in.
-- **Before sending:** The Head of Sales approves any reply to the prospect first.
-
-The only reasons to interrupt the Head of Sales now are if the prospect is waiting on the line, or if something went to them by mistake.

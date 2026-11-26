@@ -1,10 +1,10 @@
-That's a Revenue Operations question. Logins and tool access belong to that title (`reference/who-owns-what.md`).
+Go to **Revenue Operations**. They own the CRM, tool access, and logins (`reference/who-owns-what.md`), and "an account does not work" is listed under them in `reference/first-ten-days.md`.
 
-- Add it to `reference/question-log.md`: "CRM login doesn't work. Owner: Revenue Operations."
-- Bring it to today's check-in with the Head of Sales.
+- **How:** message Revenue Operations in Slack by title. Everyone is in Slack under their title.
+- **Not an urgent case:** the only reasons to interrupt the Head of Sales are a client waiting on the line or something sent to a client by mistake. A broken login is neither.
+- **At the 4:00 check-in:** tell the Head of Sales that the CRM login isn't working. Day 1 is done when every account in `reference/tools.md` works, and the Head of Sales moves the plan if you fall behind.
+- **Day 3:** Revenue Operations walks you through the CRM, the Vault, and Cairn (module 4), so you will need the login by then.
 
-I don't know how logins are set up, so I won't guess at a fix. Today the founder holds every title except yours, but ask by title anyway.
+I don't know how logins are issued or reset, so I can't help with that part.
 
-This is also part of module 4, today's module: "all access works" is its milestone (`reference/syllabus.md`).
-
-Two quick questions so I can pace you: which modules has the Head of Sales signed off so far, and what have you sold before?
+What have you sold before, and to whom? I'll build on that as we go.

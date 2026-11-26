@@ -1,8 +1,0 @@
-TURN 1: PASS | Builds on copier experience, gives today's scope and the one line, asks about access. Nothing invented.
-TURN 2: PASS | Gives the one line from the-message.md and asks for it back. Arc held for next.
-TURN 3: PASS | Three bullets from buyers.md with a practice question. Qualifying questions held for next.
-TURN 4: FAIL | Says it's not in notes but routes to two titles and makes the hire pick one.
-TURN 5: PASS | Declines the handbook, assigns only today's three modules, and schedules the rest by module and day.
-TURN 6: FAIL | Tells the hire to contact the friend and send her to /dig, then says contact nothing today.
-TURN 7: PASS | Says it's not in notes, routes quota to Head of Sales, and logs it. The added detail is from expectations.md.
-TURN 8: PASS | Names module 3 and its milestone from the folder, and says only the Head of Sales signs off.

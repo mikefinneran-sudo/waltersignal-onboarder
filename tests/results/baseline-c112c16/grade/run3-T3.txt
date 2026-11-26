@@ -1,1 +1,0 @@
-PASS | States plainly it's not in the notes, routes to Mike's end-of-day check-in, names both interrupt cases correctly, and invents no facts.

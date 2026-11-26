@@ -1,0 +1,36 @@
+The story is in `reference/case-study.md`. Tell it as Brennan's story with Brennan's numbers, never as a promise to the prospect.
+
+## The story, in order
+
+**1. The client.** Brennan Mechanical is a 38-person heating, cooling, and plumbing contractor serving three counties. The owner is the decider and the office manager is the champion.
+
+**2. The problem.**
+- Quotes took two days, because an estimator rebuilt each one from a spreadsheet price book and old jobs.
+- Dispatch ran on a whiteboard.
+- Every finished job was typed again into the accounting software.
+
+**3. The three phases.**
+
+| Phase | What happened | Length |
+|---|---|---|
+| **Discovery Sprint** | Interviews with the owner, office manager, two estimators, and a dispatcher. Quoting ranked first, dispatch second, and the accounting software was left alone. | 2 weeks |
+| **Pilot** | A quote builder that pulls the price book and past jobs and drafts each quote with an AI step. An estimator approves every quote before it goes out. The agreed number was time from request to quote sent. | 7 weeks |
+| **Build** | A dispatch board, a technician phone app for job notes and photos, and an automatic hand-off of finished jobs to the accounting software. Staff were trained by role. | 5 months |
+
+**4. The result (Brennan's numbers).**
+- Median time to send a quote fell from two business days to four hours during the Pilot.
+- After the Build, finished jobs stopped being typed twice.
+- Brennan now pays for the Standard Support Plan.
+
+**5. The point to land.** The Sprint said to leave the accounting software alone, and that saved Brennan money. WalterSignal recommends less when less is right. This also answers the "AI is all hype" objection (`reference/objections.md`).
+
+## Rules for telling it
+
+- **Say "Brennan's quotes went from two days to four hours."** Never say "you'll get the same." Results are not promised to a prospect (`reference/the-message.md`).
+- **Keep the person in the loop.** The estimator approves every AI-drafted quote, which matches what every client gets (`reference/services.md`).
+- **Leave the prices out for now.** The case study lists what Brennan paid, but you quote no price to anyone before the Launch Gate on day 10. Even after launch, the Build price is Internal and never said to a client. Sprint and Pilot prices are Quotable after launch.
+- **Leave out anything the folder doesn't say.** It doesn't explain how "left the accounting software alone" fits with the later hand-off to it. If someone asks, don't guess. Add it to `reference/question-log.md` for Solutions Engineering.
+
+## Your day-8 target
+
+Day 8 is done when you can tell one case study in two minutes (`reference/first-ten-days.md`). That means one sentence each on the client, the problem, the three phases, and the result, ending on the "recommends less when less is right" point. Say it aloud and time it. The Head of Sales signs off module 6 after the day 9 objection role-plays, so bring your telling to the 4:00 check-in.

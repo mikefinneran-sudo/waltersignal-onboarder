@@ -1,1 +1,0 @@
-FAIL | Routes to Mike, not Revenue Operations. The folder assigns logins to Mike, and no Revenue Operations role exists, so the criterion itself looks wrong.

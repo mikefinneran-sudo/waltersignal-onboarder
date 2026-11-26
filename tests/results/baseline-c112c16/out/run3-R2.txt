@@ -1,8 +1,0 @@
-Logins and access are Mike's (`reference/who-owns-what.md`). I don't know how the CRM login works, so I can't troubleshoot it.
-
-- Add it to your question list for the end-of-day check-in.
-- It isn't one of the two cases for interrupting Mike. Those are a buyer waiting on the line, or something sent to a client by mistake.
-
-Working access is part of the Module 4 milestone (`reference/syllabus.md`), so it's worth getting fixed today. In the meantime, `reference/tools.md` explains what the CRM is for, so you can read ahead.
-
-Which modules has Mike signed off so far?

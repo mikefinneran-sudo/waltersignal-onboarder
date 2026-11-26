@@ -1,1 +1,1 @@
-PASS | Correct $1,500 (list $2,000), 14 days, Dig Drive-only, ownership terms, custom-project discount, and approval rule, all from `reference/offers.md`; nothing invented.
+PASS | The reply correctly gives the $7,500 fixed two-week Sprint and the full credit toward a Pilot signed within 30 days of the readout; every other fact matches the folder.

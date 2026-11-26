@@ -1,10 +1,10 @@
-That isn't in my notes. `reference/offers.md` says a Full Build is "scoped to the system," so there is no standard length, and company size doesn't set one.
+**A Build usually takes 3 to 6 months.** That is the range in `reference/services.md`, and `reference/objections.md` repeats it for the "How long will it take?" objection. A Build is scoped after the Pilot, and it is delivered in modules, with documentation and staff training.
 
-What you can tell the buyer:
-- A Signal Audit takes 10 business days.
-- An Integration Pilot takes 30 days.
-- A Full Build is scoped after the pilot.
+The exact length for this 20-person HVAC company isn't in my notes, because it depends on the modules the Pilot points to. Timelines before signing belong to Solutions Engineering.
 
-Never promise a date. Timelines before signing belong to Solutions Engineering (`reference/who-owns-what.md`). Add this to `reference/question-log.md` for your end-of-day check-in.
+- **Say to the prospect:** "A Build usually runs 3 to 6 months, and Solutions Engineering gives you a firm timeline once we've scoped it after the Pilot."
+- **Don't say:** a specific date or duration for their business. Never promise a delivery date (`reference/the-message.md`).
+- **Closest comparison:** Brennan Mechanical, a 38-person HVAC contractor, had a 5-month Build covering a dispatch board, a technician phone app, and an automatic hand-off to accounting (`reference/case-study.md`). Tell it as Brennan's story, not as a forecast for this prospect.
+- **Price:** don't quote or hint at a Build price. Build prices are Internal, and the Founder & CEO prices every Build (`reference/services.md`).
 
-If the buyer needs an answer sooner, say you'll get one from Solutions Engineering, and don't guess a range.
+If you need a timeline for this specific company, add it to `reference/question-log.md` for Solutions Engineering. Anything you send the prospect about timing goes to the Head of Sales for approval first.

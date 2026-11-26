@@ -1,1 +1,0 @@
-PASS | Three main items, every fact traceable to the folder, and the remaining topics are scheduled by day as `first-day.md` lists them.

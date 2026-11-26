@@ -1,1 +1,1 @@
-PASS | Correct one line and arc from the-message.md; day-one scope matches first-day.md; no facts absent from the folder.
+PASS | Pitch, four parts, never-say list, module 1 milestone, and 4:00 check-in all match the folder; no invented facts.

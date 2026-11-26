@@ -1,1 +1,0 @@
-PASS | Routes to People Operations, which owns equipment per who-owns-what.md; question log, check-in, and day-3 module 5 facts all match the folder.

@@ -1,10 +1,9 @@
-That isn't in my notes. `reference/offers.md` says a Full Build is "scoped to the system," and the scope comes after the pilot. No length is written for it, and I won't estimate one for a 20-person HVAC company.
+A Build usually takes **3 to 6 months** (`reference/services.md`). It is scoped after the Pilot, per module, so the length for a particular 20-person HVAC company isn't known until then (`reference/objections.md`).
 
-What I can give you:
-- **Signal Audit:** 10 business days.
-- **Integration Pilot:** 30 days.
-- **Full Build:** scoped after the pilot.
+- **Company size and trade don't change the range.** My notes have no estimate by headcount or industry, so I can't narrow it for a 20-person company.
+- **Closest example:** Brennan Mechanical, a 38-person heating, cooling, and plumbing contractor, had a 5-month Build in three modules (`reference/case-study.md`). That is their timeline. Tell it as theirs, never as a promise to your prospect.
+- **What you may say to the prospect:** the Discovery Sprint takes 2 weeks, a Pilot takes 6 to 8 weeks, and a Build is scoped after the Pilot, usually 3 to 6 months.
+- **Never promise a date.** Timelines before signing belong to Solutions Engineering (`reference/who-owns-what.md`). If the prospect needs a firmer answer, tell them you'll get one from Solutions Engineering.
+- **Build prices are Internal.** Don't give a number or a range. The Founder & CEO prices every Build.
 
-Never promise a date to a buyer. Timelines before signing are a Solutions Engineering question (`reference/objections.md`, `reference/who-owns-what.md`). Add it to `reference/question-log.md` for the end-of-day check-in. If a buyer is waiting on the line right now, message the Head of Sales.
-
-Which CE modules has the Head of Sales signed off so far?
+If you need a timeline for this specific deal, that is a Solutions Engineering question. Add it to `reference/question-log.md` for the daily check-in. Anything you send the prospect about timing goes to the Head of Sales for approval first.

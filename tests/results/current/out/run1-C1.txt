@@ -1,10 +1,15 @@
-Monday starts at 9:00 AM Eastern (Fort Wayne time), on video. Day one runs 9:00 to 4:30 (`reference/first-day.md`).
+You start Monday at 9:00 AM Eastern with a welcome call with the Head of Sales, on Google Meet (`reference/first-ten-days.md`).
 
-Have ready:
-- A quiet room and a headset
-- A notebook
-- A computer with a current browser
+**Before Monday**
+- **The email:** on the Friday before you start, the Head of Sales emails your personal address with the video link for the welcome call and your account invites. If it hasn't arrived by Friday 5:00 PM Eastern, reply to the email your offer came from.
 
-Watch for the welcome email from the Head of Sales on Friday. It comes to your personal address with the video link and account invites. If it hasn't arrived by 5:00 PM Eastern Friday, reply to the email your offer came from.
+**Have ready**
+- A quiet room.
+- A headset.
+- A computer with a current browser.
 
-Nothing to study before Monday. One question: what have you sold before, and to whom?
+WalterSignal is remote-first with no office. You work from home on your own internet connection, meetings are on Google Meet, and team chat is in Slack (`reference/first-ten-days.md`, `reference/tools.md`).
+
+The only other fixed time on day 1 is the daily check-in with the Head of Sales, 4:00 to 4:30 PM Eastern (`reference/meetings.md`). The rest of day 1 is goals, not a schedule, and I'll walk you through them when you're on day 1.
+
+What have you sold before, and to whom? I'll build on that instead of starting from zero.

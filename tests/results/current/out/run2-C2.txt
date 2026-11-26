@@ -1,11 +1,21 @@
-That is in `reference/objections.md`. Underneath, they have usually been sold to and burned.
+From `reference/objections.md`:
 
-**Say:**
-> "Agreed, a lot of it is. The hardest part of AI isn't the technology. It's knowing what to ignore. That's the first thing we'd do for you."
+**What's underneath:** they have been sold to before, and burned.
 
-**Then ask a current-state question** (`reference/discovery-questions.md`), for example:
-> "Walk me through what happens from the moment a customer calls you."
+**What to say:**
 
-Don't argue the point or pitch. Agree, then get them talking about their own work.
+> "A lot of it is. That's why we start by mapping how your work runs, and we'll tell you where AI doesn't belong. Brennan Mechanical's Sprint said to leave their accounting software alone."
 
-Afterward, tell me in your own words why you agree with them first. And log the call and its next step in the CRM today.
+**Then:** ask a current-state question from `reference/discovery-questions.md`, such as:
+- #4: "Walk me through what happens from the moment a customer calls you."
+- #6: "Where does a job fall through the cracks?"
+
+**Back-up if they push:**
+- **Proof:** tell the Brennan Mechanical story (`reference/case-study.md`) as Brennan's result. Median time to send a quote fell from two business days to four hours in the Pilot. Do not promise the prospect the same number.
+- **Human approval:** every AI step has a person approving it. Anything AI drafts is checked by the client's staff before it goes out (`reference/services.md`).
+
+**Avoid:**
+- Defending AI or leading with the technology. Lead with their work (`reference/the-message.md`).
+- Promising a result or a date.
+
+If you follow up in writing, send the draft to the Head of Sales for approval first.

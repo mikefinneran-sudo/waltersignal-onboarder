@@ -1,8 +1,0 @@
-That isn't in my notes, so I won't guess. Mike owns it, since it is a technical and possibly legal question (`reference/who-owns-what.md`).
-
-- **If the prospect is waiting on the line right now,** interrupt Mike.
-- **If not,** add it to your question list for the end-of-day check-in.
-
-I can say one related thing from `reference/offers.md`: on custom builds, the client owns the domain, code, and data in their name. That is about ownership, not security, so don't present it as an answer to "is it safe?"
-
-Don't reply to the prospect on security until Mike has approved what you send.

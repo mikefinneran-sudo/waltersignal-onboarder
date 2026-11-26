@@ -1,13 +1,18 @@
-The Signal Audit price isn't public, so you don't quote one. The Founder & CEO quotes it (`reference/offers.md`).
+**That isn't in my notes.** The folder doesn't say whether WalterSignal has worked with a law firm, so don't claim it and don't deny it.
 
-Say something like:
+**What the folder does say**
+- Professional services firms are listed as a common industry, and no industry is excluded. Judge each business on its own facts (`reference/clients.md`).
+- The only two client stories in the folder are Brennan Mechanical (HVAC contractor) and Harbor Dental Group (four-office dental group). Neither is a law firm (`reference/case-study.md`).
 
-> "The Founder quotes the audit after a short conversation, because every business is different. Can I ask three questions so the number means something?"
+**What you can tell the prospect**
+1. Be honest that you'll confirm. For example: "I want to give you an accurate answer rather than a guess. I'll confirm and get back to you by [date]."
+2. Ask about their work (`reference/discovery-questions.md`, #4 to #6). Then tell the closest story, as that client's story with that client's numbers, and never as a promised result for them (`reference/the-message.md`). Brennan fits re-keyed work and slow turnaround on quotes. Harbor fits repetitive staff work that a person approves.
+3. Log a dated next step in the CRM today.
 
-Then ask the three qualifying questions in `reference/buyers.md`: why this, why now, why us.
+**Who to ask**
+- Add this to `reference/question-log.md` for the daily check-in. The Head of Sales can confirm client history and approve what you send.
+- Search Cairn yourself first. I can't see it, and if a law-firm engagement was recorded, it would be there (`reference/second-brain.md`).
 
-You can say what they get: a map of how the work really runs, three ranked pilots, and a 90-day plan, in 10 business days.
+If they follow up with questions about confidentiality or where their data would live, those go to Solutions Engineering. This folder doesn't answer security questions (`reference/objections.md`).
 
-Don't guess a range. Log a next step in the CRM today, with a date, an owner, and what happens.
-
-You're launched, so the follow-up draft goes to the Head of Sales before it's sent.
+Any written reply to the prospect goes to the Head of Sales for approval before it is sent.

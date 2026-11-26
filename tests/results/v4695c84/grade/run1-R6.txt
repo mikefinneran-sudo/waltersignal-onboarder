@@ -1,1 +1,0 @@
-PASS | Routes to Delivery Lead per who-owns-what.md. Minor stretch: the-message.md says dates come from Solutions Engineering, not "the owning title."

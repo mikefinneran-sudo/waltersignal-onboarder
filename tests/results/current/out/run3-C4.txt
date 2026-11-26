@@ -1,11 +1,46 @@
-Day 4 is module 5, The Discovery Call (days 3 to 7). The full bank is in `reference/discovery-questions.md`. Start with three:
+Use the bank in `reference/discovery-questions.md`. Pick two or three questions per section, in the order of the call in `reference/sales-process.md`: current state, gap, solution, next step. It is a conversation, not a survey.
 
-1. "Walk me through what happens from the moment a customer calls you." (current state)
-2. "Where does a job fall through the cracks?" (current state)
-3. "What does one of those cost you, in time or in a lost job?" (gap)
+**Opening: why are we talking?**
+1. "What made you reach out now?"
+2. "If one part of the business ran better a year from now, which part would it be?"
+3. "How did you hear about us?" Log the source in the CRM: referral, website, event, or outreach.
 
-The call runs current state, gap, solution, next step. Every call ends with a dated next step. I'm holding the "why now" and money questions until you've tried these.
+**Current state: how does the work run today?**
+4. "Walk me through what happens from the moment a customer calls you."
+5. "What gets written on paper, or kept in someone's head?"
+6. "Where does a job fall through the cracks?"
+7. "Which tools do you pay for today, and which ones does anyone actually open?"
+8. "Who in the office lives with this every day?" That is usually the champion.
 
-Try it: what would you ask a restaurant owner who says "our orders get messy"? Then tell me, in your own words, why we never open with "AI audit."
+**Gap: what does it cost?**
+9. "How often does that happen in a month?"
+10. "What does one of those cost you, in time or in a lost job?"
+11. "If nothing changes, what does this look like a year from now?"
 
-Also, what have you sold before, and which modules has the Head of Sales signed off so far?
+**Why now, why us**
+12. "What changed that makes this worth fixing this quarter?"
+13. "Have you tried to fix it before? What happened?"
+14. "What would you need to see to trust a fix?"
+
+**Money and decision.** Money comes up by the second conversation at the latest.
+15. "Who besides you weighs in on a decision like this?"
+16. "Do you have a range in mind, or would it help to see options?"
+17. "When would you want this working?"
+
+**Next step, on every call**
+18. "Here's what I'll do next, by [date]. Here's what I need from you. Does that work?"
+
+Write the next step in the CRM the same day: a date, an owner, and what happens.
+
+**Never ask**
+- "Do you want to use AI?" Lead with their work, not the technology.
+- "What's your budget?" in the first five minutes. Earn it with the gap questions first.
+- Anything about competitors' private pricing or the prospect's personal details.
+
+**Also keep in mind**
+- Before a second call, make sure you can answer the four qualifying questions in `reference/clients.md`: Why this? Why now? Why us? Is it big enough to justify a $20,000 Pilot?
+- Don't give away free consulting on the call. The call finds the problem; the Sprint maps the fix (`reference/sales-process.md`).
+
+**For today**, your day 4 goals (`reference/first-ten-days.md`) are to sit in on any discovery call the Head of Sales runs and to write research brief 1 of 3. Pick the three questions you would open with for that brief from this bank. Template and example are in `reference/templates.md`. You don't run live calls yet, and you quote no price to anyone.
+
+What have you sold before, and to whom? I can point out which of these questions will carry over most directly.

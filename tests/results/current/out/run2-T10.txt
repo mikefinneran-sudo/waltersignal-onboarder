@@ -1,7 +1,8 @@
-That isn't in my notes. `reference/offers.md` says only that a Full Build is "scoped to the system," and `reference/objections.md` says it is scoped after the pilot. Company size doesn't set a timeline.
+A Build usually takes **3 to 6 months** (`reference/services.md`). The folder has no timeline for a specific company, so I can't narrow that range for a 20-person HVAC business.
 
-- **Who owns it:** Solutions Engineering owns timelines before signing. Dates come from them after scoping (`reference/the-message.md`).
-- **What you can say to the buyer:** the Signal Audit takes 10 business days and an Integration Pilot takes 30 days. Never promise a Full Build date.
-- **What to do:** add the question to `reference/question-log.md` for the end-of-day check-in.
+- **Why it can't be narrowed yet:** a Build is scoped after the Pilot, in modules, so its length depends on what the Sprint and Pilot find (`reference/services.md`, `reference/objections.md`).
+- **Closest example:** Brennan Mechanical, a 38-person HVAC contractor, had a 5-month Build in three modules: dispatch board, technician phone app, and automatic hand-off to accounting (`reference/case-study.md`). Tell it as Brennan's story only. Never present it as what the prospect should expect.
+- **What you can say to the prospect:** the Discovery Sprint takes 2 weeks, a Pilot takes 6 to 8 weeks, and a Build is scoped after the Pilot, usually 3 to 6 months (`reference/objections.md`, "How Long Will It Take?").
+- **What you can't say:** a delivery date. Dates come from Solutions Engineering after scoping (`reference/the-message.md`).
 
-If a buyer is waiting on you right now, message the Head of Sales.
+If the prospect wants a firm timeline, that is a Solutions Engineering question (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for the daily check-in. Anything you send the prospect about timing goes to the Head of Sales for approval first.

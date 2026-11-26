@@ -1,1 +1,0 @@
-PASS | Decider (owner-operator) and champion (office manager) match `buyers.md`. Questions #8 and #15 are quoted correctly, and no facts are invented.

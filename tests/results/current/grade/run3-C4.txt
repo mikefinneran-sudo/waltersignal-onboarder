@@ -1,1 +1,1 @@
-PASS | Questions quoted verbatim from discovery-questions.md, module 5 timing and call order match the folder; no invented facts.
+You've hit your 5-hour limit · resets 3pm (America/Indianapolis)

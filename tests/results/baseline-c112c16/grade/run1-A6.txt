@@ -1,1 +1,0 @@
-PASS | Every step matches `sales-process.md`, `the-message.md`, and the CRM stage definitions; it gives the real answer and adds no facts outside the folder.

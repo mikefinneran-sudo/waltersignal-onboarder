@@ -1,1 +1,0 @@
-PASS | Day one is modules 1–3 with nothing sent, per first-day.md; the one line is quoted exactly; the opening questions follow rules.md; no invented facts.

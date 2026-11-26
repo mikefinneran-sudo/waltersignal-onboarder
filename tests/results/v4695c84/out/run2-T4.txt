@@ -1,9 +1,0 @@
-The Signal Audit price isn't public, so don't give a number or a range (`reference/offers.md`). The Founder & CEO quotes it after a conversation.
-
-Here's what you can say:
-
-- "The Founder quotes it after a short conversation, because every business is different. Can I ask three questions so the number means something?" Then ask why this, why now, and why us (`reference/buyers.md`).
-- The scope is fixed: 10 business days, a map of the real workflow, three ranked pilots, a 90-day plan, and a 60-minute walkthrough.
-- End the call with a dated next step, and log it in the CRM today.
-
-Anything you send afterward goes to the Head of Sales first.

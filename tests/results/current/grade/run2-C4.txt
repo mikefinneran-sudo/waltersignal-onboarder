@@ -1,1 +1,1 @@
-PASS | Module 5 timing, the three questions, call order, same-day CRM next step, and the budget rule all match the folder; nothing is invented.
+PASS | Questions, order, never-ask list and day-4 pacing all match discovery-questions.md, sales-process.md and first-ten-days.md, with no invented facts.

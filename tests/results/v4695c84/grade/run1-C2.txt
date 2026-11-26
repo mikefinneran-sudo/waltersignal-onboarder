@@ -1,1 +1,0 @@
-PASS | Uses objections.md wording, discovery question #4, and the approval rule verbatim; it adds no fact that isn't in the folder.

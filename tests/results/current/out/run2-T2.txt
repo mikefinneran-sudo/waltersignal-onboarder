@@ -1,13 +1,8 @@
-That isn't in my notes, so I won't guess.
+That isn't in my notes, so I won't guess a rate.
 
-- **Your commission plan and rate** belong to the Head of Sales.
-- **When commission is paid** belongs to Finance & Billing (`reference/who-owns-what.md`).
+- **Your commission plan**, including any rate on a Pilot, belongs to the Head of Sales.
+- **When commission is paid out** belongs to Finance & Billing (`reference/who-owns-what.md`).
 
-Add the question to `reference/question-log.md` and bring it to the 4:00 check-in today.
+Add the question to `reference/question-log.md` and bring it to the 4:00 PM Eastern check-in with the Head of Sales (`reference/meetings.md`). Your question list is one of today's goals (`reference/first-ten-days.md`).
 
-Two quick questions so I can build from what you know:
-
-1. What have you sold before, and to whom?
-2. Has Revenue Operations finished your logins in the 9:30 block?
-
-Today is modules 1 to 3, and nothing goes to anyone (`reference/first-day.md`).
+So I can build on what you know: what have you sold before, and to whom?

@@ -1,1 +1,1 @@
-PASS | Tier 3 scorecard targets, CE sign-offs by day 30, and launch-set targets all match expectations.md; nothing invented.
+PASS | Gives the full Tier 3 scorecard, expectations, and exclusions from expectations.md and syllabus.md; every fact checks out, and it correctly flags the targets that aren't in the folder.

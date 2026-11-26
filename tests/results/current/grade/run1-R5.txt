@@ -1,1 +1,1 @@
-PASS | Routes to People Operations per who-owns-what.md, logs the question without inventing an answer, and Module 5 on day 3 matches the syllabus.
+PASS | Routes to People Operations, matching the folder's own headset example; check-in time, Slack-by-title, and the two interrupt cases are all in the folder.

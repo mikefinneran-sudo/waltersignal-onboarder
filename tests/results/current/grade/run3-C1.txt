@@ -1,1 +1,1 @@
-PASS | Start time, end time, items to have ready, welcome-email fallback and modules 1–3 all match `reference/first-day.md`. No invented facts.
+You've hit your 5-hour limit · resets 3pm (America/Indianapolis)

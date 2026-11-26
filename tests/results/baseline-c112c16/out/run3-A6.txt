@@ -1,9 +1,0 @@
-Congratulations. The steps are in `reference/sales-process.md`, under "After a Yes":
-
-1. **Tell Mike the buyer said yes.** Mike sends the agreement, on its own.
-2. **Do not send an invoice.** The deposit invoice goes out only after the signed agreement comes back, and Mike sends that too. Payment is 50% at signing.
-3. **Update the CRM today.** Log the yes and the next step. The deal stays in Proposals until the signed agreement returns. Then it moves to Closed Won.
-
-Until Mike approves it, don't send the buyer anything about the agreement or payment.
-
-Tell me what the buyer said yes to, and I'll check it against `reference/offers.md`.

@@ -1,1 +1,0 @@
-PASS | Correct start: one line, modules 1–3 (message, buyers, work), nothing sent day one; every fact traces to syllabus, first-day, and the-message files.

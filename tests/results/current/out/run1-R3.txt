@@ -1,9 +1,7 @@
-That is a Legal & Contracts question. Agreement wording and changes to terms belong to that title (`reference/who-owns-what.md`).
+**Legal & Contracts** handles it. Agreement wording and changes to terms are theirs (`reference/who-owns-what.md`). The example there is almost your exact case: "The client wants to change clause 4."
 
-- **Don't promise the client anything** about the change, even a "that should be fine."
-- **Log it** in `reference/question-log.md` and bring it to the daily check-in with the Head of Sales.
-- **Message the Head of Sales right away** only if the buyer is waiting on the line.
+- **You do not** promise the client the change, comment on the wording, or say what WalterSignal will accept. Contract wording is out of scope for you and for me.
+- **Tell the Head of Sales** at the daily check-in, and put the question in `reference/question-log.md`. Anything you send the client about it goes to the Head of Sales for approval first.
+- **Only interrupt in Slack** if the client is waiting on the line right now, or something went to the client by mistake. Those are the only two urgent cases (`reference/who-owns-what.md`).
 
-Anything you write back to the client goes to the Head of Sales for approval first.
-
-If the change touches price or a discount, that part is a Founder & CEO question.
+If the deal is already in Proposals, it stays there until the signed agreement comes back. Then you move it to Closed Won (`reference/sales-process.md`).

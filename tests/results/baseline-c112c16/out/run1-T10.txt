@@ -1,9 +1,0 @@
-That isn't in my notes. A Full Build is "scoped to the system" (`reference/offers.md`), so there is no standard length. Delivery dates come from Mike after scoping, and we never promise one to a buyer (`reference/the-message.md`).
-
-What I can say:
-- A Full Build normally follows the Signal Audit and the 30-day Integration Pilot.
-- For a live buyer, say: "Mike will give you a date after we scope it."
-
-Add it to your question list for the end-of-day check-in. Before then, capture how their work runs today: calls, scheduling, quoting, and where jobs fall through. Mike needs that to scope it.
-
-Is this a live deal, or a practice question?

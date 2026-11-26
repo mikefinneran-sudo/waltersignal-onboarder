@@ -1,1 +1,1 @@
-PASS | Routes to Solutions Engineering per who-owns-what.md and objections.md; the approval, question-log and interrupt-case facts all match the folder.
+PASS | Routes to Solutions Engineering per who-owns-what.md; objection script, interrupt cases, approval and Cairn facts all match the folder.

@@ -1,1 +1,1 @@
-PASS | One line quoted exactly from the-message.md; arc, "clear voice" framing, and "modules 1 to 3, nothing sent" all appear in the folder.
+PASS | Pitch, four parts, never-say list, module 1 milestone, and 4:00 check-in all match the folder; no invented facts.

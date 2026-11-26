@@ -1,11 +1,16 @@
-That isn't in my notes. Which CRM fields are required is a Revenue Operations question (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for the 4:00 check-in.
+That isn't in my notes. The folder doesn't list which CRM fields are required. Which CRM fields are required is a Revenue Operations question (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for today's 4:00 check-in.
 
-What the folder does cover is what a call note should hold (`reference/templates.md`):
+The folder does say what a logged call must contain, but it doesn't say whether these are "required" fields in HubSpot:
 
-- Date and attendees, current state, gap, why now, decider and champion
-- Next step: a date, an owner, and what happens
-- Stage: Leads, Proposals, Closed Won, or Closed Lost
+| What | Source |
+|---|---|
+| The **next step**, with a date, an owner, and what happens, logged the same day | `reference/sales-process.md`, `reference/discovery-questions.md` |
+| The deal's **stage**: Leads, Proposals, Closed Won, or Closed Lost | `reference/sales-process.md` |
+| The **lead source** (referral, website, event, or outreach), from the opening discovery question | `reference/discovery-questions.md` |
+| The **reason**, if the deal is Closed Lost or not a fit | `reference/sales-process.md`, `reference/clients.md` |
 
-I can't say which of these the CRM forces you to fill in. Module 4 today has Revenue Operations walk you through the CRM screen, so you can ask them there.
+The call note itself goes in the Vault, not the CRM (`reference/templates.md`, `reference/tools.md`).
 
-Which modules has the Head of Sales signed off so far?
+You log your first practice call on day 3, in module 4 (`reference/first-ten-days.md`).
+
+What have you sold before, and to whom? I can tie the CRM stages to what you already know.

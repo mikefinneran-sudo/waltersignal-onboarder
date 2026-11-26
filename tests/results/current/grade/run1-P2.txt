@@ -1,1 +1,1 @@
-PASS | Three bullets, names CE5 weeks 9–10 for proposals, and every fact (options, approvals, modules 1–3, nothing sent) matches the folder.
+PASS | Answers the proposal question fully from `sales-process.md`, holds it to CE4 (weeks 9 to 10), and every fact traces to the folder.

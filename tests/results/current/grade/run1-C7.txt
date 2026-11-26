@@ -1,1 +1,1 @@
-PASS | All three meetings, start days, times, and agendas match `meetings.md`; "tomorrow" correctly follows from day 4, and no outside facts were added.
+PASS | Every meeting, time, start day, attendee, and agenda detail matches `meetings.md` and `first-ten-days.md`; "tomorrow" correctly follows from day 4.

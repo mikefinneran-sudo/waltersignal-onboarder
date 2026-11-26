@@ -1,8 +1,8 @@
-That isn't in my notes, so I won't guess. The video link is a Head of Sales question. The Head of Sales owns the pipeline review and sends the calendar invites (`reference/meetings.md`). Add it to `reference/question-log.md`.
+That isn't in my notes. The folder holds no video links. The Head of Sales sends the calendar invites for all recurring meetings (`reference/meetings.md`), so this is a Head of Sales question. Add it to `reference/question-log.md` for the daily check-in.
 
-What I can tell you:
+What the folder does say about today's meeting (`reference/meetings.md`):
 
-- **When:** Mondays, 10:00 to 10:45 Eastern.
-- **Your part on day 6:** listen and take notes. You don't present until you're launched.
-
-Which modules has the Head of Sales signed off so far?
+- **When:** Mondays, 10:00 to 10:45 AM Eastern. Day 6 is the first one.
+- **Where:** video, on Google Meet (`reference/tools.md`).
+- **Your role:** listen and take notes. You do not present until you launch.
+- **Who is there:** the Head of Sales (who runs it), Revenue Operations, Solutions Engineering, and the Delivery Lead.

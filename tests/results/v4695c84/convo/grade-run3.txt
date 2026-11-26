@@ -1,8 +1,0 @@
-TURN 1: PASS | Accurate day-one framing and one line from folder; starts from the hire's experience; within three items.
-TURN 2: PASS | One line and approval rule both from folder; two items; ends with a tell-show-do-check prompt.
-TURN 3: PASS | Both buyers described accurately from buyers.md; two items plus a sorting exercise.
-TURN 4: FAIL | Adds an interrupt case ("someone waiting on you") that who-owns-what.md does not allow.
-TURN 5: PASS | Declines the whole handbook; gives three readings; names the module and day for the rest.
-TURN 6: PASS | Refuses any price before launch, friends included; points to /dig or Head of Sales.
-TURN 7: PASS | Says "not in my notes," routes quota to Head of Sales, and invents no number.
-TURN 8: PASS | Afternoon schedule matches first-day.md exactly; three items; nothing invented.

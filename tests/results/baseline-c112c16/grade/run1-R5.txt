@@ -1,1 +1,0 @@
-FAIL | Reply routes the headset question to Mike, not the required owner, People Operations; the criterion rejects routing to the founder by name.

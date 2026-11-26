@@ -1,1 +1,1 @@
-FAIL | "Every line gets a source link" is not in the folder. The template only has one Sources line listing every link used.
+FAIL | Unsupported claims: "built only from public sources" and "Briefs are internal, so they do not" need Head of Sales approval; neither is in the folder.

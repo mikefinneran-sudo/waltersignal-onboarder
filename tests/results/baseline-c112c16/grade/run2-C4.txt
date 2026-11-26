@@ -1,1 +1,0 @@
-PASS | Day 4 correctly maps to Module 5; discovery steps quoted accurately from sales-process.md; no invented facts.

@@ -1,1 +1,1 @@
-PASS | States discounts belong to Founder & CEO, quotes the folder accurately, and uses only the folder's interrupt rule. No invented facts.
+PASS | States only the Founder & CEO decides discounts, routes correctly, and every fact (Founder line, Sprint credit, Slack cases) matches the folder.

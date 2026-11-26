@@ -1,1 +1,1 @@
-PASS | Gives all four Tier 3 scorecard targets from expectations.md accurately; correctly notes the unlisted targets are set by the Head of Sales at launch.
+PASS | Substantive Tier 3 scorecard and expectations match `expectations.md` and `syllabus.md`. Only ambiguity: Internal prices and discounts appear grouped under CE2.

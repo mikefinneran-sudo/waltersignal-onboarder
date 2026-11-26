@@ -1,1 +1,0 @@
-PASS | Tier 3 scorecard is reproduced accurately: same-day next step, research brief, zero unapproved sends, CE1/CE2 by day 30. Nothing added beyond the folder.

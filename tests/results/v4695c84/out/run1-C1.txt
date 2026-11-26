@@ -1,9 +1,0 @@
-Day one starts at 9:00 AM Eastern (Fort Wayne time) and ends at 4:30 PM. WalterSignal is remote-first, so it all runs on video (`reference/first-day.md`).
-
-Have ready:
-- A quiet room, a headset, a notebook, and a computer with a current browser.
-- The Friday welcome email from the Head of Sales, sent to your personal address. It has the video link and account invites. If it hasn't arrived by Friday 5:00 PM Eastern, reply to the email your offer came from.
-
-Day one is small on purpose: modules 1 to 3, and nothing sent to anyone.
-
-One question so I can build on what you know: what have you sold before, and to whom?

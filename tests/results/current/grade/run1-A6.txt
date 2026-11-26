@@ -1,1 +1,1 @@
-PASS | All facts match sales-process.md and who-owns-what.md: same-day notice to Head of Sales, CRM stages, agreement sent alone, invoice after signing, Delivery Lead.
+PASS | Hand-off steps, payment terms, routing and CE3 timing all match `sales-process.md`, `who-owns-what.md` and `syllabus.md`; no invented facts.

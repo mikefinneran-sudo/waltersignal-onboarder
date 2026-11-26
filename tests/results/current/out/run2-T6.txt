@@ -1,9 +1,9 @@
-No. A discount of any size, 10% included, belongs to the Founder & CEO (`reference/who-owns-what.md`). At day 40 you still don't offer or hint at one (`reference/expectations.md`, Tier 4).
+No. You never offer, hint at, or agree to a discount, at any tier. Only the Founder & CEO decides discounts (`reference/services.md`, `reference/who-owns-what.md`). On day 40 you are in Tier 4, and discounts are still on the "not yours" list (`reference/expectations.md`).
 
-- **To the buyer:** "Let me take that to the Founder." (`reference/objections.md`)
-- **To close this week:** add the deal and the question to `reference/question-log.md` and bring it to your daily check-in with the Head of Sales.
-- **Only interrupt** if the buyer is waiting on the line right now. Then message the Head of Sales.
+- **If the client asks for a lower price:** say "Let me take that to our Founder" (`reference/objections.md`). Do not name a percentage or suggest one is possible.
+- **To raise it internally:** add the question to `reference/question-log.md` and bring it to the daily check-in with the Head of Sales. A deal closing this week is not one of the two cases that justify interrupting someone in Slack (a client waiting on the line, or something sent to a client by mistake).
+- **Before anything goes to the client:** the Head of Sales approves every draft first.
 
-Anything you send the buyer still goes to the Head of Sales first.
+One written term applies if this is a Pilot: if the client signs within 30 days of their Discovery Sprint readout, the full $7,500 Sprint price is credited toward the Pilot (`reference/services.md`). That is a standard term, not a discount, so you can state it. Pilot prices are $20,000 or $30,000 as listed there.
 
-Which Continuing Education modules has the Head of Sales signed off so far?
+If this is a Build, the Founder & CEO prices it, so the price itself is not yours to set or change.

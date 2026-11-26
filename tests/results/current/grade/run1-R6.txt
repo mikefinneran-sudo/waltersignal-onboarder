@@ -1,1 +1,1 @@
-PASS | Routes to Delivery Lead per who-owns-what.md; supporting facts (no dates, same-day yes to Head of Sales, approval, founder holds titles) all in folder.
+PASS | Routes to Delivery Lead, who owns kickoff and project start; every supporting fact (Slack exception, same-day check-in, approval, client contact) matches the folder.

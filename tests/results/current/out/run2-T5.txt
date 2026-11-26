@@ -1,10 +1,5 @@
-That isn't in my notes, so I won't guess.
+That isn't in my notes. The PTO policy belongs to People Operations, which owns time off, pay, benefits, hours, and other workplace policy (`reference/who-owns-what.md`).
 
-PTO is a People Operations question (`reference/who-owns-what.md`). Add it to `reference/question-log.md` and bring it to your 4:00 check-in with the Head of Sales.
+Add it to `reference/question-log.md` and bring it to the 4:00 PM Eastern check-in with the Head of Sales.
 
-Two quick questions so I can pace your day:
-
-1. What have you sold before, and to whom?
-2. Is your access (email, CRM, client folders, Linear) working yet?
-
-Then we start with module 1, the one line everything here comes back to.
+Two questions so I can build on what you know: what have you sold before, and to whom?

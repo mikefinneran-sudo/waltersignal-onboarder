@@ -1,9 +1,12 @@
-That isn't in my notes. No phone numbers are in `reference/`, so I won't guess.
+That isn't in my notes. Phone numbers are held by People Operations (team directory and contact details, `reference/who-owns-what.md`). Add it to `reference/question-log.md` for the daily check-in.
 
-Mike holds the Head of Sales title today, and he is your manager.
+Here is what the folder does give you for reaching the Head of Sales on day 1:
 
-- **Not urgent:** add the question to `reference/question-log.md` and bring it to the 4:00 check-in.
-- **Urgent:** I can only point you to two cases, a buyer waiting on the line, or something sent to a buyer by mistake. Then message the Head of Sales right away.
-- **Video link failed at 9:00:** email the Head of Sales at the address in your welcome email (`reference/first-day.md`).
+- **Welcome call:** 9:00 AM Eastern on Google Meet. The link came in the Head of Sales's email to your personal address (`reference/first-ten-days.md`).
+- **If the video link fails:** email the Head of Sales at the address in that welcome email.
+- **Slack:** everyone is in Slack under their title, so you can message the Head of Sales there once Revenue Operations has your account working (`reference/who-owns-what.md`).
+- **Daily check-in:** 4:00 PM Eastern, where your question list gets answered (`reference/meetings.md`).
 
-What is the call about? If it's a day-one question, I may be able to answer it.
+Phoning is only for the two urgent cases: a client is waiting on the line, or something went to a client by mistake. Neither can happen on day 1, since you send nothing to anyone today.
+
+What have you sold before, and to whom?

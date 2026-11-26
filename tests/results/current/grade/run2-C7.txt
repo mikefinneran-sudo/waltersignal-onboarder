@@ -1,1 +1,1 @@
-PASS | All three meetings, start days, times, and agendas match `reference/meetings.md`. "Tomorrow (Friday)" follows from day 5 being the first Friday.
+PASS | Meetings, times, start days, attendees, and agendas all match `meetings.md`. The missing-invite advice follows the folder's default check-in route.

@@ -1,11 +1,17 @@
-Show them the Freebies Fireworks build (`reference/case-study.md`). Three things to do:
+Show them the story closest to their industry or problem. `reference/case-study.md` has two, and `reference/objections.md` ("Do you have results?") says to tell the closest one with that client's numbers, as that client's result.
 
-- **Say it as:** "a live build you can open and check." It is not a published case study, so don't call it one.
-- **Send them to** waltersignal.io/dig, where the live site is listed, so they can open the store themselves.
-- **Make one point:** it was built around how that business works, and the owner runs it and owns it.
+| If the prospect is... | Tell | Their numbers |
+|---|---|---|
+| Field service or a similar operation with slow quotes, whiteboard scheduling, or jobs typed twice | **Brennan Mechanical**, a 38-person HVAC and plumbing contractor | Median time to send a quote fell from two business days to four hours during the Pilot. After the Build, finished jobs stopped being typed twice. |
+| Multi-location healthcare, or staff tied up in repetitive manual checks | **Harbor Dental Group**, a four-office group with about 60 staff | Staff time per insurance check fell from about 12 minutes to about 3. |
 
-Never quote sales, traffic, or time-saved numbers. None are published. Don't say what the client paid.
+- **Brennan** shows all three phases: a 2-week Sprint, a 7-week Pilot, and a 5-month Build. Point out that the Sprint told them to leave their accounting software alone. It shows that we recommend less when less is right.
+- **Harbor** shows a client who stopped after the Pilot, kept it running on the Essentials Support Plan, and owns everything built so far. Use it to show that each phase stands on its own.
 
-Any message to the prospect goes to the Head of Sales first.
+**Rules for telling it**
+- Tell it as the client's result. Never say or imply the prospect will get the same number (`reference/the-message.md`, "Never Say This").
+- **Do not say Brennan's $140,000 Build price.** Build prices are Internal and never said to a client (`reference/services.md`).
+- Sprint ($7,500) and Pilot prices are Quotable only after the Launch Gate. If the Head of Sales has not said "launched," quote no price.
+- The folder has no client-facing handout or deck. If you want to send anything written, such as a summary of the story, draft it and get the Head of Sales to approve it before it goes.
 
-Try it: tell me how you'd answer "Do you have results?" in two sentences.
+What industry is the prospect in, and what problem did they describe? I can help you pick between the two.

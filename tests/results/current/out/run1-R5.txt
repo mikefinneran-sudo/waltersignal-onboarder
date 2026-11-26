@@ -1,12 +1,5 @@
-That isn't in my notes, so I won't guess.
+That isn't in my notes. Whether a headset can be expensed is a policy question, and the folder only says that equipment and home-office setup belong to **People Operations** (`reference/who-owns-what.md`).
 
-Expenses are a **People Operations** question. `reference/who-owns-what.md` lists "Can I expense a headset?" under that title.
+Add it to `reference/question-log.md` and bring it to the 4:00 check-in. If you need to ask People Operations directly, they are in Slack under their title.
 
-Add it to `reference/question-log.md` and bring it to the end-of-day check-in. It isn't an interrupt case.
-
-Since it's day 3, a quick check so I can pace you:
-
-1. Which modules has the Head of Sales signed off so far?
-2. What have you sold before?
-
-Module 5, The Discovery Call, starts today.
+This is not one of the two cases that justify interrupting the Head of Sales (a client waiting on the line, or something sent to a client by mistake), so it waits for the check-in.

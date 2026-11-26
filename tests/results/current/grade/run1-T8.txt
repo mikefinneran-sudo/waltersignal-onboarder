@@ -1,1 +1,1 @@
-PASS | Says not in notes, routes both to People Operations (workplace policy), logs for the 4:00 check-in; remote, video, and 9:00–4:30 facts match first-day.md.
+PASS | Dress code flagged "isn't in my notes," routed to People Operations; parking, remote, Meet, 9:00, and 4:00 facts all match the folder.

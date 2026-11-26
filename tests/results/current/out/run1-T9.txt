@@ -1,13 +1,9 @@
-BananaForce has no public price, so I can't give you a number (`reference/offers.md`). The Founder & CEO quotes it after a conversation.
+That isn't in my notes, so I can't say yes or no. What our software can connect to or be built on is a Solutions Engineering question (`reference/who-owns-what.md`). I won't guess at what a client's tools allow.
 
-What you can say to the prospect:
-- It's an operations platform (CRM, quoting, scheduling, inventory, the books).
-- It's sold on a one-time license, not a per-seat subscription.
-- It's in early access.
+1. **Add it to `reference/question-log.md`** for the daily check-in. Include what the prospect wants to do with Salesforce, since that is what Solutions Engineering will need.
+2. **Tell the prospect you will get a straight answer from our Solutions Engineering lead**, as in `reference/objections.md`. Don't say we can or can't.
+3. **Get the Head of Sales to approve any follow-up email** before it goes out.
 
-Next steps:
-1. Tell the prospect: "The Founder quotes after a short conversation, so the number fits your business."
-2. Ask the three qualifying questions: why this, why now, why us (`reference/buyers.md`).
-3. Tell the Head of Sales today, and run any reply past them before it goes out.
+Interrupt the Head of Sales in Slack only if the prospect is waiting on the line right now (`reference/who-owns-what.md`).
 
-Whether the four ownership terms apply to BananaForce isn't in my notes. Add that to `reference/question-log.md` for the Founder & CEO. Products are module CE3, weeks 5 to 6, so you aren't expected to go deep yet.
+Once Solutions Engineering confirms, the number of tools a Pilot connects affects its price. It's $20,000 for up to two existing tools, and $30,000 for three or more or an AI step (`reference/services.md`). Scoping a Pilot is CE2, weeks 5 to 6, done with Solutions Engineering (`reference/syllabus.md`).

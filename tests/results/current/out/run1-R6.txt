@@ -1,9 +1,10 @@
-The **Delivery Lead** owns that one. Kickoff, project status, and go-live are all theirs (`reference/who-owns-what.md`).
+**The Delivery Lead answers.** The Delivery Lead owns everything after signing, including kickoff and when the project starts (`reference/who-owns-what.md`, `reference/sales-process.md`).
 
-At day 50, here is what you do:
+What to do:
 
-- **Don't promise a date.** Dates come from Solutions Engineering after scoping, never from you (`reference/the-message.md`).
-- **Tell the Head of Sales** the buyer said yes, if you haven't already. That happens the same day (`reference/sales-process.md`).
-- **Get the client an answer.** Tell them you're checking with the person who runs kickoff, and add the question to your list. Anything you send them goes to the Head of Sales first.
+1. **Give the client no date.** The folder has no start date, and you never promise one (`reference/the-message.md`). You can tell them the Delivery Lead runs the kickoff.
+2. **Add the question to `reference/question-log.md`** and bring it to the daily check-in. If the client is on the line right now, message the Head of Sales in Slack right away. That is one of the two cases that justify interrupting.
+3. **Tell the Head of Sales about the signing** at the daily check-in if you haven't yet (`reference/sales-process.md`).
+4. **Get the Head of Sales's approval** before you send the client anything in writing.
 
-Today the founder holds the Delivery Lead title, but ask by title anyway.
+You remain the client's contact for anything new they want to buy (`reference/sales-process.md`).

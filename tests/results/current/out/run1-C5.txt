@@ -1,11 +1,35 @@
-A good brief is one page, written before every call (`reference/templates.md`). Every line gets a source link. On day 5, focus on three lines:
+A good research brief is one page, written before the call, and built only from public sources. The template and a filled example are in `reference/templates.md`.
 
-- **Which buyer, and why.** One sentence. Example: "1. Owner posts about growth and hiring; this is a workflow question, not a website."
-- **Why-now signals.** Hiring, a new location, a season coming.
-- **Three questions** you'll ask, picked from `reference/discovery-questions.md`.
+**The template**
 
-The template has the other lines and a full filled example.
+| Field | What goes in it |
+|---|---|
+| Business | Name, town, what they do, how many people |
+| Fit | Why it fits (`reference/clients.md`), or why it may not |
+| Who decides | The owner-operator's name, if public |
+| Likely champion | The office manager or equivalent, if public |
+| What they use now | Tools visible on their website or job posts |
+| Why-now signals | New location, hiring, reviews, a season coming |
+| Three questions | The first three you will ask, from `reference/discovery-questions.md` |
+| Sources | Every link you used |
 
-Module 5's milestone is three briefs on leads the Head of Sales assigns.
+**What the example shows** (Example Heating & Air, a made-up practice business)
 
-Try it: draft one brief and tell me which buyer you picked and why. Also, which modules are signed off so far, and what have you sold before?
+- **Fit** gives a reason, not just "good": growing, hiring, and the job post asks for spreadsheet skills.
+- **Names** come from public pages: the owner from the About page, the likely champion from a job post for a second dispatcher.
+- **Tools** come from what is visible: an online booking widget on the site, and "spreadsheet skills" in a job post.
+- **Why now** is specific: hiring a second dispatcher, and heating season starting.
+- **The three questions** are picked by number from the question bank (#4, #6, #12), each matched to what the research turned up.
+- **Sources** are listed: company website, job post, Google Business Profile.
+
+**Where it goes:** save each brief in the client's folder in the Vault (`reference/second-brain.md`), under its CRM stage.
+
+**Your plan this week** (`reference/first-ten-days.md`)
+
+- Brief 1 of 3 was due on day 4. Brief 2 is today's goal, and you review it in your first weekly 1:1 with the Head of Sales (Friday, 2:00 to 2:30 Eastern).
+- Brief 3 is due on day 6.
+- Module 5 is signed off by the Head of Sales after your practice call on day 7.
+
+Anything you send to a lead or client goes to the Head of Sales first. Briefs are internal, so they do not.
+
+What have you sold before, and to whom? I can point you to the closest case study for your practice leads.

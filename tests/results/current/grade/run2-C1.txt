@@ -1,1 +1,1 @@
-PASS | Start time, video format, what to have ready, and Friday welcome-email fallback all match `reference/first-day.md`; no invented facts.
+PASS | Every fact matches first-ten-days.md: 9:00 AM Eastern welcome call, Friday email and 5 PM fallback, ready list. Working hours correctly routed to People Operations.

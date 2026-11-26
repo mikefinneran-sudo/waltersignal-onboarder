@@ -1,6 +1,11 @@
-That's a Delivery Lead question. The Delivery Lead owns everything after signing: kickoff, project status, and go-live (`reference/who-owns-what.md`).
+**The Delivery Lead.** Everything after signing (kickoff, project status, go-live) belongs to that title, and "When does a signed client's project start?" is the example question listed for it (`reference/who-owns-what.md`).
 
-- **To the client:** don't promise a date. Say you'll get them a straight answer from the Delivery Lead.
-- **Then:** tell the Head of Sales the same day, so the handoff is clean. Anything you send the client in writing goes to the Head of Sales first.
+What to do:
 
-Today the founder holds that title, but ask by title anyway.
+- **Don't give the client a date.** Never promise one. Dates come from the owning title (`reference/the-message.md`).
+- **Tell the client** the Delivery Lead runs the kickoff and will be in touch about the start (`reference/sales-process.md`).
+- **If the client is waiting on the line** for an answer, that is one of the two cases where you message the Head of Sales in Slack right away (`reference/who-owns-what.md`).
+- **Check the CRM.** If the signed agreement is back, the deal should be in Closed Won, and the Head of Sales should have heard about the yes at the daily check-in (`reference/sales-process.md`).
+- **Approval:** anything you send the client about this goes to the Head of Sales first.
+
+You stay the client's contact for anything new they want to buy (`reference/sales-process.md`).

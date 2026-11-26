@@ -1,9 +1,0 @@
-Your CRM login is a Revenue Operations question. That title owns the CRM and tool access (`reference/who-owns-what.md`).
-
-- Add it to `reference/question-log.md` for the end-of-day check-in.
-- I don't know login details, so I can't help with the login itself.
-- Today, Mike holds the Revenue Operations title too.
-
-Working access is the module 4 milestone (`reference/syllabus.md`), so this is the right thing to raise.
-
-Meanwhile, you can read `tools.md` and `who-owns-what.md`. Were modules 1 to 3 signed off yesterday?

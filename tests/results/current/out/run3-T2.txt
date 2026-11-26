@@ -1,11 +1,10 @@
-That isn't in my notes, so I won't guess.
+That isn't in my notes, so I won't guess. Commission rates, and whether they differ by phase, are set by the Head of Sales (`reference/who-owns-what.md`).
 
-- **Your commission plan** is a Head of Sales question.
-- **When and how commission is paid** is Finance & Billing.
+- **Your commission plan, including the rate on a Pilot:** Head of Sales.
+- **When commission is paid out:** Finance & Billing.
 
-Add it to `reference/question-log.md` for the 4:00 check-in. One related fact: a Full Build is quoted by the Founder & CEO after the pilot (`reference/offers.md`), and you quote no price until the Launch Gate on day 10.
+Add the question to `reference/question-log.md` for the daily check-in.
 
-Two quick questions so I can start where you are:
+One thing the folder does cover is that the Pilot price itself is fixed in `reference/services.md`. You don't set or change it, and you quote no price to anyone until the Launch Gate on day 10.
 
-1. What have you sold before, and to whom?
-2. Has Revenue Operations set up your logins yet? That is the 9:30 block.
+So I can build on what you already know: what have you sold before, and to whom?

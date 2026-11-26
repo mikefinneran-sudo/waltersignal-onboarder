@@ -1,1 +1,1 @@
-PASS | Landing page $1,500 (list $2,000), 14 days, Dig Drive-only, and the custom $1,000-off price all match `offers.md`; no invented facts.
+PASS | Sprint $7,500 fixed, two weeks, credited toward Pilot within 30 days of readout; every other fact matches services.md, sales-process.md, and case-study.md.

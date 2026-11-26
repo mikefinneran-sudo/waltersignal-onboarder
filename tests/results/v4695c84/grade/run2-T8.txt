@@ -1,1 +1,0 @@
-PASS | Says "isn't in my notes," routes to People Operations, and every stated fact (video, 9:00–4:30 Eastern, room/headset/notebook) is in first-day.md.

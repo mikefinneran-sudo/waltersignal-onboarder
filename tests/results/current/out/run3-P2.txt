@@ -1,14 +1,23 @@
-You aren't expected to write one yet. Proposals are Continuing Education module CE5, weeks 9 to 10 (`reference/syllabus.md`). Today is modules 1 to 3, and nothing goes out.
+Writing proposals is Continuing Education CE4, in weeks 9 to 10, so it is not expected of you on day 1. Here is how it works (`reference/sales-process.md`).
 
-The short version, from `reference/sales-process.md`:
+**What a proposal is:** the written offer for the next phase.
 
-- Every proposal offers three options: Good, Better, Best, in plain client language.
-- The Founder & CEO sets the prices.
-- The Head of Sales approves it before it is sent.
+| Type | Format | Price |
+|---|---|---|
+| Discovery Sprint | One page | Fixed $7,500 |
+| Pilot and Build | Three options: Good, Better, Best | Pilot prices come from `reference/services.md`. The Founder & CEO prices every Build. |
 
-Two questions so I can build on what you know:
+- **Good, Better, Best:** each step up adds real scope, such as another workflow, another connected tool, or a Support Plan. Best is the option you recommend.
+- **Language:** write it in the client's words, not technical language.
+- **Approval:** the Head of Sales approves every proposal before it is sent.
+- **CRM:** the deal moves from Leads to Proposals when the proposal is sent.
+- **Google Docs:** proposals that go to a client live there, once approved (`reference/tools.md`).
+- **CE4 milestone:** you draft a Good, Better, Best proposal for a real deal. The Head of Sales approves it and the Founder & CEO prices it (`reference/syllabus.md`).
 
-1. What have you sold before, and to whom?
-2. Has Head of Sales signed off any modules yet?
+A proposal template or layout isn't in my notes. `reference/templates.md` has only the research brief, call note, and follow-up email. Add it to `reference/question-log.md` for the Head of Sales at the daily check-in.
 
-Then we start module 1, the one line everything here comes back to.
+Until the Launch Gate on day 10, you quote no price to anyone, and nothing goes to a client without the Head of Sales approving it first.
+
+Today's goals are the welcome call, your accounts, module 1 (`reference/the-message.md`), and starting module 2 (`reference/clients.md`).
+
+What have you sold before, and to whom?

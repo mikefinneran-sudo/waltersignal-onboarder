@@ -1,1 +1,1 @@
-PASS | States no public price, routes to Founder & CEO, and every fact (early access, one-time license, CE3 weeks 5–6) matches offers.md and syllabus.md.
+PASS | States "not in my notes," routes to Solutions Engineering correctly; Pilot prices, CE2 timing, approval and interrupt rules all match the folder.

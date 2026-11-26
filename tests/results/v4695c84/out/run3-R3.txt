@@ -1,7 +1,0 @@
-That is Legal & Contracts (`reference/who-owns-what.md`). They own agreement wording and changes to terms.
-
-- **To the client:** acknowledge the request and promise nothing. Contract terms are not yours at any tier, including day 40 (`reference/expectations.md`).
-- **On your side:** tell the Head of Sales the same day, and log the request in the CRM.
-- **Before you reply:** anything you send the client goes to the Head of Sales first.
-
-Today the founder holds that title, but ask by title anyway. Add this to `reference/question-log.md` for the end-of-day check-in. Only interrupt the Head of Sales if the client is waiting on the line right now.

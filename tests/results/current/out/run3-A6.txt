@@ -1,7 +1,19 @@
-Congratulations. That is in `reference/sales-process.md`, "After a Yes":
+Congratulations. Here is the sequence (`reference/sales-process.md`, "After a Yes"):
 
-1. **Tell the Head of Sales today.** Also log the next step in the CRM the same day.
-2. **Legal & Contracts sends the agreement.** It goes alone, with nothing else attached. Send the client nothing yourself without the Head of Sales approving it first.
-3. **Finance & Billing sends the deposit invoice**, but only after the signed agreement comes back. Payment is 50% at signing. The deal moves to Closed Won when the signed agreement is returned, not before.
+1. **Tell the Head of Sales today**, at the daily check-in (`reference/meetings.md`). Save your call note in the client's Vault folder and log the next step in the CRM the same day (`reference/templates.md`).
+2. **Legal & Contracts sends the agreement.** It goes on its own, with nothing else attached. You do not send it.
+3. **When the signed agreement comes back, move the deal to Closed Won** in the CRM and move the client's Vault folder to match. Until then the deal stays where it is. Finance & Billing then sends the first invoice.
+4. **The Delivery Lead runs the kickoff.** You stay the client's contact for anything new they want to buy.
 
-If the client asks when the project starts, that is a Delivery Lead question. Add it to `reference/question-log.md`. Don't promise a date.
+What the client pays depends on the phase they said yes to:
+
+| Phase | When the client pays |
+|---|---|
+| Discovery Sprint | 100% at signing |
+| Pilot | 50% at signing, 50% at go-live |
+| Build | 50% at signing, the balance billed monthly over the Build |
+| Support Plan | Monthly, starting the month after go-live |
+
+- **Client messages:** anything you write to the client, even a thank-you, goes to the Head of Sales for approval first.
+- **Not in my notes:** exactly how Legal & Contracts is told to send the agreement. Ask the Head of Sales at the check-in and add it to `reference/question-log.md`.
+- **Held for later:** Support Plans and the full hand-off from Closed Won to kickoff are Continuing Education CE3, weeks 7 to 8 (`reference/syllabus.md`). They are not expected of you yet.

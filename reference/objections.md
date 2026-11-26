@@ -1,42 +1,43 @@
 # Objections
 
 Each objection has what usually sits underneath it, what to say, and when to hand it to someone
-else. Say less than you want to. The simplest true answer wins.
+else. The simplest true answer wins.
 
 ## "AI Is All Hype."
 
 - **Underneath:** they have been sold to, and burned.
-- **Say:** "Agreed, a lot of it is. The hardest part of AI isn't the technology. It's knowing
-  what to ignore. That's the first thing we'd do for you."
+- **Say:** "A lot of it is. That's why we start by mapping how your work runs, and we'll tell you
+  where AI doesn't belong. Brennan Mechanical's Sprint said to leave their accounting software
+  alone." (`case-study.md`)
 - **Then:** ask a current-state question (`discovery-questions.md`).
 
 ## "Just Send Me a Price."
 
 - **Underneath:** they want to know if it is worth their time.
-- **Buyer 2 (Dig Drive DIY):** give the public price in `offers.md` and send them to
-  waltersignal.io/dig.
-- **Buyer 1:** "The Founder quotes after a short conversation, because every build fits the
-  business. Can I ask three questions so the number means something?"
-- **Never:** guess a range.
+- **Before launch:** "Let me get you the right person for that," and bring in the Head of Sales.
+  You quote no price before the Launch Gate.
+- **After launch:** "The first step is a two-week Discovery Sprint at a fixed $7,500, and it's
+  credited toward the Pilot if you go ahead within 30 days." (`services.md`)
+- **Never:** guess a Build price or a range. The Founder & CEO prices every Build.
 
 ## "We Already Pay for Software."
 
 - **Underneath:** they fear another monthly bill.
-- **Say:** the ownership terms in `offers.md`: no monthly fee for the software, no per-user fees,
-  five years of updates in the agreement, and they own it.
+- **Say:** "What we build, you own: no license fees and no per-user fees. A Support Plan after
+  go-live is optional and month to month." (`services.md`)
 - **Then:** "Which of the tools you pay for does anyone actually open?"
 
 ## "What Happens if You Go Away?"
 
 - **Underneath:** a small vendor feels risky.
-- **Say:** "You own the domain, the code, and the data. You can hand the code to another
-  developer." (`offers.md`)
+- **Say:** "The code, the data, and every account are in your name. Another developer can pick
+  it up." (`services.md`)
 
 ## "Can You Do It Cheaper?"
 
 - **Underneath:** price anchoring, or a real budget limit.
-- **Say:** "Let me take that to the Founder." Never offer or hint at a discount.
-- **Route:** Founder & CEO. Discounts are only given in exchange for something real.
+- **Say:** "Let me take that to our Founder." Never offer or hint at a discount.
+- **Route:** Founder & CEO.
 
 ## "We Need to Think About It."
 
@@ -47,8 +48,9 @@ else. Say less than you want to. The simplest true answer wins.
 ## "Do You Have Results?"
 
 - **Underneath:** they want proof.
-- **Say:** "Here's a live build you can open and check." Use `case-study.md`.
-- **Never:** quote a sales, traffic, or time-saved number. None are published.
+- **Say:** tell the closest story in `case-study.md`, with that client's numbers, as that
+  client's result.
+- **Never:** promise the prospect the same number.
 
 ## "Is Our Data Safe? Where Does It Run?"
 
@@ -58,6 +60,6 @@ else. Say less than you want to. The simplest true answer wins.
 
 ## "How Long Will It Take?"
 
-- **Say:** the Signal Audit takes 10 business days and an Integration Pilot 30 days
-  (`offers.md`). A Full Build is scoped after the pilot.
+- **Say:** the Discovery Sprint takes 2 weeks and a Pilot 6 to 8 weeks (`services.md`). A Build
+  is scoped after the Pilot, usually 3 to 6 months.
 - **Never:** promise a date. **Route:** Solutions Engineering.

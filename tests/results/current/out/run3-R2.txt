@@ -1,10 +1,7 @@
-That's a Revenue Operations question. They own the CRM and tool access (`reference/who-owns-what.md`). Today the founder holds that title, but ask it by title anyway.
+Revenue Operations owns the CRM, tool access, and logins (`reference/who-owns-what.md`). `reference/first-ten-days.md` says the same for any account that doesn't work.
 
-- Add it to `reference/question-log.md`: "CRM login doesn't work. Owner: Revenue Operations."
-- Bring it to today's check-in with the Head of Sales.
+- **Contact them by title in Slack.** Everyone is in Slack under their title.
+- **Don't treat it as urgent.** Only two cases justify interrupting the Head of Sales: a client waiting on the line, or something sent to a client by mistake. A login problem is neither.
+- **Raise it at the 4:00 PM Eastern check-in** if it isn't fixed by then. Every account working was a Day 1 goal, so the Head of Sales should know. Add it to your question list (`reference/question-log.md`).
 
-I can't help with logins or passwords. I only know which tools exist.
-
-Working access is part of the module 4 milestone, so it is the first thing to settle today (`reference/syllabus.md`).
-
-While you wait, which modules has the Head of Sales signed off so far, and what have you sold before?
+The CRM is a tool you need for module 4 on Day 3, when Revenue Operations walks you through it, so it's worth getting fixed today.

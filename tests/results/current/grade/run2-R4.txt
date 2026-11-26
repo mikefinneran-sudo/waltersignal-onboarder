@@ -1,1 +1,1 @@
-PASS | Routes payout timing to Finance & Billing and the plan to Head of Sales; all facts match the folder, nothing invented.
+PASS | Routes payout timing to Finance & Billing and the plan to Head of Sales; the 4:15 check-in and the two interrupt cases match the folder.

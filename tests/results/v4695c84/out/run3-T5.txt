@@ -1,5 +1,0 @@
-That isn't in my notes, so I won't guess. PTO is a People Operations question (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for your end-of-day check-in.
-
-Since it's day 1, your plan is modules 1 to 3, and nothing goes out to anyone (`reference/first-day.md`).
-
-What have you sold before, and to whom? I'll build from that.

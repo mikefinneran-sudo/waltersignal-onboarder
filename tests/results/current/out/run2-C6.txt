@@ -1,11 +1,27 @@
-At day 12 you are in Tier 3, days 11 to 30 (`reference/expectations.md`). Three targets to start:
+On day 12 you are in Tier 3 (days 11 to 30, in production, done together). Your scorecard is in `reference/expectations.md`:
 
-- Every call ends with a next step logged in the CRM the same day: 100%.
-- A research brief written before every call: 100%.
-- Anything sent to a buyer without Head of Sales approval: zero.
+| Scorecard item | Target |
+|---|---|
+| Calls ending with a next step logged the same day | 100% |
+| Research brief written before each call | 100% |
+| Call notes saved in the Vault the same day | 100% |
+| Anything sent to a client without approval | 0 |
+| CE1 (The Discovery Sprint in Depth) signed off | By day 30 |
 
-There is a fourth target, your Continuing Education sign-offs due by day 30. Ask me next and I'll cover it.
+The Head of Sales checks this scorecard with you in the Friday 1:1 (`reference/meetings.md`). Bring your numbers against each target.
 
-Meeting, pipeline, and revenue targets aren't in my notes. The Head of Sales sets those at launch, so add them to `reference/question-log.md` if you haven't been given them.
+**What you are expected to do at this tier:**
+- Run live discovery calls with the Head of Sales on the line.
+- Quote the Quotable prices in `reference/services.md` when a client asks.
+- Draft follow-ups for approval. The Head of Sales approves anything going to a client or prospect before it is sent.
+- Present your own deals at the Monday pipeline review. For each deal, give the stage, the next step, and its date.
 
-Has the Head of Sales said "launched" yet? Only they can confirm that.
+**What is not expected yet:**
+- Proposals (CE4, weeks 9 to 10).
+- Internal prices, which include every Build price.
+- Discounts.
+- Scoping a Pilot (CE2, weeks 5 to 6).
+
+**Not in my notes:** meeting, pipeline, and revenue targets. The Head of Sales sets those at launch, and they are not in `reference/`. Your quota and commission plan are also Head of Sales questions. If you have not been given your targets, add that to `reference/question-log.md` for the daily check-in.
+
+What have you sold before, and to whom? I can tie this to your experience.

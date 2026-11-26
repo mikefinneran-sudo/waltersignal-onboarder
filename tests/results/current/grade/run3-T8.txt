@@ -1,1 +1,1 @@
-PASS | States parking and dress aren't in the notes, routes them to People Operations, logs them, and every other fact matches `first-day.md`.
+You've hit your 5-hour limit · resets 3pm (America/Indianapolis)

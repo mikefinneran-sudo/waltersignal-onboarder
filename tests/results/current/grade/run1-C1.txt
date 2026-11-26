@@ -1,1 +1,1 @@
-FAIL | Mostly accurate from first-day.md, but "Nothing to study before Monday" is a claim the folder never makes.
+PASS | Gives the 9:00 AM Eastern welcome call, the Friday email and 5:00 PM fallback, and the items to have ready; every fact matches the folder.

@@ -1,7 +1,27 @@
-Congratulations. Here is what happens now (`reference/sales-process.md`):
+Congratulations. Here is what happens after a yes (`reference/sales-process.md`):
 
-1. **Tell the Head of Sales today.** That is your job on a yes.
-2. **Log it in the CRM today.** The deal stays in Proposals until the signed agreement comes back. Then it moves to Closed Won.
-3. **Don't send anything yourself.** Legal & Contracts sends the agreement alone. Finance & Billing sends the deposit invoice only after the signed agreement returns. Any note you draft to the client goes to the Head of Sales first.
+1. **Tell the Head of Sales today**, at the daily check-in (`reference/meetings.md`). If it can't wait for the check-in, that's still a Head of Sales question, but Slack-right-away is reserved for the two urgent cases in `reference/who-owns-what.md`.
+2. **Legal & Contracts sends the agreement.** It goes on its own, with nothing else attached. You don't write or change contract wording.
+3. **When the signed agreement comes back, move the deal to Closed Won** in the CRM. Finance & Billing then sends the first invoice.
+4. **The Delivery Lead runs the kickoff.** You stay the client's contact for anything new they want to buy.
 
-Kickoff and project start belong to the Delivery Lead. How the handoff works and what you do next isn't in my notes. Add it to `reference/question-log.md` for the check-in.
+Also do these today:
+- Log the call's next step and stage in the CRM, and save the call note in the client's Vault folder (`reference/templates.md`). When the stage changes to Closed Won, move the client's Vault folder with it (`reference/second-brain.md`).
+- Send nothing to the client until the Head of Sales approves it, including a thank-you note.
+
+**What the client pays, by phase** (`reference/sales-process.md`):
+
+| Phase | When the client pays |
+|---|---|
+| Discovery Sprint | 100% at signing |
+| Pilot | 50% at signing, 50% at go-live |
+| Build | 50% at signing, the balance billed monthly over the Build |
+| Support Plan | Monthly, starting the month after go-live |
+
+If the client asks about kickoff dates or timelines, don't promise any. Timelines before signing are Solutions Engineering, and everything after signing is the Delivery Lead.
+
+How Legal & Contracts is told to send the agreement isn't in my notes. Add it to `reference/question-log.md` and ask the Head of Sales at today's check-in.
+
+Which phase did the client say yes to? The payment terms and the next steps above depend on it.
+
+The full hand-off, from Closed Won to kickoff, is Continuing Education CE3 (weeks 7 to 8). It's not expected of you yet, so this first one is done with the Head of Sales.

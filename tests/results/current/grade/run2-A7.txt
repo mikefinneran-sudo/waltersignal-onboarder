@@ -1,1 +1,1 @@
-PASS | Meeting time, agenda, "you talk first," Tier 3 scorecard targets, and CE1/CE2 by day 30 all match meetings.md and expectations.md.
+PASS | Agenda, times, and Tier 3 scorecard all match `meetings.md` and `expectations.md`; the targets caveat is correctly sourced, and no invented facts appear.

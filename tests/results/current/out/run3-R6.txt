@@ -1,8 +1,10 @@
-The Delivery Lead owns that. Kickoff, project status, and go-live all sit with that title after signing (`reference/who-owns-what.md`).
+**The Delivery Lead.** Everything after signing (kickoff, project status, go-live) belongs to that title, and "When does a signed client's project start?" is their example question (`reference/who-owns-what.md`). The Delivery Lead runs the kickoff once the deal is Closed Won (`reference/sales-process.md`).
 
-- **Don't promise a start date.** Dates come from Solutions Engineering after scoping, never from you (`reference/the-message.md`).
-- **Tell the client** you're getting them a straight answer from the Delivery Lead. Anything you send them goes to the Head of Sales first.
-- **If they're on the line right now,** message the Head of Sales immediately. That is one of the two interrupt cases.
-- **Otherwise,** add it to `reference/question-log.md` for the check-in.
+What to do:
 
-Have you already told the Head of Sales that this buyer said yes?
+- **Don't give the client a date.** Never promise one. Dates come from the owning title, not from you (`reference/the-message.md`).
+- **Tell the client** you are getting the start date from the Delivery Lead. Anything you write to them goes to the Head of Sales for approval first.
+- **If the client is waiting on the line right now,** that is one of the two interrupt cases. Message the Head of Sales in Slack right away (`reference/who-owns-what.md`).
+- **Otherwise,** add the question to `reference/question-log.md` and bring it to the daily check-in.
+
+You remain the client's contact for anything new they want to buy. Project timing is the Delivery Lead's.

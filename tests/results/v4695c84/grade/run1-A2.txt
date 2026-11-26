@@ -1,1 +1,0 @@
-PASS | Gives the exact one line from the-message.md, plus the correct arc; every claim is supported by the folder.

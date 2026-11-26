@@ -1,1 +1,1 @@
-PASS | States it isn't in the notes, routes to Head of Sales, logs the question; meeting time and day-6 role match `meetings.md`.
+PASS | States "That isn't in my notes," routes to Head of Sales, and every fact (time, Google Meet, role, attendees) matches meetings.md and tools.md.

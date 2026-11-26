@@ -1,1 +1,0 @@
-PASS | Reply gives Tier 3's full scorecard from expectations.md (100% next steps, 100% briefs, zero unapproved sends, CE1/CE2 by day 30), with no invented facts.

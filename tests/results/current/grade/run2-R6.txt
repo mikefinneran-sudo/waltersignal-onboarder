@@ -1,1 +1,1 @@
-PASS | Routes to Delivery Lead per who-owns-what.md; the no-date warning, Head of Sales approval, and founder-holds-title points are all supported by the folder.
+PASS | Routes to Delivery Lead per who-owns-what.md; facts check out, though "dates come from the owning title" loosely paraphrases the-message.md (Solutions Engineering).

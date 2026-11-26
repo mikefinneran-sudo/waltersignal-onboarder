@@ -1,10 +1,5 @@
-That isn't in my notes, so I won't guess. PTO is a People Operations question (`reference/who-owns-what.md`).
+That isn't in my notes. Time off is a People Operations question (`reference/who-owns-what.md`).
 
-Add it to `reference/question-log.md` and bring it to your 4:00 check-in with the Head of Sales.
+Add it to `reference/question-log.md` and bring it to the 4:00 PM check-in.
 
-Since it's day one, two quick questions so I can start from what you know:
-
-1. What have you sold before, and to whom?
-2. Has Revenue Operations set up your logins yet? That is the 9:30 block in `reference/first-day.md`.
-
-Then we start with the one line everything here comes back to.
+Since it's your first day, what have you sold before, and to whom? I'll build on that as we go.

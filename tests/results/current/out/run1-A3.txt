@@ -1,13 +1,16 @@
-Since you're launched, you can say this price. It's in `reference/offers.md` and shown on waltersignal.io/dig:
+Tell them the first step is a Discovery Sprint at a fixed **$7,500**, and yes, it counts toward the next phase (`reference/services.md`).
 
-- **Landing page: $1,500** (list $2,000), live in 14 days.
-- If he wants more than a page, a **custom project** is $1,000 off, from $4,000 after the discount.
+**What to say**
+- **The Sprint:** two weeks. The client gets interviews with their team, a map of how the work runs today, a ranked list of what to fix and what to leave alone, a recommended Pilot, and a 60-minute readout with the decider.
+- **The credit:** if they sign a Pilot within 30 days of the Sprint readout, the full $7,500 is credited toward the Pilot.
+- **The Pilot:** $20,000 for one workflow connected to up to two existing tools, or $30,000 if it connects to three or more tools or includes an AI step. Both are Quotable after launch.
+- **Payment:** the Sprint is 100% at signing (`reference/sales-process.md`).
 
-These prices are only for buyers who came from the Dig Drive DIY channel, so confirm that's how he found us.
+**What not to say**
+- Don't quote a Build price or range. The Founder & CEO prices every Build.
+- Don't offer or hint at a discount. Discounts belong to the Founder & CEO.
+- Don't promise the Sprint will lead to a Pilot or to any result. A client can stop after any phase and keep what was delivered.
 
-- Send him to waltersignal.io/dig so he can see the price himself.
-- Say the ownership terms: no monthly fee, no per-user fees, five years of updates, and he owns the domain, code, and data.
-- Don't offer any discount beyond what's on the page. Discounts are a Founder & CEO call.
-- Anything you write to him goes to the Head of Sales first.
+**Proof:** if they ask for an example, Brennan Mechanical paid the $7,500 Sprint and had it credited to their Pilot (`reference/case-study.md`).
 
-Try it: what is the first question you'd ask him? Then log the call and next step in the CRM today.
+If you send a proposal or a follow-up, the Head of Sales approves the draft first. The Sprint proposal is one page at the fixed price.

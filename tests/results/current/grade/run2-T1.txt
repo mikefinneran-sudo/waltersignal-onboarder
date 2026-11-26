@@ -1,1 +1,1 @@
-PASS | States plainly it isn't in the notes, routes to Revenue Operations and People Operations, and every fact (remote-first, video, 4:00 check-in) is in the folder.
+PASS | Says there is no office Wi-Fi and it holds no passwords, routes to People Operations and Revenue Operations correctly, and every fact is in the folder.

@@ -1,5 +1,0 @@
-That isn't in my notes, so I won't guess. Whether a headset can be expensed is a **People Operations** question (`reference/who-owns-what.md`).
-
-Add it to `reference/question-log.md` and bring it to your end-of-day check-in. It isn't an interrupt case.
-
-One quick check so I can point you to the right next step: have modules 1 to 4 been signed off by the Head of Sales? Day 3 is when module 5, The Discovery Call, starts.

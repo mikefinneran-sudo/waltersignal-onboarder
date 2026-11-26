@@ -1,0 +1,7 @@
+I can't see the Vault, so I don't know what the Head of Sales wrote. I only see the `reference/` folder (`reference/second-brain.md`).
+
+- **Where to look:** pipeline review notes are in the `Meetings/` folder of the Vault. Read them yourself in Obsidian.
+- **If you can't open the Vault:** that is a Revenue Operations question, since they own Vault and Cairn access (`reference/who-owns-what.md`). Tell them in Slack.
+- **If a note is unclear:** add the question to `reference/question-log.md` and bring it to the 4:00 check-in. The Head of Sales can explain their own notes.
+
+On day 6 you were there to listen and take notes, not present (`reference/meetings.md`). Your own notes from that meeting are the other record of it.

@@ -1,1 +1,1 @@
-PASS | Routes to Legal & Contracts per who-owns-what.md; founder-holds-title, Head of Sales approval, and question log facts all match the folder.
+PASS | Routes to Legal & Contracts per who-owns-what.md; other facts check out. Logging an already-answered question is unnecessary, but invents no fact.

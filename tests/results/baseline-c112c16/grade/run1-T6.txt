@@ -1,1 +1,0 @@
-PASS | Says discounts are Mike's call and not the hire's at day 40; names Mike as owner; every fact traces to the folder.

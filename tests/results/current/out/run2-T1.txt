@@ -1,8 +1,6 @@
-That isn't in my notes, and I never hold passwords. WalterSignal is remote-first, and day one runs on video (`reference/first-day.md`), but the folder doesn't say anything about Wi-Fi.
+There is no office Wi-Fi to log into. WalterSignal is remote-first with no office, so you work from home on your own internet connection (`reference/first-ten-days.md`, `reference/who-owns-what.md`). I also never hold passwords or login details for anything.
 
-- Wi-Fi isn't listed under any title in `reference/who-owns-what.md`. Revenue Operations owns tool access and logins, and People Operations owns equipment and workplace policy.
-- Add it to `reference/question-log.md` for the 4:00 check-in with the Head of Sales.
+- **Your home connection:** if you have a question about internet or home-office setup, such as whether it is covered, that is a People Operations question. It isn't in my notes, so add it to `reference/question-log.md` for the daily check-in.
+- **Tool logins:** if you meant account access, Revenue Operations sets up every account in `reference/tools.md` on day 1, after the 9:00 AM Eastern welcome call. If one doesn't work, ask Revenue Operations.
 
-If your connection is working well enough to video in, you can carry on with today.
-
-What have you sold before, and to whom? I'll build from that.
+Your day 1 goals are in `reference/first-ten-days.md`. What have you sold before, and to whom? I'll build from there.

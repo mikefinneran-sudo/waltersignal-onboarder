@@ -1,59 +1,50 @@
-# Case Study: Freebies Fireworks
+# Case Studies
 
-A seasonal fireworks seller in Northeast Indiana, and WalterSignal's first paid engagement. Every
-fact a buyer may hear is on waltersignal.io/dig, where the live site is listed. When you use this
-story, send the buyer there so they can open the store and check it themselves.
+Two client stories. Both are fictional, written for this exercise. Tell them as the client's
+story, with the client's numbers. Never turn a client's result into a promise for a prospect
+(`the-message.md`).
 
-## The Situation
+Pick the story closest to the prospect's industry or problem. Brennan shows all three phases.
+Harbor shows a client who stopped after the Pilot, which is allowed and is part of the pitch.
 
-A fireworks business sells from several stores and seasonal tents. It sells at three kinds of
-price: retail, wholesale, and tax-exempt. Every season brings a new price list. Stock has to be
-right at every location, and the owner needs to run all of it without calling a developer.
+## Brennan Mechanical: Quotes in Hours, Not Days
 
-## What Was Built
+**The client.** A 38-person heating, cooling, and plumbing contractor serving three counties.
+Owner: the decider. Office manager: the champion.
 
-A full online store with the back office behind it. Not a brochure site.
+**The problem.** Quotes took two days because an estimator rebuilt each one from a spreadsheet
+price book and old jobs. Dispatch ran on a whiteboard. Every finished job was typed again into
+the accounting software.
 
-| Piece | What it does |
-|---|---|
-| Tiered pricing | Retail, wholesale, and tax-exempt rates set per customer account by the database |
-| Multi-location catalog | Stock held per store and tent, browsable by category, fast at scale |
-| Customer accounts | Registration, orders, and purchase history under the customer's own login |
-| Bulk re-pricing | The owner changes the season's prices across the catalog, in place |
-| Admin console | Catalog, inventory, orders, customers, locations, staff, accounting, reporting, site content |
+| Phase | What happened | How long | Price paid |
+|---|---|---|---|
+| **Discovery Sprint** | Interviews with the owner, office manager, two estimators, and a dispatcher. Ranked quoting first, dispatch second, and left the accounting software alone. | 2 weeks | $7,500, credited to the Pilot |
+| **Pilot** | A quote builder that pulls the price book and past jobs and drafts each quote with an AI step; an estimator approves every quote before it goes out. The agreed number: time from request to quote sent. | 7 weeks | $30,000 (AI step and three connected tools), less the $7,500 credit |
+| **Build** | A dispatch board, a technician phone app for job notes and photos, and an automatic hand-off of finished jobs to the accounting software. Staff trained by role. | 5 months | $140,000, in three modules |
 
-The site lists "a build like this" at **$25,000**. That is the public price of comparable work,
-not what this client paid. Never say what any client paid.
+**The result (Brennan's numbers).** Median time to send a quote fell from two business days to
+four hours during the Pilot. After the Build, finished jobs stopped being typed twice. Brennan
+now pays for the Standard Support Plan.
 
-## How It Went: Research, Validate, Build
+**What to point out.** The Sprint said to leave the accounting software alone, and that saved
+Brennan money. WalterSignal recommends less when less is right.
 
-1. **Research.** It started with how the business actually ran: price lists, locations, and the
-   wholesale and tax-exempt accounts.
-2. **Validate.** The owner saw it working on their own catalog before the rest was built.
-3. **Build.** It went live at freebiesfireworks.com, owned by the client: domain, code, and data.
+## Harbor Dental Group: A Pilot, and a Pause
 
-## How to Use It in a Call
+**The client.** A four-office dental group with about 60 staff. Operations director: the
+champion. The two dentist-owners: the deciders.
 
-- **Best for:** owners with more than one location, more than one price list, or a back office
-  living in spreadsheets.
-- **The point to make:** it was built around how this business works, and the owner runs it.
-- **Proves:** the four ownership terms in `offers.md` are real, and the work ships.
+**The problem.** Front-desk staff spent 10 to 15 minutes per patient calling insurers to check
+coverage before each appointment.
 
-## What Not to Say
+| Phase | What happened | How long | Price paid |
+|---|---|---|---|
+| **Discovery Sprint** | Shadowed the front desk at two offices. Ranked insurance checks first. | 2 weeks | $7,500, credited to the Pilot |
+| **Pilot** | Coverage checks run the night before each appointment through the insurers' online portals; an AI step summarizes the coverage and front-desk staff approve each summary. The agreed number: staff minutes per check. | 6 weeks | $20,000 (two connected tools), less the $7,500 credit |
 
-- No sales, traffic, or time-saved numbers. None are published. Never estimate them.
-- Nothing about the client beyond what is on waltersignal.io/dig.
-- WalterSignal publishes client stories only after completed Signal Audits and measured pilots
-  (waltersignal.io/work). Call this "a live build you can open and check," not a published case
-  study.
+**The result (Harbor's numbers).** Staff time per check fell from about 12 minutes to about 3.
+Harbor chose not to start a Build yet; it kept the Pilot running on the Essentials Support Plan
+and owns everything built so far.
 
-## Other Live Builds to Point To
-
-Listed on waltersignal.io/dig, with the site's price for comparable work:
-
-| Site | What it shows | A build like this |
-|---|---|---|
-| digdrivediy.com | A site that publishes channel releases on a schedule, unattended | $7,500 |
-| always-be-cleaning.com | Intake through countersigned contract | $35,000 |
-| electrotekconsultants.com | Staff back office on the firm's domain, with legacy records migrated | $40,000 |
-| joatfw.com | One page that books the work | $2,000 |
+**What to point out.** Each phase stands on its own. A client can stop after any phase and keep
+what was delivered (`services.md`).

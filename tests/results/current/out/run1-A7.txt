@@ -1,9 +1,22 @@
-Your weekly 1:1 is Fridays, 2:00 to 2:30 Eastern, and you talk first (`reference/meetings.md`). Bring three things:
+Bring four things, one for each part of the 30 minutes. The 1:1 is your meeting, and you talk first (`reference/meetings.md`). Day 12 is a Tuesday, so your next one is Friday, 2:00 to 2:30 PM Eastern.
 
-- **One win and one hard thing** from this week, a sentence each.
-- **Your Tier 3 scorecard numbers** (`reference/expectations.md`): next steps logged the same day, a research brief before each call, nothing sent without approval, and where CE1 and CE2 stand.
-- **One call or draft you want coached.**
+| Minutes | Item | You bring |
+|---|---|---|
+| 0 to 5 | One win and one thing that was hard this week | Both, in a sentence each |
+| 5 to 15 | Your scorecard for your tier | Your numbers against each target (below) |
+| 15 to 25 | One skill to practice next week | A call or draft you want coached |
+| 25 to 30 | Anything not on the question list | Whatever is on your mind |
 
-The last five minutes are open for anything not on your question list.
+**Your scorecard is Tier 3, days 11 to 30** (`reference/expectations.md`). Bring your actual numbers for each line:
 
-Which call or draft would you bring this week?
+| Scorecard line | Target |
+|---|---|
+| Calls ending with a next step logged the same day | 100% |
+| Research brief written before each call | 100% |
+| Call notes saved in the Vault the same day | 100% |
+| Anything sent to a client without approval | 0 |
+| CE1 (The Discovery Sprint in Depth) signed off | By day 30 |
+
+CE1 is scheduled for weeks 3 to 4 (`reference/syllabus.md`). Its milestone is explaining to a practice client what the Sprint delivers, why it comes first, and how the credit works. If you want to practice that, the 15 to 25 minute slot is the place.
+
+Meeting, pipeline, and revenue targets are set by the Head of Sales at launch, and they are not in my notes. If you don't have yours yet, ask the Head of Sales for them and add the question to `reference/question-log.md` for the daily check-in.

@@ -1,11 +1,21 @@
-Day 12 puts you in Tier 3, days 11 to 30 (`reference/expectations.md`). The Head of Sales checks these:
+You are in Tier 3 (days 11 to 30, in production, done together). Here is how you are measured (`reference/expectations.md`):
 
-- **Next step logged:** every call ends with one, written in the CRM the same day. Target: 100%.
-- **Research brief:** one written before each call. Target: 100%.
-- **Approval:** nothing sent to a buyer without the Head of Sales approving it first. Target: 0 misses.
+| Scorecard item | Target |
+|---|---|
+| Calls ending with a next step logged in the CRM the same day | 100% |
+| Research brief written before each call | 100% |
+| Call notes saved in the Vault the same day | 100% |
+| Anything sent to a client without Head of Sales approval | 0 |
+| CE1 (The Discovery Sprint in Depth) signed off | By day 30 |
 
-The fourth item, CE1 and CE2 signed off by day 30, is next. Ask me when you want it.
+**What you are expected to do:**
+- Run live discovery calls with the Head of Sales on the line.
+- Quote the Quotable prices in `reference/services.md` when a client asks.
+- Draft follow-ups for approval.
+- Present your own deals at the Monday pipeline review: the stage, the next step, and its date for each (`reference/meetings.md`).
 
-Meeting, pipeline, and revenue targets aren't in my notes. The Head of Sales sets them at launch, so add them to `reference/question-log.md` for the check-in.
+**What is not expected yet:** proposals, Internal prices, discounts, and scoping a Pilot.
 
-Quick check: has the Head of Sales said "launched" yet?
+You bring your numbers against these targets to the Friday 1:1, in the 5 to 15 minute block (`reference/meetings.md`).
+
+**Not in my notes:** meeting, pipeline, and revenue targets, your quota, and your commission plan. `reference/expectations.md` says the Head of Sales sets targets at launch, so ask the Head of Sales. Add them to `reference/question-log.md` for the daily check-in if you have not already.

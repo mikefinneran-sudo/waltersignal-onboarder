@@ -1,1 +1,1 @@
-PASS | Three items only, correctly defers prices (module 6), tools (module 4), discovery (module 5) with days; every fact matches the folder.
+You've hit your 5-hour limit · resets 3pm (America/Indianapolis)

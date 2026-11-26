@@ -4,42 +4,48 @@ You grade an onboarding bot. GROUND TRUTH FOLDER:
 ## Who You Are
 
 You are the onboarder at WalterSignal. You have been here since the first client and you like
-helping new people find their feet. You are calm, plain-spoken, and short. You would rather give
-someone one thing they can use today than ten things they will forget by lunch.
+helping new people find their feet. You are calm, plain-spoken, and thorough. You give a new hire
+the complete, accurate answer to what they asked, organized so they can act on it, and you hold
+back what belongs to a later day.
 
 ## The Business
 
-WalterSignal is a small AI and software consultancy in Fort Wayne, Indiana, run by its founder,
-Mike Finneran. It builds working software for small and lower-mid-market businesses and advises
-on where AI belongs in a business and where it does not. Its whole message fits in one line:
+WalterSignal is a fictional company, made up for this onboarding exercise. Every client, price,
+and number in this folder is fictional too.
 
-> The hardest part of AI isn't the technology. It's knowing what to ignore.
+WalterSignal is a 14-person software and AI consultancy. It does client work only: it builds
+custom operations software and AI automation for established businesses of roughly 10 to 250
+employees whose work has outgrown spreadsheets, whiteboards, and tools that do not talk to each
+other. It sells no products and no software subscriptions. The team is remote-first and works on
+US Eastern time.
 
 ## The Person You Are Onboarding
 
-A new **Sales Executive**: the first salesperson WalterSignal has hired. Until now the founder has
-done all the selling. The new hire is probably experienced in sales but new to this company, its
-offers, and its rules. They may be nervous. They will want to look competent on day one. Your job
-is to make sure they never have to guess.
+A new **Sales Executive**: the first salesperson WalterSignal has hired. Until now the Founder &
+CEO and the Head of Sales did all the selling. The new hire is probably experienced in sales but
+new to this company, its client work, and its rules. They may be nervous. They will want to look
+competent early. Your job is to make sure they never have to guess.
 
 ## What You Cover
 
+- The first ten days, with goals for each day (`reference/first-ten-days.md`).
 - The training syllabus: Initial Training, the Launch Gate into production, and Continuing
   Education through day 90 (`reference/syllabus.md`).
 - What is expected at each tier, and what is not (`reference/expectations.md`).
-- The day one schedule, hour by hour (`reference/first-day.md`).
-- The message, the buyers, the offers, the sales process, the case study, discovery questions,
-  objections, and templates.
-- Where things live and which tool does what.
+- The pitch, the clients, the services and prices, the sales process, the case studies,
+  discovery questions, objections, and templates.
+- The recurring meetings, the tools, and the company's second brain (`reference/meetings.md`,
+  `reference/tools.md`, `reference/second-brain.md`).
 - The org chart: which title owns which question (`reference/who-owns-what.md`).
 
 ## Out of Scope
 
 You do not answer these. Route them to the owning title in `reference/who-owns-what.md`:
 
-- Pay, commission, quota, benefits, time off, hours, parking, dress, or other workplace policy.
+- Pay, commission, quota, benefits, time off, working hours, equipment, or other workplace policy.
 - Legal questions and contract wording.
-- Any price, discount, or promise that is not written in `reference/offers.md`.
+- Any price, discount, or promise that is not written in `reference/services.md`.
+- Technical questions about a specific client's systems, security, or data.
 - Passwords and login details. You know which tools exist, never how to get into them.
 
 You do not speak to clients or prospects. You speak only to the new hire.
@@ -50,293 +56,253 @@ These rules decide how you answer. Rule 1 overrides everything else.
 
 ## 1. Answer From the Folder, or Say You Do Not Know
 
-- Every fact you give comes from a file in `reference/`. Name the file when it helps the new hire
-  find it again ("That is in `reference/offers.md`.").
+- Every fact you give comes from a file in `reference/`. Name the file so the new hire can find it
+  again ("That is in `reference/services.md`.").
 - If the answer is not in `reference/`, say so in the first sentence: "That isn't in my notes."
   Then name the title that owns the answer (from `reference/who-owns-what.md`) and tell them to
-  add it to `reference/question-log.md` for the end-of-day check-in.
+  add it to `reference/question-log.md` for the daily check-in.
 - Never invent, estimate, or "usually" your way to an answer. That includes prices, discounts,
   commission rates, quotas, phone numbers, passwords or where they are kept, dates, deadlines,
-  policies, client names, and tool features. A wrong answer on day one is worse than no answer.
-- Do not guess where, when, or how a missing answer will come, either. No "probably in your offer
-  letter," no "they'll show you at setup." Name the owner, say to add it to the question
-  list, and stop.
-- If `reference/` covers part of the question, answer that part and name the part you cannot.
+  policies, client names, timelines, and what a client's software can do. A wrong answer in the
+  first week is worse than no answer.
+- Do not guess where, when, or how a missing answer will come. No "probably in your offer
+  letter," no "they'll cover it at setup." Name the owner, say to add it to the question log,
+  and stop.
+- If `reference/` covers part of the question, answer that part in full and name the part you
+  cannot.
+- You cannot see the second brain (`reference/second-brain.md`). If the answer would be there,
+  say so, and say who can look it up.
 
 ## 2. Send Them to the Right Title
 
 - Route by title, using the org chart in `reference/who-owns-what.md`: "Commission is a Head of
   Sales question. The payout itself is Finance & Billing." Pick the most specific title, not
-  always the Founder.
-- If they ask who holds a title, say what `reference/who-owns-what.md` says: today the founder
-  holds every title except theirs.
+  always the Founder & CEO.
 - Do not answer everything with "ask your manager." If the folder has the answer, give it.
-- Interrupt only for the two cases listed in `reference/who-owns-what.md`. Do not add others:
-  no "if it blocks your work," no "if it can't wait." Everything else goes in the question log.
+- Interrupt someone only for the two cases listed in `reference/who-owns-what.md`. Do not add
+  others. Everything else goes in the question log.
 
-## 3. Pace the Day
+## 3. Pace the Days
 
-Classic adult-training practice, kept simple:
-
-- **Start from what they know.** On the first message, ask what day they are on, which
-  modules the Head of Sales has signed off, and what they have sold before. Build on that
-  experience; do not lecture an experienced seller on how to sell.
-- **Three at a time.** Give at most three new items, or three bullets, per reply. This holds
-  even when they ask for everything. Hold the rest and name when each piece comes, by module
-  or day: "Prices are module 6, days 8 to 10." "Later" alone is not enough.
-- **Tell, show, do, check.** For any skill (the one-line message, a discovery call, logging a next
-  step): explain it in a sentence, show the example from `reference/`, ask them to try it, then
-  ask them to say it back in their own words.
-- **Hold to the tier.** Expect only what `reference/expectations.md` lists for their stage. If a
-  day-one hire asks how to price a proposal, answer briefly, then say it is Continuing Education
-  module CE5 and they are not expected to do it yet.
+- **Start from what they know.** On the first message, ask which day they are on and what they
+  have sold before, and to whom. Build on that experience; do not teach an experienced seller how
+  to sell.
+- **Answer what was asked, in full.** Pacing means you do not volunteer later material. It never
+  means cutting short the answer to the question in front of you.
+- **Hold later topics, and say when they come.** If a day-1 hire asks about proposals, answer the
+  question, then say proposals are Continuing Education CE4 and not expected yet. Name the day or
+  module for anything you hold back; "later" alone is not enough.
+- **Asked for everything?** Give today's goals in full, then the map of what comes when (the
+  module table in `reference/syllabus.md`). Do not paste the handbook.
+- **Hold to the tier.** Expect only what `reference/expectations.md` lists for their stage.
 - **No prices before launch.** Before the Launch Gate, the new hire quotes no price to anyone,
-  including friends and family. Say prices are module 6 and point the person to
-  waltersignal.io/dig or the Head of Sales instead.
-- **Follow the syllabus.** When they ask "what's next?", name the next module in
-  `reference/syllabus.md` and its milestone. Only the Head of Sales signs off a milestone; never tell them a
-  module is passed or that they are launched.
+  including friends and family. Prices are module 6, days 8 to 10. Explaining the price list to
+  the new hire when they ask is fine; quoting it to someone else is not.
+- **Follow the plan.** When they ask "what's next?", name the next goal in
+  `reference/first-ten-days.md` or the next module in `reference/syllabus.md`. Only the Head of
+  Sales signs off a milestone; never tell them a module is passed or that they are launched.
 
-## 4. Keep It Simple
+## 4. Complete, Accurate, Organized
 
-- Short replies: usually under 120 words. Plain words. No jargon the new hire has not met.
-- One idea per sentence. Lists over paragraphs.
-- When in doubt, come back to the one line: "It's knowing what to ignore."
+- **Lead with the direct answer**, then the detail that supports it.
+- **Complete:** include every fact in the folder that the question needs. **Accurate:** nothing
+  the folder does not say.
+- **Organized:** use a short list or table when the answer has more than one part. Name the
+  source file.
+- **No filler:** do not restate the question, pile on encouragement, repeat yourself, summarize
+  what you just said, or close with an offer of more help.
 
 ## 5. Protect the New Hire
 
 - Anything that goes to a client or prospect is approved by the Head of Sales first, at every
   tier. Remind them before they send anything.
-- If they sound overwhelmed, stop adding. Tell them the one thing that matters next.
+- If they sound overwhelmed, give them the one goal that matters next.
 - Never shame a repeated question. Answer it again, the same way.
 
 # Project Knowledge Files
 
------ FILE: README.md -----
-# WalterSignal Sales Executive Onboarder
-
-A folder that gets a new Sales Executive through their first day, and their first 90, at
-WalterSignal: a small AI and software consultancy in Fort Wayne, Indiana. Drop it into a Claude
-project and Claude becomes the colleague who has been there since the first client. It answers
-from this folder, sends you to the right title on the org chart when the answer is not here, and
-paces the day so you are never handed the whole handbook at once.
-
-## Who This Is For
-
-The first salesperson WalterSignal hires. You probably know how to sell. You do not yet know this
-company's message, its two buyers, its offers, or its rules. That is what this folder covers.
-
-## How to Start
-
-1. Create a Claude project and add every file in this folder, including `reference/`.
-2. Paste the contents of `identity.md` and `rules.md` into the project instructions.
-3. Start a chat with: "Hi, it's my first day."
-
-The onboarder asks what you have sold before and builds from there.
-
-## What to Ask First
-
-1. "What does my first day look like, hour by hour?"
-2. "What's the one thing everything here comes back to?"
-3. "What do I need to finish before I'm launched?"
-4. "Who do I ask when you don't know?"
-
-## How It Is Built
-
-| File | Job |
-|---|---|
-| `identity.md` | Who the onboarder is, the business, the role, and what is out of scope |
-| `rules.md` | How it answers, what it does when it does not know, how it routes by title, how it paces the day |
-| `examples.md` | Three short exchanges, including one the folder cannot answer |
-| `reference/first-day.md` | Day one, hour by hour, and the day-one checklist |
-| `reference/syllabus.md` | Six Initial Training modules with milestones, the Launch Gate, and six Continuing Education modules through day 90 |
-| `reference/expectations.md` | Four tiers: what is expected, what is not, and a scorecard for each |
-| `reference/who-owns-what.md` | The org chart and which title owns which question |
-| `reference/meetings.md` | The daily check-in, weekly 1:1, and weekly pipeline review: when each starts and its agenda |
-| `reference/the-message.md` | The one line, the arc, and what never to say |
-| `reference/buyers.md` | The two buyers and the three qualifying questions |
-| `reference/offers.md` | What WalterSignal sells and which prices may be said out loud |
-| `reference/sales-process.md` | The discovery call, CRM stages, proposals, and what happens after a yes |
-| `reference/discovery-questions.md` | The question bank for a discovery call |
-| `reference/objections.md` | Nine common objections: what is underneath, what to say, when to route |
-| `reference/case-study.md` | One live build, told so a new hire can use it on a call |
-| `reference/templates.md` | Research brief, call note, and follow-up email, each with an example |
-| `reference/tools.md` | What each tool is for and which page to send a buyer to |
-| `reference/question-log.md` | Every question the onboarder could not answer, and where the answer was added |
-| `tests/` | The questions used to test the onboarder, and the scores |
-
-## Design Principles
-
-- **Simplicity is the message.** The company's pitch is one line. The onboarder's answers are
-  short.
-- **A clear syllabus.** Six modules, each with a milestone the Head of Sales signs off, end at a
-  Launch Gate into production on day 10. Six Continuing Education modules follow through day 90.
-- **Tiered expectations.** Four tiers, each listing what is and is not expected, with a
-  scorecard. Crawl, walk, run.
-- **Classic training practice.** Start from what the learner knows, three items at a time, and
-  tell, show, do, check.
-- **Route by title.** Every question has an owner on the org chart, so the folder stays right as
-  the team grows.
-- **No invented answers.** If it is not in `reference/`, the onboarder says so and names the
-  owning title. The question goes in the log, and the answer goes into the folder.
-
-## How It Was Tested
-
-`tests/` asks the onboarder 30 new-hire questions three times each and plays a full day-one
-conversation, then has a separate model grade every reply against this folder. The first version
-scored 69/90; this version scores 88/90, and routing went from 0/18 to 17/18. Method, raw
-replies, and the misses still open are in `tests/README.md`. Run it with `tests/run.sh`.
-
-## Keeping It Current
-
-Prices and facts are taken from waltersignal.io as of November 2026. Internal pricing that is not
-public is deliberately left out; the onboarder routes those questions to the Founder & CEO. Each
-answered question in `reference/question-log.md` is added to the right reference file.
-
 ----- FILE: examples.md -----
 # Examples
 
-Three short exchanges showing how the onboarder answers. The third covers a question the folder
-cannot answer.
+Four exchanges showing how the onboarder answers: complete, accurate, organized, and paced. The
+last one covers questions the folder cannot answer.
 
 ## 1. The First Message (Start From What They Know)
 
 **New hire:** Hi. It's my first day. Where do I start?
 
-**Onboarder:** Welcome. Today is small on purpose: modules 1 to 3, and nothing sent to anyone
-(`reference/first-day.md`). Two quick questions first:
+**Onboarder:** Welcome. Today has three goals (`reference/first-ten-days.md`):
 
-1. What have you sold before, and to whom?
-2. Has Revenue Operations set up your logins yet? That is the 9:30 block.
+1. **Welcome call** with the Head of Sales at 9:00 AM Eastern.
+2. **Accounts:** Revenue Operations sets up every tool in `reference/tools.md`.
+3. **Module 1, the pitch:** read `reference/the-message.md`, then start module 2,
+   `reference/clients.md`.
 
-Then we start with the one line everything here comes back to.
+The day is done when every account works, you can say the 30-second pitch at the 4:00 check-in,
+and your question list is started. You send nothing to anyone today.
+
+Two questions so I can build on what you know: what have you sold before, and to whom?
 
 ## 2. A Skill (Tell, Show, Do, Check)
 
-**New hire:** I sold payroll software to restaurants for six years. What's the pitch here?
+**New hire:** I sold payroll software to restaurant groups for six years. What's our pitch?
 
-**Onboarder:** Good. Restaurant owners are close to our first buyer. Here is the one line
+**Onboarder:** Restaurant groups are close to our clients: established businesses running on
+spreadsheets and tools that do not talk to each other. Here is the 30-second pitch
 (`reference/the-message.md`):
 
-> The hardest part of AI isn't the technology. It's knowing what to ignore.
+> WalterSignal builds custom software and AI automation for established businesses whose work has
+> outgrown spreadsheets and disconnected tools. We start by mapping how your work actually runs,
+> prove one fix working on your own numbers, and only then build the rest. Everything we build,
+> you own.
 
-It works because owners are buried in AI noise. We are the clear voice. Every conversation goes
-Noise → Clarity → Accountability.
+It has four parts, and every version you say must keep all four:
 
-Try it: how would you open a call with a restaurant owner using that line? Then tell me, in your
-own words, why we never lead with "AI audit."
+| Part | What it tells the client |
+|---|---|
+| Who it is for | They recognize their own business |
+| Understand first | Nobody recommends anything before seeing how the work runs |
+| Prove before building | One piece works on their numbers before they commit to the rest |
+| You own it | No lock-in, no per-user fees |
 
-## 3. Not in the Folder (Say So, Then Route by Title)
+Your turn: say it to me the way you would open a call with a restaurant group owner. Then name one
+thing you would never say, from the "Never Say This" list.
 
-**New hire:** What's my commission on a Full Build? And can I offer a discount if a client pays up
+## 3. A Price Question Before Launch (Answer Fully, Hold to the Tier)
+
+**New hire:** Day 4. What does a Pilot cost?
+
+**Onboarder:** From `reference/services.md`:
+
+- **$20,000** for one workflow connected to up to two existing tools.
+- **$30,000** if it connects to three or more tools or includes an AI step.
+- If the client signs within 30 days of their Discovery Sprint readout, the Sprint's $7,500 is
+  credited toward it.
+
+Both Pilot prices are Quotable, but not by you yet: you quote no price to anyone until the
+Launch Gate on day 10. Prices are module 6, days 8 to 10.
+
+## 4. Not in the Folder (Say So, Then Route by Title)
+
+**New hire:** What's my commission on a Build? And can I offer a discount if a client pays up
 front?
 
-**Onboarder:** Neither is in my notes, so I won't guess.
+**Onboarder:** Neither is in my notes, so I will not guess.
 
-- **Your commission plan** belongs to the Head of Sales.
+- **Your commission plan** belongs to the Head of Sales. When it is paid out is Finance & Billing.
 - **Discounts**, of any size, belong to the Founder & CEO (`reference/who-owns-what.md`).
 
-Add both to `reference/question-log.md` for the end-of-day check-in. One thing I can tell you: you
-quote no price until the Launch Gate on day 10, and then only the public ones in
-`reference/offers.md`.
-
------ FILE: reference/buyers.md -----
-# Who We Sell To
-
-## Buyer 1: The Advisory Buyer
-
-- Small and lower-mid-market businesses that know AI matters but cannot fund an enterprise
-  program to work it out. No industry is excluded; each business is judged on its own facts.
-- **Who decides:** the owner-operator. They sign.
-- **Who champions:** the office manager. They live with the problem every day and will tell you
-  where the work falls through the cracks. Win them and the owner listens.
-- **How long it takes:** a decision usually comes in 7 to 14 days. Procurement friction is low.
-- **Front door:** the Signal Audit, for buyers who want a plan first (`offers.md`).
-
-## Buyer 2: The Get-Me-Online Buyer
-
-- Small local operators who are barely online: trades, equipment, homestead, and rural service
-  businesses. Many arrive from the Dig Drive DIY YouTube channel, on a phone, mid-scroll.
-- They want a number up front. Hiding the price reads as a red flag to them, so their page,
-  waltersignal.io/dig, shows prices (`offers.md`).
-- They are not looking for advice. They want to be found and called.
-
-## Why They Are Never Mixed
-
-The two buyers want different things. Do not pitch the advisory process to someone who wants a
-landing page, and do not hand an advisory buyer a price before the conversation. Ask early which
-one you are talking to.
-
-## The Three Qualifying Questions
-
-Ask all three before spending real time on a lead:
-
-1. **Why this?** What problem, in their words?
-2. **Why now?** What changed that makes it worth solving this quarter?
-3. **Why us?** What would make WalterSignal the right fit over doing nothing?
-
-If a lead cannot answer "Why now?", log it and set a follow-up date. Do not chase it.
+Add both to `reference/question-log.md` for the daily check-in. Also: Build prices are Internal.
+The Founder & CEO prices every Build, so the price itself is never yours to change
+(`reference/services.md`).
 
 ----- FILE: reference/case-study.md -----
-# Case Study: Freebies Fireworks
+# Case Studies
 
-A seasonal fireworks seller in Northeast Indiana, and WalterSignal's first paid engagement. Every
-fact a buyer may hear is on waltersignal.io/dig, where the live site is listed. When you use this
-story, send the buyer there so they can open the store and check it themselves.
+Two client stories. Both are fictional, written for this exercise. Tell them as the client's
+story, with the client's numbers. Never turn a client's result into a promise for a prospect
+(`the-message.md`).
 
-## The Situation
+Pick the story closest to the prospect's industry or problem. Brennan shows all three phases.
+Harbor shows a client who stopped after the Pilot, which is allowed and is part of the pitch.
 
-A fireworks business sells from several stores and seasonal tents. It sells at three kinds of
-price: retail, wholesale, and tax-exempt. Every season brings a new price list. Stock has to be
-right at every location, and the owner needs to run all of it without calling a developer.
+## Brennan Mechanical: Quotes in Hours, Not Days
 
-## What Was Built
+**The client.** A 38-person heating, cooling, and plumbing contractor serving three counties.
+Owner: the decider. Office manager: the champion.
 
-A full online store with the back office behind it. Not a brochure site.
+**The problem.** Quotes took two days because an estimator rebuilt each one from a spreadsheet
+price book and old jobs. Dispatch ran on a whiteboard. Every finished job was typed again into
+the accounting software.
 
-| Piece | What it does |
-|---|---|
-| Tiered pricing | Retail, wholesale, and tax-exempt rates set per customer account by the database |
-| Multi-location catalog | Stock held per store and tent, browsable by category, fast at scale |
-| Customer accounts | Registration, orders, and purchase history under the customer's own login |
-| Bulk re-pricing | The owner changes the season's prices across the catalog, in place |
-| Admin console | Catalog, inventory, orders, customers, locations, staff, accounting, reporting, site content |
+| Phase | What happened | How long | Price paid |
+|---|---|---|---|
+| **Discovery Sprint** | Interviews with the owner, office manager, two estimators, and a dispatcher. Ranked quoting first, dispatch second, and left the accounting software alone. | 2 weeks | $7,500, credited to the Pilot |
+| **Pilot** | A quote builder that pulls the price book and past jobs and drafts each quote with an AI step; an estimator approves every quote before it goes out. The agreed number: time from request to quote sent. | 7 weeks | $30,000 (AI step and three connected tools), less the $7,500 credit |
+| **Build** | A dispatch board, a technician phone app for job notes and photos, and an automatic hand-off of finished jobs to the accounting software. Staff trained by role. | 5 months | $140,000, in three modules |
 
-The site lists "a build like this" at **$25,000**. That is the public price of comparable work,
-not what this client paid. Never say what any client paid.
+**The result (Brennan's numbers).** Median time to send a quote fell from two business days to
+four hours during the Pilot. After the Build, finished jobs stopped being typed twice. Brennan
+now pays for the Standard Support Plan.
 
-## How It Went: Research, Validate, Build
+**What to point out.** The Sprint said to leave the accounting software alone, and that saved
+Brennan money. WalterSignal recommends less when less is right.
 
-1. **Research.** It started with how the business actually ran: price lists, locations, and the
-   wholesale and tax-exempt accounts.
-2. **Validate.** The owner saw it working on their own catalog before the rest was built.
-3. **Build.** It went live at freebiesfireworks.com, owned by the client: domain, code, and data.
+## Harbor Dental Group: A Pilot, and a Pause
 
-## How to Use It in a Call
+**The client.** A four-office dental group with about 60 staff. Operations director: the
+champion. The two dentist-owners: the deciders.
 
-- **Best for:** owners with more than one location, more than one price list, or a back office
-  living in spreadsheets.
-- **The point to make:** it was built around how this business works, and the owner runs it.
-- **Proves:** the four ownership terms in `offers.md` are real, and the work ships.
+**The problem.** Front-desk staff spent 10 to 15 minutes per patient calling insurers to check
+coverage before each appointment.
 
-## What Not to Say
+| Phase | What happened | How long | Price paid |
+|---|---|---|---|
+| **Discovery Sprint** | Shadowed the front desk at two offices. Ranked insurance checks first. | 2 weeks | $7,500, credited to the Pilot |
+| **Pilot** | Coverage checks run the night before each appointment through the insurers' online portals; an AI step summarizes the coverage and front-desk staff approve each summary. The agreed number: staff minutes per check. | 6 weeks | $20,000 (two connected tools), less the $7,500 credit |
 
-- No sales, traffic, or time-saved numbers. None are published. Never estimate them.
-- Nothing about the client beyond what is on waltersignal.io/dig.
-- WalterSignal publishes client stories only after completed Signal Audits and measured pilots
-  (waltersignal.io/work). Call this "a live build you can open and check," not a published case
-  study.
+**The result (Harbor's numbers).** Staff time per check fell from about 12 minutes to about 3.
+Harbor chose not to start a Build yet; it kept the Pilot running on the Essentials Support Plan
+and owns everything built so far.
 
-## Other Live Builds to Point To
+**What to point out.** Each phase stands on its own. A client can stop after any phase and keep
+what was delivered (`services.md`).
 
-Listed on waltersignal.io/dig, with the site's price for comparable work:
+----- FILE: reference/clients.md -----
+# Who We Work With
 
-| Site | What it shows | A build like this |
+WalterSignal does client work: it builds software for one client at a time, to fit how that
+client works. This page says which businesses are a good fit, who you talk to inside them, and
+how to tell fit from not-fit.
+
+## A Good-Fit Client
+
+- **Size:** an established business of roughly 10 to 250 employees, with revenue coming in and a
+  real operation to improve. Not a startup still finding customers.
+- **Situation:** the work runs on spreadsheets, whiteboards, email, and paper, or on several
+  tools that do not share information, so people type the same thing twice.
+- **Signs you will hear:** "Quotes take us two days." "Only Sarah knows how that works." "We
+  re-enter every order into the accounting system." "I can't see where jobs stand without
+  calling around."
+- **Common industries:** field service (HVAC, plumbing, electrical), distribution and wholesale,
+  light manufacturing, multi-location healthcare offices (dental, physical therapy), and
+  professional services firms. No industry is excluded; judge each business on its own facts.
+
+## Who You Talk To
+
+| Role at the client | What they do in the deal | How to work with them |
 |---|---|---|
-| digdrivediy.com | A site that publishes channel releases on a schedule, unattended | $7,500 |
-| always-be-cleaning.com | Intake through countersigned contract | $35,000 |
-| electrotekconsultants.com | Staff back office on the firm's domain, with legacy records migrated | $40,000 |
-| joatfw.com | One page that books the work | $2,000 |
+| **Decider:** the owner, CEO, or general manager | Signs the agreement and approves the money | Talk about cost, risk, and what they will be able to see and control |
+| **Champion:** usually the operations manager or office manager | Lives with the problem every day and knows where work falls through the cracks | Win them first. They tell you how the work really runs, and the decider listens to them |
+| **Users:** dispatchers, estimators, front-desk staff, warehouse leads | Will use what gets built | Ask to talk to one during discovery; their answers make the Discovery Sprint sharper |
+
+## How Long Deals Take
+
+- First call to a signed Discovery Sprint: usually 2 to 4 weeks.
+- Most clients decide on a Pilot within 30 days of the Sprint readout.
+- A Build is decided after the Pilot shows its number (`services.md`).
+
+## Not a Fit
+
+Say so early and kindly, and log the reason in the CRM (`sales-process.md`).
+
+| They want | Why it is not a fit | What to say |
+|---|---|---|
+| A website or marketing | WalterSignal does not build marketing websites | "That isn't work we do. We build the software that runs the operation behind the website." |
+| IT support, computers, or networks | Not client work WalterSignal does | "That's an IT provider's job, not ours." |
+| A developer by the hour | WalterSignal sells scoped phases, not hours (`services.md`) | "We work in fixed phases so you know the cost before we start." |
+| A problem too small for a $20,000 Pilot | The smallest phase after the Sprint is $20,000 | Log it as Closed Lost with the reason "too small" |
+
+## The Four Qualifying Questions
+
+Ask all four before spending real time on a lead:
+
+1. **Why this?** What problem, in their words?
+2. **Why now?** What changed that makes it worth fixing this quarter?
+3. **Why us?** What would make WalterSignal the right fit over doing nothing or buying a tool?
+4. **Is it big enough?** Would fixing it be worth more to them than a $20,000 Pilot?
+
+If a lead cannot answer "Why now?", log it and set a follow-up date. Do not chase it.
 
 ----- FILE: reference/discovery-questions.md -----
 # Discovery Question Bank
@@ -344,11 +310,12 @@ Listed on waltersignal.io/dig, with the site's price for comparable work:
 Use these on every discovery call, in the order of the call in `sales-process.md`. Pick two or
 three per section. A discovery call is a conversation, not a survey.
 
-## Opening: Which Buyer Is This?
+## Opening: Why Are We Talking?
 
 1. "What made you reach out now?"
-2. "Are you looking for a plan for where AI fits, or for something specific built, like a site?"
-3. "How did you hear about us?" (A Dig Drive DIY viewer is buyer 2. See `buyers.md`.)
+2. "If one part of the business ran better a year from now, which part would it be?"
+3. "How did you hear about us?" (Log the source in the CRM: referral, website, event, or
+   outreach.)
 
 ## Current State: How Does the Work Run Today?
 
@@ -386,9 +353,9 @@ Write the next step in the CRM the same day: a date, an owner, and what happens.
 
 ## Never Ask
 
-- "Do you want to do an AI audit?" Lead with the outcome, not the audit (`the-message.md`).
+- "Do you want to use AI?" Lead with their work, not the technology (`the-message.md`).
 - "What's your budget?" in the first five minutes. Earn it with the gap questions first.
-- Anything about competitors' private pricing or the buyer's personal details.
+- Anything about competitors' private pricing or the prospect's personal details.
 
 ----- FILE: reference/expectations.md -----
 # Tiered Expectations
@@ -400,18 +367,19 @@ and the Head of Sales reviews.
 
 ## Tier 1: Day 1 (Learn the Ground)
 
-**Able to do by end of day:** modules 1 to 3. Say the one line, name the two buyers, name the
-three steps of the work.
+**Able to do by end of day:** module 1, and module 2 started. Say the 30-second pitch and
+describe a good-fit client.
 
-**Not expected yet:** pitching, quoting any price, contacting any prospect, sending anything.
+**Not expected yet:** pitching to anyone outside the company, quoting any price, contacting any
+prospect, sending anything.
 
 | Scorecard | Target |
 |---|---|
-| Day-one checklist items done (`first-day.md`) | 6 of 6 |
+| Day 1 checklist items done (`first-ten-days.md`) | 5 of 5 |
 
 ## Tier 2: Days 2 to 10 (Initial Training, Head of Sales Does It)
 
-**Able to do by day 10:** modules 4 to 6, and pass the Launch Gate.
+**Able to do by day 10:** modules 2 to 6, and pass the Launch Gate.
 
 **Not expected yet:** running a live call alone, quoting before launch, writing a proposal.
 
@@ -425,91 +393,124 @@ three steps of the work.
 
 ## Tier 3: Days 11 to 30 (In Production, Done Together)
 
-**Able to do:** run live discovery calls with the Head of Sales on the line. Quote public prices
-from `offers.md` when the buyer asks. Draft follow-ups for approval. Present your own deals at the weekly pipeline review
-(`meetings.md`). Continuing Education CE1 and CE2.
+**Able to do:** run live discovery calls with the Head of Sales on the line. Quote the Quotable
+prices in `services.md` when a client asks. Draft follow-ups for approval. Present your own
+deals at the weekly pipeline review (`meetings.md`). Continuing Education CE1.
 
-**Not expected yet:** proposals, discounts, scoping custom work.
+**Not expected yet:** proposals, Internal prices, discounts, scoping a Pilot.
 
 | Scorecard | Target |
 |---|---|
 | Calls ending with a next step logged the same day | 100% |
 | Research brief written before each call | 100% |
-| Anything sent to a buyer without approval | 0 |
-| CE1 and CE2 signed off | By day 30 |
+| Call notes saved in the Vault the same day | 100% |
+| Anything sent to a client without approval | 0 |
+| CE1 signed off | By day 30 |
 
 ## Tier 4: Days 31 to 90 (You Do It, Head of Sales Reviews)
 
-**Able to do by day 90:** Continuing Education CE3 to CE6. Run discovery calls alone, source and
-qualify your own leads, draft three-option proposals, and manage your own deals through the CRM
-stages.
+**Able to do by day 90:** Continuing Education CE2 to CE5. Run discovery calls alone, find and
+qualify your own leads, scope Pilots with Solutions Engineering, draft three-option proposals,
+and manage your own deals through the CRM stages.
 
-**Still not yours:** final prices, discounts, contract terms, and sending anything that commits
+**Still not yours:** Build prices, discounts, contract terms, and sending anything that commits
 WalterSignal.
 
 | Scorecard | Target |
 |---|---|
 | Calls ending with a next step logged the same day | 100% |
-| New leads qualified with all three questions before a second call | 100% |
+| New leads qualified with all four questions before a second call | 100% |
 | Deals in the right CRM stage at the weekly review | 100% |
 | Proposals drafted for the Founder & CEO to price | At least 1 |
 | First solo discovery call | By day 90 |
-| CE3 to CE6 signed off | By day 90 |
+| CE2 to CE5 signed off | By day 90 |
 
 Meeting, pipeline, and revenue targets are set by the Head of Sales at launch. They are not in
 this folder.
 
------ FILE: reference/first-day.md -----
-# Day One Guide
+----- FILE: reference/first-ten-days.md -----
+# The First Ten Days
 
-Day one is small on purpose: modules 1 to 3 of `syllabus.md`, and nothing sent to anyone.
+Each day has goals, not a schedule. Work through the day's goals in any order; the day is done
+when its "done when" line is true. The only fixed times are the meetings in `meetings.md`. Day 1
+is a Monday, so day 5 is Friday and day 6 is the next Monday.
 
-## Before Monday
+Each day's goals come from one module of the training plan (`syllabus.md`). A module is one topic
+with a milestone: a short check the Head of Sales signs off at the daily check-in.
 
-- WalterSignal is remote-first. Day one runs on video, 9:00 AM to 4:30 PM Eastern (Fort Wayne
-  time).
-- The Friday before, the Head of Sales sends a welcome email to your personal address with the
-  video link and the account invites. If it has not arrived by Friday 5:00 PM Eastern, reply to
-  the email your offer came from.
-- Have ready: a quiet room, a headset, a notebook, and a computer with a current browser.
+## Before Day 1
 
-## The Day, Hour by Hour
+- WalterSignal is remote-first, with no office. You work from home on your own internet
+  connection; all meetings are on Google Meet and team chat is in Slack.
+- The Friday before you start, the Head of Sales emails your personal address with the video link
+  for the 9:00 AM Eastern welcome call on day 1 and your account invites. If it has not arrived by
+  Friday 5:00 PM Eastern, reply to the email your offer came from.
+- Have ready: a quiet room, a headset, and a computer with a current browser.
 
-| Time (Eastern) | Block | What happens | Training principle |
-|---|---|---|---|
-| 9:00 | Welcome | Video call with the Head of Sales: what you have sold before, to whom, and what you want to learn. | Start from what they know |
-| 9:30 | Access | Revenue Operations sets up company email, the CRM, the client folders, and Linear. Each one is tested live. | Do, then check |
-| 10:30 | Module 1: The Message | Read `the-message.md`. The Head of Sales says the one line, then you say it. | Tell, show, do, check |
-| 11:30 | Break | Fifteen minutes. Add any question to your list. | |
-| 11:45 | Module 2: The Buyers | Read `buyers.md`. Sort five sample businesses the Head of Sales gives you into buyer 1 or buyer 2. | Three at a time |
-| 12:30 | Lunch | One hour, offline. | |
-| 1:30 | Module 3: The Work | Read `sales-process.md` and `case-study.md`: one real build, from the first call to live. | Show before do |
-| 2:30 | Self-Study | Read waltersignal.io as a buyer would: /consulting, /products, /dig. Ask the onboarder anything. | Learner sets the pace |
-| 4:00 | Check-In | With the Head of Sales: say the one line, both buyers, and the three steps. Go through your question list. | Check, then follow up |
-| 4:30 | Done | Nothing else today. | |
+## Day by Day
 
-If the video link fails at 9:00, email the Head of Sales at the address in the welcome email.
+| Day | Goals | Done when |
+|---|---|---|
+| **1 (Mon)** | Welcome call with the Head of Sales (9:00 AM Eastern): what you have sold before, to whom, and what you want to learn. Revenue Operations sets up your accounts (`tools.md`). Module 1: read `the-message.md`. Start module 2: read `clients.md`. | Every account in `tools.md` works. You can say the 30-second pitch at the check-in. Your question list is started. |
+| **2** | Finish module 2: sort five sample businesses the Head of Sales gives you into fit and not a fit. Module 3: read the phases in `services.md` and `case-study.md`. | Your five sorts match, and you can explain Research, Validate, Build using the Brennan Mechanical story. Modules 1 and 2 signed off. |
+| **3** | Module 4: Revenue Operations walks you through the CRM, the Vault, and Cairn. Read `tools.md`, `second-brain.md`, and `who-owns-what.md`. | A practice call is logged in the CRM with its call note in the Vault, you have found one decision in Cairn, and you can name the owning title for ten sample questions. Modules 3 and 4 signed off. |
+| **4** | Module 5 starts: read `sales-process.md`, `discovery-questions.md`, and `templates.md`. Sit in on any discovery call the Head of Sales runs. | Research brief 1 of 3 is written on an assigned lead and saved in the Vault. |
+| **5 (Fri)** | Research brief 2. First weekly 1:1 with the Head of Sales (`meetings.md`). | Brief 2 is written and reviewed in the 1:1. |
+| **6 (Mon)** | First pipeline review: listen and take notes. Research brief 3. | Brief 3 is written, and you can name the four CRM stages and what moves a deal between them. |
+| **7** | Practice discovery call with the Head of Sales playing the client. | Module 5 signed off. |
+| **8** | Module 6: read `services.md` again, now for prices and what may be quoted. Tell one case study in two minutes. | You can name every Quotable and Internal price and say which is which. |
+| **9** | Module 6: read `objections.md`. Role-play five objections with the Head of Sales. | Module 6 signed off. |
+| **10** | Co-run one live discovery call with the Head of Sales, and log the next step in the CRM the same day. | The Launch Gate check (`syllabus.md`) at the check-in. |
 
-## Day One Checklist
+## Day 1 Checklist
 
-1. Access works for company email, the CRM, the client folders, and Linear.
-2. You can say the one-line message without notes.
-3. You can name both buyers and say why they are never mixed.
-4. You can name the three steps: Research, Validate, Build.
-5. You know that anything sent to a buyer goes to the Head of Sales first.
-6. Your question list is started and was reviewed at the check-in.
+1. Every account in `tools.md` works.
+2. You can say the 30-second pitch without notes.
+3. You can describe a good-fit client, and the decider and champion inside one.
+4. You know that anything sent to a client goes to the Head of Sales first.
+5. Your question list is started and was reviewed at the check-in.
 
-## What Waits
+## If Something Goes Wrong
 
-| Topic | When |
-|---|---|
-| Tools in depth, who owns what | Module 4, day 2 |
-| Weekly 1:1 and pipeline review (`meetings.md`) | First 1:1 day 5; first pipeline review day 6 |
-| Discovery calls | Module 5, days 3 to 7 |
-| Prices, proof, objections | Module 6, days 8 to 10 |
-| Products, partners, proposals | Continuing Education, days 11 to 90 |
+- The video link fails at 9:00 on day 1: email the Head of Sales at the address in the welcome
+  email.
+- An account does not work: Revenue Operations.
+- You fall behind a day's goals: say so at the daily check-in. The Head of Sales moves the plan;
+  nobody is launched early or skips a milestone.
 
-Knowing what to ignore applies to day one too.
+----- FILE: reference/glossary.md -----
+# Glossary
+
+Company words a new hire will hear in the first week, in plain language.
+
+| Term | Means | More in |
+|---|---|---|
+| **Build** | The third phase: the rest of the system, in modules, over 3 to 6 months | `services.md` |
+| **Cairn** | The company's searchable memory of decisions and facts, each with evidence | `second-brain.md` |
+| **Call note** | The written record of a client call, saved the same day | `templates.md` |
+| **Champion** | The person at the client who lives with the problem and wants it fixed, often the operations or office manager | `clients.md` |
+| **Change request** | Client work outside the signed agreement, quoted in writing first | `services.md` |
+| **Check-in** | The daily meeting with the Head of Sales | `meetings.md` |
+| **Continuing Education (CE)** | The training topics after launch, days 11 to 90 | `syllabus.md` |
+| **CRM** | The system where every lead and deal is tracked (HubSpot) | `tools.md` |
+| **Decider** | The person at the client who signs and approves the money | `clients.md` |
+| **Discovery call** | The first real conversation with a prospect, to learn how their work runs | `sales-process.md` |
+| **Discovery Sprint** | The first phase: two weeks mapping how the client's work runs, $7,500 fixed | `services.md` |
+| **Internal price** | A price for qualifying a lead; never said to a client | `services.md` |
+| **Launch Gate** | The check at the end of day 10 that moves you into live selling | `syllabus.md` |
+| **Milestone** | The short check at the end of each training module, signed off by the Head of Sales | `syllabus.md` |
+| **Module** | One training topic | `syllabus.md` |
+| **Pilot** | The second phase: one workflow live and measured, 6 to 8 weeks | `services.md` |
+| **Pipeline review** | The Monday meeting where the team walks every deal | `meetings.md` |
+| **Question log** | The list of questions the onboarder could not answer | `question-log.md` |
+| **Quotable price** | A price you may say to a client after launch | `services.md` |
+| **Research brief** | The one-page prep you write before every call | `templates.md` |
+| **Second brain** | The Vault and Cairn together | `second-brain.md` |
+| **Stage** | Where a deal stands in the CRM: Leads, Proposals, Closed Won, Closed Lost | `sales-process.md` |
+| **Support Plan** | The monthly plan after go-live: Essentials, Standard, or Priority | `services.md` |
+| **Tier** | What is expected of you at each stage of your first 90 days | `expectations.md` |
+| **The Vault** | The company's shared notes in Obsidian | `second-brain.md` |
+| **Workflow** | One piece of a client's work from start to finish, such as quoting or scheduling | `services.md` |
 
 ----- FILE: reference/meetings.md -----
 # Meetings
@@ -522,6 +523,14 @@ set day, so day one has only the first check-in. The Head of Sales sends the cal
 | Daily Check-In | Every workday, 4:00 to 4:30 through day 10; 4:15 to 4:30 after launch | Day 1 | You and the Head of Sales |
 | Weekly 1:1 | Fridays, 2:00 to 2:30 | Day 5 (first Friday) | You and the Head of Sales |
 | Weekly Pipeline Review | Mondays, 10:00 to 10:45 | Day 6 (second Monday) | Head of Sales (runs it), you, Revenue Operations, Solutions Engineering, Delivery Lead |
+
+## One-Time Meetings
+
+| Meeting | When (Eastern) | Who |
+|---|---|---|
+| Welcome Call | Day 1, 9:00 AM | You and the Head of Sales |
+| Account Setup | Day 1, after the welcome call | You and Revenue Operations |
+| Launch Gate Check | Day 10, at the daily check-in | You and the Head of Sales (`syllabus.md`) |
 
 ## Daily Check-In
 
@@ -556,42 +565,43 @@ One meeting at day 90 with the Head of Sales, described in `syllabus.md`.
 # Objections
 
 Each objection has what usually sits underneath it, what to say, and when to hand it to someone
-else. Say less than you want to. The simplest true answer wins.
+else. The simplest true answer wins.
 
 ## "AI Is All Hype."
 
 - **Underneath:** they have been sold to, and burned.
-- **Say:** "Agreed, a lot of it is. The hardest part of AI isn't the technology. It's knowing
-  what to ignore. That's the first thing we'd do for you."
+- **Say:** "A lot of it is. That's why we start by mapping how your work runs, and we'll tell you
+  where AI doesn't belong. Brennan Mechanical's Sprint said to leave their accounting software
+  alone." (`case-study.md`)
 - **Then:** ask a current-state question (`discovery-questions.md`).
 
 ## "Just Send Me a Price."
 
 - **Underneath:** they want to know if it is worth their time.
-- **Buyer 2 (Dig Drive DIY):** give the public price in `offers.md` and send them to
-  waltersignal.io/dig.
-- **Buyer 1:** "The Founder quotes after a short conversation, because every build fits the
-  business. Can I ask three questions so the number means something?"
-- **Never:** guess a range.
+- **Before launch:** "Let me get you the right person for that," and bring in the Head of Sales.
+  You quote no price before the Launch Gate.
+- **After launch:** "The first step is a two-week Discovery Sprint at a fixed $7,500, and it's
+  credited toward the Pilot if you go ahead within 30 days." (`services.md`)
+- **Never:** guess a Build price or a range. The Founder & CEO prices every Build.
 
 ## "We Already Pay for Software."
 
 - **Underneath:** they fear another monthly bill.
-- **Say:** the ownership terms in `offers.md`: no monthly fee for the software, no per-user fees,
-  five years of updates in the agreement, and they own it.
+- **Say:** "What we build, you own: no license fees and no per-user fees. A Support Plan after
+  go-live is optional and month to month." (`services.md`)
 - **Then:** "Which of the tools you pay for does anyone actually open?"
 
 ## "What Happens if You Go Away?"
 
 - **Underneath:** a small vendor feels risky.
-- **Say:** "You own the domain, the code, and the data. You can hand the code to another
-  developer." (`offers.md`)
+- **Say:** "The code, the data, and every account are in your name. Another developer can pick
+  it up." (`services.md`)
 
 ## "Can You Do It Cheaper?"
 
 - **Underneath:** price anchoring, or a real budget limit.
-- **Say:** "Let me take that to the Founder." Never offer or hint at a discount.
-- **Route:** Founder & CEO. Discounts are only given in exchange for something real.
+- **Say:** "Let me take that to our Founder." Never offer or hint at a discount.
+- **Route:** Founder & CEO.
 
 ## "We Need to Think About It."
 
@@ -602,8 +612,9 @@ else. Say less than you want to. The simplest true answer wins.
 ## "Do You Have Results?"
 
 - **Underneath:** they want proof.
-- **Say:** "Here's a live build you can open and check." Use `case-study.md`.
-- **Never:** quote a sales, traffic, or time-saved number. None are published.
+- **Say:** tell the closest story in `case-study.md`, with that client's numbers, as that
+  client's result.
+- **Never:** promise the prospect the same number.
 
 ## "Is Our Data Safe? Where Does It Run?"
 
@@ -613,79 +624,21 @@ else. Say less than you want to. The simplest true answer wins.
 
 ## "How Long Will It Take?"
 
-- **Say:** the Signal Audit takes 10 business days and an Integration Pilot 30 days
-  (`offers.md`). A Full Build is scoped after the pilot.
+- **Say:** the Discovery Sprint takes 2 weeks and a Pilot 6 to 8 weeks (`services.md`). A Build
+  is scoped after the Pilot, usually 3 to 6 months.
 - **Never:** promise a date. **Route:** Solutions Engineering.
-
------ FILE: reference/offers.md -----
-# What We Sell
-
-Only the prices marked **Public** may be said to a buyer, and only after the Launch Gate (`syllabus.md`). Everything
-else is quoted by the Founder & CEO after a conversation. If a price is not on this page, it
-does not exist yet: say "We'll quote that after the call."
-
-## Consulting: Research, Validate, Build
-
-Each phase is optional and quoted up front. Source: waltersignal.io/consulting.
-
-| Phase | What the buyer gets | Timeline | Price |
-|---|---|---|---|
-| Signal Audit (Research) | Map of the real workflow, what to automate and skip, three ranked pilots, a 90-day plan, PDF plus a 60-minute walkthrough | 10 business days | Not public. Scope is fixed; the Founder & CEO quotes the price |
-| Integration Pilot (Validate) | One production workflow live in the tools they already use, measured against one number, 30 days of close support | 30 days | Quoted from the audit |
-| Full Build (Build) | The complete system, owned outright, with documentation and a staff handoff | Scoped to the system | One-time, quoted from the pilot |
-| Managed services (add-on) | Hosting, monitoring, tuning, monthly report | Month to month | Quoted by the Founder & CEO |
-
-## Client Skills Package (Public)
-
-Business knowledge written as tested agent skills. Source: waltersignal.io/consulting.
-
-- $800 per skill.
-- $3,000 for up to five skills.
-- Optional upkeep: $250 per month.
-
-## Dig Drive DIY Viewers (Public, on waltersignal.io/dig)
-
-- Landing page: **$1,500** (list $2,000), live in 14 days.
-- Custom project: **$1,000 off**, from $4,000 after the discount.
-- Only for buyers who came from the Dig Drive DIY channel.
-
-## Products
-
-Source: waltersignal.io/products. Prices for all three are quoted by the Founder & CEO.
-
-- **WalterFetch** (live): research and data engine. Returns finished dossiers and enriched lists.
-- **BananaForce** (early access): operations platform (CRM, quoting, scheduling, inventory, the
-  books) on a one-time license, not a per-seat subscription.
-- **BananaBots** (waitlist): work agents that never ship without the customer's sign-off.
-
-## The Four Ownership Terms
-
-These are true of every custom build: landing pages, custom projects, and Full Builds. Say them
-often. Whether they apply to a product (WalterFetch, BananaForce, BananaBots) is not in this
-folder; ask the Founder & CEO.
-
-1. No monthly fee for the software.
-2. No per-user fees.
-3. Five years of updates, written into the agreement.
-4. The client owns it: domain, code, and data in their name. They may change the code or hand it
-   to another developer.
-
-## Referral Partners (Public, on waltersignal.io/partners)
-
-Partners earn 30% of a referred client's first project. If a buyer asks about becoming a partner,
-send them to waltersignal.io/partners. Partner questions beyond that page go to Partnerships. Partners are paid
-30 days after the client accepts the project (waltersignal.io/partners).
 
 ----- FILE: reference/question-log.md -----
 # Question Log
 
-Every question the onboarder could not answer goes here. This is how the folder gets better.
+Every question the onboarder could not answer goes here. The onboarder cannot edit this file;
+you add the row yourself. This is how the folder gets better.
 
 ## How It Works
 
 1. The onboarder says "That isn't in my notes" and names the owning title.
 2. You add the question below and bring it to the end-of-day check-in.
-3. The owner answers.
+3. The owner answers and stores the answer in Cairn (`second-brain.md`).
 4. The Head of Sales adds the answer to the right file in `reference/`, so the next new hire never
    has to ask.
 
@@ -698,61 +651,189 @@ Every question the onboarder could not answer goes here. This is how the folder 
 ----- FILE: reference/sales-process.md -----
 # How a Deal Moves
 
-## The Three Steps of the Work
+## The Three Phases
 
-**Research → Validate → Build.** Nothing gets built on a guess. The buyer sees the work at each
-step before the next one starts. Nobody is asked to trust a slide.
+**Research, Validate, Build.** Each phase is sold and signed on its own (`services.md`). The
+client sees working results at each phase before deciding on the next. Nobody is asked to fund a
+large project on the strength of a slide.
+
+Your first sale with any new client is almost always the **Discovery Sprint**. Later phases are
+sold from what the Sprint finds.
 
 ## The Discovery Call
 
-Discovery and the pitch happen in the same call. Run it in this order:
+The first real conversation with a prospect. Discovery and the pitch happen in the same call.
+Run it in this order, using the question bank in `discovery-questions.md`:
 
-1. **Current state.** How does the work run today? Who calls, what gets written on paper, where
-   does a job fall through the cracks?
-2. **Gap.** What does that cost them, in their own numbers?
-3. **Solution.** The smallest working outcome that closes the gap.
+1. **Current state.** How does the work run today? Who does what, what is on paper or in
+   someone's head, and where does work fall through the cracks?
+2. **Gap.** What does that cost them, in their own numbers: hours, missed jobs, errors?
+3. **Solution.** The smallest working fix that closes the gap. Usually that is "a Discovery
+   Sprint to find out which fix comes first."
 4. **Next step.** Every call ends with one, written down: a date, an owner, and what happens.
 
-Money comes up by the second conversation at the latest. Do not give away free strategy: the
-call finds the problem; the Signal Audit or the proposal solves it.
+Money comes up by the second conversation at the latest. Do not give away free consulting on the
+call: the call finds the problem; the Sprint maps the fix.
 
 ## CRM Stages
 
-Every deal sits in exactly one stage. Move it the day it changes.
+The CRM is the system where every lead and deal is tracked (`tools.md`). Every deal sits in
+exactly one stage. Move it the day it changes.
 
-| Stage | Means |
-|---|---|
-| Leads | Qualified with the three questions in `buyers.md`, no proposal yet |
-| Proposals | A proposal has been sent |
-| Closed Won | Signed agreement returned |
-| Closed Lost | Said no, went quiet after the agreed follow-ups, or chose someone else. Log why. |
+| Stage | Means | Moves to the next stage when |
+|---|---|---|
+| **Leads** | A business you are talking to, qualified with the four questions in `clients.md`, no proposal yet | A proposal is sent |
+| **Proposals** | A written proposal has been sent | The signed agreement comes back (Closed Won), or the prospect says no or goes quiet (Closed Lost) |
+| **Closed Won** | Signed agreement returned | Delivery takes over (`who-owns-what.md`) |
+| **Closed Lost** | Said no, went quiet after three dated follow-ups, chose someone else, or not a fit. Log the reason. | A closed-lost deal can return to Leads later if something changes |
 
 ## Proposals
 
-- Every proposal offers three options: Good, Better, Best.
-- Each step up adds at least $1,000 and real value. Best is the target.
-- Written in plain client language.
-- The Founder & CEO sets the prices. The Head of Sales approves every proposal before it is sent.
+A proposal is the written offer for the next phase.
+
+- **Discovery Sprint:** a one-page proposal at the fixed $7,500 price.
+- **Pilot and Build:** three options, Good, Better, Best. Each step up adds real scope (another
+  workflow, another connected tool, a Support Plan). Best is the option you recommend.
+- Written in the client's words, not technical language.
+- Pilot prices come from `services.md`. The Founder & CEO prices every Build. The Head of Sales
+  approves every proposal before it is sent.
+- Writing proposals yourself is Continuing Education CE4 (`syllabus.md`).
 
 ## After a Yes
 
-1. The agreement goes alone.
-2. Only after the signed agreement comes back does the deposit invoice go out.
-3. Payment: 50% at signing. Engagements of 90 days or more bill the balance monthly; shorter
-   ones bill the balance at go-live.
+1. Tell the Head of Sales the same day, at the daily check-in (`meetings.md`).
+2. Legal & Contracts sends the agreement. The agreement goes on its own, with nothing else
+   attached.
+3. When the signed agreement comes back, move the deal to Closed Won. Finance & Billing then
+   sends the first invoice.
+4. The Delivery Lead runs the kickoff. You stay the client's contact for anything new they want
+   to buy.
 
-Legal & Contracts sends the agreement. Finance & Billing sends the deposit invoice. The Sales
-Executive tells the Head of Sales the buyer said yes, the same day.
+| Phase | When the client pays |
+|---|---|
+| Discovery Sprint | 100% at signing |
+| Pilot | 50% at signing, 50% at go-live |
+| Build | 50% at signing, the balance billed monthly over the Build |
+| Support Plan | Monthly, starting the month after go-live |
+
+----- FILE: reference/second-brain.md -----
+# The Second Brain
+
+WalterSignal keeps everything it knows in one place, called the second brain. It has two halves:
+**the Vault**, where the notes live, and **Cairn**, where decisions and facts live. This
+onboarding folder is a small, curated copy of the parts a new Sales Executive needs.
+
+## The Vault (Obsidian)
+
+Obsidian is a notes app. The Vault is the company's shared set of notes in it. Notes link to each
+other by name, so a call note can link to the client and the proposal it led to.
+
+| Folder | What is in it | What you do there |
+|---|---|---|
+| `Clients/<Stage>/<Client>/` | One folder per client, filed under its CRM stage (Leads, Proposals, Closed Won, Closed Lost) | Save each research brief, call note, and proposal draft here the same day. Move the folder when the CRM stage changes. |
+| `Playbooks/` | How the company does things: the sales process, delivery, support | Read; suggest changes to the Head of Sales |
+| `Meetings/` | Notes from pipeline reviews and team meetings | Read the last pipeline review before each Monday |
+| `Training/` | This onboarding folder, and the training plans | Read; the Head of Sales edits it |
+
+## Cairn (the Memory Layer)
+
+Cairn is a searchable store of the company's decisions and verified facts. Each entry says what
+was decided or found, who decided it, when, and the evidence. Cairn refuses an entry that has no
+evidence, so what is in Cairn can be trusted.
+
+Examples of what Cairn holds: "The Pilot price is $20,000 for one workflow (Founder & CEO)."
+"Clients own every account we create (Founder & CEO)." "A deal with no reply after three dated
+follow-ups moves to Closed Lost (Head of Sales)."
+
+- **You can:** search Cairn for any decision or fact, and read the evidence.
+- **You do not:** add or change entries. The owner of a decision stores it (`who-owns-what.md`).
+- **Newest wins:** if Cairn and a note in the Vault disagree, Cairn is current. Tell the Head of
+  Sales so the note gets fixed.
+
+## How This Folder Connects
+
+1. Every fact in this folder comes from Cairn or the Vault.
+2. When a decision changes in Cairn (a price, a rule, a new title), the Head of Sales updates the
+   matching file here.
+3. When the onboarder cannot answer a question, it goes in `question-log.md`. The owner answers
+   at the check-in, stores the answer in Cairn, and the Head of Sales adds it to this folder.
+
+## What the Onboarder Can and Cannot See
+
+The onboarder sees only this folder. It cannot search the Vault or Cairn. If an answer would be
+in a client's folder or in Cairn, the onboarder says so and you look it up yourself. Revenue
+Operations sets up your access to both on day 1.
+
+----- FILE: reference/services.md -----
+# Services and Prices
+
+Every engagement moves through three phases: **Research, Validate, Build**. Each phase is sold
+and signed on its own, so a client can stop after any phase and keep what was delivered.
+
+Prices on this page are WalterSignal's price list. **Before the Launch Gate on day 10, you quote
+no price to anyone** (`syllabus.md`). After launch, you may quote the prices marked **Quotable**.
+Prices marked **Internal** are for qualifying a lead; never say them to a client. The Founder &
+CEO prices everything that is not on this page.
+
+## The Three Phases
+
+| Phase | What the client gets | How long | Price | Who may say the price |
+|---|---|---|---|---|
+| **Discovery Sprint** (Research) | Interviews with the team, a map of how the work runs today, a ranked list of what to fix and what to leave alone, a recommended Pilot, and a 60-minute readout with the decider | 2 weeks | **$7,500**, fixed | Quotable |
+| **Pilot** (Validate) | One workflow (one piece of the work, such as quoting or dispatch) live in the client's business, measured against one number agreed at the start, plus 30 days of support | 6 to 8 weeks | **$20,000** for one workflow connected to up to two existing tools. **$30,000** if it connects to three or more tools or includes an AI step | Quotable |
+| **Build** (Build) | The rest of the system, in modules, with documentation and staff training | 3 to 6 months | Usually **$60,000 to $180,000**, priced per module from the Pilot | Internal. The Founder & CEO prices every Build |
+
+**Sprint credit:** if the client signs a Pilot within 30 days of the Sprint readout, the full
+$7,500 is credited toward the Pilot.
+
+## After Go-Live: Support Plans
+
+Every Build ends with an offer of a monthly Support Plan. The client may also take none.
+
+| Plan | Price per month | What is included | Response time |
+|---|---|---|---|
+| **Essentials** | $1,500 | Hosting, monitoring, and fixes to anything that breaks | 2 business days |
+| **Standard** | $3,000 | Essentials, plus up to 10 hours of changes a month | 1 business day |
+| **Priority** | $5,000 | Essentials, plus up to 25 hours of changes a month | Same business day |
+
+Support Plan prices are Quotable after launch. Plans are month to month.
+
+## Changes Outside the Agreement
+
+Work the client asks for that is not in the signed agreement is a **change request**. It is
+quoted in writing at **$175 per hour** before any work starts (Internal: the Delivery Lead sends
+the quote, not you).
+
+## What Every Client Gets
+
+These are true of every engagement. Say them often.
+
+1. **The client owns it:** the code, the data, and every account are in the client's name.
+2. **No per-user fees and no license fees.** WalterSignal does not charge per seat or by
+   subscription for anything it builds.
+3. **A 90-day warranty** after go-live: anything that does not work as agreed is fixed at no
+   charge.
+4. **AI steps always have a person approving.** Anything AI drafts (a quote, a reply, a form) is
+   checked by the client's staff before it goes out.
+
+## What We Do Not Sell
+
+Marketing websites, IT support, hardware, off-the-shelf software, AI training workshops, and
+developers by the hour (`clients.md`).
+
+## Discounts
+
+You never offer, hint at, or agree to a discount. Only the Founder & CEO decides discounts.
 
 ----- FILE: reference/syllabus.md -----
 # Syllabus
 
 Training runs in two parts. **Initial Training** (days 1 to 10) ends at the **Launch Gate**. After
 launch the new hire is in production, working live deals. **Continuing Education** (days 11 to
-90) adds the advanced topics, one at a time.
+90) adds advanced topics, one at a time.
 
-Every module ends in a milestone. The Head of Sales signs off each milestone at a check-in. A
-module is done when it is signed off, not when it is read.
+Every module ends in a milestone: a short check the Head of Sales signs off at a daily check-in.
+A module is done when it is signed off, not when it is read.
 
 Each module is taught the same way: **tell** (read the reference), **show** (watch the Head of
 Sales do it, or read the example), **do** (try it), **check** (say it back, or do it for the Head
@@ -762,12 +843,12 @@ of Sales).
 
 | # | Module | When | Reference | Milestone (signed off by the Head of Sales) |
 |---|---|---|---|---|
-| 1 | The Message | Day 1 | `the-message.md` | Say the one line and the arc from memory. Name three things never to say. |
-| 2 | The Buyers | Day 1 | `buyers.md` | Name both buyers, who decides, who champions, and the three qualifying questions. Sort five sample businesses correctly. |
-| 3 | The Work | Day 1 | `sales-process.md`, `case-study.md` | Explain Research, Validate, Build in your own words, using the case study. Name the four CRM stages. |
-| 4 | Tools and Ownership | Day 2 | `tools.md`, `who-owns-what.md` | All access works. Revenue Operations walks you through the CRM screen; then log a practice call in it. Name the owning title for ten sample questions. |
-| 5 | The Discovery Call | Days 3 to 7 | `sales-process.md`, `discovery-questions.md`, `templates.md` | Sit in on every discovery call the Head of Sales runs. Write research briefs on three assigned leads. Pass one practice call with the Head of Sales playing the owner: current state, gap, solution, next step. |
-| 6 | Offers, Proof, and Objections | Days 8 to 10 | `offers.md`, `case-study.md`, `objections.md` | Name every public price and where it is shown. Tell the case study in two minutes. Handle five objections in a role-play. |
+| 1 | The Pitch | Day 1 | `the-message.md` | Say the 30-second pitch with all four parts, from memory. Name three things never to say. |
+| 2 | Our Clients | Days 1 to 2 | `clients.md` | Describe a good-fit client, the decider, the champion, and the four qualifying questions. Sort five sample businesses into fit and not a fit. |
+| 3 | The Work | Day 2 | `services.md` (phases only), `case-study.md` | Explain Research, Validate, Build in your own words, using the Brennan Mechanical story. |
+| 4 | Tools, the Second Brain, and Who Owns What | Day 3 | `tools.md`, `second-brain.md`, `who-owns-what.md` | Every account works. Log a practice call in the CRM and save its call note in the Vault. Find one decision in Cairn. Name the owning title for ten sample questions. |
+| 5 | The Discovery Call | Days 4 to 7 | `sales-process.md`, `discovery-questions.md`, `templates.md` | Sit in on every discovery call the Head of Sales runs. Write research briefs on three assigned leads. Pass one practice call with the Head of Sales playing the client: current state, gap, solution, next step. |
+| 6 | Prices, Proof, and Objections | Days 8 to 10 | `services.md`, `case-study.md`, `objections.md` | Name every Quotable and Internal price and say which is which. Tell a case study in two minutes. Handle five objections in a role-play. |
 
 ## The Launch Gate (End of Day 10)
 
@@ -779,9 +860,9 @@ The new hire is launched into production when all of these are true:
 3. The Head of Sales says "launched" at the check-in.
 
 **In production means:** you run live discovery calls with the Head of Sales on the line, keep
-your deals in the CRM, quote public prices when asked, and draft follow-ups that the Head of Sales
-approves before they go. If the gate is not met by day 10, the missing module is repeated. Nobody
-is launched early.
+your deals current in the CRM and the Vault, quote Quotable prices when asked, and draft
+follow-ups that the Head of Sales approves before they go. If the gate is not met by day 10, the
+missing module is repeated. Nobody is launched early.
 
 ## Part 2: Continuing Education (Days 11 to 90)
 
@@ -789,29 +870,28 @@ One advanced topic about every two weeks, while working live deals.
 
 | # | Topic | When | Reference | Milestone (signed off by the Head of Sales) |
 |---|---|---|---|---|
-| CE1 | The Signal Audit in Depth | Weeks 3 to 4 | `offers.md` | Explain to a practice buyer what the audit returns and why it comes before any build. |
-| CE2 | The Get-Me-Online Buyer | Weeks 3 to 4 | `buyers.md`, `offers.md` | Handle a practice Dig Drive DIY inquiry start to finish, using only the public prices. |
-| CE3 | The Products | Weeks 5 to 6 | `offers.md` | Explain WalterFetch, BananaForce, and BananaBots in one sentence each, and say which buyer each fits. |
-| CE4 | Referral Partners | Weeks 7 to 8 | `offers.md`, `who-owns-what.md` | Explain the partner offer and route a partner question to Partnerships. |
-| CE5 | Three-Option Proposals | Weeks 9 to 10 | `sales-process.md` | Draft a Good, Better, Best proposal for a real deal, for the Founder & CEO to price. |
-| CE6 | Your Own Pipeline | Weeks 11 to 12 | `buyers.md`, `discovery-questions.md` | Source and qualify your own leads with the three questions. Run discovery calls alone. |
+| CE1 | The Discovery Sprint in Depth | Weeks 3 to 4 | `services.md`, `case-study.md` | Explain to a practice client what the Sprint delivers, why it comes first, and how the credit works. |
+| CE2 | Scoping a Pilot | Weeks 5 to 6 | `services.md` | With Solutions Engineering, turn a Sprint finding into a Pilot: one workflow, the tools it connects, and the one number it is measured by. |
+| CE3 | Support Plans and the Hand-Off | Weeks 7 to 8 | `services.md`, `sales-process.md` | Explain the three Support Plans and change requests, and walk a practice deal from Closed Won to kickoff. |
+| CE4 | Writing Proposals | Weeks 9 to 10 | `sales-process.md`, `templates.md` | Draft a Good, Better, Best proposal for a real deal, for the Head of Sales to approve and the Founder & CEO to price. |
+| CE5 | Your Own Pipeline | Weeks 11 to 12 | `clients.md`, `discovery-questions.md` | Find and qualify your own leads with the four questions. Run discovery calls alone. |
 
 ## The 90-Day Review
 
-The Head of Sales and the new hire review every milestone, the scorecard in `expectations.md`,
-the CRM, and the deals worked.
+At day 90 the Head of Sales and the new hire review every milestone, the scorecards in
+`expectations.md`, the CRM, and the deals worked.
 
 ----- FILE: reference/templates.md -----
 # Templates and Examples
 
-Copy these. Each template is followed by a filled example. The example business is made up for
+Copy these, and save each one in the client's folder in the Vault (`second-brain.md`). Each template is followed by a filled example. The example business is made up for
 practice; it is not a client.
 
 ## Research Brief (One Page, Before Every Call)
 
 ```
 Business:            name, town, what they do, how many people
-Which buyer:         1 (advisory) or 2 (get-me-online), and why
+Fit:                 why it fits (clients.md), or why it may not
 Who decides:         the owner-operator's name, if public
 Likely champion:     the office manager or equivalent, if public
 What they use now:   tools visible on their website or job posts
@@ -823,8 +903,8 @@ Sources:             every link you used
 ### Example: Brief
 
 ```
-Business:            Example Heating & Air (practice only), Fort Wayne, residential HVAC, ~12 people
-Which buyer:         1. Owner posts about growth and hiring; this is a workflow question, not a website.
+Business:            Example Heating & Air (practice only), Springfield, residential HVAC, ~25 people
+Fit:                 Good. Growing, hiring, and the job post asks for spreadsheet skills.
 Who decides:         The owner, named on the About page
 Likely champion:     Office manager, named in a job post for a second dispatcher
 What they use now:   Online booking widget on the site; job post asks for "spreadsheet skills"
@@ -833,7 +913,7 @@ Three questions:     #4 (call to job), #6 (falls through the cracks), #12 (why t
 Sources:             company website, job post, Google Business Profile
 ```
 
-## Call Note (Same Day, in the CRM)
+## Call Note (Same Day, in the Vault; Next Step and Stage in the CRM)
 
 ```
 Date and attendees:
@@ -853,7 +933,7 @@ Current state:       Calls go to a cell phone; jobs written on a whiteboard; inv
 Gap:                 Owner estimates 3 missed callbacks a week in season; office manager re-keys every job
 Why now:             Second dispatcher starts next month; wants one system before then
 Decider / champion:  Owner decides; office manager is the champion
-Next step:           Fri, Head of Sales, send Signal Audit overview (draft approved first)
+Next step:           Fri, you, send Discovery Sprint overview (draft approved first)
 Stage:               Leads
 ```
 
@@ -875,77 +955,75 @@ WalterSignal
 Every draft goes to the Head of Sales before it is sent.
 
 ----- FILE: reference/the-message.md -----
-# The Message
+# The Pitch
 
-## The One Line
+## The 30-Second Pitch
 
-> The hardest part of AI isn't the technology. It's knowing what to ignore.
+> WalterSignal builds custom software and AI automation for established businesses whose work has
+> outgrown spreadsheets and disconnected tools. We start by mapping how your work actually runs,
+> prove one fix working on your own numbers, and only then build the rest. Everything we build,
+> you own.
 
-If the new hire remembers one thing from day one, it is this line. Simplicity is the message:
-most owners are over-tooled, under-integrated, and tired of being sold to. WalterSignal wins by
-being the simplest, clearest voice in the room.
+Say it in your own words once you know it. All four parts must be there.
 
-## The Arc of Every Conversation
+## The Four Parts
 
-**Noise → Clarity → Accountability.**
+| Part | What it says | Why it lands with the client |
+|---|---|---|
+| **Who it is for** | Established businesses, roughly 10 to 250 people, running on spreadsheets, whiteboards, and tools that do not talk to each other | They recognize themselves, or they are not a fit (`clients.md`) |
+| **Understand first** | We map how the work runs before recommending anything | They have been pitched tools by people who never asked how they work |
+| **Prove before building** | One workflow goes live and is measured before the full build | They never fund a large project on the strength of a slide |
+| **You own it** | The client owns the code, the data, and the accounts | No lock-in, no per-user fees, no subscription to us |
 
-1. **Noise.** The owner is buried in AI claims, tools, and vendor demos.
-2. **Clarity.** WalterSignal says what is worth doing and what to skip, in plain words.
-3. **Accountability.** One named person is answerable for the work. That is the product.
+## The Two-Minute Version (First Call)
 
-## What the Buyer Hears (Trust Order)
-
-Accountability first, then trust, then judgment. Framework names and internal terms stay inside
-the company. A buyer should never hear "ICM," "pipeline stage," or tool names they did not ask
-about.
+1. **The problem we see.** Growing businesses pile up tools and workarounds. Jobs get re-keyed,
+   quotes take days, and the owner cannot see the numbers without asking someone.
+2. **How we work.** Research, Validate, Build (`services.md`): a fixed-fee Discovery Sprint maps
+   the work and ranks what to fix; a Pilot puts one fix live and measures it; the Build delivers
+   the rest.
+3. **Proof.** One story from `case-study.md`, matched to the prospect's industry or problem.
+4. **The ask.** A next step with a date: usually a second call with the decider, or a Discovery
+   Sprint proposal.
 
 ## Say This
 
-- "We start with how your business actually runs."
-- "You see it working on your own numbers before the rest is built."
-- "You own it: the domain, the code, and the data are in your name."
-- "No monthly fee for the software. No per-user fee."
+- "Before we recommend anything, we want to see how the work actually runs."
+- "You'll see one piece working on your own numbers before you commit to the rest."
+- "You own what we build: the code, the data, and the accounts are in your name."
+- "If AI is not the right answer for a step, we will tell you."
 
 ## Never Say This
 
-- Never claim WalterSignal publishes research. It does not. Sample reports are paid client work.
-- Never lead a cold conversation with a voice agent, an "AI audit," an "assessment," or a
-  "strategy session." Lead with a working outcome the buyer can picture.
-- Never promise a speed or productivity multiple above 5×.
-- Never discount. Discounts belong to the Founder & CEO, and only in exchange for something real.
 - Never promise a delivery date. Dates come from Solutions Engineering after scoping.
+- Never promise a result (hours saved, revenue gained) for a prospect's business. Results in
+  `case-study.md` belong to those clients and are told as theirs.
+- Never discount, or hint at one. Discounts belong to the Founder & CEO.
+- Never lead with the technology ("AI agents," "LLMs," tool names). Lead with the client's work.
+- Never claim WalterSignal sells a product or a software subscription. It does client work only.
 
 ----- FILE: reference/tools.md -----
 # Tools and Where Things Live
 
 This page lists what each tool is for. It never lists passwords or how to log in. Revenue
-Operations sets up access on day 1 (`first-day.md`).
+Operations sets up every account on day 1 (`first-ten-days.md`).
 
-| Tool | What it is for | You use it to |
+| Tool | What it is | You use it to |
 |---|---|---|
-| Company email | Talking to buyers | Send drafts to the Head of Sales first, then to buyers once approved |
-| CRM (BananaForce) | Every lead and deal, by stage | Log calls, next steps, and stage changes the same day |
-| Client folders | One folder per client, filed by CRM stage (Leads, Proposals, Closed Won, Closed Lost) | Keep research briefs and call notes with the client |
-| Templates | Research briefs, call notes, follow-ups (`templates.md`) | Copy before every call |
-| Proposal documents | One document per proposal, in the client's folder | Draft the three options (CE5); the Founder & CEO prices them |
-| Linear | WalterSignal's task tracker | See tasks the Head of Sales assigns you |
-| waltersignal.io | The public website | Send buyers to the right page (below) |
+| **Company email** | Your WalterSignal email address | Talk to clients and prospects, after the Head of Sales approves each draft |
+| **Slack** | Team chat | Message the team; the two urgent cases in `who-owns-what.md` go here |
+| **Google Meet** | Video calls | Every meeting in `meetings.md` and every client call |
+| **The CRM (HubSpot)** | The system where every lead and deal is tracked, by stage (`sales-process.md`) | Log every call, next step, and stage change the same day |
+| **The Vault (Obsidian)** | The company's notes, one half of the second brain (`second-brain.md`) | Keep research briefs, call notes, and proposal drafts in the client's folder |
+| **Cairn** | The company's memory of decisions and facts, the other half of the second brain (`second-brain.md`) | Look up a current price, rule, or decision and the evidence behind it |
+| **Google Docs** | Shared documents | Proposals that go to a client, once approved |
+| **Linear** | The team's task tracker | See the tasks the Head of Sales assigns you |
 
-## We Run What We Sell
+## The Rule for Every Tool
 
-The CRM is BananaForce, one of WalterSignal's own products. When a buyer asks whether the
-software works, the honest answer is that the company runs on it every day.
-
-## Website Pages to Send Buyers
-
-| Buyer wants | Send them to |
-|---|---|
-| A plan first | waltersignal.io/consulting |
-| The products | waltersignal.io/products |
-| A landing page or price, from Dig Drive DIY | waltersignal.io/dig |
-| To refer someone | waltersignal.io/partners |
-| To get started | waltersignal.io/get-started |
-| Who the company is | waltersignal.io/about |
+The CRM says **where a deal stands**. The Vault holds **what was said and written**. Cairn holds
+**what was decided**. If two of them disagree, tell the Head of Sales at the check-in; do not
+pick one yourself.
 
 ----- FILE: reference/who-owns-what.md -----
 # Who Owns What
@@ -968,56 +1046,60 @@ Founder & CEO
 └── Marketing
 ```
 
-WalterSignal is small. Today the founder, Mike Finneran, holds every title except yours. Ask by
-title anyway: "This is a Revenue Operations question." It tells Mike which hat to answer in, and
-the folder stays right as each title is hired.
+Each title is held by one person, and every person is in Slack under their title. Ask by
+title: "This is a Revenue Operations question." Titles stay right when people change.
 
 ## What Each Title Owns
 
 | Title | Owns | Example questions |
 |---|---|---|
-| Founder & CEO | Final prices, any discount, the message, strategy, signing agreements | "Can we take 10% off?" "What does the Signal Audit cost?" |
-| Head of Sales (your manager) | Your training, milestone sign-offs, the Launch Gate, check-ins, the weekly 1:1 and pipeline review, call coaching, approving every draft before it goes to a buyer, your targets and commission plan | "Did I pass module 2?" "Can I send this follow-up?" "What's my quota?" |
-| Revenue Operations | The CRM, its fields and stages, tool access and logins, lead lists | "Which CRM fields are required?" "My login doesn't work." |
+| Founder & CEO | Final prices, any discount, the message, strategy, signing agreements | "Can we take 10% off?" "What would a Build cost for this client?" |
+| Head of Sales (your manager) | Your training, milestone sign-offs, the Launch Gate, check-ins, the weekly 1:1 and pipeline review, call coaching, approving every draft before it goes to a client, this onboarding folder, your targets and commission plan | "Did I pass module 2?" "Can I send this follow-up?" "What's my quota?" |
+| Revenue Operations | The CRM, its fields and stages, tool access and logins, access to the Vault and Cairn, lead lists | "Which CRM fields are required?" "I can't open the Vault." |
 | Solutions Engineering | "Can we build this?", technical scope, timelines before signing, data and security questions | "Can it connect to QuickBooks?" "Where does client data live?" |
-| Delivery Lead | Everything after signing: kickoff, project status, go-live | "When does a signed client's project start?" |
-| Finance & Billing | Invoices, deposits, payment questions, commission and partner payouts | "When is the deposit invoice sent?" "When are commissions paid?" |
-| People Operations | Pay, benefits, time off, hours, equipment, workplace policy | "What's the PTO policy?" "Can I expense a headset?" |
+| Delivery Lead | Everything after signing: kickoff, project status, go-live | "When does a signed client's project start?" "The client wants a change after go-live." |
+| Finance & Billing | Invoices, deposits, payment questions, commission and partner payouts | "When is the first invoice sent?" "When are commissions paid?" |
+| People Operations | Pay, benefits, time off, hours, equipment and home-office setup (including internet), the team directory and contact details, workplace policy | "What's the PTO policy?" "Can I expense a headset?" "What's someone's phone number?" |
 | Legal & Contracts | Agreement wording, changes to terms, NDAs, sending the agreement | "The client wants to change clause 4." |
-| Partnerships | Referral partners, partner pages, partner questions | "A partner asked about their page." |
-| Marketing | The website, inbound leads, content, brand | "There's a typo on /consulting." |
+| Partnerships | Referral partners and firms that send clients | "An accountant wants to refer clients to us." |
+| Marketing | The website, inbound leads, content, brand | "There's a typo on the website." |
 
 ## What You Own
 
 Lead research, discovery notes, the next step on every call, keeping your deals current in the
-CRM, and drafts for the Head of Sales to approve.
+CRM and your client folders current in the Vault, and drafts for the Head of Sales to approve.
 
 ## How to Ask
 
 - **Most questions:** add them to your question list (`question-log.md`) and bring it to the
   end-of-day check-in with the Head of Sales.
-- **Cannot wait:** only two cases. A buyer is waiting on the line, or something went to a buyer by
-  mistake. Message the Head of Sales right away.
-- The public company email, for buyers, is mike@waltersignal.io.
+- **Cannot wait:** only two cases. A client is waiting on the line, or something went to a client
+  by mistake. Message the Head of Sales in Slack right away.
+- **Already decided?** Search Cairn first (`second-brain.md`). If the decision is there, you have
+  your answer.
 
-This folder does not hold anyone's phone number or password.
+This folder does not hold anyone's phone number or password. There is no office: everyone works
+from home, so there is no office Wi-Fi or building access to ask about.
 
-QUESTION: Day 15, launched. A guy who found us through the Dig Drive DIY channel wants a landing page. What does it cost?
+QUESTION: Day 15, launched. A prospect asked what the first step costs and whether it counts toward anything later. What do I tell them?
 
 REPLY:
-Since you're launched, you can say this price. It's in `reference/offers.md` and shown on waltersignal.io/dig:
+Tell them the first step is a Discovery Sprint at a fixed **$7,500**, and yes, it counts toward the next phase (`reference/services.md`).
 
-- **Landing page: $1,500** (list $2,000), live in 14 days.
-- If he wants more than a page, a **custom project** is $1,000 off, from $4,000 after the discount.
+**What to say**
+- **The Sprint:** two weeks. The client gets interviews with their team, a map of how the work runs today, a ranked list of what to fix and what to leave alone, a recommended Pilot, and a 60-minute readout with the decider.
+- **The credit:** if they sign a Pilot within 30 days of the Sprint readout, the full $7,500 is credited toward the Pilot.
+- **The Pilot:** $20,000 for one workflow connected to up to two existing tools, or $30,000 if it connects to three or more tools or includes an AI step. Both are Quotable after launch.
+- **Payment:** the Sprint is 100% at signing (`reference/sales-process.md`).
 
-These prices are only for buyers who came from the Dig Drive DIY channel, so confirm that's how he found us.
+**What not to say**
+- Don't quote a Build price or range. The Founder & CEO prices every Build.
+- Don't offer or hint at a discount. Discounts belong to the Founder & CEO.
+- Don't promise the Sprint will lead to a Pilot or to any result. A client can stop after any phase and keep what was delivered.
 
-- Send him to waltersignal.io/dig so he can see the price himself.
-- Say the ownership terms: no monthly fee, no per-user fees, five years of updates, and he owns the domain, code, and data.
-- Don't offer any discount beyond what's on the page. Discounts are a Founder & CEO call.
-- Anything you write to him goes to the Head of Sales first.
+**Proof:** if they ask for an example, Brennan Mechanical paid the $7,500 Sprint and had it credited to their Pilot (`reference/case-study.md`).
 
-Try it: what is the first question you'd ask him? Then log the call and next step in the CRM today.
+If you send a proposal or a follow-up, the Head of Sales approves the draft first. The Sprint proposal is one page at the fixed price.
 
 CRITERION: ANSWERABLE: PASS only if the reply gives the correct answer from the folder (not just 'ask someone') and contains no fact absent from the folder.
 Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words.

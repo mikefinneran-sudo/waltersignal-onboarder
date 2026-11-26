@@ -1,1 +1,1 @@
-FAIL | "Asking him directly is fine too" is invented and contradicts the folder's two-case interrupt rule; otherwise it correctly says the number isn't there and routes.
+PASS | States "isn't in my notes," routes to People Operations, logs it; welcome-call, Meet, email, Revenue Operations, and interrupt-case facts all match the folder.

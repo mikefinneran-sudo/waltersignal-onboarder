@@ -1,8 +1,8 @@
-That isn't in my notes, so I won't guess a date.
+That isn't in my notes: the payout date and schedule for commission aren't written anywhere in `reference/`, so I won't guess.
 
-- **When commission is paid out:** this is a Finance & Billing question (`reference/who-owns-what.md`).
-- **How your commission is calculated:** this belongs to the Head of Sales, along with your quota.
+**Who to ask** (`reference/who-owns-what.md`):
 
-Add the question to `reference/question-log.md` and bring it to the end-of-day check-in. Today the founder holds both titles, but ask each question by title.
+- **When commission is paid out:** Finance & Billing. They own commission and partner payouts.
+- **What your commission plan is** (rate, how it's calculated): Head of Sales.
 
-The 30-day payout in `reference/offers.md` is for referral partners, not for you.
+Add the payout-timing question to `reference/question-log.md` and bring it to the daily check-in. This isn't one of the two urgent cases (a client waiting on the line, or something sent to a client by mistake), so it doesn't need a Slack interrupt.

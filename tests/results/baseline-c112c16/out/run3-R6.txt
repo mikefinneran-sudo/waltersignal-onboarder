@@ -1,7 +1,0 @@
-Mike answers. The start date isn't in my notes, so I won't guess.
-
-- **Owner:** Mike. Delivery dates come from him after scoping (`reference/who-owns-what.md`).
-- **To the client:** don't promise a date. Say you'll confirm the start with Mike and get back to them.
-- **Timing:** if the client is on the line waiting right now, interrupt Mike. If not, add it to your question list for the end-of-day check-in.
-
-Anything you send the client about it goes to Mike for approval first. Also log the next step in the CRM today: a date, an owner, and what happens.

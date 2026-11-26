@@ -1,1 +1,1 @@
-PASS | Three main items, names when tools, discovery, and prices come by day, and every fact matches first-day.md, syllabus.md, and rules.
+PASS | Gives day-1 goals in full plus the syllabus map, names when held-back topics come, and every fact traces to the folder.

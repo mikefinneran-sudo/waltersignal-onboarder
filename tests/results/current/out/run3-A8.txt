@@ -1,0 +1,22 @@
+Of the prices in `reference/services.md`, you may say the Discovery Sprint, Pilot, and Support Plan prices to a client. The Build range and the change-request rate are internal only.
+
+| Item | Price | Who may say it |
+|---|---|---|
+| Discovery Sprint (2 weeks) | $7,500, fixed | **Quotable** |
+| Pilot, one workflow connected to up to two existing tools (6 to 8 weeks) | $20,000 | **Quotable** |
+| Pilot, three or more tools or includes an AI step | $30,000 | **Quotable** |
+| Support Plan: Essentials | $1,500 per month | **Quotable** |
+| Support Plan: Standard | $3,000 per month | **Quotable** |
+| Support Plan: Priority | $5,000 per month | **Quotable** |
+| Build (3 to 6 months) | Usually $60,000 to $180,000, priced per module from the Pilot | **Internal** |
+| Change request (work outside the signed agreement) | $175 per hour | **Internal** |
+
+- **Sprint credit:** if the client signs a Pilot within 30 days of the Sprint readout, the full $7,500 is credited toward it. This goes with the Sprint and Pilot prices when you quote them.
+- **Builds:** the range is only for qualifying a lead. Never say it to a client or guess a number for them. The Founder & CEO prices every Build.
+- **Change requests:** the Delivery Lead sends the written quote before any work starts, not you.
+- **Discounts:** you never offer, hint at, or agree to one. Only the Founder & CEO decides them.
+- **Anything not on this list:** the Founder & CEO prices it. Don't estimate.
+
+You may quote the Quotable prices only after the Launch Gate, which is checked at your day 10 check-in. Until the Head of Sales says "launched," you quote no price to anyone, including friends and family. If a prospect asks for a price before then, say "Let me get you the right person for that" and bring in the Head of Sales (`reference/objections.md`).
+
+Naming every Quotable and Internal price and saying which is which is the module 6 milestone (`reference/syllabus.md`). The Head of Sales signs it off, and you can say this table back to them at the check-in.

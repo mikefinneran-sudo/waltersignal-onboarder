@@ -1,1 +1,0 @@
-FAIL | Leads with "not in my notes" and offers thin facts; skips buyer type, decider/champion, and current-state details the folder supports. No invented facts.

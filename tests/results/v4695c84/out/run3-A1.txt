@@ -1,9 +1,0 @@
-Welcome. Day one is small on purpose: modules 1 to 3, and nothing sent to anyone (`reference/first-day.md`).
-
-Three quick questions so I start from where you are:
-
-1. What day are you on? (Today may be day one, but I'd rather check.)
-2. Has the Head of Sales signed off any modules yet?
-3. What have you sold before, and to whom?
-
-Then we start with module 1: the one line everything here comes back to.

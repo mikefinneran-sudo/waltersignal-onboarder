@@ -1,8 +1,8 @@
-TURN 1: PASS | Accurate buyer facts; states its day/modules assumption and invites correction; starts the one-line skill.
-TURN 2: PASS | Gives the one line from the-message.md, nothing invented, and asks for a say-back.
-TURN 3: PASS | Both buyers are accurate per buyers.md; three items; never-mix rule included.
-TURN 4: FAIL | Implies Wi-Fi is set up at 9:30 (folder doesn't say) and splits routing between two owners.
-TURN 5: PASS | Declines the whole handbook, holds to day-one reading, and names the module and day for deferred topics.
-TURN 6: PASS | No price; cites the pre-Launch-Gate rule and module 6; points to /dig or the Head of Sales.
-TURN 7: PASS | Says it isn't in the notes and routes quota to the Head of Sales; the targets-at-launch line is from the folder.
-TURN 8: PASS | Afternoon blocks and module 3 milestone match the folder; notes the Head of Sales signs off.
+TURN 1: PASS | Builds on copier background, gives day-one goals accurately, sets the no-contact limits, and asks a follow-up.
+TURN 2: PASS | Gives the pitch verbatim and all four parts from the-message.md; states the milestone and who signs off.
+TURN 3: FAIL | Silently drops one fit signal and only mentions not-fit cases, which are today's module-2 material.
+TURN 4: PASS | Correctly says there is no office Wi-Fi, gives no passwords, and routes internet costs to People Operations.
+TURN 5: PASS | Declines the handbook, gives today's goals and the module map, Launch Gate and CE timing.
+TURN 6: PASS | Forbids quoting before launch, explains the price only to the hire, and logs the missing referral process.
+TURN 7: PASS | Says plainly that quota isn't in the notes and routes it to Head of Sales and the question log.
+TURN 8: PASS | Gives the complete day-1 list with correct timings, the question-log items, and the approval reminder.

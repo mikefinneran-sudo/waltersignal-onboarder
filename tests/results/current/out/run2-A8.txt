@@ -1,0 +1,21 @@
+**Quotable prices** (you may say these to a client after the Launch Gate; `reference/services.md`):
+
+| Item | Price |
+|---|---|
+| Discovery Sprint | $7,500 fixed, 2 weeks |
+| Pilot | $20,000 for one workflow connected to up to two existing tools. $30,000 if it connects to three or more tools or includes an AI step. 6 to 8 weeks. |
+| Sprint credit | The full $7,500 is credited toward the Pilot if the client signs within 30 days of the Sprint readout. |
+| Support Plan: Essentials | $1,500/month |
+| Support Plan: Standard | $3,000/month |
+| Support Plan: Priority | $5,000/month |
+
+**Internal prices** (for qualifying a lead; never said to a client):
+
+| Item | Price | Who handles it |
+|---|---|---|
+| Build | Usually $60,000 to $180,000, priced per module from the Pilot | The Founder & CEO prices every Build. Do not give a Build price or range to a client. |
+| Change request | $175 per hour | The Delivery Lead sends the quote, not you. |
+
+**Discounts:** you never offer, hint at, or agree to one. Only the Founder & CEO decides discounts.
+
+**Timing:** you are on day 9, so you quote no price to anyone yet. That starts after the Launch Gate at the end of day 10, when the Head of Sales says "launched". The module 6 milestone is naming every Quotable and Internal price and saying which is which (`reference/syllabus.md`).

@@ -1,1 +1,1 @@
-PASS | States it isn't in notes, routes PTO to People Operations, and every other fact (4:00 check-in, 9:30 access block) matches the folder.
+PASS | States "not in my notes," routes time off to People Operations, says to log it; the 4:00 check-in matches meetings.md. No invented facts.

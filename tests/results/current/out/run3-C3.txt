@@ -1,9 +1,28 @@
-Show them a live build they can open and check. Use Freebies Fireworks (`reference/case-study.md`).
+Show the story closest to the prospect's industry or problem, told as that client's story with that client's numbers (`reference/case-study.md`). There are two:
 
-- **Send them to waltersignal.io/dig.** The live sites are listed there, including freebiesfireworks.com.
-- **Make one point:** it was built around how that business works, and the owner runs it. They own the domain, code, and data.
-- **Don't call it a published case study.** WalterSignal publishes those only after completed audits and measured pilots. Also never quote sales, traffic, or time-saved numbers, and never say what the client paid.
+| Story | Pick it when the prospect has | What it shows |
+|---|---|---|
+| **Brennan Mechanical** (38-person HVAC/plumbing contractor) | Slow quotes, dispatch on a whiteboard, or the same job typed twice. Field service, distribution, and light manufacturing are close matches. | All three phases: Sprint, Pilot, Build |
+| **Harbor Dental Group** (four offices, about 60 staff) | Staff time lost to manual, repetitive checks. Multi-location healthcare offices are the closest match. | A client who stopped after the Pilot and kept everything built |
 
-Any email to the prospect goes to the Head of Sales for approval first.
+**Brennan's numbers:**
+- Median time to send a quote fell from two business days to four hours during the Pilot.
+- After the Build, finished jobs stopped being typed twice into the accounting software.
+- Phases: 2-week Sprint, 7-week Pilot, 5-month Build.
 
-Try it: say your two-minute version of the story to me. Also, which modules has the Head of Sales signed off so far?
+**Harbor's numbers:**
+- Staff time per insurance check fell from about 12 minutes to about 3.
+- Phases: 2-week Sprint, 6-week Pilot. Harbor kept the Pilot running on the Essentials Support Plan.
+
+**Points to make:**
+- Brennan: the Sprint told them to leave their accounting software alone, which saved them money. We recommend less when less is right.
+- Harbor: each phase stands on its own, and a client can stop after any phase and keep what was delivered (`reference/services.md`).
+- In both stories, staff approve the AI step before anything goes out.
+
+**Never:**
+- Promise the prospect the same result. These numbers belong to Brennan and Harbor (`reference/the-message.md`).
+- Say the Build price from the Brennan story. The case study lists it, but Build prices are Internal and the Founder & CEO prices every Build (`reference/services.md`).
+
+The folder holds only these two written stories, with no deck or one-pager. If you want to send anything in writing, the Head of Sales approves it first.
+
+What industry is the prospect in? I can tell you which story fits.

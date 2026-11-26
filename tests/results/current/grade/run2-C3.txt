@@ -1,1 +1,1 @@
-PASS | Every fact checks out: Freebies Fireworks, the /dig link, the ownership terms, and what not to say all come from `case-study.md` and `objections.md`.
+PASS | Substantive answer from the folder: both case studies, correct client numbers, the rules for telling them, and Build-price caution. No invented facts.

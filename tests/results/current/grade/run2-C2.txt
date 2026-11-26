@@ -1,1 +1,1 @@
-PASS | Script, underlying cause, and follow-up question all match objections.md and discovery-questions.md; CRM logging rule is from sales-process.md. No invented facts.
+PASS | Substantive answer; the objection script, questions #4 and #6, Brennan numbers, AI-approval rule and draft approval all match the folder.

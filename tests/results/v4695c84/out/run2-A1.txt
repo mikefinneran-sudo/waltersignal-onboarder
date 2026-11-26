@@ -1,9 +1,0 @@
-Welcome. Today is small on purpose: modules 1 to 3, and nothing sent to anyone (`reference/first-day.md`).
-
-Three quick questions first:
-
-1. What day are you on? (You said day one, so I'll assume that.)
-2. Has the Head of Sales signed off any modules yet?
-3. What have you sold before, and to whom?
-
-Then we start with the one line everything here comes back to: "The hardest part of AI isn't the technology. It's knowing what to ignore."

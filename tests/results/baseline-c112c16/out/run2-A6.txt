@@ -1,7 +1,0 @@
-Congratulations. Here is what happens next (`reference/sales-process.md`):
-
-1. **Tell Mike the buyer said yes.** He sends the agreement, by itself. The deposit invoice goes out only after the signed agreement comes back. Both are Mike's to send.
-2. **Log it in the CRM today.** Record the call and the next step: a date, an owner, and what happens. The deal stays in Proposals until the signed agreement returns. Then it moves to Closed Won.
-3. **Send the buyer nothing yourself.** Draft a thank-you for Mike to approve. Do not promise a delivery date or a discount.
-
-Tell me when those are done. Then we'll go over the payment terms.

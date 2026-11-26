@@ -1,10 +1,5 @@
-That isn't in my notes, and I never hold passwords or login details.
+There is no WalterSignal Wi-Fi password. The company is remote-first with no office, so you work from home on your own internet connection (`reference/first-ten-days.md`, `reference/who-owns-what.md`). Meetings run on Google Meet and team chat is in Slack.
 
-- Day one runs on video, and WalterSignal is remote-first (`reference/first-day.md`). The folder doesn't say anything about a company Wi-Fi network.
-- Network or equipment questions fit **People Operations**. Tool logins are **Revenue Operations**, and they set those up in the 9:30 block.
+If your home internet is a problem, that's a People Operations question, since they own home-office setup including internet. Add it to `reference/question-log.md` for the 4:00 PM check-in. If it blocks you from the 9:00 AM Eastern welcome call, email the Head of Sales at the address in the welcome email.
 
-Add it to `reference/question-log.md` for the 4:00 check-in.
-
-If your own connection is working, you can carry on with the day.
-
-One quick question so I can build from what you know: what have you sold before, and to whom?
+So I can build on what you already know: what have you sold before, and to whom?

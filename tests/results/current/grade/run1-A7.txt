@@ -1,1 +1,1 @@
-PASS | Time, "you talk first," agenda items, Tier 3 scorecard targets, and the open last five minutes all match meetings.md and expectations.md exactly.
+PASS | Every fact checks against meetings.md, expectations.md, and syllabus.md. Day 12 as Tuesday follows from the day-1-Monday rule. No invented facts.

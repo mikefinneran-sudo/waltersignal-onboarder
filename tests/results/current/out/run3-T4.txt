@@ -1,10 +1,13 @@
-Don't give a number. The Signal Audit price isn't public, and the Founder & CEO quotes it (`reference/offers.md`). Never guess a range.
+That isn't in my notes. The folder has no client list and no law-firm client, so I can't tell you whether we've worked with one. Don't say yes or no to the prospect until you've checked.
 
-Say something like this:
+**What the folder does support** (`reference/clients.md`):
+- Professional services firms are one of our common industries, and no industry is excluded. Each business is judged on its own facts.
+- The two case studies are Brennan Mechanical (HVAC contractor) and Harbor Dental Group (multi-location dental). Neither is a law firm (`reference/case-study.md`).
 
-- "The Founder quotes the audit after a short conversation, because every business is different. Can I ask three questions so the number means something?"
-- Then ask the three qualifying questions in `reference/buyers.md`: why this, why now, why us.
+**What to do:**
+1. **Look it up.** Search Cairn for any law-firm client. I can't see Cairn or the Vault (`reference/second-brain.md`). If you can't get in, Revenue Operations owns access.
+2. **Ask the owner.** Client history is a Head of Sales question. Add it to `reference/question-log.md` for the daily check-in.
+3. **If the prospect is waiting on the line right now,** message the Head of Sales in Slack. That is one of the two interrupt cases in `reference/who-owns-what.md`.
+4. **In the meantime,** don't claim law-firm experience. You can say we work with established businesses whose work has outgrown spreadsheets and disconnected tools, and tell the closest case story (Brennan or Harbor) as that client's result, never as a promise for the prospect (`reference/the-message.md`). Then ask their current-state questions from `reference/discovery-questions.md` to see whether they fit.
 
-You can say what they get: a map of how the work really runs, three ranked pilots, and a 90-day plan, in 10 business days with a fixed scope.
-
-End the call with a dated next step, and log it in the CRM today. Any follow-up email goes to the Head of Sales for approval before it is sent.
+Anything you send the prospect about this goes to the Head of Sales for approval first.

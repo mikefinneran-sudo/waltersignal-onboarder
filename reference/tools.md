@@ -1,30 +1,21 @@
 # Tools and Where Things Live
 
 This page lists what each tool is for. It never lists passwords or how to log in. Revenue
-Operations sets up access on day 1 (`first-day.md`).
+Operations sets up every account on day 1 (`first-ten-days.md`).
 
-| Tool | What it is for | You use it to |
+| Tool | What it is | You use it to |
 |---|---|---|
-| Company email | Talking to buyers | Send drafts to the Head of Sales first, then to buyers once approved |
-| CRM (BananaForce) | Every lead and deal, by stage | Log calls, next steps, and stage changes the same day |
-| Client folders | One folder per client, filed by CRM stage (Leads, Proposals, Closed Won, Closed Lost) | Keep research briefs and call notes with the client |
-| Templates | Research briefs, call notes, follow-ups (`templates.md`) | Copy before every call |
-| Proposal documents | One document per proposal, in the client's folder | Draft the three options (CE5); the Founder & CEO prices them |
-| Linear | WalterSignal's task tracker | See tasks the Head of Sales assigns you |
-| waltersignal.io | The public website | Send buyers to the right page (below) |
+| **Company email** | Your WalterSignal email address | Talk to clients and prospects, after the Head of Sales approves each draft |
+| **Slack** | Team chat | Message the team; the two urgent cases in `who-owns-what.md` go here |
+| **Google Meet** | Video calls | Every meeting in `meetings.md` and every client call |
+| **The CRM (HubSpot)** | The system where every lead and deal is tracked, by stage (`sales-process.md`) | Log every call, next step, and stage change the same day |
+| **The Vault (Obsidian)** | The company's notes, one half of the second brain (`second-brain.md`) | Keep research briefs, call notes, and proposal drafts in the client's folder |
+| **Cairn** | The company's memory of decisions and facts, the other half of the second brain (`second-brain.md`) | Look up a current price, rule, or decision and the evidence behind it |
+| **Google Docs** | Shared documents | Proposals that go to a client, once approved |
+| **Linear** | The team's task tracker | See the tasks the Head of Sales assigns you |
 
-## We Run What We Sell
+## The Rule for Every Tool
 
-The CRM is BananaForce, one of WalterSignal's own products. When a buyer asks whether the
-software works, the honest answer is that the company runs on it every day.
-
-## Website Pages to Send Buyers
-
-| Buyer wants | Send them to |
-|---|---|
-| A plan first | waltersignal.io/consulting |
-| The products | waltersignal.io/products |
-| A landing page or price, from Dig Drive DIY | waltersignal.io/dig |
-| To refer someone | waltersignal.io/partners |
-| To get started | waltersignal.io/get-started |
-| Who the company is | waltersignal.io/about |
+The CRM says **where a deal stands**. The Vault holds **what was said and written**. Cairn holds
+**what was decided**. If two of them disagree, tell the Head of Sales at the check-in; do not
+pick one yourself.

@@ -1,8 +1,5 @@
-Neither is in my notes, so I won't guess. Both are People Operations questions (`reference/who-owns-what.md`). Add them to `reference/question-log.md` for your 4:00 check-in.
+**Parking:** There is nothing to park at. WalterSignal is remote-first with no office, so you work from home and every meeting is on Google Meet (`reference/first-ten-days.md`, `reference/who-owns-what.md`). Your welcome call with the Head of Sales is at 9:00 AM Eastern. Have a quiet room, a headset, and a computer with a current browser ready.
 
-One thing I can say: day one is remote-first and runs on video, 9:00 AM to 4:30 PM Eastern (`reference/first-day.md`). Have a quiet room, a headset, and a notebook ready.
+**Dress code:** That isn't in my notes. Workplace policy belongs to People Operations (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for the 4:00 check-in.
 
-Two quick questions so I can build from what you know:
-
-1. What have you sold before, and to whom?
-2. Has the Head of Sales signed off any modules yet?
+What have you sold before, and to whom? I'll build from that.

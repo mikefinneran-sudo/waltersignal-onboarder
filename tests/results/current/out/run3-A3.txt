@@ -1,14 +1,22 @@
-You're launched, so you can quote this one. It's public (`reference/offers.md`):
+Tell them the first step is a **Discovery Sprint at a fixed $7,500**, and yes, it counts toward the next phase (`reference/services.md`).
 
-- **Landing page: $1,500** (list $2,000), live in 14 days, for Dig Drive DIY viewers only.
-- Send him to **waltersignal.io/dig**, where he can see the price himself.
-- Say the ownership terms: no monthly fee, no per-user fees, five years of updates, and he owns the domain, code, and data.
+**What you can say:**
 
-Two cautions:
+- **Price:** $7,500, fixed. It is a Quotable price, so you can say it now that you are launched.
+- **What they get:** 2 weeks of interviews with their team, a map of how the work runs today, a ranked list of what to fix and what to leave alone, a recommended Pilot, and a 60-minute readout with the decider.
+- **The credit:** if they sign a Pilot within 30 days of the Sprint readout, the full $7,500 is credited toward it.
+- **If they ask what the Pilot costs:** $20,000 for one workflow connected to up to two existing tools, or $30,000 for three or more tools or an AI step. Both are Quotable.
+- **Payment:** the Sprint is 100% at signing (`reference/sales-process.md`).
 
-- **No firm delivery date.** "14 days" is what the page says. A promised date comes from Solutions Engineering.
-- **No discount, and nothing in writing yet.** Any follow-up goes to the Head of Sales for approval first, and discounts belong to the Founder & CEO.
+**Wording from `reference/objections.md`:**
 
-Then log the call and a dated next step in the CRM today.
+> "The first step is a two-week Discovery Sprint at a fixed $7,500, and it's credited toward the Pilot if you go ahead within 30 days."
 
-Does he want only a page, or something bigger? If bigger, the custom project price on that same page applies.
+For proof, Brennan Mechanical paid $7,500 for the Sprint, then $30,000 for the Pilot less the $7,500 credit (`reference/case-study.md`). Tell it as Brennan's story, not as a promise of what this prospect will pay.
+
+**Do not:**
+
+- Quote a Build price or a range. The Founder & CEO prices every Build.
+- Offer or hint at a discount. If they push on price, say "Let me take that to our Founder."
+
+If you put any of this in writing, send the draft to the Head of Sales for approval first.

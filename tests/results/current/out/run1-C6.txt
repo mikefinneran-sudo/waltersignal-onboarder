@@ -1,11 +1,29 @@
-You are in Tier 3 (days 11 to 30) in `reference/expectations.md`. Here are three targets:
+Day 12 is in Tier 3 (days 11 to 30, in production, done together). Your first month is measured against the scorecard in `reference/expectations.md`.
 
-- **Next steps:** 100% of calls end with a next step logged in the CRM the same day.
-- **Research briefs:** 100% of calls have a brief written beforehand (`reference/templates.md`).
-- **Approvals:** nothing goes to a buyer without the Head of Sales approving it first. The target is 0 exceptions.
+**Scorecard**
 
-The fourth target is CE1 and CE2 signed off by day 30. Those are the Signal Audit in depth and the Get-Me-Online buyer.
+| Measure | Target |
+|---|---|
+| Calls ending with a next step logged the same day | 100% |
+| Research brief written before each call | 100% |
+| Call notes saved in the Vault the same day | 100% |
+| Anything sent to a client without approval | 0 |
+| CE1 (The Discovery Sprint in Depth) signed off | By day 30 |
 
-Meeting, pipeline, and revenue targets aren't in my notes. The Head of Sales sets them at launch, so add them to `reference/question-log.md` if you don't have them yet.
+**What you are expected to do**
+- Run live discovery calls with the Head of Sales on the line.
+- Quote the Quotable prices in `reference/services.md` when a client asks.
+- Draft follow-ups for the Head of Sales to approve before they go.
+- Present your own deals at the Monday pipeline review (`reference/meetings.md`).
+- Complete CE1. Its milestone: explain to a practice client what the Sprint delivers, why it comes first, and how the credit works (`reference/syllabus.md`).
 
-Has the Head of Sales said "launched" yet? Which modules are signed off?
+**What is not expected yet**
+- Proposals (CE4, weeks 9 to 10).
+- Internal prices, discounts, and scoping a Pilot (CE2, weeks 5 to 6).
+
+**What is not in my notes**
+Meeting, pipeline, and revenue targets are set by the Head of Sales at launch, and they are not in this folder. Quota and commission are also Head of Sales questions. Add them to `reference/question-log.md` for the daily check-in.
+
+I can't confirm you have passed the Launch Gate. Only the Head of Sales says "launched," and Tier 3 applies once you are.
+
+What have you sold before, and to whom? I can build on that for CE1.

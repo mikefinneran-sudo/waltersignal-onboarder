@@ -1,1 +1,0 @@
-PASS | Substantive Tier 3 answer from expectations.md: Mike reviews call notes and drafts, plus CE1/CE2. Targets correctly routed to Mike; no invented facts.

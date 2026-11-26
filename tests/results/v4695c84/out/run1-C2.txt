@@ -1,7 +1,0 @@
-That's in `reference/objections.md`. Underneath it, the buyer has been sold to and burned. Don't argue. Agree, then get them talking.
-
-- **Say:** "Agreed, a lot of it is. The hardest part of AI isn't the technology. It's knowing what to ignore. That's the first thing we'd do for you."
-- **Then ask a current-state question:** "Walk me through what happens from the moment a customer calls you." (`reference/discovery-questions.md`)
-- **If you reply in writing,** the Head of Sales approves the draft before it goes.
-
-Try it: tell me in your own words how you'd answer, and which follow-up question you'd pick.

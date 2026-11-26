@@ -1,0 +1,17 @@
+**Call notes go in the Vault. Price and other decision changes are checked in Cairn.**
+
+**Saving call notes** (`reference/second-brain.md`, `reference/templates.md`, `reference/tools.md`)
+- Save the note in the Vault (Obsidian), in `Clients/<Stage>/<Client>/`, the same day. The stage is the client's CRM stage: Leads, Proposals, Closed Won, or Closed Lost.
+- Use the call note template in `templates.md`: date and attendees, current state, gap, why now, decider and champion, next step, and stage.
+- Put the next step and the stage in the CRM the same day too. The CRM says where a deal stands, and the Vault holds what was said.
+- When the CRM stage changes, move the client's folder to match.
+
+**Checking whether a decision changed** (`reference/second-brain.md`)
+- Search Cairn. It holds the company's decisions and verified facts, each with who decided it, when, and the evidence.
+- If Cairn and a Vault note disagree, Cairn is current. Tell the Head of Sales so the note gets fixed.
+- If the CRM, Vault, and Cairn disagree with each other, tell the Head of Sales at the check-in. Don't pick one yourself.
+- You can search and read Cairn, but you can't add or change entries. The owner of a decision stores it.
+
+I can't see Cairn or the Vault, so I can't tell you whether a price has changed. The prices in `reference/services.md` are what my notes say. If Cairn shows something different, trust Cairn. If you can't open either one, that is a Revenue Operations question.
+
+Both are part of today's module 4 milestone: a practice call logged in the CRM with its call note in the Vault, and one decision found in Cairn (`reference/first-ten-days.md`). You still quote no prices to anyone until the Launch Gate on day 10.

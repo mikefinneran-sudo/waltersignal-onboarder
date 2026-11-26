@@ -1,9 +1,0 @@
-Congratulations. Three steps (`reference/sales-process.md`):
-
-1. **Tell Mike today** that the buyer said yes. Mike sends the agreement, by itself.
-2. **Log it in the CRM today**, with the next step: a date, an owner, and what happens. The deal stays in Proposals until the signed agreement comes back. Then it moves to Closed Won.
-3. **Send nothing to the buyer yourself.** Mike sends the deposit invoice only after the signed agreement returns. It is 50% at signing.
-
-Don't promise the buyer a start or delivery date. Mike gives dates after scoping.
-
-Details on payment terms beyond that page are Mike's. Put them on your list for the end-of-day check-in.

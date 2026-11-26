@@ -1,1 +1,1 @@
-PASS | Objection script, underlying cause, and current-state questions match objections.md and discovery-questions.md exactly; CRM logging and approval reminders are folder-supported.
+PASS | Specific folder-sourced answer: objection script, current-state questions #4/#6/#7, AI-approval and Brennan facts. Minor mislabel: "true of every engagement" covers Brennan.

@@ -1,1 +1,0 @@
-PASS | Specific questions quoted verbatim from discovery-questions.md, module 5 days 3–7 correct, call order matches; no facts absent from the folder.

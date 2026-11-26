@@ -1,11 +1,24 @@
-The Launch Gate is at the end of day 10 (`reference/syllabus.md`). Three things must be true:
+You are launched when three things are true at the end of day 10 (`reference/syllabus.md`):
 
 1. Modules 1 to 6 are signed off by the Head of Sales.
-2. You have co-run one live discovery call, with the next step logged in the CRM the same day.
-3. The Head of Sales says "launched" at the check-in.
+2. You have co-run one live discovery call with the Head of Sales and logged the next step in the CRM the same day.
+3. The Head of Sales says "launched" at the check-in. Only the Head of Sales can do this, and nobody is launched early. If a module is missing on day 10, it is repeated.
 
-Only the Head of Sales signs off a module, so I can't tell you which ones are done. Today you start module 5, The Discovery Call (days 3 to 7). Its milestone is sitting in on every call, writing three research briefs, and passing one practice call.
+**What is left, by day** (`reference/first-ten-days.md`):
 
-Two quick questions:
-- Which modules are signed off so far?
-- What have you sold before, and to whom?
+| Day | Goals | Done when |
+|---|---|---|
+| **3 (today)** | Module 4: Revenue Operations walks you through the CRM, the Vault, and Cairn. Read `tools.md`, `second-brain.md`, and `who-owns-what.md`. | A practice call is logged in the CRM with its call note in the Vault, you have found one decision in Cairn, and you can name the owning title for ten sample questions. Modules 3 and 4 signed off. |
+| **4** | Module 5 starts: read `sales-process.md`, `discovery-questions.md`, and `templates.md`. Sit in on any discovery call the Head of Sales runs. | Research brief 1 of 3 is written and saved in the Vault. |
+| **5 (Fri)** | Research brief 2. First weekly 1:1. | Brief 2 is reviewed in the 1:1. |
+| **6 (Mon)** | First pipeline review (listen only). Research brief 3. | Brief 3 is written, and you can name the four CRM stages and what moves a deal between them. |
+| **7** | Practice discovery call, with the Head of Sales playing the client. | Module 5 signed off. |
+| **8** | Module 6: prices and what may be quoted. Tell one case study in two minutes. | You can name every Quotable and Internal price and say which is which. |
+| **9** | Module 6: `objections.md`. Role-play five objections. | Module 6 signed off. |
+| **10** | Co-run one live discovery call. | The Launch Gate check at the check-in. |
+
+Module 3 needs one more thing from you: explain Research, Validate, Build in your own words using the Brennan Mechanical story (`reference/case-study.md`).
+
+Until the Launch Gate, you quote no price to anyone. Prices are module 6, days 8 to 10.
+
+What have you sold before, and to whom? I can point you to the parts of the plan that build on it.

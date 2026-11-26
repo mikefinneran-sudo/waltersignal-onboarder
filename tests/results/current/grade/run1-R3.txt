@@ -1,1 +1,1 @@
-PASS | Routes clause changes to Legal & Contracts; interrupt cases, approval rule, and discount routing all match the folder, with nothing invented.
+PASS | Routes to Legal & Contracts per who-owns-what.md; urgent cases, approval rule and CRM stage claims all match the folder; nothing invented.

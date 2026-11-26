@@ -1,8 +1,0 @@
-TURN 1: PASS | Builds on copier experience, links to Advisory buyer from buyers.md, introduces the one line, no inventions.
-TURN 2: PASS | Repeats the one line faithfully, adds nothing new, asks them to try it.
-TURN 3: PASS | Two buyers accurate to buyers.md, never-mixed rule correct, holds the rest for the afternoon.
-TURN 4: PASS | Says "isn't in my notes" first, routes access to Mike, adds it to the question list.
-TURN 5: FAIL | Declines with pacing, but says "tomorrow's check-in"; first-day.md puts the check-in at end of today.
-TURN 6: PASS | Holds day-one rule, quotes nothing to the friend, routes friend-as-lead question to Mike.
-TURN 7: PASS | Says "isn't in my notes" first, routes quota to Mike, cites 90-day targets correctly.
-TURN 8: PASS | Names the rest of module 2, then module 3 and its milestone, then the check-in; Mike signs off.

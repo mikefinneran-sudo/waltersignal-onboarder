@@ -1,1 +1,0 @@
-PASS | Gives the exact one line from the-message.md, the correct arc, module 1, and the 4:00 Head of Sales check-in; nothing invented.

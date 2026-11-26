@@ -1,9 +1,5 @@
-That isn't in my notes, so I won't guess whether a headset is covered.
+That isn't in my notes. Whether a headset can be expensed is a People Operations question: equipment and home-office setup fall under that title (`reference/who-owns-what.md`).
 
-- **Owner:** People Operations. Equipment and expense questions are theirs (`reference/who-owns-what.md`).
-- **What to do:** Add it to `reference/question-log.md` and bring it to the end-of-day check-in.
+Add it to `reference/question-log.md` and bring it to the 4:00 check-in. This isn't one of the two urgent cases, so there's no need to message anyone in Slack.
 
-Today is also the start of module 5, The Discovery Call (days 3 to 7). Two quick questions so I start in the right place:
-
-1. Has the Head of Sales signed off module 4 yet?
-2. What have you sold before, and to whom?
+One related note: `reference/first-ten-days.md` lists a headset as something to have ready before day 1, but it doesn't say who pays for it.

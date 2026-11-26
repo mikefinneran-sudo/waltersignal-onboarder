@@ -1,14 +1,26 @@
-Good question, but you're not expected to write one yet. Proposals are Continuing Education module CE5, weeks 9 to 10 (`reference/syllabus.md`). Today is modules 1 to 3, and nothing goes to anyone.
+Proposals are not expected of you yet. Writing them is Continuing Education CE4 (weeks 9 to 10), and the milestone is a Good, Better, Best proposal for a real deal (`reference/syllabus.md`). Here is how they work.
 
-Here is the short version (`reference/sales-process.md`):
+**What a proposal is:** the written offer for the client's next phase (`reference/sales-process.md`).
 
-- Every proposal offers three options: Good, Better, Best.
-- The Founder & CEO sets the prices, and the Head of Sales approves it before it is sent.
-- It is written in plain client language.
+| Type | Format |
+|---|---|
+| **Discovery Sprint** | One page, at the fixed $7,500 price. Your first sale with a new client is almost always this one. |
+| **Pilot and Build** | Three options: Good, Better, Best. Each step up adds real scope (another workflow, another connected tool, or a Support Plan). Best is the one you recommend. |
 
-Two quick questions so I can build from what you know:
+**Rules for every proposal:**
+- Write it in the client's words, not technical language.
+- Pilot prices come from `reference/services.md`. The Founder & CEO prices every Build, so you draft and they price.
+- The Head of Sales approves every proposal before it is sent. Once approved, it goes to the client as a Google Doc (`reference/tools.md`).
 
-1. What have you sold before, and to whom?
-2. Has Revenue Operations set up your logins yet?
+**After it is sent:**
+- The deal moves from Leads to Proposals in the CRM.
+- It moves to Closed Won when the signed agreement comes back, or to Closed Lost if the client says no or goes quiet.
+- On a yes, tell the Head of Sales the same day. Legal & Contracts sends the agreement, and Finance & Billing sends the first invoice once it is signed.
 
-Then we start with the one line everything here comes back to.
+A proposal template or a filled example is not in my notes. `reference/templates.md` covers only the research brief, call note, and follow-up email. Add it to `reference/question-log.md` for the Head of Sales at the check-in.
+
+You quote no price to anyone until the Launch Gate on day 10.
+
+Today's goals are the welcome call, your accounts, and module 1, the pitch (`reference/first-ten-days.md`).
+
+What have you sold before, and to whom?

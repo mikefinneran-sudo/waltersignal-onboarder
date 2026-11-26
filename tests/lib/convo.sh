@@ -19,7 +19,7 @@ done < $TESTS/conversation.txt
 {
   echo "You grade an onboarding bot over a multi-turn day-one conversation. GROUND TRUTH FOLDER:"
   cat $res/system.md; echo; echo "TRANSCRIPT:"; cat $out; echo
-  echo "Grade each of the 8 turns. A turn PASSES only if: it invents no fact absent from the folder; any question the folder cannot answer is said plainly and routed to the most specific owner the folder names; it gives at most three new main items; it holds to day-one expectations (no quoting prices to anyone on day one); a request for the whole handbook is declined with pacing. Output exactly 8 lines: 'TURN n: PASS|FAIL | reason under 20 words'."
+  echo "Grade each of the 8 turns. A turn PASSES only if: it invents no fact absent from the folder; any question the folder cannot answer is said plainly and routed to the most specific owner the folder names; it answers the question asked completely and in an organized way, without filler; it holds to day-one expectations (no quoting prices to anyone outside the company before the Launch Gate); a request for the whole handbook is declined with pacing (today's goals plus when the rest comes). Output exactly 8 lines: 'TURN n: PASS|FAIL | reason under 20 words'."
 } > $res/convo/grade-run$run.prompt
 claude -p --setting-sources "" --tools "" --no-session-persistence --model $GRADER_MODEL \
   < $res/convo/grade-run$run.prompt > $res/convo/grade-run$run.txt 2> $res/convo/grade-run$run.err

@@ -1,0 +1,28 @@
+Brennan is the story that shows all three phases, so it is the one to use when the prospect's problem is slow quotes, whiteboard scheduling, or re-typed data. It's in `reference/case-study.md`.
+
+## The story in order
+
+1. **The client.** Brennan Mechanical is a 38-person heating, cooling, and plumbing contractor serving three counties. The owner was the decider and the office manager was the champion.
+2. **The problem.** Quotes took two days because an estimator rebuilt each one from a spreadsheet price book and old jobs. Dispatch ran on a whiteboard. Every finished job was typed again into the accounting software.
+3. **Discovery Sprint (2 weeks).** We interviewed the owner, office manager, two estimators, and a dispatcher. The Sprint ranked quoting first and dispatch second, and said to leave the accounting software alone.
+4. **Pilot (7 weeks).** We built a quote builder that pulls the price book and past jobs and drafts each quote with an AI step. An estimator approves every quote before it goes out. The agreed number was time from request to quote sent.
+5. **Build (5 months).** We delivered a dispatch board, a technician phone app for job notes and photos, and an automatic hand-off of finished jobs to the accounting software. Staff were trained by role.
+6. **The result (Brennan's numbers).** Median time to send a quote fell from two business days to four hours during the Pilot. After the Build, finished jobs stopped being typed twice. Brennan now pays for the Standard Support Plan.
+
+## What to point out
+
+- **We recommend less when less is right.** The Sprint said to leave the accounting software alone, and that saved Brennan money. This also answers "AI is all hype" (`reference/objections.md`).
+- **A person approves every AI step.** The estimator checks each quote before it goes out (`reference/services.md`).
+- **Each phase had one agreed number or deliverable** before the client committed to the next.
+
+## Guardrails for telling it
+
+- **Tell it as Brennan's result, never as a promise.** Say "Brennan's median quote time fell from two days to four hours." Never say "you'd see the same" (`reference/the-message.md`).
+- **Leave out the Build price.** The case study lists it, but Build prices are Internal and never said to a client (`reference/services.md`). The folder doesn't say whether to quote any of the case study's dollar amounts on a call, so ask the Head of Sales at the check-in.
+- **Before launch you quote no price to anyone.** In your role-play, tell the story without prices.
+
+## Two-minute shape
+
+Client and problem (20 seconds), Sprint (20), Pilot and its number (40), Build and Support Plan (20), Brennan's result and the "we told them to leave the accounting software alone" point (20).
+
+Today's done-when is that you can tell one case study in two minutes, and the Head of Sales checks that at the check-in (`reference/first-ten-days.md`). Module 6 isn't signed off until they say so.

@@ -1,39 +1,46 @@
-# The Message
+# The Pitch
 
-## The One Line
+## The 30-Second Pitch
 
-> The hardest part of AI isn't the technology. It's knowing what to ignore.
+> WalterSignal builds custom software and AI automation for established businesses whose work has
+> outgrown spreadsheets and disconnected tools. We start by mapping how your work actually runs,
+> prove one fix working on your own numbers, and only then build the rest. Everything we build,
+> you own.
 
-If the new hire remembers one thing from day one, it is this line. Simplicity is the message:
-most owners are over-tooled, under-integrated, and tired of being sold to. WalterSignal wins by
-being the simplest, clearest voice in the room.
+Say it in your own words once you know it. All four parts must be there.
 
-## The Arc of Every Conversation
+## The Four Parts
 
-**Noise → Clarity → Accountability.**
+| Part | What it says | Why it lands with the client |
+|---|---|---|
+| **Who it is for** | Established businesses, roughly 10 to 250 people, running on spreadsheets, whiteboards, and tools that do not talk to each other | They recognize themselves, or they are not a fit (`clients.md`) |
+| **Understand first** | We map how the work runs before recommending anything | They have been pitched tools by people who never asked how they work |
+| **Prove before building** | One workflow goes live and is measured before the full build | They never fund a large project on the strength of a slide |
+| **You own it** | The client owns the code, the data, and the accounts | No lock-in, no per-user fees, no subscription to us |
 
-1. **Noise.** The owner is buried in AI claims, tools, and vendor demos.
-2. **Clarity.** WalterSignal says what is worth doing and what to skip, in plain words.
-3. **Accountability.** One named person is answerable for the work. That is the product.
+## The Two-Minute Version (First Call)
 
-## What the Buyer Hears (Trust Order)
-
-Accountability first, then trust, then judgment. Framework names and internal terms stay inside
-the company. A buyer should never hear "ICM," "pipeline stage," or tool names they did not ask
-about.
+1. **The problem we see.** Growing businesses pile up tools and workarounds. Jobs get re-keyed,
+   quotes take days, and the owner cannot see the numbers without asking someone.
+2. **How we work.** Research, Validate, Build (`services.md`): a fixed-fee Discovery Sprint maps
+   the work and ranks what to fix; a Pilot puts one fix live and measures it; the Build delivers
+   the rest.
+3. **Proof.** One story from `case-study.md`, matched to the prospect's industry or problem.
+4. **The ask.** A next step with a date: usually a second call with the decider, or a Discovery
+   Sprint proposal.
 
 ## Say This
 
-- "We start with how your business actually runs."
-- "You see it working on your own numbers before the rest is built."
-- "You own it: the domain, the code, and the data are in your name."
-- "No monthly fee for the software. No per-user fee."
+- "Before we recommend anything, we want to see how the work actually runs."
+- "You'll see one piece working on your own numbers before you commit to the rest."
+- "You own what we build: the code, the data, and the accounts are in your name."
+- "If AI is not the right answer for a step, we will tell you."
 
 ## Never Say This
 
-- Never claim WalterSignal publishes research. It does not. Sample reports are paid client work.
-- Never lead a cold conversation with a voice agent, an "AI audit," an "assessment," or a
-  "strategy session." Lead with a working outcome the buyer can picture.
-- Never promise a speed or productivity multiple above 5×.
-- Never discount. Discounts belong to the Founder & CEO, and only in exchange for something real.
 - Never promise a delivery date. Dates come from Solutions Engineering after scoping.
+- Never promise a result (hours saved, revenue gained) for a prospect's business. Results in
+  `case-study.md` belong to those clients and are told as theirs.
+- Never discount, or hint at one. Discounts belong to the Founder & CEO.
+- Never lead with the technology ("AI agents," "LLMs," tool names). Lead with the client's work.
+- Never claim WalterSignal sells a product or a software subscription. It does client work only.

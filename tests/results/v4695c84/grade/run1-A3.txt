@@ -1,1 +1,0 @@
-PASS | Gives the correct public price ($1,500, list $2,000, live in 14 days), the /dig page, and ownership terms; every fact is in the folder.

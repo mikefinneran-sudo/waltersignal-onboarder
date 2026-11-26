@@ -1,14 +1,31 @@
-Three things must be true by the end of day 10 (`reference/syllabus.md`):
+You are launched when all three of these are true (`reference/syllabus.md`):
 
 1. Modules 1 to 6 are signed off by the Head of Sales.
-2. You have co-run one live discovery call with the Head of Sales, with the next step logged in the CRM the same day.
-3. The Head of Sales says "launched" at the check-in.
+2. You have co-run one live discovery call with the Head of Sales, and logged the next step in the CRM the same day.
+3. The Head of Sales says "launched" at the check-in. Nobody is launched early, and if the gate isn't met by day 10, the missing module is repeated.
 
-Only the Head of Sales signs off a module, and nobody is launched early.
+I can't see which modules are already signed off. Only the Head of Sales signs off a milestone, so confirm your status at today's check-in.
 
-Day 3 is the start of module 5, The Discovery Call (days 3 to 7).
+**Today (day 3):** module 4, where Revenue Operations walks you through the CRM, the Vault, and Cairn. Read `reference/tools.md`, `reference/second-brain.md`, and `reference/who-owns-what.md` (`reference/first-ten-days.md`). Today is done when:
+- A practice call is logged in the CRM with its call note in the Vault.
+- You have found one decision in Cairn.
+- You can name the owning title for ten sample questions.
+- Modules 3 and 4 are signed off.
 
-Two questions so I can pitch this right:
+**What remains after today:**
 
-- Which modules has the Head of Sales signed off so far?
-- What have you sold before, and to whom?
+| Day | Goal |
+|---|---|
+| 4 | Module 5 starts. Read `sales-process.md`, `discovery-questions.md`, and `templates.md`. Sit in on any discovery call the Head of Sales runs. Write research brief 1 of 3. |
+| 5 (Fri) | Research brief 2. First weekly 1:1. |
+| 6 (Mon) | Listen in on the pipeline review. Research brief 3. Know the four CRM stages. |
+| 7 | Practice discovery call with the Head of Sales playing the client. Module 5 signed off. |
+| 8 | Module 6: prices (Quotable vs. Internal) and telling one case study in two minutes. |
+| 9 | Module 6: `objections.md`, with a five-objection role-play. Module 6 signed off. |
+| 10 | Co-run one live discovery call and log the next step in the CRM the same day. The Launch Gate check happens at the check-in. |
+
+Module 5 also requires that you sit in on every discovery call the Head of Sales runs.
+
+Until launch, you quote no price to anyone, and anything going to a client or prospect goes to the Head of Sales first. If you fall behind on a day's goals, say so at the check-in and the Head of Sales moves the plan.
+
+What have you sold before, and to whom? I can tie the next modules to that.

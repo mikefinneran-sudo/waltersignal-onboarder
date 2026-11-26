@@ -1,1 +1,1 @@
-PASS | Decider (owner-operator) and champion (office manager) match buyers.md; module 5 timing and question #8 are correct; nothing invented.
+FAIL | Says "CRM call notes" record decider/champion; call notes live in the Vault per templates.md. Core decider/champion answer is otherwise correct.

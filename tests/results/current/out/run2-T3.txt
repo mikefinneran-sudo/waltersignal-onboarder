@@ -1,9 +1,11 @@
-That isn't in my notes. This folder holds no phone numbers.
+That isn't in my notes. Phone numbers and contact details belong to People Operations (`reference/who-owns-what.md`), and this folder holds no one's number. Add it to `reference/question-log.md` for the daily check-in.
 
-- **Your manager is the Head of Sales.** Today that title is held by Mike. The welcome email he sent has the address to reach him (`reference/first-day.md`).
-- **Add the question to `reference/question-log.md`** for the 4:00 check-in. Asking him directly is fine too.
-- **Message him right away only if** a buyer is waiting on the line, or something went to a buyer by mistake (`reference/who-owns-what.md`).
+If you're trying to reach the Head of Sales because of the 9:00 AM Eastern welcome call (`reference/first-ten-days.md`):
 
-Day one is small on purpose: modules 1 to 3, and nothing sent to anyone. So nothing should need a call today.
+- The call is on Google Meet, using the video link in the email the Head of Sales sent you the Friday before.
+- If the link fails, email the Head of Sales at the address in that welcome email.
+- If an account isn't working, that's Revenue Operations, not the Head of Sales.
 
-What have you sold before, and to whom?
+Interrupting the Head of Sales is reserved for two cases: a client is waiting on the line, or something went to a client by mistake (`reference/who-owns-what.md`). Everything else waits for the 4:00 PM check-in.
+
+What have you sold before, and to whom? I'll build on that.

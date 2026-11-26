@@ -1,14 +1,19 @@
-Say this (`reference/objections.md`):
+Agree with them, then bring the conversation back to their work. This is the "AI Is All Hype" objection in `reference/objections.md`.
 
-> "Agreed, a lot of it is. The hardest part of AI isn't the technology. It's knowing what to ignore. That's the first thing we'd do for you."
+**What to say**
 
-Underneath, they have been sold to and burned. Don't argue with them.
+> "A lot of it is. That's why we start by mapping how your work runs, and we'll tell you where AI doesn't belong. Brennan Mechanical's Sprint said to leave their accounting software alone."
 
-Then ask one current-state question from `reference/discovery-questions.md`, such as:
+**What is underneath it:** they have been sold to and burned. Don't defend AI. The Brennan example shows WalterSignal recommends less when less is right (`reference/case-study.md`).
 
-- "Walk me through what happens from the moment a customer calls you."
-- "Where does a job fall through the cracks?"
+**Then ask a current-state question** (`reference/discovery-questions.md`), for example:
 
-Before you leave the call, get a next step with a date and owner, and log it in the CRM today. If you follow up in writing, the draft goes to the Head of Sales first.
+- #4: "Walk me through what happens from the moment a customer calls you."
+- #6: "Where does a job fall through the cracks?"
+- #7: "Which tools do you pay for today, and which ones does anyone actually open?"
 
-Try saying it back in your own words. What would your first question be?
+**Guardrails**
+
+- Lead with their work, not the technology (`reference/the-message.md`).
+- If they ask for proof, tell Brennan's story with Brennan's numbers, as Brennan's result. Don't promise the prospect the same number.
+- If they ask how AI is used, one fact you can state is that every AI step has a person on the client's staff approving it before anything goes out (`reference/services.md`).

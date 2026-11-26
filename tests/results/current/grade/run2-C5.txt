@@ -1,1 +1,1 @@
-PASS | Substantive and specific, drawn from templates.md and the module 5 milestone; "source link for every fact" slightly overstates "every link you used."
+PASS | Gives the full template, the example, where to save it, and the day 5 to 6 timing. Every fact matches templates.md, first-ten-days.md, meetings.md, and second-brain.md.

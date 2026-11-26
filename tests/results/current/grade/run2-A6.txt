@@ -1,1 +1,1 @@
-PASS | All facts match sales-process.md and who-owns-what.md: same-day notice, agreement sent alone, deposit invoice after signing, Closed Won on signed return, Delivery Lead.
+PASS | Steps, 4:15 check-in, payment table, owners and Vault folder move all match the folder; unanswered parts correctly routed to Legal and the Delivery Lead.

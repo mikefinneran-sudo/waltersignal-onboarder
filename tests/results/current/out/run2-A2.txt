@@ -1,12 +1,23 @@
-Here is the one line (`reference/the-message.md`):
+Here is the 30-second pitch (`reference/the-message.md`):
 
-> The hardest part of AI isn't the technology. It's knowing what to ignore.
+> WalterSignal builds custom software and AI automation for established businesses whose work has outgrown spreadsheets and disconnected tools. We start by mapping how your work actually runs, prove one fix working on your own numbers, and only then build the rest. Everything we build, you own.
 
-It works because owners are buried in AI noise, and we are the clear voice. Every conversation follows the same arc: Noise → Clarity → Accountability.
+Say it in your own words once you know it, but all four parts must be there:
 
-Two quick questions:
+| Part | What it says |
+|---|---|
+| **Who it is for** | Established businesses of roughly 10 to 250 people, running on spreadsheets, whiteboards, and tools that do not talk to each other |
+| **Understand first** | We map how the work runs before recommending anything |
+| **Prove before building** | One workflow goes live and is measured before the full build |
+| **You own it** | The client owns the code, the data, and the accounts |
 
-1. What have you sold before, and to whom?
-2. Try the line in your own words, as if opening a call with a small business owner.
+**Never say:**
+- A delivery date. Dates come from Solutions Engineering after scoping.
+- A promised result (hours saved, revenue gained) for a prospect's business. Results in `reference/case-study.md` belong to those clients.
+- A discount, or a hint of one. Discounts belong to the Founder & CEO.
+- Technology first ("AI agents," "LLMs," tool names). Lead with the client's work.
+- That WalterSignal sells a product or a software subscription. It does client work only.
 
-Today is modules 1 to 3 only, and nothing gets sent to anyone.
+This is module 1. Its milestone is saying the pitch from memory with all four parts and naming three of the "never say" items. The Head of Sales signs it off at the 4:00 PM check-in. You send nothing to anyone today.
+
+What have you sold before, and to whom? I can tie the pitch to what you already know.

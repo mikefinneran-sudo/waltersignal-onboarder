@@ -1,9 +1,0 @@
-That isn't in my notes. The folder doesn't say what a research brief should contain, how long it should be, or what format it takes. That's Mike's call. Put it on your list for the end-of-day check-in.
-
-Here is what the folder does say:
-
-- Module 5 asks for briefs on three leads Mike assigns (`reference/syllabus.md`).
-- Briefs are kept in the client's folder, filed by CRM stage (`reference/tools.md`).
-- Leads are qualified with three questions: Why this? Why now? Why us? (`reference/buyers.md`)
-
-Which modules has Mike signed off so far?

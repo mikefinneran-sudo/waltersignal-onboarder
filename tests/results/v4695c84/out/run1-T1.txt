@@ -1,7 +1,0 @@
-That isn't in my notes, and I never handle passwords or login details. Access is a Revenue Operations question (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for the end-of-day check-in.
-
-Day one runs on video, 9:00 AM to 4:30 PM Eastern (`reference/first-day.md`), so make sure your own connection is working before the 9:00 call.
-
-Your 9:30 block is when Revenue Operations sets up and tests your tool access live.
-
-One question so I can build from what you know: what have you sold before, and to whom?

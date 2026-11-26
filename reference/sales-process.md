@@ -1,47 +1,66 @@
 # How a Deal Moves
 
-## The Three Steps of the Work
+## The Three Phases
 
-**Research → Validate → Build.** Nothing gets built on a guess. The buyer sees the work at each
-step before the next one starts. Nobody is asked to trust a slide.
+**Research, Validate, Build.** Each phase is sold and signed on its own (`services.md`). The
+client sees working results at each phase before deciding on the next. Nobody is asked to fund a
+large project on the strength of a slide.
+
+Your first sale with any new client is almost always the **Discovery Sprint**. Later phases are
+sold from what the Sprint finds.
 
 ## The Discovery Call
 
-Discovery and the pitch happen in the same call. Run it in this order:
+The first real conversation with a prospect. Discovery and the pitch happen in the same call.
+Run it in this order, using the question bank in `discovery-questions.md`:
 
-1. **Current state.** How does the work run today? Who calls, what gets written on paper, where
-   does a job fall through the cracks?
-2. **Gap.** What does that cost them, in their own numbers?
-3. **Solution.** The smallest working outcome that closes the gap.
+1. **Current state.** How does the work run today? Who does what, what is on paper or in
+   someone's head, and where does work fall through the cracks?
+2. **Gap.** What does that cost them, in their own numbers: hours, missed jobs, errors?
+3. **Solution.** The smallest working fix that closes the gap. Usually that is "a Discovery
+   Sprint to find out which fix comes first."
 4. **Next step.** Every call ends with one, written down: a date, an owner, and what happens.
 
-Money comes up by the second conversation at the latest. Do not give away free strategy: the
-call finds the problem; the Signal Audit or the proposal solves it.
+Money comes up by the second conversation at the latest. Do not give away free consulting on the
+call: the call finds the problem; the Sprint maps the fix.
 
 ## CRM Stages
 
-Every deal sits in exactly one stage. Move it the day it changes.
+The CRM is the system where every lead and deal is tracked (`tools.md`). Every deal sits in
+exactly one stage. Move it the day it changes.
 
-| Stage | Means |
-|---|---|
-| Leads | Qualified with the three questions in `buyers.md`, no proposal yet |
-| Proposals | A proposal has been sent |
-| Closed Won | Signed agreement returned |
-| Closed Lost | Said no, went quiet after the agreed follow-ups, or chose someone else. Log why. |
+| Stage | Means | Moves to the next stage when |
+|---|---|---|
+| **Leads** | A business you are talking to, qualified with the four questions in `clients.md`, no proposal yet | A proposal is sent |
+| **Proposals** | A written proposal has been sent | The signed agreement comes back (Closed Won), or the prospect says no or goes quiet (Closed Lost) |
+| **Closed Won** | Signed agreement returned | Delivery takes over (`who-owns-what.md`) |
+| **Closed Lost** | Said no, went quiet after three dated follow-ups, chose someone else, or not a fit. Log the reason. | A closed-lost deal can return to Leads later if something changes |
 
 ## Proposals
 
-- Every proposal offers three options: Good, Better, Best.
-- Each step up adds at least $1,000 and real value. Best is the target.
-- Written in plain client language.
-- The Founder & CEO sets the prices. The Head of Sales approves every proposal before it is sent.
+A proposal is the written offer for the next phase.
+
+- **Discovery Sprint:** a one-page proposal at the fixed $7,500 price.
+- **Pilot and Build:** three options, Good, Better, Best. Each step up adds real scope (another
+  workflow, another connected tool, a Support Plan). Best is the option you recommend.
+- Written in the client's words, not technical language.
+- Pilot prices come from `services.md`. The Founder & CEO prices every Build. The Head of Sales
+  approves every proposal before it is sent.
+- Writing proposals yourself is Continuing Education CE4 (`syllabus.md`).
 
 ## After a Yes
 
-1. The agreement goes alone.
-2. Only after the signed agreement comes back does the deposit invoice go out.
-3. Payment: 50% at signing. Engagements of 90 days or more bill the balance monthly; shorter
-   ones bill the balance at go-live.
+1. Tell the Head of Sales the same day, at the daily check-in (`meetings.md`).
+2. Legal & Contracts sends the agreement. The agreement goes on its own, with nothing else
+   attached.
+3. When the signed agreement comes back, move the deal to Closed Won. Finance & Billing then
+   sends the first invoice.
+4. The Delivery Lead runs the kickoff. You stay the client's contact for anything new they want
+   to buy.
 
-Legal & Contracts sends the agreement. Finance & Billing sends the deposit invoice. The Sales
-Executive tells the Head of Sales the buyer said yes, the same day.
+| Phase | When the client pays |
+|---|---|
+| Discovery Sprint | 100% at signing |
+| Pilot | 50% at signing, 50% at go-live |
+| Build | 50% at signing, the balance billed monthly over the Build |
+| Support Plan | Monthly, starting the month after go-live |

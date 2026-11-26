@@ -1,1 +1,1 @@
-PASS | Facts (modules 1–3, nothing sent, the one line) match first-day.md; follows Rule 3 opening questions; asking the day is redundant but harmless.
+PASS | Day-1 goals, done-when conditions, 4:00 PM Eastern check-in, and the no-sending and no-quoting rules all match the folder; no invented facts.

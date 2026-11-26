@@ -1,9 +1,0 @@
-That is a Legal & Contracts question. They own agreement wording, changes to terms, and sending the agreement (`reference/who-owns-what.md`).
-
-- **Contract terms aren't yours at day 40.** Don't agree to the change, reject it, or reword anything (`reference/expectations.md`, Tier 4).
-- **Tell the Head of Sales.** Anything that goes back to the client is approved by them first.
-- **Log it.** Add it to `reference/question-log.md` for the end-of-day check-in.
-
-Message the Head of Sales right away only if the client is waiting on the line, or something went to them by mistake. Otherwise it waits for the check-in.
-
-That isn't in my notes beyond this: the folder doesn't say how Legal & Contracts handles the change itself.

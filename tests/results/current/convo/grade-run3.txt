@@ -1,8 +1,8 @@
-TURN 1: PASS | Accurate facts from folder, builds on copier experience, about three new items, no prices.
-TURN 2: PASS | Gives the one line and arc from the-message.md, asks for say-back, nothing invented.
-TURN 3: PASS | Three items, both buyers accurate to buyers.md, names qualifying questions as next in module 2.
-TURN 4: PASS | Says plainly it is not in notes, routes logins to Revenue Operations, logs it, no guessing.
-TURN 5: PASS | Declines the handbook, names when each held piece comes by module and day, holds to day one.
-TURN 6: FAIL | Routes website price to Head of Sales, not Founder & CEO; promises a Head of Sales follow-up.
-TURN 7: PASS | Quota routed to Head of Sales, cites expectations.md on targets, no invented number.
-TURN 8: PASS | Afternoon schedule matches first-day.md exactly, three items, question list recapped accurately.
+TURN 1: PASS | Day-one goals accurate and sourced; builds on copier experience; no prices; approval rule stated.
+TURN 2: PASS | Exact pitch, all four parts, never-say list from the-message.md; ends with a practice prompt.
+TURN 3: PASS | Complete, organized clients.md answer; $20,000 flagged as not quotable; module 3 timing named.
+TURN 4: PASS | Says there is no Wi-Fi, from the folder; logins to Revenue Operations; internet to People Operations.
+TURN 5: PASS | Declines the paste; gives today's goals, module table, and CE timing (days 11–90, CE1–CE5).
+TURN 6: PASS | Refuses pre-launch quoting to the friend; fit judged by the folder; friend-as-lead routed to Head of Sales.
+TURN 7: PASS | Says "not in my notes," routes to Head of Sales, notes targets are set at launch, logs it.
+TURN 8: PASS | Today's goals and Day 1 checklist accurate; admits it can't see progress; open questions routed.

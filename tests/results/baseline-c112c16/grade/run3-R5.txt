@@ -1,1 +1,0 @@
-FAIL | Routes equipment to Mike, not People Operations as the criterion requires. Note: the folder has no People Operations; it assigns equipment to Mike.

@@ -1,1 +1,0 @@
-PASS | Correctly states day one covers modules 1–3, nothing sent, cites first-day.md, asks rule-3 opening questions; no invented facts.

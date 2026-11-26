@@ -1,1 +1,0 @@
-PASS | States it isn't in the notes, routes to Revenue Operations, and every fact (remote-first, 9:00 video, 9:30 access) is in first-day.md.

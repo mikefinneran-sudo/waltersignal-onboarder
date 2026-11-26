@@ -1,1 +1,1 @@
-PASS | States it isn't in the notes, routes to Head of Sales (held by Mike, per folder), invents no number; every other fact matches the folder.
+FAIL | Claims "phoning is only for the two urgent cases"; the folder says to message the Head of Sales in Slack, and never mentions phoning.

@@ -1,0 +1,1 @@
+PASS | Every story detail, result, the Sprint lesson, the price rules, and the day-8 and day-9 targets match `case-study.md` and the other reference files. Nothing is invented.

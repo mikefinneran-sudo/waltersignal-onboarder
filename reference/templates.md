@@ -1,13 +1,13 @@
 # Templates and Examples
 
-Copy these. Each template is followed by a filled example. The example business is made up for
+Copy these, and save each one in the client's folder in the Vault (`second-brain.md`). Each template is followed by a filled example. The example business is made up for
 practice; it is not a client.
 
 ## Research Brief (One Page, Before Every Call)
 
 ```
 Business:            name, town, what they do, how many people
-Which buyer:         1 (advisory) or 2 (get-me-online), and why
+Fit:                 why it fits (clients.md), or why it may not
 Who decides:         the owner-operator's name, if public
 Likely champion:     the office manager or equivalent, if public
 What they use now:   tools visible on their website or job posts
@@ -19,8 +19,8 @@ Sources:             every link you used
 ### Example: Brief
 
 ```
-Business:            Example Heating & Air (practice only), Fort Wayne, residential HVAC, ~12 people
-Which buyer:         1. Owner posts about growth and hiring; this is a workflow question, not a website.
+Business:            Example Heating & Air (practice only), Springfield, residential HVAC, ~25 people
+Fit:                 Good. Growing, hiring, and the job post asks for spreadsheet skills.
 Who decides:         The owner, named on the About page
 Likely champion:     Office manager, named in a job post for a second dispatcher
 What they use now:   Online booking widget on the site; job post asks for "spreadsheet skills"
@@ -29,7 +29,7 @@ Three questions:     #4 (call to job), #6 (falls through the cracks), #12 (why t
 Sources:             company website, job post, Google Business Profile
 ```
 
-## Call Note (Same Day, in the CRM)
+## Call Note (Same Day, in the Vault; Next Step and Stage in the CRM)
 
 ```
 Date and attendees:
@@ -49,7 +49,7 @@ Current state:       Calls go to a cell phone; jobs written on a whiteboard; inv
 Gap:                 Owner estimates 3 missed callbacks a week in season; office manager re-keys every job
 Why now:             Second dispatcher starts next month; wants one system before then
 Decider / champion:  Owner decides; office manager is the champion
-Next step:           Fri, Head of Sales, send Signal Audit overview (draft approved first)
+Next step:           Fri, you, send Discovery Sprint overview (draft approved first)
 Stage:               Leads
 ```
 

@@ -1,10 +1,11 @@
-That isn't in my notes, so I won't guess at a link.
+That isn't in my notes. The folder holds no video links. `reference/meetings.md` says only that the Head of Sales sends the calendar invites for the recurring meetings, and the Head of Sales owns the pipeline review.
 
-What the folder does say (`reference/meetings.md`):
-- The pipeline review is Mondays, 10:00 to 10:45 Eastern. Day 6 is your first.
-- The Head of Sales owns it and sends the calendar invites.
-- Until launch, you listen and take notes. You don't present.
+Add it to `reference/question-log.md` and bring it to the daily check-in. If you can't wait for the check-in, ask the Head of Sales in Slack, since they own the invite.
 
-The link is a Head of Sales question. Add it to `reference/question-log.md` for your end-of-day check-in.
+What the folder does say about the meeting (`reference/meetings.md`):
 
-Which modules has the Head of Sales signed off so far? I'll tell you what comes next.
+- **When:** Monday, 10:00 to 10:45 AM Eastern, on video.
+- **Who:** the Head of Sales runs it, with you, Revenue Operations, Solutions Engineering, and the Delivery Lead.
+- **Your role on days 6 to 10:** listen and take notes. You do not present until you launch.
+
+Your other day 6 goal is research brief 3, saved in the Vault (`reference/first-ten-days.md`). It is done when you can also name the four CRM stages and what moves a deal between them.

@@ -1,1 +1,1 @@
-FAIL | Correctly says "not in my notes" and routes to Solutions Engineering, but "Company size doesn't set a timeline" is an unsupported claim absent from folder.
+PASS | It says plainly the folder has no company-specific timeline, routes to Solutions Engineering, and every fact (3–6 months, Brennan's 5-month Build) matches the folder.

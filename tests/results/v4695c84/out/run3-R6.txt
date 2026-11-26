@@ -1,9 +1,0 @@
-That is a Delivery Lead question. Kickoff, project status, and go-live all belong to that title (`reference/who-owns-what.md`).
-
-- **Don't give a date.** Dates come from Solutions Engineering after scoping, and you never promise one (`reference/the-message.md`).
-- **Tell the Head of Sales today** that the client signed and asked. That is your job after a yes (`reference/sales-process.md`).
-- **If the client is on the line right now**, that is one of the two interrupt cases. Message the Head of Sales right away. Otherwise, add the question to `reference/question-log.md`.
-
-Today the founder holds the Delivery Lead title, but ask by title anyway.
-
-Want to practice what you'd say to the client in that moment?

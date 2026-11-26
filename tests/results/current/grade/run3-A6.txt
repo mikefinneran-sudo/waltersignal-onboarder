@@ -1,1 +1,1 @@
-PASS | All facts match `sales-process.md` and `who-owns-what.md`: tell Head of Sales same day, agreement alone, deposit after signing, 50%, Closed Won, Delivery Lead.
+You've hit your 5-hour limit · resets 3pm (America/Indianapolis)

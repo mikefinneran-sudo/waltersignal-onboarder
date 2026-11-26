@@ -1,11 +1,17 @@
-You're past the Launch Gate, so you can quote public prices. For a Dig Drive DIY viewer, the landing page is **$1,500** (list $2,000), live in 14 days. That's in `reference/offers.md` and on waltersignal.io/dig.
+Tell them the first step is a Discovery Sprint at a fixed **$7,500**, and yes, it counts toward the next phase (`reference/services.md`).
 
-Three things to keep in mind:
+**What to say**
+- "The first step is a two-week Discovery Sprint at a fixed $7,500. If you go ahead with a Pilot within 30 days of the Sprint readout, the full $7,500 is credited toward it." (`reference/objections.md` has the same wording.)
 
-- **Confirm he came from the channel.** That price is only for Dig Drive DIY viewers.
-- **Say the ownership terms.** No monthly fee, no per-user fees, five years of updates, and he owns the domain, code, and data.
-- **Send him to waltersignal.io/dig.** He'll want to see the number there.
+**Details if they ask**
+- **What they get:** interviews with the team, a map of how the work runs today, a ranked list of what to fix and what to leave alone, a recommended Pilot, and a 60-minute readout with the decider.
+- **Credit:** it applies only to a Pilot signed within 30 days of the readout.
+- **Payment:** the Sprint is 100% at signing (`reference/sales-process.md`).
+- **Stopping:** each phase is signed on its own, so they can stop after the Sprint and keep what was delivered.
 
-If he wants more than a landing page, a custom project is $1,000 off, from $4,000 after the discount. Anything else goes to the Founder & CEO.
+**Do not say**
+- Any promise of a result or a date.
+- Any hint of a discount. Only the Founder & CEO decides those.
+- A Build price or range. Builds are Internal and priced by the Founder & CEO.
 
-Any follow-up email goes to the Head of Sales for approval before it's sent.
+If you put any of this in writing, send the draft to the Head of Sales for approval first.

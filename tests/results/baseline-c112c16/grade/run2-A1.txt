@@ -1,1 +1,0 @@
-PASS | Matches example 1 and Rule 3 opening questions; every claim (small day, nothing sent, question list, end-of-day check-in) appears in the folder.

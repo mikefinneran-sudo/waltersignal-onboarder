@@ -1,11 +1,22 @@
-Congratulations. Here is what happens next (`reference/sales-process.md`):
+Congratulations. Here is what happens next (`reference/sales-process.md`, "After a Yes"):
 
-1. **Tell the Head of Sales today.** That is your job on a yes.
-2. **Legal & Contracts sends the agreement.** It goes alone. You don't send it.
-3. **Finance & Billing sends the deposit invoice** only after the signed agreement comes back.
+1. **Today:** tell the Head of Sales at the 4:15 daily check-in (`reference/meetings.md`). Save the call note in the client's Vault folder and log the next step in the CRM with a date, an owner, and what happens.
+2. **Legal & Contracts sends the agreement.** You do not send it, and it goes on its own with nothing else attached.
+3. **When the signed agreement comes back,** move the deal to **Closed Won** in the CRM, and move the client's Vault folder to match. Until it is signed, the deal stays in its current stage.
+4. **Finance & Billing then sends the first invoice.**
+5. **The Delivery Lead runs the kickoff.** You stay the client's contact for anything new they want to buy.
 
-Keep the deal in Proposals until then. It moves to Closed Won when the signed agreement is returned. Log the next step in the CRM today.
+What the client pays at signing depends on the phase they said yes to:
 
-Anything you write to the client goes to the Head of Sales first. Don't promise a start date either. After signing, that belongs to the Delivery Lead.
+| Phase | When the client pays |
+|---|---|
+| Discovery Sprint | 100% at signing |
+| Pilot | 50% at signing, 50% at go-live |
+| Build | 50% at signing, the balance billed monthly over the Build |
+| Support Plan | Monthly, starting the month after go-live |
 
-Has the client said yes in writing, or only on a call?
+- **Approval:** if you write the client a thank-you or a "what happens next" note, send the draft to the Head of Sales first (`reference/templates.md`).
+- **Promises:** do not give the client a kickoff date or any other date. Timelines come from Solutions Engineering and the Delivery Lead.
+- **Not in my notes:** how long the agreement takes to arrive and when kickoff happens. Add both to `reference/question-log.md` for the check-in. Legal & Contracts owns the first, and the Delivery Lead owns the second.
+
+Which phase did the client say yes to? If it is a Pilot, tell me how many tools it connects and whether it has an AI step, and I can check it against `reference/services.md`.

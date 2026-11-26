@@ -1,1 +1,1 @@
-PASS | Three items only, later topics tied to their correct days, and every fact matches first-day.md, syllabus.md, the-message.md and buyers.md.
+PASS | Gives today's goals in full and the module map, holds later topics with named days or modules, and every fact matches the folder.

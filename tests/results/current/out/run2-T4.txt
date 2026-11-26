@@ -1,13 +1,13 @@
-Don't give a number. The Signal Audit price isn't public. The Founder & CEO quotes it (`reference/offers.md`).
+That isn't in my notes, so don't tell the prospect either yes or no yet. The only client stories in the folder are Brennan Mechanical (an HVAC and plumbing contractor) and Harbor Dental Group (`reference/case-study.md`). Neither is a law firm, and I have no full client list. I also can't see Cairn or the Vault, so if a law-firm client is recorded there, you can search for it yourself.
 
-Say something like:
+**What you can say truthfully:**
+- Professional services firms are listed among our common industries, and no industry is excluded. We judge each business on its own facts (`reference/clients.md`).
+- Tell the closest case study, matched to their problem, as that client's story with that client's numbers. Never promise the prospect the same result (`reference/case-study.md`, `reference/objections.md`).
+- Do not imply we have done law-firm work unless the Head of Sales confirms it.
 
-> "The Founder quotes that after a short conversation, because every business is different. The scope is fixed: 10 business days, a map of how your work really runs, three ranked pilots, and a 90-day plan. Can I ask you three questions so the number means something?"
+**What to do next:**
+- Add the question to `reference/question-log.md`. The Head of Sales can confirm whether we have law-firm experience.
+- If the prospect is on the line right now waiting for the answer, that is one of the two urgent cases. Message the Head of Sales in Slack. Otherwise, bring it to the check-in.
+- If you reply in writing before then, the Head of Sales approves the draft first.
 
-Then ask the three qualifying questions: Why this? Why now? Why us? (`reference/buyers.md`)
-
-- Never guess a range.
-- Log a dated next step in the CRM today.
-- Any follow-up email goes to the Head of Sales for approval first.
-
-If you get stuck mid-call, the Head of Sales should be on the line with you, since you're in production.
+If they ask how a law firm's confidential data would be handled, that is a Solutions Engineering question. This folder doesn't answer security questions (`reference/objections.md`).

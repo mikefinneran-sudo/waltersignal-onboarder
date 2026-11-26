@@ -1,1 +1,1 @@
-PASS | Says plainly the link isn't in the notes, routes it to the Head of Sales, and every stated meeting fact matches `meetings.md`.
+You've hit your 5-hour limit · resets 3pm (America/Indianapolis)

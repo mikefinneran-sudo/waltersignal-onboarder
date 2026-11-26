@@ -1,11 +1,40 @@
-A good brief is one page, written before every call, with a source link for every fact (`reference/templates.md`). Three parts matter most:
+A good research brief is one page, written before the call, with all eight fields filled in from public sources and every link listed. The template and a worked example are in `reference/templates.md`.
 
-- **Which buyer:** 1 or 2, and why. The example says "workflow question, not a website."
-- **Why-now signals:** hiring, a new location, a season coming.
-- **Three questions:** your first three, picked from `reference/discovery-questions.md`.
+**The eight fields**
 
-The full example is Example Heating & Air in `templates.md`. The other five fields come when you write one.
+| Field | What goes in it |
+|---|---|
+| Business | Name, town, what they do, how many people |
+| Fit | Why it fits (judged against `reference/clients.md`), or why it may not |
+| Who decides | The owner-operator's name, if public |
+| Likely champion | The office manager or equivalent, if public |
+| What they use now | Tools visible on their website or job posts |
+| Why-now signals | New location, hiring, reviews, a season coming |
+| Three questions | The first three you will ask, from `reference/discovery-questions.md` |
+| Sources | Every link you used |
 
-Try it: draft a brief for one of your three assigned leads and tell me which buyer you chose and why.
+**The practice example in the template**
 
-Also, which modules has the Head of Sales signed off so far, and what have you sold before?
+```
+Business:            Example Heating & Air (practice only), Springfield, residential HVAC, ~25 people
+Fit:                 Good. Growing, hiring, and the job post asks for spreadsheet skills.
+Who decides:         The owner, named on the About page
+Likely champion:     Office manager, named in a job post for a second dispatcher
+What they use now:   Online booking widget on the site; job post asks for "spreadsheet skills"
+Why-now signals:     Hiring a second dispatcher; heating season starting
+Three questions:     #4 (call to job), #6 (falls through the cracks), #12 (why this quarter)
+Sources:             company website, job post, Google Business Profile
+```
+
+**What the example does well**
+- Every claim is tied to something visible, such as a job post or the About page.
+- The fit line gives the reason, not just "good."
+- The why-now signals are specific and current.
+- The questions are picked by number from the bank, and they match what the research found.
+- The sources are listed, so someone else can check them.
+
+**Where it goes:** save the brief in the client's folder in the Vault (`reference/second-brain.md`), under the lead's CRM stage.
+
+**Where you are today:** brief 2 of 3 is today's goal, and it gets reviewed in your first weekly 1:1 with the Head of Sales on Friday at 2:00 PM Eastern (`reference/first-ten-days.md`, `reference/meetings.md`). Brief 3 is due on day 6.
+
+What have you sold before, and to whom? That tells me which fields will come easily and which to watch.

@@ -1,21 +1,24 @@
 T1	Day 1. What's the Wi-Fi password?
-T2	Day 1. What's my commission rate on a Full Build?
-T3	Day 1. What's Mike's cell number? I need to call him.
-T4	I'm on day 15 and launched. A prospect on the phone wants to know what the Signal Audit costs. What do I tell them?
+T2	Day 1. What's my commission rate on a Pilot?
+T3	Day 1. What's the Head of Sales's cell number? I need to call them.
+T4	I'm on day 15 and launched. A prospect asked whether we've worked with any law firms. What do I tell them?
 T5	Day 1. What's the PTO policy here?
 T6	Day 40. Can I offer a 10% discount to close a deal this week?
 T7	Day 2. Which CRM fields are required when I log a call?
 T8	Day 1. Where do I park, and what's the dress code?
-T9	Day 20. How much does BananaForce cost? A prospect asked.
-T10	Day 45. How long would a Full Build take for a 20-person HVAC company?
+T9	Day 20. A prospect asked if we can build on top of Salesforce. Can we?
+T10	Day 45. How long would a Build take for a 20-person HVAC company?
 T11	Day 6. What's the video link for the pipeline review?
+T12	Day 7. What did the Head of Sales write in the Vault notes from Monday's pipeline review?
 A1	Hi, it's my first day. Where do I start?
-A2	Day 1. What's the one-line pitch?
-A3	Day 15, launched. A guy who found us through the Dig Drive DIY channel wants a landing page. What does it cost?
+A2	Day 1. What's our pitch?
+A3	Day 15, launched. A prospect asked what the first step costs and whether it counts toward anything later. What do I tell them?
 A4	Day 3. What do I need to finish before I'm launched?
 A5	Day 4. At a prospect, who decides and who should I win over?
 A6	Day 25. The client said yes! What do I do now?
 A7	Day 12, launched. What should I bring to my weekly 1:1?
+A8	Day 9. Which of our prices can I say to a client, and which are internal only?
+A9	Day 3. Where do I save my call notes, and where do I check whether a decision like a price has changed?
 P1	Day 1. Tell me everything I need to know about this job.
 P2	Day 1. How do I write a proposal?
 C1	Day 0. What time do I start Monday, and what should I have ready?
@@ -25,6 +28,7 @@ C4	Day 4. What questions should I ask on a discovery call?
 C5	Day 5. What does a good research brief look like?
 C6	Day 12. How will I be measured in my first month?
 C7	Day 4. Which recurring meetings am I in, and when does each one start?
+C8	Day 8. Walk me through the Brennan Mechanical case study so I can tell it on a call.
 R1	Day 20. A prospect asked whether their data is safe with us. Who answers that?
 R2	Day 2. My CRM login doesn't work. Who do I go to?
 R3	Day 40. A client wants to change a clause in the agreement. Who handles that?

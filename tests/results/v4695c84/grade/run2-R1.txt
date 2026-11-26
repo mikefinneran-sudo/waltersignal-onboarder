@@ -1,1 +1,0 @@
-PASS | Routes to Solutions Engineering per who-owns-what.md; objection script, founder-holds-title, question log, approval, and interrupt rules all match the folder.

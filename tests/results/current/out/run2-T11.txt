@@ -1,9 +1,12 @@
-That isn't in my notes. The video link isn't in `reference/`.
+That isn't in my notes. The folder holds no meeting links.
 
-What the folder does say (`reference/meetings.md`):
+- **Who owns it:** the Head of Sales owns the pipeline review and sends the calendar invites (`reference/meetings.md`). The link should be in the invite for this meeting.
+- **Next step:** add the question to `reference/question-log.md` for the daily check-in.
 
-- The Head of Sales sends the calendar invites for every meeting, so the link is theirs to give.
-- The pipeline review is Mondays, 10:00 to 10:45 Eastern. Day 6 is your first one.
-- Days 6 to 10, you listen and take notes. You do not present.
+What the folder does say about today's meeting (`reference/meetings.md`):
 
-Add "Video link for the pipeline review" to `reference/question-log.md` and bring it to the end-of-day check-in, with the Head of Sales as the owner.
+- **When:** Mondays, 10:00 to 10:45 Eastern, on video.
+- **Who:** the Head of Sales runs it, with you, Revenue Operations, Solutions Engineering, and the Delivery Lead.
+- **Your role:** listen and take notes. You do not present until you are launched.
+
+Your other goal today is research brief 3, and the day is done when you can name the four CRM stages and what moves a deal between them (`reference/first-ten-days.md`).

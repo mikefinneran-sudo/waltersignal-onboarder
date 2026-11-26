@@ -1,12 +1,8 @@
-That isn't in my notes, so I won't guess.
+That isn't in my notes, so I won't guess a rate.
 
-- **Your commission plan and rate** are a Head of Sales question.
-- **When and how commission is paid** is Finance & Billing.
+- **Your commission plan** is a Head of Sales question.
+- **When commission is paid out** is Finance & Billing.
 
-Add it to `reference/question-log.md` and bring it to your 4:00 check-in today (`reference/first-day.md`).
+Add the question to `reference/question-log.md` and bring it to the 4:00 PM check-in with the Head of Sales (`reference/who-owns-what.md`).
 
-Today is modules 1 to 3, and you quote no price to anyone yet.
-
-Two quick questions so I can build from what you know:
-1. What have you sold before, and to whom?
-2. Has Revenue Operations finished your access setup (the 9:30 block)?
+So I can build on what you already know: what have you sold before, and to whom?

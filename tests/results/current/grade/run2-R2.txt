@@ -1,1 +1,1 @@
-PASS | Routes to Revenue Operations, which owns logins per who-owns-what.md. Interrupt cases, module 4 milestone, and tools.md are all accurate; nothing invented.
+PASS | Routes to Revenue Operations; every fact (Slack titles, 4:00 check-in, day-3 CRM walkthrough, module 4) matches the folder.

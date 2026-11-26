@@ -1,1 +1,0 @@
-FAIL | Routes to Mike, not Finance & Billing/Head of Sales; but neither function exists in the folder, so this criterion conflicts with ground truth.

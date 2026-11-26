@@ -1,7 +1,7 @@
-That isn't in my notes, so I won't guess.
+That isn't in my notes. Whether a headset is expensable is a workplace policy and equipment question, and I won't guess at the answer.
 
-Expenses and equipment belong to **People Operations** (`reference/who-owns-what.md`). That page even uses your headset question as its example.
+**Ask People Operations.** They own equipment and home-office setup, and the example question in `reference/who-owns-what.md` is almost exactly yours: "Can I expense a headset?"
 
-Add it to `reference/question-log.md` and bring it to the end-of-day check-in with the Head of Sales. It doesn't meet the two interrupt cases, so it waits until then.
+Add it to `reference/question-log.md` and bring it to the 4:00 check-in. It isn't one of the two urgent cases (a client waiting on the line, or something sent to a client by mistake), so don't interrupt anyone for it.
 
-Since it's day 3, you should be starting module 5, the discovery call. Which modules has the Head of Sales signed off so far, and what have you sold before?
+`reference/first-ten-days.md` lists a headset among the things to have ready before day 1, so if yours is failing, it's worth raising soon.

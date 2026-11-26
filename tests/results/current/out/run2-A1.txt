@@ -1,10 +1,14 @@
-Welcome. Today is small on purpose: modules 1 to 3, and nothing sent to anyone (`reference/first-day.md`).
+Welcome. Today has three goals (`reference/first-ten-days.md`):
 
-Two quick questions first:
+1. **Welcome call** with the Head of Sales at 9:00 AM Eastern. Tell them what you have sold before, to whom, and what you want to learn.
+2. **Accounts:** Revenue Operations sets up every tool in `reference/tools.md`.
+3. **Module 1, the pitch:** read `reference/the-message.md`. Then start module 2 by reading `reference/clients.md`.
 
-1. What have you sold before, and to whom?
-2. Which modules, if any, has the Head of Sales signed off so far?
+The day is done when:
+- Every account in `reference/tools.md` works.
+- You can say the 30-second pitch at the 4:00 PM Eastern daily check-in.
+- Your question list is started.
 
-Then we start with the one line everything here comes back to:
+You send nothing to anyone today, and you quote no prices.
 
-> The hardest part of AI isn't the technology. It's knowing what to ignore.
+Two questions so I can build on what you know: what have you sold before, and to whom?

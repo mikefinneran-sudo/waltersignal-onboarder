@@ -1,6 +1,6 @@
-That isn't in my notes, so I won't guess a date.
+That isn't in my notes, so I can't give you a payout date. Commission payouts belong to **Finance & Billing** (`reference/who-owns-what.md`), so that is the title to ask.
 
-- **Payout timing:** Finance & Billing owns commission payouts (`reference/who-owns-what.md`).
-- **How your commission is calculated:** that's the Head of Sales, since the plan is part of your targets.
+- **When commission is paid:** Finance & Billing.
+- **What your plan says** (rate, what counts toward it): Head of Sales. If you need the plan terms to understand the payout, ask for those too.
 
-Add "When is commission paid out?" to `reference/question-log.md` and bring it to your daily check-in. You don't need to interrupt anyone for it. Today the founder holds both titles, so ask in the Finance & Billing hat.
+Add the question to `reference/question-log.md` and bring it to the 4:15 daily check-in. It doesn't meet either of the two interrupt cases (a client waiting on the line, or something sent to a client by mistake), so it doesn't need a Slack message right away.

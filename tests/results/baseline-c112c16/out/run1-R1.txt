@@ -1,9 +1,0 @@
-That isn't in my notes, so I won't guess. Nothing in `reference/` covers how data is protected or stored.
-
-**Who answers:** Mike. Technical questions and anything legal are his (`reference/who-owns-what.md`).
-
-- Add it to your question list for the end-of-day check-in.
-- Don't promise the prospect anything about security. Any reply to them goes to Mike first.
-- One part I can give you: the client owns their data, in their name (`reference/offers.md`, ownership term 4). That is about ownership, not safety, so don't present it as the answer.
-
-Only interrupt Mike now if the prospect is on the line waiting.

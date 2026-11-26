@@ -1,7 +1,0 @@
-That isn't in my notes. A Full Build is "scoped to the system" (`reference/offers.md`), so there is no standard length.
-
-- **Dates are Mike's.** Delivery dates come from Mike after scoping (`reference/who-owns-what.md`). Never give a buyer a date or a range.
-- **What to say to the buyer:** "Mike will give you a timeline once we've scoped the system."
-- **What you can do:** log the HVAC company's current state and gap in your discovery notes, so Mike has something to scope from.
-
-Add this to your question list for the end-of-day check-in.

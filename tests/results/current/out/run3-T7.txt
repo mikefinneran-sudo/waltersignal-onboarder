@@ -1,13 +1,13 @@
-That isn't in my notes, so I won't guess which fields the CRM marks as required. It's a Revenue Operations question. Add it to `reference/question-log.md` for the end-of-day check-in.
+That isn't in my notes. The list of required CRM fields belongs to Revenue Operations, which owns the CRM, its fields, and its stages (`reference/who-owns-what.md`). Add it to `reference/question-log.md` for the daily check-in.
 
-Your module 4 milestone has Revenue Operations walking you through the CRM screen, and then you log a practice call (`reference/syllabus.md`).
+The folder does say what to record after a call, though it doesn't say these are the required fields:
 
-What I can give you is the call note template in `reference/templates.md`. Its fields are:
+| What | Where | Source |
+|---|---|---|
+| **Next step**: a date, an owner, and what happens, logged the same day | CRM | `reference/discovery-questions.md`, `reference/templates.md` |
+| **Stage**: Leads, Proposals, Closed Won, or Closed Lost, moved the day it changes | CRM | `reference/sales-process.md` |
+| **Lead source** (referral, website, event, or outreach), from the "How did you hear about us?" question | CRM | `reference/discovery-questions.md` |
+| **Reason** for Closed Lost, or for a not-fit lead | CRM | `reference/sales-process.md`, `reference/clients.md` |
+| **Call note** (current state, gap, why now, decider and champion) | Vault, in the client's folder | `reference/templates.md` |
 
-- Date and attendees, current state, gap, why now, and decider/champion
-- Next step: a date, an owner, and what happens
-- Stage: Leads, Proposals, Closed Won, or Closed Lost
-
-That is the template, not a confirmed list of required fields. Log every call the same day.
-
-Have the Head of Sales signed off modules 1 to 3 yet?
+You don't log real calls yet. The CRM walkthrough with Revenue Operations is module 4 on day 3 (`reference/first-ten-days.md`), and your first practice call entry is part of that module's milestone.

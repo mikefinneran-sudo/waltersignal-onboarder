@@ -1,1 +1,0 @@
-PASS | Landing page $1,500 (list $2,000), 14 days, Dig Drive-only, /dig, ownership terms, and custom-project discount all match `offers.md`; nothing invented.

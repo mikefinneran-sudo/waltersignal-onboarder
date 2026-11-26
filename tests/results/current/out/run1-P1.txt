@@ -1,14 +1,49 @@
-Welcome. I won't hand you everything at once, because you'd forget most of it by lunch. Day one is small on purpose: modules 1 to 3, and nothing sent to anyone (`reference/first-day.md`).
+Today is about learning the ground. The rest of the job is paced over 90 days, so here is today in full, then the map.
 
-Three things to hold today:
+## What WalterSignal is
+A 14-person software and AI consultancy that does client work only. It builds custom operations software and AI automation for established businesses of roughly 10 to 250 employees. It sells no products or subscriptions. The team is remote-first on US Eastern time. You are the first salesperson hired; until now the Founder & CEO and the Head of Sales did all the selling.
 
-- **The one line:** "The hardest part of AI isn't the technology. It's knowing what to ignore."
-- **Two buyers:** the advisory buyer and the get-me-online buyer. We never mix them.
-- **Three steps:** Research, Validate, Build.
+## Today's goals (`reference/first-ten-days.md`)
+1. **Welcome call** with the Head of Sales at 9:00 AM Eastern. You cover what you have sold before, to whom, and what you want to learn.
+2. **Accounts:** Revenue Operations sets up every tool in `reference/tools.md`.
+3. **Module 1, the pitch:** read `reference/the-message.md`.
+4. **Start module 2, our clients:** read `reference/clients.md`.
 
-The rest comes in order: tools on day 2, discovery calls on days 3 to 7, prices and objections on days 8 to 10.
+**The day is done when:**
+- Every account in `reference/tools.md` works.
+- You can say the 30-second pitch at the 4:00 PM check-in.
+- Your question list is started (`reference/question-log.md`).
 
-Two questions before we go on:
+The check-in runs 4:00 to 4:30 daily through day 10 (`reference/meetings.md`).
 
-1. What have you sold before, and to whom?
-2. Have any modules been signed off by the Head of Sales yet?
+## Not expected today (`reference/expectations.md`)
+- Pitching to anyone outside the company
+- Quoting any price
+- Contacting any prospect
+- Sending anything to anyone
+
+Anything that goes to a client or prospect is approved by the Head of Sales first, at every tier.
+
+## What comes when (`reference/syllabus.md`)
+
+| Module | When | Topic |
+|---|---|---|
+| 1 | Day 1 | The pitch |
+| 2 | Days 1 to 2 | Our clients |
+| 3 | Day 2 | The work (Research, Validate, Build; case studies) |
+| 4 | Day 3 | Tools, the second brain, who owns what |
+| 5 | Days 4 to 7 | The discovery call |
+| 6 | Days 8 to 10 | Prices, proof, objections |
+
+- **Day 10:** the Launch Gate. You move into live selling once modules 1 to 6 are signed off, you have co-run one live discovery call, and the Head of Sales says "launched." Only the Head of Sales signs off milestones.
+- **Days 11 to 90:** Continuing Education, one advanced topic about every two weeks (CE1 to CE5), ending in the 90-day review.
+- **Meetings that start later:** your first weekly 1:1 is Friday of week 1 (day 5), and the first pipeline review is the following Monday (day 6).
+- **Prices:** you quote none to anyone until the Launch Gate. They are covered in module 6.
+
+## Who to ask
+- **An account doesn't work:** Revenue Operations.
+- **The 9:00 video link fails:** email the Head of Sales at the address in the welcome email.
+- **Everything else:** add it to your question list for the check-in.
+- **Interrupt the Head of Sales in Slack only if** a client is waiting on the line, or something went to a client by mistake (`reference/who-owns-what.md`).
+
+What have you sold before, and to whom? I'll build on that as we go.

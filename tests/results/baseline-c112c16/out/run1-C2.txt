@@ -1,9 +1,0 @@
-Objection handling isn't in my notes. Mike teaches it directly, so add "How do I answer 'AI is all hype'?" to your end-of-day list.
-
-The folder does give you a starting point (`reference/the-message.md`):
-
-- **Don't argue.** Agree that much of it is noise, then use our line: "The hardest part of AI isn't the technology. It's knowing what to ignore."
-- **Move to their business.** Say "We start with how your business actually runs," then ask how the work runs today and where it falls through the cracks.
-- **Don't oversell.** Never claim WalterSignal publishes research, and never promise a multiple above 5×.
-
-Try it: write your two-sentence reply and say it back to me. Anything you send after the call goes to Mike first.

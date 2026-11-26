@@ -1,9 +1,0 @@
-Show them a live build they can open and check. That is `reference/case-study.md`.
-
-- **Freebies Fireworks** (freebiesfireworks.com): a full online store with a back office, built around how the business runs. Send them to waltersignal.io/dig to see it listed.
-- **The point to make:** it was built around how that business works, and the owner runs it. The client owns the domain, code, and data.
-- **Don't say:** any sales, traffic, or time-saved numbers, what the client paid, or "published case study." None of that is published.
-
-Anything you send the prospect goes to the Head of Sales first.
-
-Try it: tell me how you'd say this in two minutes. Also, which modules has the Head of Sales signed off so far?

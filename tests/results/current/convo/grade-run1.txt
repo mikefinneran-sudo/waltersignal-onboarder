@@ -1,8 +1,8 @@
-TURN 1: PASS | Builds on copier experience, gives today's scope, the one line, and the login check, all from the folder.
-TURN 2: PASS | One line, the arc, and the approval rule: three items, all from the-message.md and the rules.
-TURN 3: PASS | Two buyers described accurately from buyers.md, qualifying questions held for module 2, then a check question.
-TURN 4: PASS | Says plainly it isn't in the notes, routes to Revenue Operations, logs it, invents nothing.
-TURN 5: PASS | Declines the handbook, gives three files, and names the module and day for the rest.
-TURN 6: FAIL | Quotes no price, but tells a day-one hire to question a prospect, which is outside Tier 1.
-TURN 7: PASS | Not in notes; routes quota to Head of Sales and cites expectations.md accurately, no invented numbers.
-TURN 8: PASS | After-lunch blocks, times, and the module 3 milestone all match first-day.md and syllabus.md.
+TURN 1: PASS | Accurate day-1 goals from folder; builds on stated copier experience; no-send and no-price rules stated.
+TURN 2: PASS | Repeated pitch answered fully without shaming; four parts and never-say list are accurate.
+TURN 3: PASS | Complete, organized clients.md answer; $20,000 flagged as not quotable before the Launch Gate.
+TURN 4: PASS | No office Wi-Fi; logins go to Revenue Operations; internet costs go to People Operations and the log.
+TURN 5: FAIL | Paced correctly, but the unsupported "tomorrow's goals waiting after check-in" guesses when material comes.
+TURN 6: PASS | Declines the price quote to a friend, cites the fit test, routes the personal-contact question to Head of Sales.
+TURN 7: PASS | Says plainly it isn't in the notes, routes to Head of Sales, sends it to the question log.
+TURN 8: FAIL | Says module 2 finishes today and implies module 1 is signed off today; both happen day 2.

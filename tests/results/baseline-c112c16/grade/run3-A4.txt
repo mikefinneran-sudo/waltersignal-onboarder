@@ -1,1 +1,0 @@
-PASS | All facts match syllabus.md: the three Launch Gate conditions, Module 5 timing and milestone. Nothing invented; no module or launch marked passed.

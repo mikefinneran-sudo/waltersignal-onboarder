@@ -1,12 +1,15 @@
-For the advisory buyer (`reference/buyers.md`):
+The decider signs and approves the money. The champion is the person you win over first. Both are in `reference/clients.md`.
 
-- **Decides:** the owner-operator. They sign.
-- **Champions:** the office manager. They live with the problem daily and know where work falls through the cracks. Win them and the owner listens.
+| Role | Who it usually is | What they do in the deal | How to work with them |
+|---|---|---|---|
+| **Decider** | Owner, CEO, or general manager | Signs the agreement and approves the money | Talk about cost, risk, and what they will be able to see and control |
+| **Champion** | Usually the operations manager or office manager | Lives with the problem every day and knows where work falls through the cracks | Win them first. They tell you how the work really runs, and the decider listens to them |
+| **Users** | Dispatchers, estimators, front-desk staff, warehouse leads | Will use what gets built | Ask to talk to one during discovery. Their answers make the Discovery Sprint sharper |
 
-Two questions find them (`reference/discovery-questions.md`):
-- "Who in the office lives with this every day?"
-- "Who besides you weighs in on a decision like this?"
+Two question-bank questions help you find them (`reference/discovery-questions.md`):
+- Question 8: "Who in the office lives with this every day?" This is usually the champion.
+- Question 15: "Who besides you weighs in on a decision like this?"
 
-`buyers.md` doesn't say who decides for the get-me-online buyer, so I won't guess. Add it to `reference/question-log.md` for the Head of Sales.
+Your day 4 research brief has a "Who decides" line and a "Likely champion" line (`reference/templates.md`). Fill them from public sources, such as an About page or a job post. In the template's example, the office manager named in a job post is the likely champion.
 
-Try it: how would you ask question 8 in your own words? Also, which modules has the Head of Sales signed off so far, and what have you sold before?
+What have you sold before, and to whom? I can then tie this to the kinds of buyers you already know.

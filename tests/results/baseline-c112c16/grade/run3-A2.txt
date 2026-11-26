@@ -1,1 +1,0 @@
-PASS | Gives the exact one line and arc from `reference/the-message.md`; every supporting claim (noise, clarity, one named person) matches the folder.

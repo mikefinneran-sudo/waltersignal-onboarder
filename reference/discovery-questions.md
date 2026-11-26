@@ -3,11 +3,12 @@
 Use these on every discovery call, in the order of the call in `sales-process.md`. Pick two or
 three per section. A discovery call is a conversation, not a survey.
 
-## Opening: Which Buyer Is This?
+## Opening: Why Are We Talking?
 
 1. "What made you reach out now?"
-2. "Are you looking for a plan for where AI fits, or for something specific built, like a site?"
-3. "How did you hear about us?" (A Dig Drive DIY viewer is buyer 2. See `buyers.md`.)
+2. "If one part of the business ran better a year from now, which part would it be?"
+3. "How did you hear about us?" (Log the source in the CRM: referral, website, event, or
+   outreach.)
 
 ## Current State: How Does the Work Run Today?
 
@@ -45,6 +46,6 @@ Write the next step in the CRM the same day: a date, an owner, and what happens.
 
 ## Never Ask
 
-- "Do you want to do an AI audit?" Lead with the outcome, not the audit (`the-message.md`).
+- "Do you want to use AI?" Lead with their work, not the technology (`the-message.md`).
 - "What's your budget?" in the first five minutes. Earn it with the gap questions first.
-- Anything about competitors' private pricing or the buyer's personal details.
+- Anything about competitors' private pricing or the prospect's personal details.

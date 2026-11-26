@@ -1,1 +1,0 @@
-PASS | Three items only, later topics dated by module and day, and every fact matches first-day.md, buyers.md, syllabus.md and the-message.md.

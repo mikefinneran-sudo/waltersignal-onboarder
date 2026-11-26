@@ -1,1 +1,0 @@
-PASS | States the price isn't public and Mike quotes it. Every audit detail (scope, pilots, 90-day plan, PDF, walkthrough, 10 days) matches offers.md; nothing is invented.

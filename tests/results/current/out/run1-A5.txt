@@ -1,10 +1,18 @@
-For the advisory buyer (`reference/buyers.md`):
+The **decider** signs the agreement and approves the money. The **champion** is the one to win over first. Both are in `reference/clients.md`.
 
-- **Decides:** the owner-operator. They sign.
-- **Champions:** the office manager. They live with the problem daily and will tell you where work falls through the cracks. Win them and the owner listens.
+| Role | Who it usually is | What they do in the deal | How to work with them |
+|---|---|---|---|
+| **Decider** | The owner, CEO, or general manager | Signs the agreement and approves the money | Talk about cost, risk, and what they will be able to see and control |
+| **Champion** | Usually the operations manager or office manager | Lives with the problem every day and knows where work falls through the cracks | Win them first. They tell you how the work really runs, and the decider listens to them |
+| **Users** | Dispatchers, estimators, front-desk staff, warehouse leads | Will use what gets built | Ask to talk to one during discovery; their answers make the Discovery Sprint sharper |
 
-The get-me-online buyer is different. They want a price and to be found, and my notes don't name a decider or champion for them.
+Two discovery questions help you find them (`reference/discovery-questions.md`):
 
-You're in module 5 (discovery, days 3 to 7). Try this: on a call, which question would you ask to find the champion? Check `reference/discovery-questions.md`, number 8.
+- #8: "Who in the office lives with this every day?" That is usually the champion.
+- #15: "Who besides you weighs in on a decision like this?"
 
-Which modules has the Head of Sales signed off so far, and what have you sold before?
+The Brennan Mechanical story shows the pattern: the owner was the decider and the office manager was the champion (`reference/case-study.md`).
+
+Since you are on day 4, this is your research brief work. The brief template has a "Who decides" line and a "Likely champion" line, so fill both in from public sources before each call (`reference/templates.md`). Your first brief is due today, on the lead the Head of Sales assigned you (`reference/first-ten-days.md`).
+
+Your CRM call notes also record decider and champion, and anything sent to either of them goes to the Head of Sales for approval first.
