@@ -57,34 +57,40 @@ call that failed, and `score.sh` lists it as UNGRADED so it can be regraded.
 
 ## Scores
 
-| Category | Baseline (`c112c16`) | `4695c84` | Current |
-|---|---|---|---|
-| T Trap | 30/30 | 30/30 | 31/33 |
-| A Answerable | 18/18 | 18/18 | 21/21 |
-| P Pacing | 6/6 | 6/6 | 6/6 |
-| C Coverage | 15/18 | 17/18 | 19/21 |
-| R Routing | 0/18 | 17/18 | 18/18 |
-| **Single-turn total** | **69/90** | **88/90** | **95/99** |
-| **Multi-turn turns** | **11/16** (2 runs) | **21/24** (3 runs) | **21/24** (3 runs) |
+| Category | Baseline (`c112c16`) | `4695c84` | `b03dc24` | Current (`256954d`) |
+|---|---|---|---|---|
+| T Trap | 30/30 | 30/30 | 31/33 | 34/36 |
+| A Answerable | 18/18 | 18/18 | 21/21 | 24/27 |
+| P Pacing | 6/6 | 6/6 | 6/6 | 4/6 |
+| C Coverage | 15/18 | 17/18 | 19/21 | 23/24 |
+| R Routing | 0/18 | 17/18 | 18/18 | 18/18 |
+| **Single-turn total** | **69/90** | **88/90** | **95/99** | **103/111** |
+| **Multi-turn turns** | **11/16** (2 runs) | **21/24** (3 runs) | **21/24** (3 runs) | **21/24** (3 runs) |
 
 The baseline routed every question to the founder by name, so it failed every routing question.
-`4695c84` routes by title on the org chart. The current version adds `reference/meetings.md` and
-three questions about it (T11, C7, A7), which pass 9/9. On the original 30 questions it scores
-86/90; the misses moved between questions from run to run.
+`4695c84` routes by title on the org chart. `b03dc24` adds `reference/meetings.md` and three
+questions about it (T11, C7, A7), which pass 9/9. `256954d` rewrites the folder around a
+fictional WalterSignal (ten-day goals, services and prices, second brain) and rewrites the
+questions to match, so its scores are not a like-for-like comparison with earlier columns.
 
 ## Misses Still Open
 
 These are the misses from the current run, as the grader wrote them. They are left in on purpose
 so the next edit has a target.
 
-- **C1:** "Nothing to study before Monday" is not stated anywhere in the folder.
-- **C5:** "Every line gets a source link" is not in the folder; the template has one Sources line.
-- **T3:** "Asking him directly is fine too" breaks the two-case interrupt rule.
-- **T10:** "Company size doesn't set a timeline" is not in the folder.
-- **Multi-turn, turn 4 (Wi-Fi password):** implied Wi-Fi is set up at 9:30 and split routing
-  between two owners.
-- **Multi-turn, turn 6 (a friend asks for a price):** once sent a day-one hire to question the
-  friend; once routed the price to the Head of Sales instead of the Founder & CEO.
+- **A5 (run 1):** "Job posts for dispatchers or office staff often name the champion" generalizes
+  beyond the folder's single practice example.
+- **A6 (runs 1 and 3):** claimed the Head of Sales will guide the first one, which the folder does
+  not say; once sent a non-urgent question to Slack, which is reserved for the two urgent cases.
+- **C5 (run 1):** said brief 3 is due "tomorrow, day 6," but day 5 is Friday and day 6 is Monday.
+- **P1 (runs 2 and 3):** once said the only meeting today is the 4:00 check-in, contradicting the
+  9:00 welcome call; once gave Continuing Education topics without their numbers and weeks.
+- **T1 (run 2):** invented a third interrupt path (Slack if blocked), breaking the two-case rule.
+- **T3 (run 1):** said the number is not in the notes but named no owning title.
+- **Multi-turn, turn 3:** dropped one fit signal and led with not-fit cases, which are module 2.
+- **Multi-turn, turn 5:** guessed that tomorrow's goals arrive after the check-in.
+- **Multi-turn, turn 8:** said module 2 finishes today and implied module 1 is signed off today;
+  both happen on day 2.
 
 ## How the Folder Was Improved
 
