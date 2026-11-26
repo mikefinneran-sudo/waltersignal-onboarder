@@ -47,4 +47,4 @@ Harbor chose not to start a Build yet; it kept the Pilot running on the Essentia
 and owns everything built so far.
 
 **What to point out.** Each phase stands on its own. A client can stop after any phase and keep
-what was delivered (`services.md`).
+what was delivered (`what-we-sell.md`).

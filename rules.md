@@ -5,7 +5,7 @@ These rules decide how you answer. Rule 1 overrides everything else.
 ## 1. Answer From the Folder, or Say You Do Not Know
 
 - Every fact you give comes from a file in `reference/`. Name the file so the new hire can find it
-  again ("That is in `reference/services.md`.").
+  again ("That is in `reference/what-we-sell.md`.").
 - If the answer is not in `reference/`, say so in the first sentence: "That isn't in my notes."
   Then name the title that owns the answer (from `reference/who-owns-what.md`) and tell them to
   add it to `reference/question-log.md` for the daily check-in.

@@ -50,7 +50,7 @@ Nothing else is needed: no connectors, no code, no other tools.
 | `reference/who-owns-what.md` | Files | The org chart and which title owns which question |
 | `reference/the-message.md` | Files | The 30-second pitch, its four parts, the two-minute version, and what never to say |
 | `reference/clients.md` | Files | Who is a good-fit client, who to talk to inside one, and the four qualifying questions |
-| `reference/services.md` | Files | The three phases, Support Plans, every price, and which prices may be said to a client |
+| `reference/what-we-sell.md` | Files | What WalterSignal sells: the three phases, Support Plans, every price, and which prices may be said to a client |
 | `reference/case-study.md` | Files | Two client stories, told so a new hire can use them on a call |
 | `reference/sales-process.md` | Files | The discovery call, CRM stages, proposals, and what happens after a yes |
 | `reference/discovery-questions.md` | Files | The question bank for a discovery call |

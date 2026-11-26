@@ -2,7 +2,7 @@
 
 ## The Three Phases
 
-**Research, Validate, Build.** Each phase is sold and signed on its own (`services.md`). The
+**Research, Validate, Build.** Each phase is sold and signed on its own (`what-we-sell.md`). The
 client sees working results at each phase before deciding on the next. Nobody is asked to fund a
 large project on the strength of a slide.
 
@@ -44,7 +44,7 @@ A proposal is the written offer for the next phase.
 - **Pilot and Build:** three options, Good, Better, Best. Each step up adds real scope (another
   workflow, another connected tool, a Support Plan). Best is the option you recommend.
 - Written in the client's words, not technical language.
-- Pilot prices come from `services.md`. The Founder & CEO prices every Build. The Head of Sales
+- Pilot prices come from `what-we-sell.md`. The Founder & CEO prices every Build. The Head of Sales
   approves every proposal before it is sent.
 - Writing proposals yourself is Continuing Education CE4 (`syllabus.md`).
 

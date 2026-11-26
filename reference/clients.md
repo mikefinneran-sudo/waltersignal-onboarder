@@ -29,7 +29,7 @@ how to tell fit from not-fit.
 
 - First call to a signed Discovery Sprint: usually 2 to 4 weeks.
 - Most clients decide on a Pilot within 30 days of the Sprint readout.
-- A Build is decided after the Pilot shows its number (`services.md`).
+- A Build is decided after the Pilot shows its number (`what-we-sell.md`).
 
 ## Not a Fit
 
@@ -39,7 +39,7 @@ Say so early and kindly, and log the reason in the CRM (`sales-process.md`).
 |---|---|---|
 | A website or marketing | WalterSignal does not build marketing websites | "That isn't work we do. We build the software that runs the operation behind the website." |
 | IT support, computers, or networks | Not client work WalterSignal does | "That's an IT provider's job, not ours." |
-| A developer by the hour | WalterSignal sells scoped phases, not hours (`services.md`) | "We work in fixed phases so you know the cost before we start." |
+| A developer by the hour | WalterSignal sells scoped phases, not hours (`what-we-sell.md`) | "We work in fixed phases so you know the cost before we start." |
 | A problem too small for a $20,000 Pilot | The smallest phase after the Sprint is $20,000 | Log it as Closed Lost with the reason "too small" |
 
 ## The Four Qualifying Questions

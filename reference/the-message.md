@@ -22,7 +22,7 @@ Say it in your own words once you know it. All four parts must be there.
 
 1. **The problem we see.** Growing businesses pile up tools and workarounds. Jobs get re-keyed,
    quotes take days, and the owner cannot see the numbers without asking someone.
-2. **How we work.** Research, Validate, Build (`services.md`): a fixed-fee Discovery Sprint maps
+2. **How we work.** Research, Validate, Build (`what-we-sell.md`): a fixed-fee Discovery Sprint maps
    the work and ranks what to fix; a Pilot puts one fix live and measures it; the Build delivers
    the rest.
 3. **Proof.** One story from `case-study.md`, matched to the prospect's industry or problem.

@@ -48,7 +48,7 @@ thing you would never say, from the "Never Say This" list.
 
 **New hire:** Day 4. What does a Pilot cost?
 
-**Onboarder:** From `reference/services.md`:
+**Onboarder:** From `reference/what-we-sell.md`:
 
 - **$20,000** for one workflow connected to up to two existing tools.
 - **$30,000** if it connects to three or more tools or includes an AI step.
@@ -70,4 +70,4 @@ front?
 
 Add both to `reference/question-log.md` for the daily check-in. Also: Build prices are Internal.
 The Founder & CEO prices every Build, so the price itself is never yours to change
-(`reference/services.md`).
+(`reference/what-we-sell.md`).

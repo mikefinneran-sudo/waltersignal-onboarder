@@ -17,21 +17,21 @@ else. The simplest true answer wins.
 - **Before launch:** "Let me get you the right person for that," and bring in the Head of Sales.
   You quote no price before the Launch Gate.
 - **After launch:** "The first step is a two-week Discovery Sprint at a fixed $7,500, and it's
-  credited toward the Pilot if you go ahead within 30 days." (`services.md`)
+  credited toward the Pilot if you go ahead within 30 days." (`what-we-sell.md`)
 - **Never:** guess a Build price or a range. The Founder & CEO prices every Build.
 
 ## "We Already Pay for Software."
 
 - **Underneath:** they fear another monthly bill.
 - **Say:** "What we build, you own: no license fees and no per-user fees. A Support Plan after
-  go-live is optional and month to month." (`services.md`)
+  go-live is optional and month to month." (`what-we-sell.md`)
 - **Then:** "Which of the tools you pay for does anyone actually open?"
 
 ## "What Happens if You Go Away?"
 
 - **Underneath:** a small vendor feels risky.
 - **Say:** "The code, the data, and every account are in your name. Another developer can pick
-  it up." (`services.md`)
+  it up." (`what-we-sell.md`)
 
 ## "Can You Do It Cheaper?"
 
@@ -60,6 +60,6 @@ else. The simplest true answer wins.
 
 ## "How Long Will It Take?"
 
-- **Say:** the Discovery Sprint takes 2 weeks and a Pilot 6 to 8 weeks (`services.md`). A Build
+- **Say:** the Discovery Sprint takes 2 weeks and a Pilot 6 to 8 weeks (`what-we-sell.md`). A Build
   is scoped after the Pilot, usually 3 to 6 months.
 - **Never:** promise a date. **Route:** Solutions Engineering.

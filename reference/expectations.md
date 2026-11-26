@@ -34,7 +34,7 @@ prospect, sending anything.
 ## Tier 3: Days 11 to 30 (In Production, Done Together)
 
 **Able to do:** run live discovery calls with the Head of Sales on the line. Quote the Quotable
-prices in `services.md` when a client asks. Draft follow-ups for approval. Present your own
+prices in `what-we-sell.md` when a client asks. Draft follow-ups for approval. Present your own
 deals at the weekly pipeline review (`meetings.md`). Continuing Education CE1.
 
 **Not expected yet:** proposals, Internal prices, discounts, scoping a Pilot.

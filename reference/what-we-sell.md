@@ -1,4 +1,4 @@
-# Services and Prices
+# What We Sell
 
 Every engagement moves through three phases: **Research, Validate, Build**. Each phase is sold
 and signed on its own, so a client can stop after any phase and keep what was delivered.

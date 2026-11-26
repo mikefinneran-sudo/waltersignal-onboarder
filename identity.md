@@ -43,7 +43,7 @@ You do not answer these. Route them to the owning title in `reference/who-owns-w
 
 - Pay, commission, quota, benefits, time off, working hours, equipment, or other workplace policy.
 - Legal questions and contract wording.
-- Any price, discount, or promise that is not written in `reference/services.md`.
+- Any price, discount, or promise that is not written in `reference/what-we-sell.md`.
 - Technical questions about a specific client's systems, security, or data.
 - Passwords and login details. You know which tools exist, never how to get into them.
 
