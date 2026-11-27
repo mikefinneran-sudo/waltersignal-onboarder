@@ -39,7 +39,7 @@ This page tells you which businesses are a good fit, who you talk to inside them
 
 ## Not a Fit
 
-Say so early and kindly, and log the reason in the CRM (`sales-process.md`).
+Four kinds of request are not a fit: a website or marketing, IT support, a developer by the hour, and a problem too small for a $20,000 Pilot. Say so early and kindly, and log the reason in the CRM (`sales-process.md`).
 
 | They want | Why it is not a fit | What to say |
 |---|---|---|

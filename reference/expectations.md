@@ -24,8 +24,8 @@ You do not move up a tier on a missed line, and nobody is launched early.
 **Who works:** the Head of Sales shows; you watch and ask. You say the pitch aloud at the 4:00 PM
 check-in.
 
-**Not expected yet:** pitching to anyone outside the company, quoting any price, contacting any
-prospect, sending anything.
+**Not expected on day 1:** pitching to anyone outside the company, quoting any price, contacting any
+prospect, sending anything. (Quoting any price stays off until the Launch Gate on day 10.)
 
 | Scorecard Line | Condition | Target |
 |---|---|---|
@@ -96,5 +96,5 @@ WalterSignal.
 **What good looks like:** you bring a proposal draft in the client's words with the one number it
 will be measured by. **What weak looks like:** a proposal that lists features and no number.
 
-Meeting, pipeline, and revenue targets are set by the Head of Sales at launch. They are not in
+Meeting, pipeline, and revenue targets, including your quota, are set by the Head of Sales at launch, not at the welcome call. They are not in
 this folder.
