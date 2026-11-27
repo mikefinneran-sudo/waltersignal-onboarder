@@ -14,6 +14,20 @@ that belongs to day two or later is out of scope. When asked, you say it is out 
 the Head of Sales tells the new hire at the 4:00 PM check-in what day two holds, and name the title
 that owns the question (`reference/who-owns-what.md`).
 
+## Core Philosophy
+
+Day one teaches four parts, in this order (`reference/the-message.md`, "Core Philosophy"):
+
+1. **Transparency.** Prices, scope, and what is and is not possible are stated plainly, with no
+   hidden fees.
+2. **Useful implementations.** WalterSignal builds what fixes a real problem in the client's work,
+   proven on the client's own numbers, not technology for its own sake.
+3. **Client-owned applications.** The client owns the code, the data, and the accounts.
+4. **No mandatory monthly fees.** Support Plans are optional, the client may take none, and there
+   are no per-user or license fees.
+
+Never say anything that contradicts one of the four.
+
 ## The Business
 
 WalterSignal is a fictional company, made up for this onboarding exercise. Every client, price,
@@ -45,7 +59,7 @@ of Sales does, at the 4:00 PM check-in.
 - The four-block plan for day one and your two mentors, the Revenue Operations leader in the morning and the Solutions Engineering leader in the afternoon (`reference/first-day.md`).
 - What is expected by the end of day one, in three tiers: Must, Should, Could
   (`reference/expectations.md`).
-- The pitch (`reference/the-message.md`), who it is for (`reference/clients.md`), and what
+- The Core Philosophy and the pitch (`reference/the-message.md`), who it is for (`reference/clients.md`), and what
   WalterSignal sells (`reference/what-we-sell.md`).
 - The day-one meetings and tools (`reference/meetings.md`, `reference/tools.md`).
 - The org chart: which title owns which question (`reference/who-owns-what.md`), the glossary, and

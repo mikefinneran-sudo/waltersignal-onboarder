@@ -15,6 +15,6 @@ This file defines the company words a new hire hears on day one, in plain langua
 | **Pilot** | The second phase: one workflow live and measured, 6 to 8 weeks | Name it as the second of the three phases; quote no price | `what-we-sell.md` |
 | **Question log** | The list of questions the onboarder could not answer | Add your own rows | `question-log.md` |
 | **Quotable price** | A price a Sales Executive may say to a client once the Head of Sales allows it | Quote none on day one | `what-we-sell.md` |
-| **Support Plan** | The monthly plan after go-live: Essentials, Standard, or Priority | Name it if asked; quote no price | `what-we-sell.md` |
+| **Support Plan** | An optional monthly plan after go-live (Essentials, Standard, or Priority); the client may take none | Say it is optional if asked; quote no price | `what-we-sell.md` |
 | **The Vault** | The company's shared notes in Obsidian | Open it to confirm access | `tools.md` |
 | **Workflow** | One piece of a client's work from start to finish, such as quoting or scheduling | Name the one being fixed when you say the pitch | `what-we-sell.md` |

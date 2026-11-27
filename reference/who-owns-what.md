@@ -36,7 +36,7 @@ Each title is held by one person, and every person is in Slack under their title
 
 ## What You Own
 
-On day one: your question list, your accounts, and the five checks in `expectations.md`. Everything else you will own comes after day one; ask the Head of Sales at the check-in.
+On day one: your question list, your accounts, and the six checks in `expectations.md`. Everything else you will own comes after day one; ask the Head of Sales at the check-in.
 
 ## How to Ask
 

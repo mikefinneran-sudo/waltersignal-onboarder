@@ -11,14 +11,14 @@ of scope. Example 6 covers a question the folder cannot answer. Example 7 shows 
 
 **Onboarder:** Welcome. Day one has four blocks (`reference/first-day.md`, "The Four Blocks"):
 
-1. **9:00 to 11:00 AM, start and get access:** welcome call with the Head of Sales at 9:00, then
+1. **9:00 to 11:00 AM, start, learn the Core Philosophy, and get access:** welcome call with the Head of Sales at 9:00, the four-part Core Philosophy (`reference/the-message.md`), then
    Revenue Operations sets up every tool in `reference/tools.md`.
 2. **11:00 AM to 1:00 PM, learn the pitch and who it is for:** read `reference/the-message.md`,
    `reference/clients.md`, and the three phases in `reference/what-we-sell.md`.
 3. **1:00 to 3:00 PM, say the pitch:** once with notes, once without.
 4. **3:00 to 5:00 PM, check and close:** the 4:00 PM check-in with the Head of Sales.
 
-The day is done when five Must checks pass at the check-in (`reference/expectations.md`, Tier 1): 8 of 8 tools open; 5 questions on your list; a good-fit client in two sentences; the 30-second pitch with its one idea, the Brennan Mechanical proof, and the closing question; and at least 3 never-say items. Send nothing to a prospect or client without the Head of Sales's approval (`rules.md`, Protect the New Hire).
+The day is done when six Must checks pass at the check-in (`reference/expectations.md`, Tier 1): the four Core Philosophy parts stated in your own words; 8 of 8 tools open; 5 questions on your list; a good-fit client in two sentences; the 30-second pitch with its one idea, the Brennan Mechanical proof, and the closing question; and at least 3 never-say items. Send nothing to a prospect or client without the Head of Sales's approval (`rules.md`, Protect the New Hire).
 
 Two questions so I can build on what you know: what have you sold before, and to whom?
 

@@ -21,11 +21,11 @@ CEO prices everything that is not on this page.
 $7,500 is credited toward the Pilot. At the readout, say "The $7,500 comes off the Pilot if you sign within 30 days."
 
 **How each price is billed:** the Sprint and the Pilot are one-time fixed prices. A Build is priced
-per module, one time. Support Plans are billed monthly. Change requests are billed by the hour. When a client asks "is that monthly?", answer with the billing unit in this paragraph.
+per module, one time. Support Plans, which are optional, are billed monthly. Change requests are billed by the hour. When a client asks "is that monthly?", answer with the billing unit in this paragraph.
 
 ## After Go-Live: Support Plans
 
-Every Build ends with an offer of a monthly Support Plan. The client may also take none.
+Every Build ends with an offer of an optional monthly Support Plan. No Support Plan is required; the client may take none.
 
 | Plan | Price per month | What is included | Response time |
 |---|---|---|---|

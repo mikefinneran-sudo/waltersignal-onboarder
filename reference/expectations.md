@@ -28,6 +28,7 @@ sending anything to a client.
 
 | Scorecard Line | Condition | Target |
 |---|---|---|
+| Core Philosophy stated (`the-message.md`) | In your own words to the Head of Sales, no notes | 4 of 4 parts, in order: transparency, useful implementations, client-owned applications, no mandatory monthly fees |
 | Tools open (`tools.md`) | Each opened on your own computer by the 4:00 PM check-in | 8 of 8 |
 | Question list started (`question-log.md`) | Read out at the check-in | 5 questions |
 | Good-fit client described (`clients.md`) | Two sentences at the check-in, no notes | Names size, situation, the decider, and the champion: 4 of 4 |

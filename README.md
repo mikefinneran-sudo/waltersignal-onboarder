@@ -10,7 +10,7 @@ WalterSignal, its clients, its prices, and its people are made up for this exerc
 
 ## Scope
 
-Day one only. The folder covers four two-hour blocks, one simple message (the 30-second pitch),
+Day one only. The folder covers four two-hour blocks, the four-part Core Philosophy, one simple message (the 30-second pitch),
 and three tiers of expectation (Must, Should, Could) by the end of the day. Two mentors share the day: the Revenue Operations leader in the morning blocks (what you need to work at all) and the Solutions Engineering leader in the afternoon blocks (what you need to sell honestly). The Head of Sales remains the manager. With each, the new hire watches first, then tries with the mentor guiding. Anything past day one
 is out of scope: the onboarder says so and names the owning title.
 
@@ -49,7 +49,7 @@ Nothing else is needed: no connectors, no code, no other tools.
 | `examples.md` | Files | Seven exchanges, including a miss, a question past day one, one the folder cannot answer, and the mentor hand-off |
 | `reference/first-day.md` | Files | The four blocks of day one, the two mentors, and a "done looks like" line for each block |
 | `reference/expectations.md` | Files | Three tiers (Must, Should, Could) with a scorecard for each |
-| `reference/the-message.md` | Files | The 30-second pitch, the four parts of the first two minutes, and what never to say |
+| `reference/the-message.md` | Files | The four-part Core Philosophy, the 30-second pitch, the four parts of the first two minutes, and what never to say |
 | `reference/clients.md` | Files | Who is a good-fit client, who to talk to inside one, and what is not a fit |
 | `reference/what-we-sell.md` | Files | The three phases, Support Plans, and every price; none is quoted on day one |
 | `reference/meetings.md` | Files | The three day-one meetings |
