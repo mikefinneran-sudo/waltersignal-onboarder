@@ -17,7 +17,7 @@ Day one only, in four two-hour blocks:
    words.
 2. **Competitive landscape and gaps:** four categories of alternatives and where each falls short.
 3. **Compensation structure and goals:** led by the Head of Sales; the standard plan as percentages
-   (60/40 pay mix, monthly quota, attainment tiers), with no dollar figures.
+   (60/40 pay mix, monthly commission only, quarterly and annual bonuses on quota), with no dollar figures.
 4. **Outbound campaign build:** a target list, a message, and a follow-up sequence, built and
    submitted for approval; nothing is sent on day one.
 
@@ -63,7 +63,7 @@ Nothing else is needed: no connectors, no code, no other tools.
 | `reference/first-day.md` | Files | The four blocks of day one, the two mentors, and a "done looks like" line for each block |
 | `reference/expectations.md` | Files | Three tiers (Must, Should, Could) with a scorecard for each |
 | `reference/campaign.md` | Files | How to build the first outbound campaign: target list, message, and dated follow-up sequence. Built and submitted for approval; nothing is sent on day one |
-| `reference/compensation.md` | Files | How a Sales Executive is paid under the standard plan (60/40 pay mix, monthly quota, attainment tiers, monthly payout, quarterly and annual bonuses) and the day-one goals; percentages only, no dollar figures |
+| `reference/compensation.md` | Files | How a Sales Executive is paid under the standard plan (60/40 pay mix, flat monthly commission, quarterly and annual bonuses on quota) and the day-one goals; percentages only, no dollar figures |
 | `reference/landscape.md` | Files | The four categories of alternatives a prospect weighs and the four gaps each leaves, mapped to the Core Philosophy |
 | `reference/the-message.md` | Files | The four-part Core Philosophy, the company and product overview, the 30-second pitch, the four parts of the first two minutes, and what never to say |
 | `reference/clients.md` | Files | Who is a good-fit client, who to talk to inside one, and what is not a fit |

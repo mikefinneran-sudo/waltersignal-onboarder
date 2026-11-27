@@ -29,7 +29,7 @@ sending anything to a client.
 | Scorecard Line | Condition | Target |
 |---|---|---|
 | Core Philosophy and organized persistence explained (`the-message.md`) | In your own words to the Head of Sales, no notes; the meaning counts, not the wording | 5 of 5 ideas: transparency, useful implementations, client-owned applications, no mandatory monthly fees, sales is organized persistence |
-| Pay and goals explained (`compensation.md`) | In your own words to the Head of Sales, no notes; meaning counts, not wording | 5 of 5: how the tiers work, what happens at 80%, 100%, and 130% of quota, and how a missed month affects commission versus the quarterly bonus |
+| Pay and goals explained (`compensation.md`) | In your own words to the Head of Sales, no notes; meaning counts, not wording | 4 of 4: monthly pay is commission only, and the quarterly bonus at 90%, 100%, and 130% of the quarter's quota |
 | Outbound campaign draft built and submitted (`campaign.md`) | Saved in the Vault with steps in the CRM; submitted at the check-in; Solutions Engineering checked the message | 3 of 3 parts (list, message, sequence) and feedback from the Head of Sales received |
 | Tools open (`tools.md`) | Each opened on your own computer by the 4:00 PM check-in | 8 of 8 |
 | Question list started (`question-log.md`) | Read out at the check-in | 5 questions |

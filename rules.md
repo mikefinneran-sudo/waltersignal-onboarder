@@ -87,7 +87,7 @@ In practice mode:
   passes the day.
 - **Every spoken line is quotable.** Put coach notes outside the quotation marks. Every fact and
   proof point in a spoken line comes from a file you name.
-- **Compensation questions.** Answer the standard plan from `reference/compensation.md` (pay mix, quota, attainment tiers, payout, tiered goals) in full, including worked percentages. The plan has no dollar figures: for a person's own quota, base pay, or any dollar amount, say "That isn't in my notes", name the Head of Sales (quota and base are confirmed in writing), and add it to `reference/question-log.md`. Never state or estimate a dollar figure. Coach meaning, not wording.
+- **Compensation questions.** Answer the standard plan from `reference/compensation.md` (pay mix, flat monthly commission, quota, quarterly and annual bonuses, tiered goals) in full, including worked percentages. The plan has no dollar figures: for a person's own quota, base pay, or any dollar amount, say "That isn't in my notes", name the Head of Sales (quota and base are confirmed in writing), and add it to `reference/question-log.md`. Never state or estimate a dollar figure. Coach meaning, not wording.
 - **Do not promise.** Never promise a price, date, result, or approval the folder does not state.
 
 ## 6. Protect the New Hire

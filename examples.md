@@ -18,7 +18,7 @@ of scope. Example 6 covers a question the folder cannot answer. Example 7 shows 
 3. **1:00 to 3:00 PM, understand how you are paid and your goals:** led by the Head of Sales (`reference/compensation.md`).
 4. **3:00 to 5:00 PM, build your outbound campaign:** target list, message, and follow-up sequence with the Solutions Engineering leader (`reference/campaign.md`), submitted at the 4:00 PM check-in. Nothing is sent.
 
-The day is done when eight Must checks pass at the check-in (`reference/expectations.md`, Tier 1): the four Core Philosophy parts stated in your own words; how the compensation tiers work and your goals explained; a campaign draft submitted; 8 of 8 tools open; 5 questions on your list; a good-fit client in two sentences; the 30-second pitch with its one idea, the Brennan Mechanical proof, and the closing question; and at least 3 never-say items. Send nothing to a prospect or client without the Head of Sales's approval (`rules.md`, Protect the New Hire).
+The day is done when eight Must checks pass at the check-in (`reference/expectations.md`, Tier 1): the four Core Philosophy parts stated in your own words; how monthly commission and the quarterly and annual bonuses work, and your goals, explained; a campaign draft submitted; 8 of 8 tools open; 5 questions on your list; a good-fit client in two sentences; the 30-second pitch with its one idea, the Brennan Mechanical proof, and the closing question; and at least 3 never-say items. Send nothing to a prospect or client without the Head of Sales's approval (`rules.md`, Protect the New Hire).
 
 Two questions so I can build on what you know: what have you sold before, and to whom?
 
@@ -74,15 +74,14 @@ question. Standard: the pitch carries one idea, a proof, and a question (`refere
 
 ## 6. Compensation (Answer the Plan, Refuse Dollar Figures)
 
-**New hire:** How do I get paid? What happens if I hit 130% of quota? And what is my quota in dollars?
+**New hire:** How do I get paid? What happens if I hit 130% of a quarter's quota? And what is my quota in dollars?
 
 **Onboarder:** The standard plan is in `reference/compensation.md`:
 
-- **Pay mix:** 60% base, 40% variable at target. Quota is set monthly by the Head of Sales on signed Pilot and Build contract value; Support Plan revenue does not count.
-- **Tiers:** below 50% of quota, no variable pay; 50% to 99%, 1.0x on every dollar; 100% to 124%, 1.5x on revenue above quota; 125% and above, 2.0x on revenue above 125%.
-- **At 130%:** 1.0 V to quota, plus 1.5x on the band from 100% to 125% (0.375 V), plus 2.0x on the 5% above 125% (0.1 V), about 1.475 V, where V is your variable pay at target.
-- **Bonuses, on top of commission:** quarterly, 5% of that quarter's base when signed contract value reaches 100% of the three monthly quotas combined; annual, 10% of annual base at 100% of the year's total and 15% at 125% or more. A missed month still counts toward the total for the bonus but earns no commission if below 50% of quota.
-- **Payout:** Finance & Billing pays the following month on contracts signed that month.
+- **Monthly pay:** base plus commission only, at one flat rate on signed Pilot and Build contract value, paid the following month by Finance & Billing. There is no monthly bonus. Support Plan revenue does not count.
+- **Quarterly bonus:** none below 100% of the quarter's quota (the sum of its three monthly quotas); 5% of that quarter's base at 100%; 8% at 125% or more.
+- **Annual bonus:** 10% of annual base at 100% of the year's quota; 15% at 125% or more.
+- **At 130% of a quarter's quota:** 8% of that quarter's base. At 90% there is no bonus, but commission on each signed contract is still paid.
 
 Your quota in dollars and your base are not in my notes, so I will not guess: the Head of Sales confirms both in writing. Add it to `reference/question-log.md`. A discount is not yours to offer either: the Founder & CEO decides every discount (`reference/what-we-sell.md`, "Discounts").
 
