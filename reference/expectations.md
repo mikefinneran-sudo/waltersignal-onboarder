@@ -64,5 +64,5 @@ Engineering" without looking. **What weak looks like:** you answer "ask the foun
 **What good looks like:** you name the situation of a business you know in the first sentence.
 **What weak looks like:** you name only an industry.
 
-Your quota is set quarterly by the Head of Sales and confirmed in writing; other meeting and pipeline
+Your quota is set monthly by the Head of Sales and confirmed in writing; other meeting and pipeline
 targets after day one are not in this folder.

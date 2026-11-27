@@ -9,19 +9,19 @@ The Head of Sales owns the plan and leads Block 3 (`who-owns-what.md`). Explain 
 | Part | What It Is | Who Owns It |
 |---|---|---|
 | **Pay mix** | 60% base pay and 40% variable pay at target. On-target earnings are base plus variable pay at 100% of quota | Head of Sales (the plan); People Operations for base pay, benefits, and time off |
-| **Quota** | Set every quarter by the Head of Sales, measured on signed Pilot and Build revenue | Head of Sales |
+| **Quota** | Set every month by the Head of Sales, measured on signed Pilot and Build contract value | Head of Sales |
 | **What does not count** | Support Plan revenue does not count toward quota. This keeps the plan consistent with no mandatory monthly fees: never push a Support Plan for commission | Head of Sales |
-| **When you are paid** | Quarterly, after the client's payment is received | Finance & Billing |
+| **When you are paid** | Monthly: Finance & Billing pays the following month on contracts signed that month | Finance & Billing |
 
 ## The Attainment Tiers
 
-Attainment is the signed Pilot and Build revenue for the quarter divided by your quota. Each tier
+Attainment is the signed Pilot and Build contract value for the calendar month divided by that month's quota. Each tier
 sets a commission rate as a multiple of the base commission rate. The base commission rate is the
 variable pay at target divided by quota.
 
 | Attainment | Commission Rate | What It Means |
 |---|---|---|
-| Below 50% of quota | None | No variable pay for the quarter |
+| Below 50% of quota | None | No variable pay for the month |
 | 50% to 99% | 1.0x | Paid on every dollar of revenue from the first dollar |
 | 100% to 124% | 1.5x on the revenue above quota | The accelerator: revenue up to quota is paid at 1.0x |
 | 125% and above | 2.0x on the revenue above 125% of quota | Revenue between 100% and 125% stays at 1.5x |
@@ -51,4 +51,4 @@ Goals are tiered. Day one is the first period; the targets are the scorecard lin
 | **Should** | Four categories and gaps named, three phases named, owning title named for sample questions | 4 of 4, 3 of 3, 3 of 3 |
 | **Could** | Not-a-fit requests named, meeting invites accepted, pitch adapted to a business you have sold to | 4 of 4, 100%, 3 of 3 parts |
 
-Quota, set every quarter by the Head of Sales, is your revenue goal after day one. Other meeting and pipeline targets after day one are not in this folder; ask the Head of Sales.
+Quota, set every month by the Head of Sales, is your revenue goal after day one. Other meeting and pipeline targets after day one are not in this folder; ask the Head of Sales.
