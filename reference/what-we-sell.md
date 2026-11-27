@@ -2,8 +2,8 @@
 
 This page gives the three phases, their prices, and what you may say about each. Every engagement moves through Research, Validate, and Build, each sold and signed on its own, so a client can stop after any phase and keep what was delivered.
 
-Prices on this page are WalterSignal's price list. **Before the Launch Gate on day 10, you quote
-no price to anyone** (`syllabus.md`). After launch, you may quote the prices marked **Quotable**.
+Prices on this page are WalterSignal's price list. **On day one you quote
+no price to anyone.** Quoting begins only when the Head of Sales says so; that is past day one.
 Prices marked **Internal** are for qualifying a lead; never say them to a client. The Founder &
 CEO prices everything that is not on this page.
 
@@ -33,7 +33,7 @@ Every Build ends with an offer of a monthly Support Plan. The client may also ta
 | **Standard** | $3,000 | Essentials, plus up to 10 hours of changes a month | 1 business day. Offer it to a client who expects regular changes. |
 | **Priority** | $5,000 | Essentials, plus up to 25 hours of changes a month | Same business day. Offer it to a client who cannot wait a day. |
 
-Support Plan prices are Quotable after launch. Plans are month to month. When a client asks about life after go-live, name all three plans and let the client choose; you can say, "Plans are month to month, so you can change or stop each month."
+Support Plan prices are Quotable, but not on day one. Plans are month to month. When a client asks about life after go-live, name all three plans and let the client choose; you can say, "Plans are month to month, so you can change or stop each month."
 
 ## Changes Outside the Agreement
 
@@ -46,7 +46,7 @@ the quote, not you). When a client asks for extra work, say, "I will have the De
 These are true of every engagement. Say them on every call.
 
 1. **The client owns it:** the code, the data, and every account are in the client's name.
-2. **No per-user fees and no license fees.** If a client asks about per-seat or subscription charges for what we built, say there are none.
+2. **No per-user fees and no license fees.** If a client asks about per-seat or subscription charges for what WalterSignal built, say there are none.
 3. **A 90-day warranty** after go-live: anything that does not work as agreed is fixed at no
    charge.
 4. **AI steps always have a person approving.** Anything AI drafts (a quote, a reply, a form) is

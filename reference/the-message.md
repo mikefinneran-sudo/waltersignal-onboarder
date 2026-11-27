@@ -1,7 +1,7 @@
 # The Pitch
 
 This file gives the one message every WalterSignal conversation carries: a 30-second pitch, the
-the four parts to cover in the first two minutes, and what never to say. The message is one idea: nobody builds anything
+four parts to cover in the first two minutes, and what never to say. On day one you learn it and say it to the Head of Sales only. The message is one idea: nobody builds anything
 until they have seen how your work runs. Ownership of what is built is a supporting fact, not a second idea.
 
 ## The 30-Second Pitch
@@ -27,9 +27,9 @@ Use this form to check the pitch is complete:
 
 ## The Insight Behind It
 
-Most owners believe they need new software. In most of the businesses we meet, the cost is the
+Most owners believe they need new software. In most of the businesses WalterSignal meets, the cost is the
 same job typed twice and a decision made late because nobody can see the numbers. Say this when a
-prospect asks "what do you do?" so the conversation starts with their work, not our technology. This is why WalterSignal maps the work first and proves one fix before it builds the rest.
+prospect asks "what do you do?" so the conversation starts with their work, not the technology. This is why WalterSignal maps the work first and proves one fix before it builds the rest.
 
 ## The Four Parts to Cover in the First Two Minutes
 
@@ -39,19 +39,6 @@ prospect asks "what do you do?" so the conversation starts with their work, not 
 | **Understand first** | We map how the work runs before recommending anything | They have been pitched tools by people who never asked how they work | Ask how the work runs before you describe anything |
 | **Prove before building** | One workflow goes live and is measured before the full build | They never fund a large project on the strength of a slide | Say "on your own numbers" |
 | **You own it** | The client owns the code, the data, and the accounts | No lock-in, no per-user fees, no subscription to us | Say it again at the end of the call |
-
-## The Two-Minute Version (First Call)
-
-1. **The problem we see.** Growing businesses pile up tools and workarounds. Jobs get re-keyed,
-   quotes take days, and the owner cannot see the numbers without asking someone. The cost is
-   hours of staff time and jobs lost to slow answers.
-2. **How we work.** Research, Validate, Build (`what-we-sell.md`): a fixed-fee Discovery Sprint maps
-   the work and ranks what to fix; a Pilot puts one fix live and measures it; the Build delivers
-   the rest.
-3. **Proof.** One story from `case-study.md`, matched to the prospect's industry or problem, told
-   as that client's result.
-4. **The ask.** A next step with a date: usually a second call with the decider, or a Discovery
-   Sprint proposal.
 
 ## Say This
 
@@ -63,8 +50,7 @@ prospect asks "what do you do?" so the conversation starts with their work, not 
 ## Never Say This
 
 - Never promise a delivery date. Dates come from Solutions Engineering after scoping.
-- Never promise a result (hours saved, revenue gained) for a prospect's business. Results in
-  `case-study.md` belong to those clients and are told as theirs.
+- Never promise a result (hours saved, revenue gained) for a prospect's business. The Brennan Mechanical result belongs to that client and is told as theirs.
 - Never discount, or hint at one. Discounts belong to the Founder & CEO.
 - Never lead with the technology ("AI agents," "LLMs," tool names). Lead with the client's work.
 - Never claim WalterSignal sells a product or a software subscription. It does client work only.

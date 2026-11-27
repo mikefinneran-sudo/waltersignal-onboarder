@@ -1,19 +1,24 @@
 # WalterSignal Sales Executive Onboarder
 
-A folder that gets a new Sales Executive through their first ten days, and their first 90, at
-WalterSignal: a fictional 14-person software and AI consultancy that does client work for
-established small and mid-sized businesses. Load it into a project in the Claude desktop app and
-Claude becomes the colleague who has been there since the first client. It answers from this
-folder, sends you to the right title on the org chart when the answer is not here, and paces the
-days so you are never handed the whole handbook at once.
+A folder that gets a new Sales Executive through their first day at WalterSignal: a fictional
+14-person software and AI consultancy that does client work for established small and mid-sized
+businesses. Load it into a project in the Claude desktop app and Claude becomes the colleague who
+has been there since the first client. It answers from this folder and sends you to the right
+title on the org chart when the answer is not here.
 
 WalterSignal, its clients, its prices, and its people are made up for this exercise.
+
+## Scope
+
+Day one only. The folder covers four two-hour blocks, one simple message (the 30-second pitch),
+and three tiers of expectation (Must, Should, Could) by the end of the day. Two mentors share the day: Revenue Operations in the morning blocks and the Head of Sales in the afternoon blocks. With each, the new hire watches first, then tries with the mentor guiding. Anything past day one
+is out of scope: the onboarder says so and names the owning title.
 
 ## Who This Is For
 
 The first salesperson WalterSignal hires. You probably know how to sell. You do not yet know this
-company's clients, its services and prices, its sales process, its tools, or its rules. That is
-what this folder covers.
+company's pitch, who it sells to, what it sells, its tools, or who owns which question. That is
+what day one covers.
 
 ## How to Start (Claude Desktop App)
 
@@ -25,7 +30,6 @@ what this folder covers.
    `reference/`. Do not upload `tests/` or this README; `tests/` holds the answer key.
 4. Start a new chat in the project with: "Hi, it's my first day."
 
-The onboarder asks which day you are on and what you have sold before, and builds from there.
 Nothing else is needed: no connectors, no code, no other tools.
 
 ## What to Ask First
@@ -33,7 +37,7 @@ Nothing else is needed: no connectors, no code, no other tools.
 1. "What do I need to get done today?"
 2. "What's our pitch?"
 3. "Who are our clients, and who do I talk to inside them?"
-4. "What do I need to finish before I'm launched?"
+4. "What do I need to finish before the check-in?"
 5. "Who do I ask when you don't know?"
 
 ## How It Is Built
@@ -41,53 +45,42 @@ Nothing else is needed: no connectors, no code, no other tools.
 | File | Goes in | Job |
 |---|---|---|
 | `identity.md` | Instructions | Who the onboarder is, the business, the role, and what is out of scope |
-| `rules.md` | Instructions | How it answers, what it does when it does not know, how it routes by title, how it paces the days |
-| `examples.md` | Files | Four exchanges, including one the folder cannot answer |
-| `reference/first-ten-days.md` | Files | Goals for each of the first ten days, each with a "done when" line |
-| `reference/syllabus.md` | Files | Six Initial Training modules with milestones, the Launch Gate, and five Continuing Education topics through day 90 |
-| `reference/expectations.md` | Files | Four tiers: what is expected, what is not, and a scorecard for each |
-| `reference/meetings.md` | Files | The daily check-in, weekly 1:1, and weekly pipeline review |
+| `rules.md` | Instructions | How it answers, what it does when it does not know, how it routes by title, how it holds to day one |
+| `examples.md` | Files | Seven exchanges, including a miss, a question past day one, one the folder cannot answer, and the mentor hand-off |
+| `reference/first-day.md` | Files | The four blocks of day one, the two mentors, and a "done looks like" line for each block |
+| `reference/expectations.md` | Files | Three tiers (Must, Should, Could) with a scorecard for each |
+| `reference/the-message.md` | Files | The 30-second pitch, the four parts of the first two minutes, and what never to say |
+| `reference/clients.md` | Files | Who is a good-fit client, who to talk to inside one, and what is not a fit |
+| `reference/what-we-sell.md` | Files | The three phases, Support Plans, and every price; none is quoted on day one |
+| `reference/meetings.md` | Files | The three day-one meetings |
+| `reference/tools.md` | Files | The 8 tools to open on day one |
 | `reference/who-owns-what.md` | Files | The org chart and which title owns which question |
-| `reference/the-message.md` | Files | The 30-second pitch, the four parts to cover in the first two minutes, the two-minute version, and what never to say |
-| `reference/clients.md` | Files | Who is a good-fit client, who to talk to inside one, and the four qualifying questions |
-| `reference/what-we-sell.md` | Files | What WalterSignal sells: the three phases, Support Plans, every price, and which prices may be said to a client |
-| `reference/case-study.md` | Files | Two client stories, told so a new hire can use them on a call |
-| `reference/sales-process.md` | Files | The discovery call, CRM stages, proposals, and what happens after a yes |
-| `reference/discovery-questions.md` | Files | The question bank for a discovery call |
-| `reference/objections.md` | Files | Nine common objections: what is underneath, what to say, when to route |
-| `reference/templates.md` | Files | Research brief, call note, and follow-up email, each with an example |
-| `reference/tools.md` | Files | What each tool is for |
-| `reference/second-brain.md` | Files | The company's second brain (the Vault in Obsidian and the Cairn memory layer) and how this folder connects to it |
-| `reference/glossary.md` | Files | Every company term, in plain language |
+| `reference/glossary.md` | Files | The company terms heard on day one |
 | `reference/question-log.md` | Files | Every question the onboarder could not answer, and where the answer was added |
-| `tests/` | Stays on GitHub, never in the project | The test questions, answer key, graders, and scores; kept out so the onboarder cannot see the answers |
+| `tests/` | Stays on GitHub, never in the project | The test questions, answer key, and graders; kept out so the onboarder cannot see the answers |
 
 ## Design Principles
 
 - **Complete, accurate answers.** The onboarder answers the question asked in full, from the
   folder, organized into lists or tables, with no filler.
-- **Goals, not a schedule.** Each of the first ten days has goals and a "done when" line. Only
-  the meetings have fixed times.
-- **A clear syllabus.** Six modules, each with a milestone the Head of Sales signs off, end at a
-  Launch Gate into production on day 10. Five Continuing Education topics follow through day 90.
-- **Tiered expectations.** Four tiers, each listing what is and is not expected, with a
-  scorecard. The Head of Sales does it, then you do it together, then you do it alone.
-- **Classic training practice.** Start from what the learner knows; tell, show, do, check; hold
-  later material and say when it comes.
-- **Route by title.** Every question has an owner on the org chart.
+- **Four blocks, not a schedule.** Each block has one goal and a "done looks like" line. Only the
+  welcome call, account setup, and the 4:00 PM check-in have fixed times.
+- **One simple message.** The 30-second pitch carries one idea, one proof, and one question.
+- **Tiered expectations.** Must, Should, and Could, each with a scorecard.
+- **Classic training practice.** Model (I do), guided (we do), independent (you do), then feedback
+  against a stated threshold.
+- **Route by title.** Every question has an owner on the org chart, and anything past day one is
+  routed rather than answered.
 - **No invented answers.** If it is not in `reference/`, the onboarder says so and names the
-  owning title. The question goes in the log, the answer goes into Cairn and then this folder.
+  owning title. The question goes in the log.
 
-## How It Was Tested
+## Tests
 
-`tests/` asks the onboarder new-hire questions three times each and plays a full first-day
-conversation three times, then has a separate model grade every reply against this folder. The
-test builds exactly what the desktop project sees: the instructions plus the uploaded files.
-Method, raw replies, scores, and the misses still open are in `tests/README.md`. Run it with
-`tests/run.sh`.
+`tests/` holds the new-hire questions, the answer key, and the quality graders. Graders are
+non-Claude models only. Method is in `tests/README.md`. Results for this scope are not yet
+recorded in this file.
 
 ## Keeping It Current
 
-The second brain is the source; this folder is a copy of the parts a new Sales Executive needs.
-When a decision changes in Cairn, the Head of Sales updates the matching file here. Each answered
-question in `reference/question-log.md` is added to the right reference file.
+The Head of Sales updates the matching file here when a decision changes. Each answered question in
+`reference/question-log.md` is added to the right reference file.

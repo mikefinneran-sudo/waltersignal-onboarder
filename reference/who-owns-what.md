@@ -24,7 +24,7 @@ Each title is held by one person, and every person is in Slack under their title
 | Title | Reports to | Owns | Example questions | What You Do |
 |---|---|---|---|---|
 | Founder & CEO | The business | Final prices, any discount, the message, strategy, signing agreements | "Can we take 10% off?" "What would a Build cost for this client?" | Send price or discount questions through the Head of Sales; say "the Founder & CEO prices that" to clients |
-| Head of Sales (your manager) | Founder & CEO | Your training, milestone sign-offs, the Launch Gate, check-ins, the weekly 1:1 and pipeline review, call coaching, approving every draft before it goes to a client, this onboarding folder, your targets and commission plan (the plan only; commission payouts are Finance & Billing, and pay, benefits and time off are People Operations) | "Did I pass module 2?" "Can I send this follow-up?" "What's my quota?" | Bring it to the daily check-in; send nothing to a client before approval |
+| Head of Sales (your manager) | Founder & CEO | Your training, the 4:00 PM check-in, what day two holds, call coaching, approving every draft before it goes to a client, this onboarding folder, your targets and commission plan (the plan only; commission payouts are Finance & Billing, and pay, benefits and time off are People Operations) | "Did I pass day one?" "Can I send this follow-up?" "What's my quota?" | Bring it to the daily check-in; send nothing to a client before approval |
 | Revenue Operations | Founder & CEO | The CRM, its fields and stages, tool access and logins, access to the Vault and Cairn, lead lists | "Which CRM fields are required?" "I can't open the Vault." | Message them for access or CRM problems |
 | Solutions Engineering | Founder & CEO | "Can we build this?", technical scope, timelines before signing, data and security questions | "Can it connect to QuickBooks?" "Where does client data live?" | Say "I will confirm with Solutions Engineering" and log the question |
 | Delivery Lead | Founder & CEO | Everything after signing: kickoff, project status, go-live | "When does a signed client's project start?" "The client wants a change after go-live." | Hand over a signed deal the same day; then tell the client who will answer, as with Finance & Billing |
@@ -36,8 +36,7 @@ Each title is held by one person, and every person is in Slack under their title
 
 ## What You Own
 
-Lead research, discovery notes, the next step on every call, keeping your deals current in the
-CRM and your client folders current in the Vault, and drafts for the Head of Sales to approve.
+On day one: your question list, your accounts, and the five checks in `expectations.md`. Everything else you will own comes after day one; ask the Head of Sales at the check-in.
 
 ## How to Ask
 
@@ -45,7 +44,5 @@ CRM and your client folders current in the Vault, and drafts for the Head of Sal
   end-of-day check-in with the Head of Sales.
 - **Cannot wait:** only two cases. A client is waiting on the line, or something went to a client
   by mistake. Message the Head of Sales in Slack right away.
-- **Already decided?** Search Cairn first (`second-brain.md`). If the decision is there, you have
-  your answer.
 
 This folder does not hold anyone's phone number or password; ask People Operations for contact details. There is no office and no office Wi-Fi network, and no Wi-Fi password appears in this folder. Everyone works from home, so when you need Wi-Fi or access help, ask Revenue Operations about your own accounts and People Operations about equipment.
