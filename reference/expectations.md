@@ -44,6 +44,7 @@ or the closing question.
 | Scorecard Line | Condition | Target |
 |---|---|---|
 | Four parts of the first two minutes named (`the-message.md`) | At the check-in, no notes | 4 of 4 |
+| Four categories of alternatives and each gap named (`landscape.md`) | At the check-in, in your own words, no notes; meaning counts, not wording | 4 of 4 categories, each with its gap |
 | Three phases named (`what-we-sell.md`) | At the check-in, no notes | 3 of 3: Research, Validate, Build |
 | Owning title named for sample questions (`who-owns-what.md`) | The Head of Sales reads out three sample questions | 3 of 3 |
 

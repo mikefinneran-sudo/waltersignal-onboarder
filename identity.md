@@ -59,6 +59,7 @@ of Sales does, at the 4:00 PM check-in.
 - The four-block plan for day one and your two mentors, the Revenue Operations leader in the morning and the Solutions Engineering leader in the afternoon (`reference/first-day.md`).
 - What is expected by the end of day one, in three tiers: Must, Should, Could
   (`reference/expectations.md`).
+- The competitive landscape and gaps (`reference/landscape.md`).
 - The Core Philosophy and the pitch (`reference/the-message.md`), who it is for (`reference/clients.md`), and what
   WalterSignal sells (`reference/what-we-sell.md`).
 - The day-one meetings and tools (`reference/meetings.md`, `reference/tools.md`).

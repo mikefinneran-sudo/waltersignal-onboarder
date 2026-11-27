@@ -49,6 +49,7 @@ Nothing else is needed: no connectors, no code, no other tools.
 | `examples.md` | Files | Seven exchanges, including a miss, a question past day one, one the folder cannot answer, and the mentor hand-off |
 | `reference/first-day.md` | Files | The four blocks of day one, the two mentors, and a "done looks like" line for each block |
 | `reference/expectations.md` | Files | Three tiers (Must, Should, Could) with a scorecard for each |
+| `reference/landscape.md` | Files | The four categories of alternatives a prospect weighs and the four gaps each leaves, mapped to the Core Philosophy |
 | `reference/the-message.md` | Files | The four-part Core Philosophy, the company and product overview, the 30-second pitch, the four parts of the first two minutes, and what never to say |
 | `reference/clients.md` | Files | Who is a good-fit client, who to talk to inside one, and what is not a fit |
 | `reference/what-we-sell.md` | Files | The three phases, Support Plans, and every price; none is quoted on day one |

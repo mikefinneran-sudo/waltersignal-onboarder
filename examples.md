@@ -13,8 +13,8 @@ of scope. Example 6 covers a question the folder cannot answer. Example 7 shows 
 
 1. **9:00 to 11:00 AM, learn the company and the product, then get access:** welcome call with the Head of Sales at 9:00, the four-part Core Philosophy (`reference/the-message.md`), then
    Revenue Operations sets up every tool in `reference/tools.md`.
-2. **11:00 AM to 1:00 PM, learn the pitch and who it is for:** read `reference/the-message.md`,
-   `reference/clients.md`, and the three phases in `reference/what-we-sell.md`.
+2. **11:00 AM to 1:00 PM, learn the landscape and where WalterSignal fits:** read
+   `reference/landscape.md` and `reference/clients.md`.
 3. **1:00 to 3:00 PM, say the pitch:** once with notes, once without.
 4. **3:00 to 5:00 PM, check and close:** the 4:00 PM check-in with the Head of Sales.
 
