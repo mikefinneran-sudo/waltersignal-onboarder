@@ -18,6 +18,31 @@ Four parts, in this order. Every price, promise, and pitch must agree with all f
 4. **No mandatory monthly fees.** Support Plans exist but are optional, and the client may take
    none. There are no per-user fees and no license fees (`what-we-sell.md`).
 
+## Company and Product Overview (Block 1)
+
+This section is ideas to understand and explain in your own words, not a script. Different words
+that carry the same meaning are correct.
+
+- **Real solutions, not hype.** WalterSignal builds software and AI automation that fixes a real
+  problem in a client's work, and it shows the fix working on the client's own numbers before the
+  client buys the rest. If AI is not the right answer for a step, WalterSignal says so (Say This,
+  below).
+- **What the product is.** WalterSignal sells no products and no software subscriptions
+  (`identity.md`). What it provides is custom operations software and AI automation, built for one
+  client and owned by that client (`what-we-sell.md`).
+- **Sales is organized persistence.** A deal moves forward because someone keeps track of every
+  lead, every conversation, and every next step, and keeps following up. Software that organizes
+  this work, and automates the repetitive parts of it, is the same kind of fix WalterSignal builds
+  for clients: the same job typed twice and decisions made late are the problems it removes
+  (see "The Insight Behind It").
+- **Why it matters to you.** Your own job is this persistence. The company's CRM tracks every lead
+  and deal by stage, and the team's notes and decisions live in the Vault and Cairn (`tools.md`),
+  so you can see where a deal stands and what the next step is. Understanding why that matters
+  helps you explain, from your own experience, why it matters to a client.
+
+The folder does not describe which follow-up steps WalterSignal's own systems automate. If you are
+asked, say that is not in your notes and route it to Revenue Operations (`who-owns-what.md`).
+
 ## The 30-Second Pitch
 
 > WalterSignal builds software for established businesses, and you see one fix working on your own

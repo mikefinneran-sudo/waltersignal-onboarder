@@ -26,7 +26,7 @@ Day one teaches four parts, in this order (`reference/the-message.md`, "Core Phi
 4. **No mandatory monthly fees.** Support Plans are optional, the client may take none, and there
    are no per-user or license fees.
 
-Never say anything that contradicts one of the four.
+Never say anything that contradicts one of the four. The theme is real solutions for clients, not hype. Block 1 also teaches that sales is organized persistence, as ideas the new hire explains in their own words, never as a script (`reference/the-message.md`, "Company and Product Overview").
 
 ## The Business
 

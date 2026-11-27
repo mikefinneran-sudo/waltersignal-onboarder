@@ -38,7 +38,7 @@ the Solutions Engineering leader what is open, what is not, and what is on your 
 
 | Block | Goal | What You Do | Done Looks Like | Step |
 |---|---|---|---|---|
-| **1: 9:00 to 11:00 AM** | Start, learn the Core Philosophy, and get access | Welcome call with the Head of Sales at 9:00 (fixed): say what you have sold before, to whom, and what you want to learn, and hear the Head of Sales say the 30-second pitch. Read "Core Philosophy" in `the-message.md` and say its four parts back to the Head of Sales in your own words (transparency, useful implementations, client-owned applications, no mandatory monthly fees). Then account setup with your morning mentor, the Revenue Operations leader (fixed): watch them open every tool in `tools.md`, then open each yourself | You state all four philosophy parts in your own words to the Head of Sales, and all 8 tools in `tools.md` open on your own computer, and you can say which does not | Model (I do), then guided (we do) |
+| **1: 9:00 to 11:00 AM** | Learn the company and the product, then get access | Welcome call with the Head of Sales at 9:00 (fixed): say what you have sold before, to whom, and what you want to learn, and hear the Head of Sales say the 30-second pitch. Read "Core Philosophy" and "Company and Product Overview" in `the-message.md`. This block is both the company overview and the product overview: real solutions for clients, not hype; the four philosophy parts; and the idea that sales is organized persistence. Explain it back to the Head of Sales in your own words (any wording that carries the meaning is correct). Then account setup with your morning mentor, the Revenue Operations leader (fixed): watch them open every tool in `tools.md`, then open each yourself | You explain, in your own words, all four philosophy parts and why organized persistence matters to a client and to your own job; and all 8 tools in `tools.md` open on your own computer, and you can say which does not | Model (I do), then guided (we do) |
 | **2: 11:00 AM to 1:00 PM** | Learn the pitch and who it is for | Read `the-message.md` (pitch, four parts, Say This, Never Say This), `clients.md`, and the three phases in `what-we-sell.md`. Start your question list (`question-log.md`). With the Revenue Operations leader, route sample questions to their owning titles (`who-owns-what.md`). At 1:00 PM hand off to the Solutions Engineering leader | Your question list has 5 questions, and you have written two sentences describing a good-fit client that name size, situation, the decider, and the champion | Model, then guided |
 | **3: 1:00 to 3:00 PM** | Say the pitch | With your afternoon mentor, the Solutions Engineering leader: watch one sample build or data question answered, then first pass with notes: ask the onboarder to name what is missing, then say it again. Second pass with no notes: one idea, the Brennan Mechanical proof, and the closing question. Name 3 never-say items | The no-notes pass has all 3 parts and you name at least 3 never-say items | Guided (we do), then independent (you do) |
 | **4: 3:00 to 5:00 PM** | Check and close | Rehearse once more. At the 4:00 PM check-in (fixed, 4:00 to 4:30) say the pitch, describe the good-fit client, name the never-say items, and read out your question list. Write down the Head of Sales's first task for day two and say it back | The Head of Sales confirms the six Must checks below | Feedback |
@@ -47,7 +47,7 @@ the Solutions Engineering leader what is open, what is not, and what is on your 
 
 | Item | First Time | Again |
 |---|---|---|
-| The Core Philosophy, four parts | Block 1, in your own words | Block 4 at the check-in |
+| The Core Philosophy, four parts | Block 1, explained in your own words | Block 4 at the check-in |
 | The 30-second pitch | Block 3, first pass with notes | Block 3, second pass with no notes; Block 4 at the check-in |
 | The good-fit client in two sentences | Block 2 | Block 4 at the check-in |
 | Never-say items | Block 2 | Block 3, then Block 4 at the check-in |
@@ -56,7 +56,7 @@ the Solutions Engineering leader what is open, what is not, and what is on your 
 
 The day is done when the six checks in `expectations.md` (Must) pass at the 4:00 PM check-in:
 
-1. You state all four Core Philosophy parts in your own words to the Head of Sales, in order.
+1. You explain the four Core Philosophy parts and the organized-persistence idea to the Head of Sales in your own words. Wording is not graded; meaning is.
 2. All 8 tools in `tools.md` open on your own computer.
 3. Your question list has 5 questions.
 4. You describe a good-fit client in two sentences that name size, situation, the decider, and the

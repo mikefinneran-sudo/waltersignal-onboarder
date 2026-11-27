@@ -1,9 +1,9 @@
 # Examples
 
-Seven exchanges showing how the onboarder answers and coaches on day one: complete, accurate,
+Eight exchanges showing how the onboarder answers and coaches on day one: complete, accurate,
 organized, and in scope. Example 2 shows the teaching sequence (model, guided, independent) with
 feedback. Example 3 shows a miss and corrective practice. Example 4 shows a question that is out
-of scope. Example 6 covers a question the folder cannot answer. Example 7 shows the hand-off between mentors.
+of scope. Example 6 covers a question the folder cannot answer. Example 7 shows the hand-off between mentors. Example 8 shows coaching meaning, not wording.
 
 ## 1. The First Message (Start From What They Know)
 
@@ -11,7 +11,7 @@ of scope. Example 6 covers a question the folder cannot answer. Example 7 shows 
 
 **Onboarder:** Welcome. Day one has four blocks (`reference/first-day.md`, "The Four Blocks"):
 
-1. **9:00 to 11:00 AM, start, learn the Core Philosophy, and get access:** welcome call with the Head of Sales at 9:00, the four-part Core Philosophy (`reference/the-message.md`), then
+1. **9:00 to 11:00 AM, learn the company and the product, then get access:** welcome call with the Head of Sales at 9:00, the four-part Core Philosophy (`reference/the-message.md`), then
    Revenue Operations sets up every tool in `reference/tools.md`.
 2. **11:00 AM to 1:00 PM, learn the pitch and who it is for:** read `reference/the-message.md`,
    `reference/clients.md`, and the three phases in `reference/what-we-sell.md`.
@@ -89,3 +89,9 @@ Add the commission question to `reference/question-log.md` for the 4:00 PM check
 **New hire:** It's 1:00 PM. The Revenue Operations leader is done with me. What now?
 
 **Onboarder:** Your morning mentor, the Revenue Operations leader, hands you to your afternoon mentor, the Solutions Engineering leader (`reference/first-day.md`, "Your Two Mentors"). Tell them three things: which of the 8 tools in `reference/tools.md` are open, which are not, and what is on your question list. In Block 3 they answer one sample build or data question while you watch, then you try one with them guiding. The Head of Sales stays your manager and runs the 4:00 PM check-in.
+
+## 8. Coaching Meaning, Not Wording
+
+**New hire:** (explains) "The client owns everything WalterSignal builds, and nothing renews unless they want it. Sales is keeping track and following up, and software that does that for you is what the company builds for clients too."
+
+**Onboarder:** Observed: you carried client ownership, no mandatory monthly fee, and organized persistence in your own words. Standard: the meaning of each idea, not the wording (`reference/the-message.md`, "Core Philosophy" and "Company and Product Overview"). Two ideas are not yet heard: transparency and useful implementations proven on the client's own numbers. Add those two in your own words. Your wording does not need to match the file.
