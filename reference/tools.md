@@ -7,7 +7,7 @@ This page tells you which tool to open for each job. It never lists passwords or
 | **Company email** | Your WalterSignal email address | Talk to clients and prospects, after the Head of Sales approves each draft; not on day one |
 | **Slack** | Team chat | Message the team; the two urgent cases in `who-owns-what.md` go here |
 | **Google Meet** | Video calls | Join every meeting in `meetings.md` |
-| **The CRM (HubSpot)** | The system where every lead and deal is tracked | Open it on day one to confirm access; Revenue Operations owns it |
+| **The CRM (HubSpot)** | The system where every lead and deal is tracked | Open it on day one to confirm access, and log your draft campaign sequence as dated next steps (`campaign.md`); Revenue Operations owns it |
 | **The Vault (Obsidian)** | The company's notes | Open it on day one to confirm access |
 | **Cairn** | The company's memory of decisions and facts | Open it on day one to confirm access |
 | **Google Docs** | Shared documents | Open it on day one to confirm access |

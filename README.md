@@ -10,9 +10,22 @@ WalterSignal, its clients, its prices, and its people are made up for this exerc
 
 ## Scope
 
-Day one only. The folder covers four two-hour blocks, the four-part Core Philosophy and the idea that sales is organized persistence (Block 1 is both the company overview and the product overview, taught as ideas the new hire explains in their own words), one simple message (the 30-second pitch),
-and three tiers of expectation (Must, Should, Could) by the end of the day. Two mentors share the day: the Revenue Operations leader in the morning blocks (what you need to work at all) and the Solutions Engineering leader in the afternoon blocks (what you need to sell honestly). The Head of Sales remains the manager. With each, the new hire watches first, then tries with the mentor guiding. Anything past day one
-is out of scope: the onboarder says so and names the owning title.
+Day one only, in four two-hour blocks:
+
+1. **Philosophy and company and product overview:** the four-part Core Philosophy, real solutions
+   not hype, and the idea that sales is organized persistence, explained in the new hire's own
+   words.
+2. **Competitive landscape and gaps:** four categories of alternatives and where each falls short.
+3. **Compensation structure and goals:** led by the Head of Sales; structure only, with marked
+   placeholders for every number.
+4. **Outbound campaign build:** a target list, a message, and a follow-up sequence, built and
+   submitted for approval; nothing is sent on day one.
+
+Two mentors share the day: the Revenue Operations leader in the morning blocks (what you need to
+work at all) and the Solutions Engineering leader in Block 4 (what you need to sell honestly). The
+Head of Sales is the manager, leads Block 3, and runs the 4:00 PM check-in. With each mentor, the
+new hire watches first, then tries with the mentor guiding. Expectations are tiered Must, Should,
+and Could. Anything past day one is out of scope: the onboarder says so and names the owning title.
 
 ## Who This Is For
 
@@ -49,6 +62,8 @@ Nothing else is needed: no connectors, no code, no other tools.
 | `examples.md` | Files | Seven exchanges, including a miss, a question past day one, one the folder cannot answer, and the mentor hand-off |
 | `reference/first-day.md` | Files | The four blocks of day one, the two mentors, and a "done looks like" line for each block |
 | `reference/expectations.md` | Files | Three tiers (Must, Should, Could) with a scorecard for each |
+| `reference/campaign.md` | Files | How to build the first outbound campaign: target list, message, and dated follow-up sequence. Built and submitted for approval; nothing is sent on day one |
+| `reference/compensation.md` | Files | How a Sales Executive is paid and the day-one goals; structure only, with marked placeholders for every number |
 | `reference/landscape.md` | Files | The four categories of alternatives a prospect weighs and the four gaps each leaves, mapped to the Core Philosophy |
 | `reference/the-message.md` | Files | The four-part Core Philosophy, the company and product overview, the 30-second pitch, the four parts of the first two minutes, and what never to say |
 | `reference/clients.md` | Files | Who is a good-fit client, who to talk to inside one, and what is not a fit |

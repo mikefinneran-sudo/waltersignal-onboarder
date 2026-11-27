@@ -29,9 +29,9 @@ guiding you (guided, we do).
 | Mentor | Blocks | What They Own (`who-owns-what.md`) | Why You Need It | What You Do With Them |
 |---|---|---|---|---|
 | **Revenue Operations** leader | 1 and 2 (morning) | The CRM, tool access and logins, access to the Vault and Cairn | What you need to work at all | Watch them open each tool in `tools.md`, then open each one yourself with them guiding. In Block 2, watch them route one sample question to its owning title, then route two yourself with them guiding |
-| **Solutions Engineering** leader | 3 and 4 (afternoon) | "Can we build this?", technical scope, timelines before signing, data and security questions | What you need to sell honestly | Watch them answer one sample "Can we build this?" or data question, then say "I will confirm with Solutions Engineering" and name what they would confirm, with them guiding. Then say the pitch with them listening for any claim about what can be built |
+| **Solutions Engineering** leader | 4 (afternoon) | "Can we build this?", technical scope, timelines before signing, data and security questions | What you need to sell honestly | Watch them check one sample claim for what can be built, then have them check your campaign message for any claim that cannot be built, with them guiding. Then say the pitch with them listening |
 
-The hand-off from the morning mentor to the afternoon mentor happens at the end of Block 2: tell
+Block 3 is led by the Head of Sales, who owns the compensation plan. The hand-off from the morning mentor to the afternoon mentor happens at the end of Block 3, at 3:00 PM: tell
 the Solutions Engineering leader what is open, what is not, and what is on your question list.
 
 ## The Four Blocks (Eastern)
@@ -39,9 +39,9 @@ the Solutions Engineering leader what is open, what is not, and what is on your 
 | Block | Goal | What You Do | Done Looks Like | Step |
 |---|---|---|---|---|
 | **1: 9:00 to 11:00 AM** | Learn the company and the product, then get access | Welcome call with the Head of Sales at 9:00 (fixed): say what you have sold before, to whom, and what you want to learn, and hear the Head of Sales say the 30-second pitch. Read "Core Philosophy" and "Company and Product Overview" in `the-message.md`. This block is both the company overview and the product overview: real solutions for clients, not hype; the four philosophy parts; and the idea that sales is organized persistence. Explain it back to the Head of Sales in your own words (any wording that carries the meaning is correct). Then account setup with your morning mentor, the Revenue Operations leader (fixed): watch them open every tool in `tools.md`, then open each yourself | You explain, in your own words, all four philosophy parts and why organized persistence matters to a client and to your own job; and all 8 tools in `tools.md` open on your own computer, and you can say which does not | Model (I do), then guided (we do) |
-| **2: 11:00 AM to 1:00 PM** | Learn the landscape and where WalterSignal fits | Read `landscape.md` (four categories of alternatives and four gaps) and `clients.md`. Explain each category and its gap in your own words to the Revenue Operations leader or the Head of Sales. Start your question list (`question-log.md`). With the Revenue Operations leader, route sample questions to their owning titles (`who-owns-what.md`). At 1:00 PM hand off to the Solutions Engineering leader | You name each of the four categories and its gap in your own words, your question list has 5 questions, and you have written two sentences describing a good-fit client that name size, situation, the decider, and the champion | Model, then guided |
-| **3: 1:00 to 3:00 PM** | Say the pitch | Read `the-message.md` (pitch, four parts, Say This, Never Say This) and the three phases in `what-we-sell.md`. With your afternoon mentor, the Solutions Engineering leader: watch one sample build or data question answered, then first pass with notes: ask the onboarder to name what is missing, then say it again. Second pass with no notes: one idea, the Brennan Mechanical proof, and the closing question. Name 3 never-say items | The no-notes pass has all 3 parts and you name at least 3 never-say items | Guided (we do), then independent (you do) |
-| **4: 3:00 to 5:00 PM** | Check and close | Rehearse once more. At the 4:00 PM check-in (fixed, 4:00 to 4:30) say the pitch, describe the good-fit client, name the never-say items, and read out your question list. Write down the Head of Sales's first task for day two and say it back | The Head of Sales confirms the six Must checks below | Feedback |
+| **2: 11:00 AM to 1:00 PM** | Learn the landscape and where WalterSignal fits | Read `landscape.md` (four categories of alternatives and four gaps) and `clients.md`. Explain each category and its gap in your own words to the Revenue Operations leader or the Head of Sales. Start your question list (`question-log.md`). With the Revenue Operations leader, route sample questions to their owning titles (`who-owns-what.md`). At 1:00 PM move to Block 3 with the Head of Sales | You name each of the four categories and its gap in your own words, your question list has 5 questions, and you have written two sentences describing a good-fit client that name size, situation, the decider, and the champion | Model, then guided |
+| **3: 1:00 to 3:00 PM** | Understand how you are paid and your goals | Led by the Head of Sales. Read `compensation.md` and `expectations.md`. The Head of Sales walks you through the structure (base pay, commission on Pilots and Builds, when payouts happen, quota) and your goals in three tiers: Must, Should, Could. Write each placeholder number the Head of Sales gives you on your question list | You explain, in your own words, how you get paid and what your goals are; wording is not graded, meaning is | Model (I do), then guided (we do) |
+| **4: 3:00 to 5:00 PM** | Build your outbound campaign | With your afternoon mentor, the Solutions Engineering leader, follow `campaign.md`. Build (1) a target list of good-fit prospects (ask Revenue Operations for the lead list), (2) a message in your own words, built on the Block 1 philosophy and the Block 2 gaps, and (3) a follow-up sequence of dated steps logged in the CRM as a draft. Watch the Solutions Engineering leader check one sample claim for what can be built, then have them check your message. Say the 30-second pitch with notes, then with no notes. At the 4:00 PM check-in (fixed, 4:00 to 4:30) submit the campaign draft to the Head of Sales, say the pitch, describe the good-fit client, name the never-say items, and read out your question list. Write down the Head of Sales's first task for day two and say it back | A complete campaign draft (list, message, sequence) is saved in the Vault with its steps in the CRM, the Head of Sales has given feedback, and the Head of Sales confirms the eight Must checks below. Nothing is sent | Guided (we do), then independent (you do), then feedback |
 
 ## Practiced Again
 
@@ -49,22 +49,26 @@ the Solutions Engineering leader what is open, what is not, and what is on your 
 |---|---|---|
 | The Core Philosophy, four parts | Block 1, explained in your own words | Block 4 at the check-in |
 | The four categories and their gaps | Block 2, in your own words | Block 4 at the check-in |
-| The 30-second pitch | Block 3, first pass with notes | Block 3, second pass with no notes; Block 4 at the check-in |
+| How you are paid and your goals | Block 3, explained in your own words | Block 4 at the check-in |
+| The campaign message, from the pitch and philosophy | Block 4, first draft | Block 4, revised after the Solutions Engineering leader's check and again after the Head of Sales's feedback |
+| The 30-second pitch | Block 4, first pass with notes | Block 4, second pass with no notes, then at the check-in |
 | The good-fit client in two sentences | Block 2 | Block 4 at the check-in |
-| Never-say items | Block 2 | Block 3, then Block 4 at the check-in |
+| Never-say items | Block 2 | Block 4, then at the check-in |
 
 ## Done When
 
-The day is done when the six checks in `expectations.md` (Must) pass at the 4:00 PM check-in:
+The day is done when the eight checks in `expectations.md` (Must) pass at the 4:00 PM check-in:
 
 1. You explain the four Core Philosophy parts and the organized-persistence idea to the Head of Sales in your own words. Wording is not graded; meaning is.
-2. All 8 tools in `tools.md` open on your own computer.
-3. Your question list has 5 questions.
-4. You describe a good-fit client in two sentences that name size, situation, the decider, and the
+2. You explain how you get paid and what your goals are, in your own words (`compensation.md`).
+3. All 8 tools in `tools.md` open on your own computer.
+4. Your question list has 5 questions.
+5. You describe a good-fit client in two sentences that name size, situation, the decider, and the
    champion.
-5. You say the 30-second pitch without notes, with its one idea, the Brennan Mechanical proof, and
+6. You say the 30-second pitch without notes, with its one idea, the Brennan Mechanical proof, and
    the closing question.
-6. You name at least 3 never-say items from `the-message.md`.
+7. You name at least 3 never-say items from `the-message.md`.
+8. A complete campaign draft (target list, message, follow-up sequence) is saved and submitted to the Head of Sales, and you have their feedback (`campaign.md`).
 
 If a check is missed, the Head of Sales names it at the check-in and shows one example of the right
 behavior. You repeat only that check at the next daily check-in, and the plan does not move on
