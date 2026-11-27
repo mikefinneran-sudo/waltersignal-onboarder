@@ -59,7 +59,7 @@ of Sales does, at the 4:00 PM check-in.
 - The four-block plan for day one and your two mentors, the Revenue Operations leader in the morning and the Solutions Engineering leader in the afternoon (`reference/first-day.md`).
 - What is expected by the end of day one, in three tiers: Must, Should, Could
   (`reference/expectations.md`).
-- How you are paid and your goals, as structure only (`reference/compensation.md`).
+- How you are paid under the standard plan, and your goals (`reference/compensation.md`).
 - Building the outbound campaign: target list, message, and follow-up sequence, built and submitted but never sent on day one (`reference/campaign.md`).
 - The competitive landscape and gaps (`reference/landscape.md`).
 - The Core Philosophy and the pitch (`reference/the-message.md`), who it is for (`reference/clients.md`), and what
@@ -74,7 +74,7 @@ You do not answer these. Route them to the owning title in `reference/who-owns-w
 
 - Anything past day one: later days, training modules, objections, discovery calls, proposals, the
   sales process, case studies, and call templates.
-- Any commission rate, base pay, quota, or other number that is a placeholder in `reference/compensation.md`, and benefits, time off, working hours, equipment, or other workplace policy. The structure of compensation and goals is in scope for Block 3.
+- Your personal quota and base pay (the Head of Sales confirms them in writing), and benefits, time off, working hours, equipment, or other workplace policy. The standard compensation plan and goals are in scope for Block 3 (`reference/compensation.md`).
 - Legal questions and contract wording.
 - Any price, discount, or promise that is not written in `reference/what-we-sell.md`.
 - Technical questions about a specific client's systems, security, or data.

@@ -1,22 +1,44 @@
 # Compensation and Goals
 
-This file tells you how a Sales Executive is paid and what the goals are, so you can explain both in your own words. It holds the structure only. Every number is a placeholder because the folder holds no rates, pay, or quota; do not estimate one.
+This file tells you how a Sales Executive is paid under the standard plan and what the goals are, so you can explain both in your own words. The plan is stated as percentages; it holds no dollar figures. This is the standard plan: the Head of Sales confirms each person's quota and base pay in writing, and your own figures are in that writing, not in this folder.
 
 The Head of Sales owns the plan and leads Block 3 (`who-owns-what.md`). Explain it back in your own words; different wording that carries the meaning is correct.
 
-## How You Get Paid
+## How You Get Paid (The Standard Plan)
 
-| Part | What It Is | Who Owns It | Number |
-|---|---|---|---|
-| **Base pay** | Pay for the role, and benefits and time off | People Operations | `[Base pay: set by People Operations]` |
-| **Commission on Pilots** | Commission when a Pilot you sold is signed | Head of Sales (the plan) | `[Commission rate on a Pilot: set by Head of Sales]` |
-| **Commission on Builds** | Commission when a Build you sold is signed. The Founder & CEO prices every Build | Head of Sales (the plan) | `[Commission rate on a Build: set by Head of Sales]` |
-| **When payouts happen** | The date commission and other payouts are paid | Finance & Billing | `[Payout schedule: set by Finance & Billing]` |
-| **Quota** | Your revenue target | Head of Sales | `[Quota: set by Head of Sales]` |
+| Part | What It Is | Who Owns It |
+|---|---|---|
+| **Pay mix** | 60% base pay and 40% variable pay at target. On-target earnings are base plus variable pay at 100% of quota | Head of Sales (the plan); People Operations for base pay, benefits, and time off |
+| **Quota** | Set every quarter by the Head of Sales, measured on signed Pilot and Build revenue | Head of Sales |
+| **What does not count** | Support Plan revenue does not count toward quota. This keeps the plan consistent with no mandatory monthly fees: never push a Support Plan for commission | Head of Sales |
+| **When you are paid** | Quarterly, after the client's payment is received | Finance & Billing |
 
-What you do: ask the Head of Sales to fill in each placeholder in Block 3, write the answers on your
-question list, and ask Finance & Billing about the payout schedule. If a number is still a
-placeholder, say "That isn't in my notes" and name the owner. Never state or guess a number.
+## The Attainment Tiers
+
+Attainment is the signed Pilot and Build revenue for the quarter divided by your quota. Each tier
+sets a commission rate as a multiple of the base commission rate. The base commission rate is the
+variable pay at target divided by quota.
+
+| Attainment | Commission Rate | What It Means |
+|---|---|---|
+| Below 50% of quota | None | No variable pay for the quarter |
+| 50% to 99% | 1.0x | Paid on every dollar of revenue from the first dollar |
+| 100% to 124% | 1.5x on the revenue above quota | The accelerator: revenue up to quota is paid at 1.0x |
+| 125% and above | 2.0x on the revenue above 125% of quota | Revenue between 100% and 125% stays at 1.5x |
+
+Let V be your variable pay at target (100% of quota):
+
+| Attainment | Variable Pay | How |
+|---|---|---|
+| **80%** | 0.8 V | 1.0x on every dollar; no accelerator yet |
+| **100%** | 1.0 V | 1.0x on every dollar; the accelerator starts on revenue above this |
+| **130%** | about 1.475 V | 1.0 V up to quota, plus 1.5x on the 25% of quota between 100% and 125% (0.375 V), plus 2.0x on the 5% of quota above 125% (0.1 V) |
+
+The 130% row is arithmetic on the tiers above, read as rates applying to each band of revenue. If
+you read the tiers differently, ask the Head of Sales to confirm in Block 3.
+
+What you do: ask the Head of Sales to confirm your quota and base pay in writing, and ask Finance &
+Billing about payout questions. Never quote a dollar figure that is not in your written plan.
 
 ## Your Goals
 
@@ -29,4 +51,4 @@ Goals are tiered. Day one is the first period; the targets are the scorecard lin
 | **Should** | Four categories and gaps named, three phases named, owning title named for sample questions | 4 of 4, 3 of 3, 3 of 3 |
 | **Could** | Not-a-fit requests named, meeting invites accepted, pitch adapted to a business you have sold to | 4 of 4, 100%, 3 of 3 parts |
 
-Targets after day one, including meeting, pipeline, and revenue targets: `[Targets after day one: set by Head of Sales]`. They are not in this folder.
+Quota, set every quarter by the Head of Sales, is your revenue goal after day one. Other meeting and pipeline targets after day one are not in this folder; ask the Head of Sales.

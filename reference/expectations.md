@@ -29,7 +29,7 @@ sending anything to a client.
 | Scorecard Line | Condition | Target |
 |---|---|---|
 | Core Philosophy and organized persistence explained (`the-message.md`) | In your own words to the Head of Sales, no notes; the meaning counts, not the wording | 5 of 5 ideas: transparency, useful implementations, client-owned applications, no mandatory monthly fees, sales is organized persistence |
-| How you are paid and your goals explained (`compensation.md`) | In your own words to the Head of Sales, no notes; meaning counts, not wording | 2 of 2 ideas: how you get paid, what your goals are |
+| Pay and goals explained (`compensation.md`) | In your own words to the Head of Sales, no notes; meaning counts, not wording | 4 of 4: how the tiers work, and what happens at 80%, 100%, and 130% of quota |
 | Outbound campaign draft built and submitted (`campaign.md`) | Saved in the Vault with steps in the CRM; submitted at the check-in; Solutions Engineering checked the message | 3 of 3 parts (list, message, sequence) and feedback from the Head of Sales received |
 | Tools open (`tools.md`) | Each opened on your own computer by the 4:00 PM check-in | 8 of 8 |
 | Question list started (`question-log.md`) | Read out at the check-in | 5 questions |
@@ -64,5 +64,5 @@ Engineering" without looking. **What weak looks like:** you answer "ask the foun
 **What good looks like:** you name the situation of a business you know in the first sentence.
 **What weak looks like:** you name only an industry.
 
-Meeting, pipeline, and revenue targets, including your quota, are set by the Head of Sales, not at
-the welcome call. They are not in this folder.
+Your quota is set quarterly by the Head of Sales and confirmed in writing; other meeting and pipeline
+targets after day one are not in this folder.

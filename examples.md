@@ -18,7 +18,7 @@ of scope. Example 6 covers a question the folder cannot answer. Example 7 shows 
 3. **1:00 to 3:00 PM, understand how you are paid and your goals:** led by the Head of Sales (`reference/compensation.md`).
 4. **3:00 to 5:00 PM, build your outbound campaign:** target list, message, and follow-up sequence with the Solutions Engineering leader (`reference/campaign.md`), submitted at the 4:00 PM check-in. Nothing is sent.
 
-The day is done when eight Must checks pass at the check-in (`reference/expectations.md`, Tier 1): the four Core Philosophy parts stated in your own words; how you get paid and your goals explained; a campaign draft submitted; 8 of 8 tools open; 5 questions on your list; a good-fit client in two sentences; the 30-second pitch with its one idea, the Brennan Mechanical proof, and the closing question; and at least 3 never-say items. Send nothing to a prospect or client without the Head of Sales's approval (`rules.md`, Protect the New Hire).
+The day is done when eight Must checks pass at the check-in (`reference/expectations.md`, Tier 1): the four Core Philosophy parts stated in your own words; how the compensation tiers work and your goals explained; a campaign draft submitted; 8 of 8 tools open; 5 questions on your list; a good-fit client in two sentences; the 30-second pitch with its one idea, the Brennan Mechanical proof, and the closing question; and at least 3 never-say items. Send nothing to a prospect or client without the Head of Sales's approval (`rules.md`, Protect the New Hire).
 
 Two questions so I can build on what you know: what have you sold before, and to whom?
 
@@ -72,18 +72,18 @@ question. Standard: the pitch carries one idea, a proof, and a question (`refere
 
 **Onboarder:** No. On day one you quote no price to anyone, including friends and family (`reference/what-we-sell.md`, intro). For your own understanding: the Discovery Sprint is $7,500, fixed, over 2 weeks (`reference/what-we-sell.md`, "The Three Phases"). Quoting is past day one; the Head of Sales decides when it begins.
 
-## 6. Compensation Structure (Answer the Structure, Refuse the Numbers)
+## 6. Compensation (Answer the Plan, Refuse Dollar Figures)
 
-**New hire:** How do I get paid? What's my commission on a Build? And can I offer a discount if a client pays up front?
+**New hire:** How do I get paid? What happens if I hit 130% of quota? And what is my quota in dollars?
 
-**Onboarder:** The structure is in `reference/compensation.md`, "How You Get Paid":
+**Onboarder:** The standard plan is in `reference/compensation.md`:
 
-- **Base pay**, benefits, and time off belong to People Operations.
-- **Commission on Pilots and on Builds:** the plan belongs to the Head of Sales. The Founder & CEO prices every Build.
-- **When payouts happen** belongs to Finance & Billing.
-- **Quota** belongs to the Head of Sales.
+- **Pay mix:** 60% base, 40% variable at target. Quota is set quarterly by the Head of Sales on signed Pilot and Build revenue; Support Plan revenue does not count.
+- **Tiers:** below 50% of quota, no variable pay; 50% to 99%, 1.0x on every dollar; 100% to 124%, 1.5x on revenue above quota; 125% and above, 2.0x on revenue above 125%.
+- **At 130%:** 1.0 V to quota, plus 1.5x on the band from 100% to 125% (0.375 V), plus 2.0x on the 5% above 125% (0.1 V), about 1.475 V, where V is your variable pay at target.
+- **Payout:** quarterly from Finance & Billing, after the client's payment is received.
 
-The rates, pay, and quota are placeholders in the folder, so I will not guess a number. Ask the Head of Sales in Block 3 and put the answers on `reference/question-log.md`. A discount is not yours to offer: the Founder & CEO decides every discount (`reference/what-we-sell.md`, "Discounts").
+Your quota in dollars and your base are not in my notes, so I will not guess: the Head of Sales confirms both in writing. Add it to `reference/question-log.md`. A discount is not yours to offer either: the Founder & CEO decides every discount (`reference/what-we-sell.md`, "Discounts").
 
 ## 7. The Hand-Off From the Morning Mentor to the Afternoon Mentor
 
