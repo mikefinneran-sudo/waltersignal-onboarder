@@ -34,7 +34,7 @@ Every question is asked three times, because the same question can get a differe
 | File | Job |
 |---|---|
 | `run.sh` | Runs the whole suite against one folder and prints the score |
-| `questions.tsv` | 30 questions: ID, then the question; most say which day the hire is on |
+| `questions.tsv` | 13 questions: ID, then the question; most say which day the hire is on |
 | `key.tsv` | The correct owner for each routing question |
 | `conversation.txt` | The eight turns of the multi-turn day-one test |
 | `lib/` | The five steps above, one script each |
@@ -57,35 +57,9 @@ call that failed, and `score.sh` lists it as UNGRADED so it can be regraded.
 
 ## Scores
 
-| Category | Baseline (`c112c16`) | `4695c84` | `b03dc24` | Current (`256954d`) |
-|---|---|---|---|---|
-| T Trap | 30/30 | 30/30 | 31/33 | 34/36 |
-| A Answerable | 18/18 | 18/18 | 21/21 | 27/27 |
-| P Pacing | 6/6 | 6/6 | 6/6 | 5/6 |
-| C Coverage | 15/18 | 17/18 | 19/21 | 24/24 |
-| R Routing | 0/18 | 17/18 | 18/18 | 18/18 |
-| **Single-turn total** | **69/90** | **88/90** | **95/99** | **108/111** |
-| **Multi-turn turns** | **11/16** (2 runs) | **21/24** (3 runs) | **21/24** (3 runs) | **22/24** (3 runs) |
+The folder was rescoped to day one only. Earlier scores described a ten-day, 90-day folder and no longer apply. Results for the day-one folder are not yet recorded here.
 
-The baseline routed every question to the founder by name, so it failed every routing question.
-`4695c84` routes by title on the org chart. `b03dc24` adds `reference/meetings.md` and three
-questions about it (T11, C7, A7), which pass 9/9. `256954d` rewrites the folder around a
-fictional WalterSignal (ten-day goals, services and prices, second brain) and rewrites the
-questions to match, so its scores are not a like-for-like comparison with earlier columns.
-
-## Misses Still Open
-
-These are the misses from the current run, as the grader wrote them. They are left in on purpose
-so the next edit has a target.
-
-- **T4 (run 2):** said it is not in the notes and routed correctly, but invented that the Head of
-  Sales owns "client history."
-- **T7 (run 2):** said no live calls are logged before the Launch Gate, but day 10 requires
-  logging the next step of a co-run live call.
-- **P2 (run 3):** invented "the Head of Sales will teach the format when you reach CE4."
-- **Multi-turn, turn 2 (run 2):** placed the two-minute pitch in module 5; it is module 1.
-- **Multi-turn, turn 6 (run 2):** told the hire to say "you're still in training" instead of
-  handing off to the Head of Sales, as `objections.md` says.
+The question set was cut from 37 to 13 questions: 24 asked about content that is now out of scope (days after day one, objections, discovery, case studies, proposals-related facts, pipeline reviews, later-day routing). `lib/roleplay.sh` and the objections checks in `lib/det.py` apply to a file that no longer exists; run `quality.sh` with `NOROLE=1`.
 
 ## How the Folder Was Improved
 

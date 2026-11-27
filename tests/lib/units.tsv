@@ -1,12 +1,6 @@
-objections	OBJECTIONS	reference/objections.md
-discovery-questions	DISCOVERY	reference/discovery-questions.md
 the-message	PITCH	reference/the-message.md
 expectations	TIERS	reference/expectations.md
-syllabus	TRAINING_PLAN	reference/syllabus.md
-first-ten-days	TRAINING_PLAN	reference/first-ten-days.md
-case-study	CASE_STUDY	reference/case-study.md
-sales-process	PROCESS_TEMPLATES	reference/sales-process.md
-templates	PROCESS_TEMPLATES	reference/templates.md
+first-day	TRAINING_PLAN	reference/first-day.md
 clients	REFERENCE_FACTS	reference/clients.md
 what-we-sell	REFERENCE_FACTS	reference/what-we-sell.md
 who-owns-what	REFERENCE_FACTS	reference/who-owns-what.md
@@ -14,6 +8,5 @@ meetings	REFERENCE_FACTS	reference/meetings.md
 tools	REFERENCE_FACTS	reference/tools.md
 glossary	REFERENCE_FACTS	reference/glossary.md
 question-log	REFERENCE_FACTS	reference/question-log.md
-second-brain	REFERENCE_FACTS	reference/second-brain.md
 identity-rules	BOT_INSTRUCTIONS	identity.md rules.md
 examples	BOT_EXAMPLES	examples.md
