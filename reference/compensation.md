@@ -8,9 +8,9 @@ The Head of Sales owns the plan and leads Block 3 (`who-owns-what.md`). Explain 
 
 | Part | What It Is | Who Owns It |
 |---|---|---|
-| **Pay mix** | 60% base pay and 40% variable pay at target. On-target earnings are base plus variable pay at 100% of quota | Head of Sales (the plan); People Operations for base pay, benefits, and time off |
+| **Pay mix** | 60% base pay and 40% variable pay at target, for commission. On-target earnings are base plus variable pay at 100% of quota. Bonuses (below) are additional | Head of Sales (the plan); People Operations for base pay, benefits, and time off |
 | **Quota** | Set every month by the Head of Sales, measured on signed Pilot and Build contract value | Head of Sales |
-| **What does not count** | Support Plan revenue does not count toward quota. This keeps the plan consistent with no mandatory monthly fees: never push a Support Plan for commission | Head of Sales |
+| **What does not count** | Support Plan revenue does not count toward quota. This keeps the plan consistent with no mandatory monthly fees: never push a Support Plan for commission or bonus | Head of Sales |
 | **When you are paid** | Monthly: Finance & Billing pays the following month on contracts signed that month | Finance & Billing |
 
 ## The Attainment Tiers
@@ -36,6 +36,21 @@ Let V be your variable pay at target (100% of quota):
 
 The 130% row is arithmetic on the tiers above, read as rates applying to each band of revenue. If
 you read the tiers differently, ask the Head of Sales to confirm in Block 3.
+
+## Quarterly and Annual Bonuses
+
+Bonuses are earned on top of the monthly commission. They measure the total over the period, while
+commission tiers measure each month on its own.
+
+| Bonus | Earned When | Amount | Paid |
+|---|---|---|---|
+| **Quarterly** | The quarter's signed contract value reaches 100% of the sum of that quarter's three monthly quotas | 5% of base salary for that quarter | The month after the quarter closes |
+| **Annual** | The year's signed contract value reaches 100% of the annual total of the monthly quotas | 10% of annual base salary; 15% at 125% or more | The month after the year ends |
+
+Support Plan revenue does not count toward either bonus. A missed month can be made up within the
+quarter or year for the bonus, because the bonus measures the total. It cannot be made up for
+commission: a month below 50% of quota earns no variable pay for that month, whatever the other
+months bring.
 
 What you do: ask the Head of Sales to confirm your quota and base pay in writing, and ask Finance &
 Billing about payout questions. Never quote a dollar figure that is not in your written plan.

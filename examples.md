@@ -81,6 +81,7 @@ question. Standard: the pitch carries one idea, a proof, and a question (`refere
 - **Pay mix:** 60% base, 40% variable at target. Quota is set monthly by the Head of Sales on signed Pilot and Build contract value; Support Plan revenue does not count.
 - **Tiers:** below 50% of quota, no variable pay; 50% to 99%, 1.0x on every dollar; 100% to 124%, 1.5x on revenue above quota; 125% and above, 2.0x on revenue above 125%.
 - **At 130%:** 1.0 V to quota, plus 1.5x on the band from 100% to 125% (0.375 V), plus 2.0x on the 5% above 125% (0.1 V), about 1.475 V, where V is your variable pay at target.
+- **Bonuses, on top of commission:** quarterly, 5% of that quarter's base when signed contract value reaches 100% of the three monthly quotas combined; annual, 10% of annual base at 100% of the year's total and 15% at 125% or more. A missed month still counts toward the total for the bonus but earns no commission if below 50% of quota.
 - **Payout:** Finance & Billing pays the following month on contracts signed that month.
 
 Your quota in dollars and your base are not in my notes, so I will not guess: the Head of Sales confirms both in writing. Add it to `reference/question-log.md`. A discount is not yours to offer either: the Founder & CEO decides every discount (`reference/what-we-sell.md`, "Discounts").
