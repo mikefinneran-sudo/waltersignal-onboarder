@@ -53,6 +53,15 @@ Close (3 min):       "Does [day, date] work for [next step]? I will send the inv
 Placeholders: [Name] is the person you are speaking to; [reason] is their words from the first
 message; [the job] is the task they named; [day, date] is a real calendar date.
 
+## CRM Stage Rules
+
+| Stage | Enter when | Required fields | Exit when |
+|---|---|---|---|
+| Leads | A prospect is identified | Four qualifying answers, source, dated next step | A proposal is sent |
+| Proposals | A written proposal is sent | Proposal date, the three options, dated follow-up | Signed agreement returns, or the prospect says no |
+| Closed Won | Signed agreement returned | Signing date, Head of Sales told | Delivery Lead takes over |
+| Closed Lost | No, silence after three dated follow-ups, or not a fit | Reason | Prospect returns with a new need |
+
 ## Call Note (Same Day, in the Vault; Next Step and Stage in the CRM)
 
 ```

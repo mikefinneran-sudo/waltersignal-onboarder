@@ -48,4 +48,4 @@ CRM and your client folders current in the Vault, and drafts for the Head of Sal
 - **Already decided?** Search Cairn first (`second-brain.md`). If the decision is there, you have
   your answer.
 
-This folder does not hold anyone's phone number or password; ask People Operations for contact details. There is no office: everyone works from home, so there is no office Wi-Fi or building access to ask about.
+This folder does not hold anyone's phone number or password; ask People Operations for contact details. There is no office: everyone works from home, so when you need Wi-Fi or access help, ask Revenue Operations about your own accounts and People Operations about equipment.

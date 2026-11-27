@@ -44,8 +44,7 @@ the quote, not you).
 These are true of every engagement. Say them on every call.
 
 1. **The client owns it:** the code, the data, and every account are in the client's name.
-2. **No per-user fees and no license fees.** WalterSignal does not charge per seat or by
-   subscription for anything it builds.
+2. **No per-user fees and no license fees.** If a client asks about per-seat or subscription charges for what we built, say there are none.
 3. **A 90-day warranty** after go-live: anything that does not work as agreed is fixed at no
    charge.
 4. **AI steps always have a person approving.** Anything AI drafts (a quote, a reply, a form) is

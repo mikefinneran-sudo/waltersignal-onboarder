@@ -52,7 +52,7 @@ champion. The two dentist-owners: the deciders.
 calling insurers to check coverage before each appointment.
 
 **Where they wanted to be (future state).** Coverage checked ahead of the appointment, with the
-staff minutes per check as the one agreed number.
+staff minutes per check as the one agreed number, and a target of 3 minutes or less.
 
 **The gap and what it cost.** About 12 minutes of front-desk time on every check, repeated for
 every patient, across four offices.
@@ -64,9 +64,10 @@ every patient, across four offices.
 | **Discovery Sprint** | Shadowed the front desk at two offices. Ranked insurance checks first. | 2 weeks | $7,500, credited to the Pilot |
 | **Pilot** | Coverage checks run the night before each appointment through the insurers' online portals; an AI step summarizes the coverage and front-desk staff approve each summary. The agreed number: staff minutes per check. | 6 weeks | $20,000 (two connected tools), less the $7,500 credit |
 
-**The outcome (Harbor's numbers).** Staff time per check fell from about 12 minutes to about 3.
-Harbor chose not to start a Build yet; it kept the Pilot running on the Essentials Support Plan
-and owns everything built so far.
+**The outcome (Harbor's numbers).** Staff time per check fell from about 12 minutes to about 3,
+meeting the 3-minute target. Harbor chose not to start a Build yet; it kept the Pilot running on
+the Essentials Support Plan and owns everything built so far. Both the pause and the Support Plan
+are Harbor's recorded decisions at the Pilot readout, not estimates.
 
 **Where the numbers come from.** Both minute figures are the Pilot measurement of staff minutes per
 check, taken against the number agreed at the start.

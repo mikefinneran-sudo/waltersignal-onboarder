@@ -36,6 +36,12 @@ A milestone passes only when every part of it is met. If any part is missed:
 | 5 | The Discovery Call | Days 4 to 7 | `sales-process.md`, `discovery-questions.md`, `templates.md` | Sit in on every discovery call the Head of Sales runs. Write research briefs on three assigned leads, all 8 fields filled. Pass one practice call on day 7 with the Head of Sales playing the client: current state, gap, solution, and a dated next step. |
 | 6 | Prices, Proof, and Objections | Days 8 to 10 | `what-we-sell.md`, `case-study.md`, `objections.md` | Name every Quotable and Internal price and say which is which, with no errors. Tell a case study in two minutes that includes the client, both numbers, and the closing question. Handle five objections in a role-play on day 9 with no script, completing all five steps each time. |
 
+## Continuing Education Reviews
+
+Each CE task comes back twice after sign-off, on two later weekly 1:1s that are not back to back.
+At each, the Head of Sales asks you to repeat the CE task's core step, and the standard is the same
+as at sign-off.
+
 ## Review Days (Spaced Practice)
 
 Skills from earlier modules come back on later days, so they are not forgotten by day 10
@@ -93,7 +99,7 @@ ends in a milestone.
 |---|---|---|---|---|
 | CE1 | The Discovery Sprint in Depth | By day 28 | `what-we-sell.md`, `case-study.md` | With the Head of Sales playing a practice client, explain what the Sprint delivers (four items), that it takes 2 weeks, why it comes first, and how the 30-day credit works, with no errors. |
 | CE2 | Scoping a Pilot | By day 42 | `what-we-sell.md` | With Solutions Engineering, turn a Sprint finding into a one-page Pilot scope: one workflow, the tools it connects, and the one number it is measured by. Solutions Engineering confirms the scope. |
-| CE3 | Support Plans and the Hand-Off | By day 56 | `what-we-sell.md`, `sales-process.md` | Explain the three Support Plans and change requests, and walk a practice deal from Closed Won to kickoff, naming who owns each step. |
+| CE3 | Support Plans and the Hand-Off | By day 56 | `what-we-sell.md`, `sales-process.md` | Explain the three Support Plans and change requests, and walk a practice deal from Closed Won to kickoff, naming who owns each step. Success criterion: all three plans and the change-request rate stated with no price errors, and each of the 5 hand-off steps assigned to the right title, with the Head of Sales correcting nothing. |
 | CE4 | Writing Proposals | By day 70 | `sales-process.md`, `templates.md` | Draft a Good, Better, Best proposal for a real deal, for the Head of Sales to approve and the Founder & CEO to price. The Head of Sales approves it in no more than two rounds of edits. |
 | CE5 | Your Own Pipeline | By day 84 | `clients.md`, `discovery-questions.md` | Find and qualify five leads with the four questions. Run your first discovery call alone, with a note and a dated next step logged the same day. |
 

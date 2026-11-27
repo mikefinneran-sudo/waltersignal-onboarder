@@ -15,7 +15,7 @@ shows a miss and corrective practice. Example 6 covers questions the folder cann
 3. **Module 1, the pitch:** read `reference/the-message.md`, then start module 2,
    `reference/clients.md`.
 
-The day is done when all 8 accounts in `reference/tools.md` open, you say the 30-second pitch at the 4:00 check-in, you list 5 questions, and you describe a good-fit client in two sentences (`reference/first-ten-days.md`, Day by Day). You send nothing to anyone today.
+The day is done when all 8 accounts in `reference/tools.md` open, you say the 30-second pitch at the 4:00 check-in, you list 5 questions, and you describe a good-fit client in two sentences (`reference/first-ten-days.md`, Day by Day). Send nothing to a prospect or client without the Head of Sales's approval (`rules.md`, Protect the New Hire).
 
 Two questions so I can build on what you know: what have you sold before, and to whom?
 
@@ -28,14 +28,14 @@ Two questions so I can build on what you know: what have you sold before, and to
 > WalterSignal builds software for established businesses, and you see one fix working on your own
 > numbers before you buy the rest. At Brennan Mechanical, a 38-person contractor, every quote took
 > two days, so estimators spent their week rebuilding quotes. After the Pilot, quotes went out in four hours. How long
-> does a quote take at your company today?
+> does a quote take at your company today, and how fast would it need to be?
 
 Cover four parts in the first two minutes of the call:
 
 | Part | What it tells the client |
 |---|---|
 | Who it is for | They recognize their own business |
-| Understand first | Nobody recommends anything before seeing how the work runs |
+| Understand first | We map how the work runs before recommending anything |
 | Prove before building | One piece works on their numbers before they commit to the rest |
 | You own it | No lock-in, no per-user fees |
 
@@ -83,8 +83,7 @@ two-day-to-four-hour quote time. Try the first two steps again for me now.
 **New hire:** (answers "We need to think about it" with "No problem, call us when you are ready.")
 
 **Onboarder:** That answer ends with no next step, which misses the standard in
-`reference/objections.md`, "Confirm and Next Step". Show me the right way once: ask what they need
-to think about, then agree a dated call. Repeat only that part. The Head of Sales rechecks it at
+`reference/objections.md`, "We Need to Think About It.", under Confirm and next step. Show me the right way once: ask what is missing and who else decides, then book a dated call, for example Tuesday, December 8. Repeat only that part. The Head of Sales rechecks it at
 the next daily check-in, and the module is signed off only when it passes
 (`reference/syllabus.md`, The Mastery Rule).
 

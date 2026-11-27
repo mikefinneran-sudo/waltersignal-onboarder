@@ -178,7 +178,7 @@ Practice follows I do, we do, you do (`syllabus.md`).
 ### "How Long Will It Take?"
 
 - **Buyer may mean:** they have a date that matters, such as a busy season.
-- **Acknowledge:** "A date matters when the work depends on a season."
+- **Acknowledge:** "You want to know how long this takes, and a date that matters is a fair thing to ask about."
 - **Ask:** "What date are you working to, and what happens if it slips?"
 - **Name the gap:** "So you have a date that matters, you want the work done by then, and missing it costs you the season."
 - **Isolate:** "If we meet that date, is anything else in the way of going ahead?"
