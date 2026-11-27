@@ -38,8 +38,7 @@ pays for the Standard Support Plan.
 **Where the numbers come from.** The quote time is the Pilot measurement taken against the number
 agreed at the start. The Build result is Brennan's own account after go-live.
 
-**What to point out.** The Sprint said to leave the accounting software alone, and that saved
-Brennan money. WalterSignal recommends less when less is right.
+**What to point out.** The Sprint ranked the accounting software last and left it alone. WalterSignal recommends less when less is right.
 
 **Use this story when** the prospect says "AI is all hype" or "do you have results" (`objections.md`),
 or when the problem is slow quotes, whiteboard dispatch, or retyping work.

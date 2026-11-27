@@ -17,7 +17,7 @@ Facts about their business. Ask few of these; use your research brief (`template
 not ask what you can read.
 
 3. "Walk me through what happens from the moment a customer calls you."
-4. "Which tools do you pay for today, and which ones does anyone open every week?"
+4. "Which tools does anyone open every week?"
 5. "Who in the office lives with this every day?" (That is usually the champion.)
 6. "What gets written on paper, or kept in someone's head?"
 
@@ -64,8 +64,7 @@ Money comes up by the second conversation at the latest.
 
 ## Next Step (Every Call)
 
-24. "Does Thursday, December 3, work for a second call with you and your office manager, and
-    shall I send the invite?" Write the next step in the CRM the same day: a date, an owner, and
+24. "Does Thursday, December 3, work for a second call with you and your office manager?" Write the next step in the CRM the same day: a date, an owner, and
     what happens.
 
 ## Never Ask

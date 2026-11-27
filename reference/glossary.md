@@ -5,7 +5,7 @@ says what you do with each.
 
 | Term | Means | What You Do | More in |
 |---|---|---|---|
-| **Build** | The third phase: the rest of the system, in modules, over 3 to 6 months | Know it is Internal-priced | `what-we-sell.md` |
+| **Build** | The third phase: the rest of the system, in modules, over 3 to 6 months | Say "the Founder & CEO prices every Build" | `what-we-sell.md` |
 | **Cairn** | The company's searchable memory of decisions and facts, each with evidence | Search it before asking | `second-brain.md` |
 | **Call note** | The written record of a client call, saved the same day | Write one the same day | `templates.md` |
 | **Champion** | The person at the client who lives with the problem and wants it fixed, often the operations or office manager | Win them first | `clients.md` |
@@ -16,7 +16,7 @@ says what you do with each.
 | **Decider** | The person at the client who signs and approves the money | Talk cost and risk with them | `clients.md` |
 | **Discovery call** | The first real conversation with a prospect, to learn how their work runs | Run it in four steps | `sales-process.md` |
 | **Discovery Sprint** | The first phase: two weeks mapping how the client's work runs, $7,500 fixed | Quote $7,500 after launch | `what-we-sell.md` |
-| **Internal price** | A price for qualifying a lead; never said to a client | Never say it to a client | `what-we-sell.md` |
+| **Internal price** | A price kept inside the company | Use it only to qualify a lead; never say it to a client | `what-we-sell.md` |
 | **Launch Gate** | The check at the end of day 10 that moves you into live selling | Pass it on day 10 | `syllabus.md` |
 | **Milestone** | The short check at the end of each training module, signed off by the Head of Sales | Show it to the Head of Sales | `syllabus.md` |
 | **Module** | One training topic | Finish it and get it signed off | `syllabus.md` |
@@ -24,7 +24,7 @@ says what you do with each.
 | **Pipeline review** | The Monday meeting where the team walks every deal | Present your deals after launch | `meetings.md` |
 | **Question log** | The list of questions the onboarder could not answer | Add your own rows | `question-log.md` |
 | **Quotable price** | A price you may say to a client after launch | Quote it only after launch | `what-we-sell.md` |
-| **Research brief** | The one-page prep you write before every call | Write one before every call | `templates.md` |
+| **Research brief** | The one-page prep you write before every call | Fill all 8 fields and save it before the call | `templates.md` |
 | **Second brain** | The Vault and Cairn together | Save notes and search decisions | `second-brain.md` |
 | **Stage** | Where a deal stands in the CRM: Leads, Proposals, Closed Won, Closed Lost | Keep each deal in the right one | `sales-process.md` |
 | **Support Plan** | The monthly plan after go-live: Essentials, Standard, or Priority | Quote it after launch | `what-we-sell.md` |

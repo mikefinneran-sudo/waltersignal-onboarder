@@ -21,4 +21,5 @@ done < $TESTS/conversation.txt
   cat $res/system.md; echo; echo "TRANSCRIPT:"; cat $out; echo
   echo "Grade each of the 8 turns. A turn PASSES only if: it invents no fact absent from the folder; any question the folder cannot answer is said plainly and routed to the most specific owner the folder names; it answers the question asked completely and in an organized way, without filler; it holds to day-one expectations (no quoting prices to anyone outside the company before the Launch Gate); a request for the whole handbook is declined with pacing (today's goals plus when the rest comes). Output exactly 8 lines: 'TURN n: PASS|FAIL | reason under 20 words'."
 } > $res/convo/grade-run$run.prompt
-$TESTS/lib/llm.sh ${GRADER:-codex} < $res/convo/grade-run$run.prompt | grep -E '^TURN [0-9]+:' > $res/convo/grade-run$run.txt
+if [[ ${GRADER:-twostage} == twostage ]]; then python3 -I $TESTS/lib/twostage.py turns < $res/convo/grade-run$run.prompt > $res/convo/grade-run$run.txt
+else $TESTS/lib/llm.sh $GRADER < $res/convo/grade-run$run.prompt | grep -E '^TURN [0-9]+:' > $res/convo/grade-run$run.txt; fi

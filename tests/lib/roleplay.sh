@@ -22,7 +22,7 @@ done < $res/roleplay/buyers.tsv | xargs -0 -n3 -P6 zsh -c '
   claude -p --setting-sources "" --tools "" --no-session-persistence --model $ONBOARDER_MODEL --system-prompt-file $res/system.md "$q" < /dev/null > $res/roleplay/$id.reply 2>/dev/null
   { echo "BUYER SAID: $b"; echo; echo "ONBOARDER COACHING REPLY:"; cat $res/roleplay/$id.reply; } > $res/roleplay/$id.txt
 ' _
-for g in codex gemini grok; do
+for g in ${=GRADERS:-gemini grok}; do
   for f in $res/roleplay/*.txt; do [[ ${f:t} == buyers.tsv ]] && continue
     print -rn -- "$res"$'\0'"$g"$'\0'"rp-${f:t:r}"$'\0'"ROLEPLAY"$'\0'"$f"$'\0'; done
 done | xargs -0 -n5 -P8 $TESTS/lib/judge.sh

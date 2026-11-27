@@ -30,11 +30,11 @@ prospect, sending anything.
 | Scorecard Line | Condition | Target |
 |---|---|---|
 | Day 1 checklist items done (`first-ten-days.md`) | By the 4:00 PM check-in on day 1 | 5 of 5 |
-| 30-second pitch said from memory | At the check-in, no notes | All 4 parts present (`the-message.md`) |
+| 30-second pitch said from memory | At the check-in, no notes | 3 of 3: one idea, the Brennan proof, the closing question (`the-message.md`) |
 | Never-say items named | At the check-in | At least 3 |
 
 **What good looks like:** you say the pitch in your own words and include Brennan Mechanical and
-the closing question. **What weak looks like:** you read the pitch, or leave out "you own it."
+the closing question. **What weak looks like:** you read the pitch, or leave out the Brennan proof or the closing question.
 
 ## Tier 2: Days 2 to 10 (Initial Training, Done Together)
 

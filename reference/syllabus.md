@@ -29,10 +29,10 @@ A milestone passes only when every part of it is met. If any part is missed:
 
 | # | Module | When | Reference | Milestone (signed off by the Head of Sales) |
 |---|---|---|---|---|
-| 1 | The Pitch | Day 1 | `the-message.md` | Say the 30-second pitch from memory with all four parts, Brennan Mechanical, and the closing question. Name three things never to say. |
+| 1 | The Pitch | Day 1 | `the-message.md` | Say the 30-second pitch from memory with its one idea, the Brennan Mechanical proof, and the closing question. Name three things never to say. |
 | 2 | Our Clients | Days 1 to 2 | `clients.md` | Describe a good-fit client, the decider, the champion, and the four qualifying questions. Sort five sample businesses into fit and not a fit, with at least 4 of 5 matching the Head of Sales. |
 | 3 | The Work | Day 2 | `what-we-sell.md` (phases only), `case-study.md` | In two minutes and in your own words, explain Research, Validate, and Build using the Brennan Mechanical story, with its two-day-to-four-hour result. |
-| 4 | Tools, the Second Brain, and Who Owns What | Day 3 | `tools.md`, `second-brain.md`, `who-owns-what.md` | Every account works. Log a practice call in the CRM and save its call note in the Vault. Find one decision in Cairn. Name the owning title for 10 sample questions, at least 9 correct. |
+| 4 | Tools, the Second Brain, and Who Owns What | Day 3 | `tools.md`, `second-brain.md`, `who-owns-what.md` | Open every account in `tools.md` on your own computer without help, with all 8 working. Log a practice call in the CRM and save its call note in the Vault. Find one decision in Cairn. Name the owning title for 10 sample questions, at least 9 correct. |
 | 5 | The Discovery Call | Days 4 to 7 | `sales-process.md`, `discovery-questions.md`, `templates.md` | Sit in on every discovery call the Head of Sales runs. Write research briefs on three assigned leads, all 8 fields filled. Pass one practice call on day 7 with the Head of Sales playing the client: current state, gap, solution, and a dated next step. |
 | 6 | Prices, Proof, and Objections | Days 8 to 10 | `what-we-sell.md`, `case-study.md`, `objections.md` | Name every Quotable and Internal price and say which is which, with no errors. Tell a case study in two minutes. Handle five objections in a role-play on day 9 with no script, completing all five steps each time. |
 
@@ -44,10 +44,10 @@ Skills from earlier modules come back on later days, so they are not forgotten b
 | Skill | Practiced first | Revisited |
 |---|---|---|
 | The 30-second pitch | Day 1 | Days 3, 6, and 8, at the check-in, with a different client type each time |
-| Sorting fit and not a fit | Day 2 | Day 6, with five new businesses |
+| Sorting fit and not a fit | Day 2 | Days 6, 8, and 10, with five new businesses each; expected output: at least 4 of 5 match, otherwise repeat at the next check-in |
 | Case study in two minutes | Day 2 | Day 8 and day 10 |
 | The four discovery steps | Day 4 | Days 7 and 10 |
-| Naming the owning title | Day 3 | Days 5 and 9, three questions each |
+| Naming the owning title | Day 3 | Days 4, 5, and 9, three questions each; expected output: at least 2 of 3 correct each time, otherwise repeat at the next check-in |
 
 ## The Launch Gate (End of Day 10)
 
@@ -70,11 +70,11 @@ ends in a milestone.
 
 | # | Topic | When | Reference | Milestone (signed off by the Head of Sales) |
 |---|---|---|---|---|
-| CE1 | The Discovery Sprint in Depth | Weeks 3 to 4 | `what-we-sell.md`, `case-study.md` | With the Head of Sales playing a practice client, explain what the Sprint delivers (four items), that it takes 2 weeks, why it comes first, and how the 30-day credit works, with no errors. |
-| CE2 | Scoping a Pilot | Weeks 5 to 6 | `what-we-sell.md` | With Solutions Engineering, turn a Sprint finding into a one-page Pilot scope: one workflow, the tools it connects, and the one number it is measured by. Solutions Engineering confirms the scope. |
-| CE3 | Support Plans and the Hand-Off | Weeks 7 to 8 | `what-we-sell.md`, `sales-process.md` | Explain the three Support Plans and change requests, and walk a practice deal from Closed Won to kickoff, naming who owns each step. |
-| CE4 | Writing Proposals | Weeks 9 to 10 | `sales-process.md`, `templates.md` | Draft a Good, Better, Best proposal for a real deal, for the Head of Sales to approve and the Founder & CEO to price. The Head of Sales approves it in no more than two rounds of edits. |
-| CE5 | Your Own Pipeline | Weeks 11 to 12 | `clients.md`, `discovery-questions.md` | Find and qualify five leads with the four questions. Run your first discovery call alone, with a note and a dated next step logged the same day. |
+| CE1 | The Discovery Sprint in Depth | By day 28 | `what-we-sell.md`, `case-study.md` | With the Head of Sales playing a practice client, explain what the Sprint delivers (four items), that it takes 2 weeks, why it comes first, and how the 30-day credit works, with no errors. |
+| CE2 | Scoping a Pilot | By day 42 | `what-we-sell.md` | With Solutions Engineering, turn a Sprint finding into a one-page Pilot scope: one workflow, the tools it connects, and the one number it is measured by. Solutions Engineering confirms the scope. |
+| CE3 | Support Plans and the Hand-Off | By day 56 | `what-we-sell.md`, `sales-process.md` | Explain the three Support Plans and change requests, and walk a practice deal from Closed Won to kickoff, naming who owns each step. |
+| CE4 | Writing Proposals | By day 70 | `sales-process.md`, `templates.md` | Draft a Good, Better, Best proposal for a real deal, for the Head of Sales to approve and the Founder & CEO to price. The Head of Sales approves it in no more than two rounds of edits. |
+| CE5 | Your Own Pipeline | By day 84 | `clients.md`, `discovery-questions.md` | Find and qualify five leads with the four questions. Run your first discovery call alone, with a note and a dated next step logged the same day. |
 
 ## The 90-Day Review
 

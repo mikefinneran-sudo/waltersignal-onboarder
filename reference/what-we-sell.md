@@ -1,7 +1,6 @@
 # What We Sell
 
-Every engagement moves through three phases: **Research, Validate, Build**. Each phase is sold
-and signed on its own, so a client can stop after any phase and keep what was delivered.
+This page gives the three phases, their prices, and what you may say about each. Every engagement moves through Research, Validate, and Build, each sold and signed on its own, so a client can stop after any phase and keep what was delivered.
 
 Prices on this page are WalterSignal's price list. **Before the Launch Gate on day 10, you quote
 no price to anyone** (`syllabus.md`). After launch, you may quote the prices marked **Quotable**.
@@ -32,7 +31,7 @@ Every Build ends with an offer of a monthly Support Plan. The client may also ta
 | **Standard** | $3,000 | Essentials, plus up to 10 hours of changes a month | 1 business day |
 | **Priority** | $5,000 | Essentials, plus up to 25 hours of changes a month | Same business day |
 
-Support Plan prices are Quotable after launch. Plans are month to month.
+Support Plan prices are Quotable after launch. Plans are month to month. When a client asks about life after go-live, name all three plans and let the client choose.
 
 ## Changes Outside the Agreement
 
@@ -42,7 +41,7 @@ the quote, not you).
 
 ## What Every Client Gets
 
-These are true of every engagement. Say them often.
+These are true of every engagement. Say them on every call.
 
 1. **The client owns it:** the code, the data, and every account are in the client's name.
 2. **No per-user fees and no license fees.** WalterSignal does not charge per seat or by
@@ -55,7 +54,7 @@ These are true of every engagement. Say them often.
 ## What We Do Not Sell
 
 Marketing websites, IT support, hardware, off-the-shelf software, AI training workshops, and
-developers by the hour (`clients.md`).
+developers by the hour (`clients.md`). If a prospect asks for one, say so kindly and use the script in `clients.md`.
 
 ## Discounts
 

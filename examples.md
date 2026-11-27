@@ -26,12 +26,12 @@ Two questions so I can build on what you know: what have you sold before, and to
 
 **Onboarder:** Here is the 30-second pitch (`reference/the-message.md`):
 
-> WalterSignal builds custom software and AI automation for established businesses whose work has
-> outgrown spreadsheets. We map how your work runs, prove one fix on your own numbers, then build
-> the rest, and you own it. Brennan Mechanical, a 38-person contractor, now sends quotes in four
-> hours instead of two days. How does a quote get from request to customer at your company today?
+> WalterSignal builds software for established businesses, and you see one fix working on your own
+> numbers before you buy the rest. At Brennan Mechanical, a 38-person contractor, estimators spent
+> two days rebuilding each quote by hand. After the Pilot, quotes went out in four hours. How long
+> does a quote take at your company today?
 
-It has four parts, and every version you say must keep all four:
+Cover four parts in the first two minutes of the call:
 
 | Part | What it tells the client |
 |---|---|
@@ -43,15 +43,17 @@ It has four parts, and every version you say must keep all four:
 Guided step: the pitch's first sentence names who it is for. Which words would you change to name
 a restaurant group's situation? Tell me, and I will check it against the four parts.
 
-Independent step: say the whole pitch the way you would open a call with a restaurant group owner,
+**New hire:** (changes the first sentence) "WalterSignal builds software for restaurant groups that run on spreadsheets and disconnected tools, and you see one fix working on your own numbers before you buy the rest."
+
+**Onboarder:** That keeps the one idea and names their situation. Now the independent step: say the whole pitch the way you would open a call with a restaurant group owner,
 with no notes. Then name one thing you would never say, from "Never Say This" in
 `reference/the-message.md`.
 
 **New hire:** (says it, but leaves out that the client owns what is built)
 
-**Onboarder:** Observed: you covered who it is for, understand first, and prove before building.
-Standard: the pitch needs all four parts (`reference/the-message.md`, "The Four Parts"). Missing:
-"you own it." Repeat it once with that part added.
+**Onboarder:** Observed: you named who it is for and the idea, but left out the Brennan proof and the closing
+question. Standard: the pitch carries one idea, a proof, and a question (`reference/the-message.md`,
+"The 30-Second Pitch"). Repeat it once with those two parts added.
 
 ## 3. A Price Question Before Launch (Answer Fully, Hold to the Tier)
 
@@ -92,11 +94,11 @@ the next daily check-in, and the module is signed off only when it passes
 **New hire:** What's my commission on a Build? And can I offer a discount if a client pays up
 front?
 
-**Onboarder:** Neither is in my notes, so I will not guess.
+**Onboarder:** Your commission rate is not in my notes, so I will not guess. A discount is not yours to offer: the Founder & CEO decides every discount (`reference/what-we-sell.md`, "Discounts").
 
 - **Your commission plan** belongs to the Head of Sales. When it is paid out is Finance & Billing.
-- **Discounts**, of any size, belong to the Founder & CEO (`reference/who-owns-what.md`).
+- **Discounts**, of any size, belong to the Founder & CEO (`reference/who-owns-what.md`, "What Each Title Owns").
 
-Add both to `reference/question-log.md` for the daily check-in. Also: Build prices are Internal.
+Add the commission question to `reference/question-log.md` for the daily check-in. Also: Build prices are Internal.
 The Founder & CEO prices every Build, so the price itself is never yours to change
 (`reference/what-we-sell.md`).

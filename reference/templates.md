@@ -89,23 +89,20 @@ Subject: Next step from our call
 [Name], thank you for walking me through how [the work] runs today.
 
 What I heard: [the gap, in their words].
-What happens next: [the next step], by [date].
-What I need from you: [one thing].
+What I am asking: please confirm [the next step] for [date, with owner].
 
 [Your name]
 WalterSignal
 ```
 
-Placeholders: [Name] is the prospect; [the work] is their process in their words; [the gap] is the
-cost they gave you; [the next step] is the dated step from the call; [one thing] is the single
-item you ask them for.
+Purpose of the follow-up: confirm what you heard and the one next step. Owner of the next step: the person named in [date, with owner], usually you. Placeholders: [Name] is the prospect; [the work] is their process in their words; [the gap] is the cost they gave you; [the next step] is the dated step from the call; [date, with owner] is a calendar date and the person who acts.
 
 Every draft goes to the Head of Sales before it is sent.
 
 ## Insight-Led Outreach Email (Use From CE5, With Approval)
 
 **Purpose:** open a conversation with a business that fits (`clients.md`) by naming a problem you
-noticed in their work, not by describing WalterSignal. **Ask:** one question, and a reply.
+noticed in their work, not by describing WalterSignal. **Ask:** one reply by the date you set in the email (owner: you, who calls on the date given).
 
 ```
 Subject: [Their process] at [Business]
@@ -114,12 +111,12 @@ Subject: [Their process] at [Business]
 is usually when jobs start getting re-keyed twice.
 
 A 38-person contractor we worked with cut the time to send a quote from two days to four hours
-after we mapped how the work ran. How do quotes get from request to customer at [Business] today?
+after we mapped how the work ran. How do quotes get from request to customer at [Business] today? Please reply by [reply-by date] and I will call you [call date].
 
 [Your name]
 WalterSignal
 ```
 
-Placeholders: [their process] is the work you noticed; [Business] and [Name] come from the brief;
+Placeholders: [their process] is the work you noticed; [Business] and [Name] come from the brief; [reply-by date] and [call date] are real calendar dates, the first for the prospect and the second for you;
 [why-now signal] is from the Why-now field. The Head of Sales approves every outreach email before
 it is sent.

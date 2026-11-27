@@ -14,8 +14,7 @@ sold from what the Sprint finds.
 
 ## The Discovery Call
 
-The first real conversation with a prospect. Discovery and the pitch happen in the same call.
-Run it in this order, using the question bank in `discovery-questions.md`:
+The first real conversation with a prospect. Its one purpose is to learn how their work runs and agree a next step; you pitch only in answer to a question. Run it in this order, using the question bank in `discovery-questions.md`:
 
 1. **Current state** (Situation questions). How does the work run today? Who does what, what is on
    paper or in someone's head, and where does work fall through the cracks?
@@ -43,7 +42,7 @@ step is fixed before the weekly pipeline review (`meetings.md`).
 | **Leads** | You are talking to a business and have asked the four questions in `clients.md` | Fill the four answers, the champion and decider, the source, and a next step with a date | A proposal is sent |
 | **Proposals** | A written proposal has been sent | Record the proposal date and the three options; follow up on the dates you set | The signed agreement comes back (Closed Won), or the prospect says no or goes quiet (Closed Lost) |
 | **Closed Won** | Signed agreement returned | Tell the Head of Sales the same day; move the Vault folder | Delivery takes over (`who-owns-what.md`) |
-| **Closed Lost** | Said no, went quiet after three dated follow-ups, chose someone else, or not a fit | Log the reason | A closed-lost deal can return to Leads later if something changes |
+| **Closed Lost** | Said no, went quiet after three dated follow-ups, chose someone else, or not a fit | Log the reason | The prospect replies with a new need, you move the deal to Leads and log the date and reason |
 
 ## Proposals
 

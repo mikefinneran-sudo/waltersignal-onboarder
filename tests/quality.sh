@@ -14,7 +14,7 @@ python3 -I $TESTS/lib/det.py $folder > $res/deterministic.txt
 echo "Deterministic: $(grep -c ^PASS $res/deterministic.txt) pass, $(grep -c ^FAIL $res/deterministic.txt) fail"
 while IFS=$'\t' read -r label sec files; do
   paths=(); for f in ${=files}; do paths+=($folder/$f); done
-  for g in codex gemini grok; do print -rn -- "$res"$'\0'"$g"$'\0'"$label"$'\0'"$sec"$'\0'"${paths[*]}"$'\0'; done
+  for g in ${=GRADERS:-gemini grok}; do print -rn -- "$res"$'\0'"$g"$'\0'"$label"$'\0'"$sec"$'\0'"${paths[*]}"$'\0'; done
 done < $TESTS/lib/units.tsv | xargs -0 -n5 -P${JOBS:-6} $TESTS/lib/judge.sh 2>/dev/null || true
 if [[ -z ${NOROLE:-} ]]; then $TESTS/lib/roleplay.sh $res $folder || true; fi
 python3 -I $TESTS/lib/verdict.py $res | tee $res/verdict.txt

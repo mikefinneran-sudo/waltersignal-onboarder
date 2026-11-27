@@ -1,7 +1,6 @@
 # Question Log
 
-Every question the onboarder could not answer goes here. The onboarder cannot edit this file;
-you add the row yourself. This is how the folder gets better.
+This page is where you record every question the onboarder could not answer. The onboarder cannot edit this file, so add each row yourself.
 
 ## How It Works
 
@@ -15,4 +14,4 @@ you add the row yourself. This is how the folder gets better.
 
 | Date | Question | Owner (title) | Answer added to |
 |---|---|---|---|
-| No entries recorded yet | | | |
+| No entries recorded yet. Add your first row when the onboarder says "That isn't in my notes." | | | |

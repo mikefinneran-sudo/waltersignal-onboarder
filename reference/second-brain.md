@@ -1,8 +1,6 @@
 # The Second Brain
 
-WalterSignal keeps everything it knows in one place, called the second brain. It has two halves:
-**the Vault**, where the notes live, and **Cairn**, where decisions and facts live. This
-onboarding folder is a small, curated copy of the parts a new Sales Executive needs.
+This page tells you where to find and where to save what the company knows. The second brain has two halves: **the Vault**, where the notes live, and **Cairn**, where decisions and facts live. This onboarding folder is a small copy of the parts a new Sales Executive needs.
 
 ## The Vault (Obsidian)
 
@@ -22,7 +20,7 @@ Cairn is a searchable store of the company's decisions and verified facts. Each 
 was decided or found, who decided it, when, and the evidence. Cairn refuses an entry that has no
 evidence, so what is in Cairn can be trusted.
 
-Examples of what Cairn holds: "The Pilot price is $20,000 for one workflow (Founder & CEO)."
+Search Cairn for items like these: "The Pilot price is $20,000 for one workflow (Founder & CEO)."
 "Clients own every account we create (Founder & CEO)." "A deal with no reply after three dated
 follow-ups moves to Closed Lost (Head of Sales)."
 
@@ -33,14 +31,12 @@ follow-ups moves to Closed Lost (Head of Sales)."
 
 ## How This Folder Connects
 
-1. Every fact in this folder comes from Cairn or the Vault.
+1. When you doubt a fact in this folder, search Cairn for it before you repeat it to anyone.
 2. When a decision changes in Cairn (a price, a rule, a new title), the Head of Sales updates the
-   matching file here.
+   matching file here. Ask at the check-in if you think a file is out of date.
 3. When the onboarder cannot answer a question, it goes in `question-log.md`. The owner answers
    at the check-in, stores the answer in Cairn, and the Head of Sales adds it to this folder.
 
 ## What the Onboarder Can and Cannot See
 
-The onboarder sees only this folder. It cannot search the Vault or Cairn. If an answer would be
-in a client's folder or in Cairn, the onboarder says so and you look it up yourself. Revenue
-Operations sets up your access to both on day 1.
+The onboarder sees only this folder. It cannot search the Vault or Cairn. If the onboarder says an answer would be in a client's folder or in Cairn, look it up yourself. If you cannot open either, ask Revenue Operations, who set up your access on day 1.

@@ -12,7 +12,7 @@ Do not skip to the answer.
 | Step | What you do | Why |
 |---|---|---|
 | 1. Acknowledge | Say back what you heard, in your own words, and agree the worry is reasonable. Do not defend. | A buyer who feels heard stops repeating the objection. |
-| 2. Ask | Ask one open question about their situation: what happened before, what they are comparing against, what the worry costs them. | The buyer's own words show what sits underneath. |
+| 2. Ask | Ask one open question about their situation: what happened before, what they are comparing against, what the worry costs them. Then say back their current state, the result they want, and the cost of the gap. | The buyer's own words show what sits underneath. |
 | 3. Isolate | Ask whether this is the only thing in the way: "If we settled that, is there anything else?" | A second objection hiding behind the first is found now, not after your answer. |
 | 4. Prove | Answer with one named fact from `case-study.md` or `what-we-sell.md`, with its number, told as that client's result. | A specific story is believed. A claim is not. |
 | 5. Confirm and Next Step | Ask "Does that answer it?" Then agree one next step with an owner and a calendar date. | A call with no dated next step does not move the deal (`sales-process.md`). |
@@ -48,6 +48,7 @@ Practice follows I do, we do, you do (`syllabus.md`).
 - **Acknowledge:** "That is a fair thing to be wary of. A lot of what is sold as AI does not earn
   its price."
 - **Ask:** "What did you try, or see someone else try, that did not work out?"
+- **Name the gap:** "So today quoting takes two days, you want it back the same day, and slow answers cost you jobs. Is that right?"
 - **Isolate:** "If I can show you where we would not use AI at all, is there anything else that
   would keep you from a first conversation?"
 - **Prove:** "Brennan Mechanical, a 38-person contractor, got a Discovery Sprint that told it to
@@ -65,6 +66,7 @@ Practice follows I do, we do, you do (`syllabus.md`).
 - **Acknowledge:** "That makes sense. You should not spend an hour before you know the size of
   the commitment."
 - **Ask:** "What problem do you want solved, and what is it costing you today?"
+- **Name the gap:** "So today you cannot see what this will cost or what it fixes. You want a number you can act on, and guessing costs you a bad decision."
 - **Isolate:** "If the price fits, is there anything else you would need before a next step?"
 - **Prove (before launch):** you quote no price. Say "Let me get you the right person for that,"
   and bring in the Head of Sales.
@@ -84,6 +86,7 @@ Practice follows I do, we do, you do (`syllabus.md`).
 - **Buyer may mean:** they fear another monthly bill.
 - **Acknowledge:** "A new subscription on top of what you already pay is the last thing you want."
 - **Ask:** "Which of the tools you pay for does anyone actually open every week?"
+- **Name the gap:** "So you pay for tools today, the work still gets typed twice, and you want it entered once. What does the retyping cost you a week?"
 - **Isolate:** "If there were no monthly fee for what we build, would anything else stand in the
   way?"
 - **Prove:** "What we build, you own: no license fees and no per-user fees. Brennan Mechanical owns
@@ -99,6 +102,7 @@ Practice follows I do, we do, you do (`syllabus.md`).
 - **Buyer may mean:** a 14-person firm feels risky.
 - **Acknowledge:** "A small vendor should be asked that. You are right to want an answer."
 - **Ask:** "What would you need to be able to do yourselves if we were gone next month?"
+- **Name the gap:** "So you want to depend on no one person, and today a departure would leave you stuck with something you cannot run."
 - **Isolate:** "If that were covered, is any other part of the risk bothering you?"
 - **Prove:** "The code, the data, and every account are in your name, so another developer can pick
   it up. Harbor Dental Group stopped after its Pilot, kept everything built, and its staff checks
@@ -113,6 +117,7 @@ Practice follows I do, we do, you do (`syllabus.md`).
 - **Buyer may mean:** price anchoring, or a real budget limit.
 - **Acknowledge:** "Budget is a real limit, and I will not pretend otherwise."
 - **Ask:** "What number were you hoping for, and what is it based on?"
+- **Name the gap:** "So you have a budget that does not match this price, you want a result you can afford, and the gap is the amount you cannot spend."
 - **Isolate:** "If budget were settled, is anything else holding this back?"
 - **Prove:** "We sell three phases, each signed on its own. You can stop after the two-week
   Discovery Sprint and keep the map and the ranked list. Brennan Mechanical's Sprint also found
@@ -127,13 +132,14 @@ Practice follows I do, we do, you do (`syllabus.md`).
 
 - **Buyer may mean:** no clear reason to act now, or someone else decides.
 - **Acknowledge:** "Of course. A decision like this should not be rushed."
-- **Ask:** "What would you want to know before you can decide?"
+- **Ask:** "What problem would you be fixing, and how does that work run today?"
+- **Name the gap:** "So today the problem is open, you want it settled, and waiting costs you the Sprint credit and more weeks of the same problem."
 - **Isolate:** "If I answered that, is it the only thing left, or does someone else need to weigh
   in?"
 - **Prove:** "If you sign a Pilot within 30 days of the Sprint readout, the $7,500 is credited in
-  full, so waiting has a real cost." (`what-we-sell.md`) This applies after a Sprint, not before.
-- **Confirm and next step:** "Who else should be on the next call? Let us book 30 minutes on
-  Tuesday, December 8, and I will send the invite today."
+  full, so waiting has a real cost. Harbor Dental Group chose a $20,000 Pilot after its Sprint, and its front-desk check fell from about 12 minutes to about 3." (`what-we-sell.md`, `case-study.md`) This applies after a Sprint, not before.
+- **Confirm and next step:** "Does that answer what you needed? Who else should be on the next call?
+  Let us book 30 minutes on Tuesday, December 8, and I will send the invite today."
 - **Weak:** "No problem, I will follow up in a few weeks." The deal now has no date.
 - **Right:** a question about what is missing, who else decides, and a booked date.
 
@@ -142,6 +148,7 @@ Practice follows I do, we do, you do (`syllabus.md`).
 - **Buyer may mean:** they want proof from a business like theirs.
 - **Acknowledge:** "You should see proof, not a slide."
 - **Ask:** "What kind of result would convince you, and what does the problem cost you today?"
+- **Name the gap:** "So you have been shown claims before, you want a result you can check, and a wrong bet costs you time and money."
 - **Isolate:** "If you saw that result from a business like yours, would anything else hold you
   back?"
 - **Prove:** pick the closer story and tell it as the client's own. Brennan Mechanical: median
@@ -158,6 +165,7 @@ Practice follows I do, we do, you do (`syllabus.md`).
 - **Buyer may mean:** a real risk question. Treat it as one.
 - **Acknowledge:** "That is the right question to ask before anything is built."
 - **Ask:** "What data worries you most, and does a rule or a contract govern it?"
+- **Name the gap:** "So today your data is held in places you control, you want it to stay that way, and a leak would cost you clients."
 - **Isolate:** "If you had a straight answer on that, is there anything else on security?"
 - **Prove:** this folder does not answer security questions, so you do not. The one fact you can
   state is that every account is in the client's name (`what-we-sell.md`). Say "I will get you a
@@ -172,7 +180,8 @@ Practice follows I do, we do, you do (`syllabus.md`).
 - **Buyer may mean:** they have a date that matters, such as a busy season.
 - **Acknowledge:** "A date matters when the work depends on a season."
 - **Ask:** "What date are you working to, and what happens if it slips?"
-- **Isolate:** "Is that the only hard date, or is there another one?"
+- **Name the gap:** "So you have a date that matters, you want the work done by then, and missing it costs you the season."
+- **Isolate:** "If we meet that date, is anything else in the way of going ahead?"
 - **Prove:** "A Discovery Sprint takes 2 weeks and a Pilot 6 to 8 weeks. Brennan Mechanical's Pilot
   took 7 weeks and its Build 5 months. A Build is usually 3 to 6 months." (`what-we-sell.md`,
   `case-study.md`) You never promise a date; Solutions Engineering sets dates after scoping.

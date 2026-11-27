@@ -30,4 +30,5 @@ esac
 } > $res/grade/$name.prompt
 cd $SANDBOX
 # Grader is a non-Claude model (default codex); never Claude.
-$TESTS/lib/llm.sh ${GRADER:-codex} < $res/grade/$name.prompt | grep -m1 -E '^(PASS|FAIL)' > $res/grade/$name.txt
+if [[ ${GRADER:-twostage} == twostage ]]; then python3 -I $TESTS/lib/twostage.py single < $res/grade/$name.prompt > $res/grade/$name.txt
+else $TESTS/lib/llm.sh $GRADER < $res/grade/$name.prompt | grep -m1 -E '^(PASS|FAIL)' > $res/grade/$name.txt; fi

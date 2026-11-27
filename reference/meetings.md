@@ -1,21 +1,20 @@
 # Meetings
 
-This file lists every meeting, what each is for, and who runs it. Three recurring meetings, all on video and all owned by the Head of Sales. Each one starts on a
-set day, so day one has only the first check-in. The Head of Sales sends the calendar invites.
+This file lists every meeting, what each is for, and who runs it. Each one starts on a set day, so day one has only the first check-in. The Head of Sales sends the calendar invites; accept each one the day it arrives.
 
-| Meeting | Purpose | Owner | When (Eastern) | Starts | Who |
-|---|---|---|---|---|---|
-| Daily Check-In | Questions, sign-offs, tomorrow's first task | Head of Sales | Every workday, 4:00 to 4:30 through day 10; 4:15 to 4:30 after launch | Day 1 | You and the Head of Sales |
-| Weekly 1:1 | Your scorecard and coaching | Head of Sales | Fridays, 2:00 to 2:30 | Day 5 (first Friday) | You and the Head of Sales |
-| Weekly Pipeline Review | Walk every deal and its next step | Head of Sales | Mondays, 10:00 to 10:45 | Day 6 (second Monday) | Head of Sales (runs it), you, Revenue Operations, Solutions Engineering, Delivery Lead |
+| Meeting | Purpose | Owner | When (Eastern) | Starts | Who | What You Do |
+|---|---|---|---|---|---|---|
+| Daily Check-In | Questions, sign-offs, tomorrow's first task | Head of Sales | Every workday, 4:00 to 4:30 through day 10; 4:15 to 4:30 after launch | Day 1 | You and the Head of Sales | Bring your question list |
+| Weekly 1:1 | Your scorecard and coaching | Head of Sales | Fridays, 2:00 to 2:30 | Day 5 (first Friday) | You and the Head of Sales | Bring one win, one hard thing, and your scorecard |
+| Weekly Pipeline Review | Walk every deal and its next step | Head of Sales | Mondays, 10:00 to 10:45 | Day 6 (second Monday) | Head of Sales (runs it), you, Revenue Operations, Solutions Engineering, Delivery Lead | Listen on days 6 to 10, then present your own deals |
 
 ## One-Time Meetings
 
-| Meeting | Purpose | Owner | When (Eastern) | Who |
-|---|---|---|---|---|
-| Welcome Call | Meet and set goals | Head of Sales | Day 1, 9:00 AM | You and the Head of Sales |
-| Account Setup | Every tool works | Revenue Operations | Day 1, after the welcome call | You and Revenue Operations |
-| Launch Gate Check | Decide launch into production | Head of Sales | Day 10, at the daily check-in | You and the Head of Sales (`syllabus.md`) |
+| Meeting | Purpose | Owner | When (Eastern) | Who | What You Do |
+|---|---|---|---|---|---|
+| Welcome Call | Meet and set goals | Head of Sales | Day 1, 9:00 AM | You and the Head of Sales | Say what you have sold before and what you want to learn |
+| Account Setup | Every tool works | Revenue Operations | Day 1, after the welcome call | You and Revenue Operations | Open every tool and say which does not work |
+| Launch Gate Check | Decide launch into production | Head of Sales | Day 10, at the daily check-in | You and the Head of Sales (`syllabus.md`) | Say the pitch and handle five objections |
 
 ## Daily Check-In
 
@@ -44,4 +43,4 @@ The team walks the CRM, deal by deal, in stage order (`sales-process.md`).
 
 ## The 90-Day Review
 
-One meeting at day 90 with the Head of Sales, described in `syllabus.md`.
+One meeting at day 90 with the Head of Sales, described in `syllabus.md`. Bring your scorecards from `expectations.md` and a list of the deals you worked.

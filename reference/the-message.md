@@ -1,18 +1,17 @@
 # The Pitch
 
 This file gives the one message every WalterSignal conversation carries: a 30-second pitch, the
-four parts it must keep, and what never to say. The message is one idea: nobody builds anything
+the four parts to cover in the first two minutes, and what never to say. The message is one idea: nobody builds anything
 until they have seen how your work runs, and you own what is built.
 
 ## The 30-Second Pitch
 
-> WalterSignal builds custom software and AI automation for established businesses whose work has
-> outgrown spreadsheets. We map how your work runs, prove one fix on your own numbers, then build
-> the rest, and you own it. Brennan Mechanical, a 38-person contractor, now sends quotes in four
-> hours instead of two days. How does a quote get from request to customer at your company today?
+> WalterSignal builds software for established businesses, and you see one fix working on your own
+> numbers before you buy the rest. At Brennan Mechanical, a 38-person contractor, estimators spent
+> two days rebuilding each quote by hand. After the Pilot, quotes went out in four hours. How long
+> does a quote take at your company today?
 
-Say it in your own words once you know it. All four parts must be there, and it ends with the
-question.
+Say it in your own words once you know it. It carries one idea (see it work first), the Brennan proof, and it ends with the question. The four parts below are covered in the first two minutes of the call.
 
 ## The Value Statement
 
@@ -32,7 +31,7 @@ Most owners believe they need new software. In most of the businesses we meet, t
 same job typed twice and a decision made late because nobody can see the numbers. Say this when a
 prospect asks "what do you do?" so the conversation starts with their work, not our technology.
 
-## The Four Parts
+## The Four Parts to Cover in the First Two Minutes
 
 | Part | What it says | Why it lands with the client | What you do |
 |---|---|---|---|

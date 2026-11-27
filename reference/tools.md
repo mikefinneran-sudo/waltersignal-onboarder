@@ -1,7 +1,6 @@
 # Tools and Where Things Live
 
-This page lists what each tool is for. It never lists passwords or how to log in. Revenue
-Operations sets up every account on day 1 (`first-ten-days.md`).
+This page tells you which tool to open for each job. It never lists passwords or how to log in. Revenue Operations sets up every account on day 1 (`first-ten-days.md`).
 
 | Tool | What it is | You use it to |
 |---|---|---|
@@ -16,6 +15,4 @@ Operations sets up every account on day 1 (`first-ten-days.md`).
 
 ## The Rule for Every Tool
 
-The CRM says **where a deal stands**. The Vault holds **what was said and written**. Cairn holds
-**what was decided**. If two of them disagree, tell the Head of Sales at the check-in; do not
-pick one yourself.
+Check the CRM for the stage, the Vault for what was said, and Cairn for what was decided. If they disagree, tell the Head of Sales at the check-in and treat Cairn as current (`second-brain.md`).

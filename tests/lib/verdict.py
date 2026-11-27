@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Aggregate judge output. A unit passes a grader if it has no FAIL line and at least one PASS.
-A unit passes overall if at least 2 non-Claude graders pass it. Usage: verdict.py <results-dir>"""
+A unit passes overall if every REQUIRED grader (default gemini and grok) passes it; others are reported. Usage: verdict.py <results-dir>"""
 import glob, os, sys
-res = sys.argv[1]; gs = ['codex', 'gemini', 'grok']
+res = sys.argv[1]; gs = os.environ.get('GRADERS','gemini grok codex').split(); REQ = os.environ.get('REQUIRED','gemini grok').split()
 units = {}
 for g in gs:
     for f in glob.glob(f'{res}/judge/{g}/*.txt'):
@@ -18,10 +18,10 @@ for lab in sorted(units):
         v = u.get(g, ('ERR', 0, 0)); row.append(f'{v[0]}({v[1]}f)' if v[0] != 'ERR' else 'ERR')
         if v[0] != 'ERR': tot[g][1] += 1; tot[g][0] += v[0] == 'PASS'
     passes = sum(1 for g in gs if u.get(g, ('ERR',))[0] == 'PASS')
-    ok = passes >= 2; overall[1] += 1; overall[0] += ok
+    ok = all(u.get(g, ('ERR',))[0] == 'PASS' for g in REQ); overall[1] += 1; overall[0] += ok
     vs = [u[g][0] for g in gs if g in u and u[g][0] != 'ERR']
     agree[1] += 1; agree[0] += len(set(vs)) == 1
     print(f'{lab:22s} ' + ' '.join(f'{r:>9s}' for r in row) + ('  PASS' if ok else '  FAIL'))
 print('per-grader pass: ' + ', '.join(f'{g} {tot[g][0]}/{tot[g][1]}' for g in gs))
 print(f'unanimous agreement on unit verdict: {agree[0]}/{agree[1]}')
-print(f'OVERALL (2 of 3 graders): {overall[0]}/{overall[1]} units pass')
+print(f'OVERALL (required: {" and ".join(REQ)}): {overall[0]}/{overall[1]} units pass')

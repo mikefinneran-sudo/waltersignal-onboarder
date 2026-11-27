@@ -48,7 +48,7 @@ Nothing else is needed: no connectors, no code, no other tools.
 | `reference/expectations.md` | Files | Four tiers: what is expected, what is not, and a scorecard for each |
 | `reference/meetings.md` | Files | The daily check-in, weekly 1:1, and weekly pipeline review |
 | `reference/who-owns-what.md` | Files | The org chart and which title owns which question |
-| `reference/the-message.md` | Files | The 30-second pitch, its four parts, the two-minute version, and what never to say |
+| `reference/the-message.md` | Files | The 30-second pitch, the four parts to cover in the first two minutes, the two-minute version, and what never to say |
 | `reference/clients.md` | Files | Who is a good-fit client, who to talk to inside one, and the four qualifying questions |
 | `reference/what-we-sell.md` | Files | What WalterSignal sells: the three phases, Support Plans, every price, and which prices may be said to a client |
 | `reference/case-study.md` | Files | Two client stories, told so a new hire can use them on a call |
