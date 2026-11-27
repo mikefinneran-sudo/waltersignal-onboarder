@@ -58,7 +58,7 @@ A proposal is the written offer for the next phase.
 
 ## After a Yes
 
-1. Tell the Head of Sales the same day, at the daily check-in (`meetings.md`).
+1. Tell the Head of Sales the same day, at the daily check-in (`meetings.md`). A yes is not one of the two cannot-wait cases in `who-owns-what.md`, so do not use Slack for it.
 2. Legal & Contracts sends the agreement. The agreement goes on its own, with nothing else
    attached.
 3. When the signed agreement comes back, move the deal to Closed Won. Finance & Billing then
