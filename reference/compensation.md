@@ -11,15 +11,15 @@ Monthly pay is base pay plus commission only. There is no monthly bonus: bonuses
 | Part | What It Is | Who Owns It |
 |---|---|---|
 | **Base pay** | The fixed part of pay. The pay mix is 60% base and 40% variable at target | Head of Sales (the plan); People Operations for base pay, benefits, and time off |
-| **Monthly commission** | One flat rate on signed Pilot and Build contract value. There are no monthly tiers, thresholds, or accelerators. Finance & Billing pays the following month on contracts signed that month | Head of Sales (the rate); Finance & Billing (the payout) |
-| **Monthly quota** | Set every month by the Head of Sales on signed Pilot and Build contract value. It is the measure for the bonuses, not a threshold for commission | Head of Sales |
+| **Monthly commission** | One flat rate on signed contract value (Pilot, Build, and Support Plan, each as signed). There are no monthly tiers, thresholds, or accelerators. Finance & Billing pays the following month on contracts signed that month | Head of Sales (the rate); Finance & Billing (the payout) |
+| **Monthly quota** | Set every month by the Head of Sales on signed contract value (Pilot, Build, and Support Plan). It is the measure for the bonuses, not a threshold for commission | Head of Sales |
 | **Quarterly and annual bonuses** | Where meeting and exceeding quota is rewarded; see below | Head of Sales (the plan); Finance & Billing (the payout) |
-| **What does not count** | Support Plan revenue does not count toward commission or bonuses. This keeps the plan consistent with no mandatory monthly fees: never push a Support Plan for pay | Head of Sales |
+| **Support Plans** | A signed Support Plan counts toward commission, quota, and bonuses at its signed contract value, because WalterSignal provides the support. Support Plans stay optional: offer one at the end of a Build, never make it a condition, and never pressure a client into one. There are no mandatory monthly fees | Head of Sales |
 
 ## Quarterly and Annual Bonuses
 
 A quarter's quota is the sum of its three monthly quotas; the annual quota is the total of the
-year's monthly quotas. Attainment is signed Pilot and Build contract value for the period divided by
+year's monthly quotas. Attainment is signed contract value (Pilot, Build, and Support Plan, as signed) for the period divided by
 that quota. A missed month can be made up within the quarter or year, because bonuses measure the
 total.
 

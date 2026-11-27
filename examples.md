@@ -78,7 +78,7 @@ question. Standard: the pitch carries one idea, a proof, and a question (`refere
 
 **Onboarder:** The standard plan is in `reference/compensation.md`:
 
-- **Monthly pay:** base plus commission only, at one flat rate on signed Pilot and Build contract value, paid the following month by Finance & Billing. There is no monthly bonus. Support Plan revenue does not count.
+- **Monthly pay:** base plus commission only, at one flat rate on signed contract value (Pilot, Build, and Support Plan, as signed), paid the following month by Finance & Billing. There is no monthly bonus. A Support Plan counts as signed, but it stays optional: offer one at the end of a Build, never as a condition.
 - **Quarterly bonus:** none below 100% of the quarter's quota (the sum of its three monthly quotas); 5% of that quarter's base at 100%; 8% at 125% or more.
 - **Annual bonus:** 10% of annual base at 100% of the year's quota; 15% at 125% or more.
 - **At 130% of a quarter's quota:** 8% of that quarter's base. At 90% there is no bonus, but commission on each signed contract is still paid.
