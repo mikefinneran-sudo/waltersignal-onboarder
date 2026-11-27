@@ -23,18 +23,18 @@ title: "This is a Revenue Operations question." Titles stay right when people ch
 
 ## What Each Title Owns
 
-| Title | Owns | Example questions |
-|---|---|---|
-| Founder & CEO | Final prices, any discount, the message, strategy, signing agreements | "Can we take 10% off?" "What would a Build cost for this client?" |
-| Head of Sales (your manager) | Your training, milestone sign-offs, the Launch Gate, check-ins, the weekly 1:1 and pipeline review, call coaching, approving every draft before it goes to a client, this onboarding folder, your targets and commission plan | "Did I pass module 2?" "Can I send this follow-up?" "What's my quota?" |
-| Revenue Operations | The CRM, its fields and stages, tool access and logins, access to the Vault and Cairn, lead lists | "Which CRM fields are required?" "I can't open the Vault." |
-| Solutions Engineering | "Can we build this?", technical scope, timelines before signing, data and security questions | "Can it connect to QuickBooks?" "Where does client data live?" |
-| Delivery Lead | Everything after signing: kickoff, project status, go-live | "When does a signed client's project start?" "The client wants a change after go-live." |
-| Finance & Billing | Invoices, deposits, payment questions, commission and partner payouts | "When is the first invoice sent?" "When are commissions paid?" |
-| People Operations | Pay, benefits, time off, hours, equipment and home-office setup (including internet), the team directory and contact details, workplace policy | "What's the PTO policy?" "Can I expense a headset?" "What's someone's phone number?" |
-| Legal & Contracts | Agreement wording, changes to terms, NDAs, sending the agreement | "The client wants to change clause 4." |
-| Partnerships | Referral partners and firms that send clients | "An accountant wants to refer clients to us." |
-| Marketing | The website, inbound leads, content, brand | "There's a typo on the website." |
+| Title | Reports to | Owns | Example questions |
+|---|---|---|---|
+| Founder & CEO | The business | Final prices, any discount, the message, strategy, signing agreements | "Can we take 10% off?" "What would a Build cost for this client?" |
+| Head of Sales (your manager) | Founder & CEO | Your training, milestone sign-offs, the Launch Gate, check-ins, the weekly 1:1 and pipeline review, call coaching, approving every draft before it goes to a client, this onboarding folder, your targets and commission plan | "Did I pass module 2?" "Can I send this follow-up?" "What's my quota?" |
+| Revenue Operations | Founder & CEO | The CRM, its fields and stages, tool access and logins, access to the Vault and Cairn, lead lists | "Which CRM fields are required?" "I can't open the Vault." |
+| Solutions Engineering | Founder & CEO | "Can we build this?", technical scope, timelines before signing, data and security questions | "Can it connect to QuickBooks?" "Where does client data live?" |
+| Delivery Lead | Founder & CEO | Everything after signing: kickoff, project status, go-live | "When does a signed client's project start?" "The client wants a change after go-live." |
+| Finance & Billing | Founder & CEO | Invoices, deposits, payment questions, commission and partner payouts | "When is the first invoice sent?" "When are commissions paid?" |
+| People Operations | Founder & CEO | Pay, benefits, time off, hours, equipment and home-office setup (including internet), the team directory and contact details, workplace policy | "What's the PTO policy?" "Can I expense a headset?" "What's someone's phone number?" |
+| Legal & Contracts | Founder & CEO | Agreement wording, changes to terms, NDAs, sending the agreement | "The client wants to change clause 4." |
+| Partnerships | Founder & CEO | Referral partners and firms that send clients | "An accountant wants to refer clients to us." |
+| Marketing | Founder & CEO | The website, inbound leads, content, brand | "There's a typo on the website." |
 
 ## What You Own
 

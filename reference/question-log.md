@@ -15,4 +15,4 @@ you add the row yourself. This is how the folder gets better.
 
 | Date | Question | Owner (title) | Answer added to |
 |---|---|---|---|
-| | | | |
+| No entries recorded yet | | | |

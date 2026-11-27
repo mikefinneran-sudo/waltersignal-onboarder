@@ -17,6 +17,13 @@ how to tell fit from not-fit.
   light manufacturing, multi-location healthcare offices (dental, physical therapy), and
   professional services firms. No industry is excluded; judge each business on its own facts.
 
+## Example Clients
+
+| Client | Size and industry | Decider | Champion | Where to read more |
+|---|---|---|---|---|
+| Brennan Mechanical | 38-person heating, cooling, and plumbing contractor | The owner | The office manager | `case-study.md` |
+| Harbor Dental Group | Four offices, about 60 staff | The two dentist-owners | The operations director | `case-study.md` |
+
 ## Who You Talk To
 
 | Role at the client | What they do in the deal | How to work with them |

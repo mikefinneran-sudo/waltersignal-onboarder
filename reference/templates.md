@@ -1,9 +1,16 @@
 # Templates and Examples
 
+This file holds the four templates you use on every deal: the research brief, the discovery call
+guide, the call note, and the follow-up email, plus one insight-led outreach template. Each shows
+its purpose, a filled example, and what each placeholder in square brackets means.
+
 Copy these, and save each one in the client's folder in the Vault (`second-brain.md`). Each template is followed by a filled example. The example business is made up for
 practice; it is not a client.
 
 ## Research Brief (One Page, Before Every Call)
+
+**Purpose:** you never ask a question you could have read. **Ask:** all 8 fields filled and saved in
+the Vault before the call.
 
 ```
 Business:            name, town, what they do, how many people
@@ -29,12 +36,31 @@ Three questions:     #4 (call to job), #6 (falls through the cracks), #12 (why t
 Sources:             company website, job post, Google Business Profile
 ```
 
+## Discovery Call Guide (Open on Your Screen During the Call)
+
+**Purpose:** keep the call in the four steps of `sales-process.md`. **Ask:** end with a dated next step.
+
+```
+Opening (2 min):     [Name], thanks for the time. You asked about [reason they reached out]. I will ask
+                     about how the work runs, then tell you whether and how we could help. Is that fine?
+Situation (5 min):   two or three questions from discovery-questions.md, groups Situation
+Problem (5 min):     "Where does [the job] fall through the cracks?"
+Implication (5 min): "How many times a month, and what does one cost you?"
+Need-payoff (5 min): "What number would tell you it is fixed?"
+Close (3 min):       "Does [day, date] work for [next step]? I will send the invite today."
+```
+
+Placeholders: [Name] is the person you are speaking to; [reason] is their words from the first
+message; [the job] is the task they named; [day, date] is a real calendar date.
+
 ## Call Note (Same Day, in the Vault; Next Step and Stage in the CRM)
 
 ```
 Date and attendees:
 Current state:       how the work runs today, in their words
-Gap:                 what it costs them, with their numbers
+Gap:                 what it costs them, with their numbers (hours, missed jobs, errors)
+Future state:        the number that would tell them it is fixed, in their words
+Cost of the gap:     the difference between today and that number, per month
 Why now:
 Decider / champion:
 Next step:           DATE, OWNER, WHAT HAPPENS
@@ -47,6 +73,8 @@ Stage:               Leads / Proposals / Closed Won / Closed Lost
 Date and attendees:  Tue, owner and office manager (practice only)
 Current state:       Calls go to a cell phone; jobs written on a whiteboard; invoices typed weekly
 Gap:                 Owner estimates 3 missed callbacks a week in season; office manager re-keys every job
+Future state:        No missed callbacks in a week, jobs entered once
+Cost of the gap:     About 12 missed callbacks a month, plus about 6 hours a week of re-keying
 Why now:             Second dispatcher starts next month; wants one system before then
 Decider / champion:  Owner decides; office manager is the champion
 Next step:           Fri, you, send Discovery Sprint overview (draft approved first)
@@ -68,4 +96,30 @@ What I need from you: [one thing].
 WalterSignal
 ```
 
+Placeholders: [Name] is the prospect; [the work] is their process in their words; [the gap] is the
+cost they gave you; [the next step] is the dated step from the call; [one thing] is the single
+item you ask them for.
+
 Every draft goes to the Head of Sales before it is sent.
+
+## Insight-Led Outreach Email (Use From CE5, With Approval)
+
+**Purpose:** open a conversation with a business that fits (`clients.md`) by naming a problem you
+noticed in their work, not by describing WalterSignal. **Ask:** one question, and a reply.
+
+```
+Subject: [Their process] at [Business]
+
+[Name], [business] is hiring a second dispatcher [or other why-now signal from your brief], which
+is usually when jobs start getting re-keyed twice.
+
+A 38-person contractor we worked with cut the time to send a quote from two days to four hours
+after we mapped how the work ran. How do quotes get from request to customer at [Business] today?
+
+[Your name]
+WalterSignal
+```
+
+Placeholders: [their process] is the work you noticed; [Business] and [Name] come from the brief;
+[why-now signal] is from the Why-now field. The Head of Sales approves every outreach email before
+it is sent.
