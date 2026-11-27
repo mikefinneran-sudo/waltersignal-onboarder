@@ -90,8 +90,8 @@ WalterSignal.
 | New leads qualified with all four questions before a second call | Every lead you find (`clients.md`) | 100% |
 | Deals in the right CRM stage | At every weekly pipeline review | 100% |
 | Proposals drafted for the Founder & CEO to price | Good, Better, Best, approved by the Head of Sales | At least 1 by day 90 |
-| First solo discovery call | Next step logged the same day | By day 90 |
-| CE2 to CE5 signed off | Head of Sales sign-off | 4 of 4 by day 90 |
+| First solo discovery call | Alone on the call, with the Head of Sales reading your note after | 1 by day 90, next step logged the same day |
+| CE2 to CE5 signed off | Each milestone in `syllabus.md` done without notes in front of the Head of Sales | 4 of 4 by day 90 |
 
 **What good looks like:** you bring a proposal draft in the client's words with the one number it
 will be measured by. **What weak looks like:** a proposal that lists features and no number.

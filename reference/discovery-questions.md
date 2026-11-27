@@ -59,7 +59,7 @@ The buyer says the value; you do not claim it.
 Money comes up by the second conversation at the latest.
 
 21. "Who besides you weighs in on a decision like this?"
-22. "Do you have a range in mind, or would it help to see options?"
+22. "What range do you have in mind?"
 23. "When would you want this working?"
 
 ## Next Step (Every Call)

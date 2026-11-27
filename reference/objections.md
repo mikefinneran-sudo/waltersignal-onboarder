@@ -101,7 +101,7 @@ Practice follows I do, we do, you do (`syllabus.md`).
 
 - **Buyer may mean:** a 14-person firm feels risky.
 - **Acknowledge:** "A small vendor should be asked that. You are right to want an answer."
-- **Ask:** "What would you need to be able to do yourselves if we were gone next month?"
+- **Ask:** "How does your business cope today when the one person who knows a system is away?"
 - **Name the gap:** "So you want to depend on no one person, and today a departure would leave you stuck with something you cannot run."
 - **Isolate:** "If that were covered, is any other part of the risk bothering you?"
 - **Prove:** "The code, the data, and every account are in your name, so another developer can pick
@@ -168,7 +168,7 @@ Practice follows I do, we do, you do (`syllabus.md`).
 - **Name the gap:** "So today your data is held in places you control, you want it to stay that way, and a leak would cost you clients."
 - **Isolate:** "If you had a straight answer on that, is there anything else on security?"
 - **Prove:** this folder does not answer security questions, so you do not. The one fact you can
-  state is that every account is in the client's name (`what-we-sell.md`). Say "I will get you a
+  state is that every account is in the client's name, as with Brennan Mechanical's $140,000 Build (`what-we-sell.md`, `case-study.md`). Say "I will get you a
   straight answer from our Solutions Engineering lead." (`who-owns-what.md`)
 - **Confirm and next step:** "Does that sound fair? I will send your two questions to Solutions
   Engineering today, and the answer comes to you by Friday, December 4."

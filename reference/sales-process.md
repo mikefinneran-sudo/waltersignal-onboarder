@@ -14,7 +14,7 @@ sold from what the Sprint finds.
 
 ## The Discovery Call
 
-The first real conversation with a prospect. Its one purpose is to learn how their work runs and agree a next step; you pitch only in answer to a question. Run it in this order, using the question bank in `discovery-questions.md`:
+The first real conversation with a prospect. Its one purpose is to learn how the prospect's work runs; you pitch only in answer to a question, and you agree a dated next step before the call ends. Run it in this order, using the question bank in `discovery-questions.md`:
 
 1. **Current state** (Situation questions). How does the work run today? Who does what, what is on
    paper or in someone's head, and where does work fall through the cracks?

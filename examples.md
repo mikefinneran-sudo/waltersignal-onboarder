@@ -15,8 +15,7 @@ shows a miss and corrective practice. Example 6 covers questions the folder cann
 3. **Module 1, the pitch:** read `reference/the-message.md`, then start module 2,
    `reference/clients.md`.
 
-The day is done when every account works, you can say the 30-second pitch at the 4:00 check-in,
-and your question list is started. You send nothing to anyone today.
+The day is done when all 8 accounts in `reference/tools.md` open, you say the 30-second pitch at the 4:00 check-in, you list 5 questions, and you describe a good-fit client in two sentences (`reference/first-ten-days.md`, Day by Day). You send nothing to anyone today.
 
 Two questions so I can build on what you know: what have you sold before, and to whom?
 
@@ -67,7 +66,7 @@ question. Standard: the pitch carries one idea, a proof, and a question (`refere
   credited toward it.
 
 Both Pilot prices are Quotable, but not by you yet: you quote no price to anyone until the
-Launch Gate on day 10. Prices are module 6, days 8 to 10.
+Launch Gate on day 10 (`reference/what-we-sell.md`, intro). Prices are module 6, days 8 to 10 (`reference/syllabus.md`, Part 1).
 
 ## 4. Handling an Objection (Wrong Answer, Right Answer, Practice Again)
 

@@ -5,7 +5,7 @@ This page tells you where to find and where to save what the company knows. The 
 ## The Vault (Obsidian)
 
 Obsidian is a notes app. The Vault is the company's shared set of notes in it. Notes link to each
-other by name, so a call note can link to the client and the proposal it led to.
+other by name, so link each call note to the client and the proposal it led to.
 
 | Folder | What is in it | What you do there |
 |---|---|---|
@@ -18,7 +18,7 @@ other by name, so a call note can link to the client and the proposal it led to.
 
 Cairn is a searchable store of the company's decisions and verified facts. Each entry says what
 was decided or found, who decided it, when, and the evidence. Cairn refuses an entry that has no
-evidence, so what is in Cairn can be trusted.
+evidence, so search it before you quote a rule or a price.
 
 Search Cairn for items like these: "The Pilot price is $20,000 for one workflow (Founder & CEO)."
 "Clients own every account we create (Founder & CEO)." "A deal with no reply after three dated

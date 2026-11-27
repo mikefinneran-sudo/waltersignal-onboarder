@@ -7,8 +7,8 @@ until they have seen how your work runs, and you own what is built.
 ## The 30-Second Pitch
 
 > WalterSignal builds software for established businesses, and you see one fix working on your own
-> numbers before you buy the rest. At Brennan Mechanical, a 38-person contractor, estimators spent
-> two days rebuilding each quote by hand. After the Pilot, quotes went out in four hours. How long
+> numbers before you buy the rest. At Brennan Mechanical, a 38-person contractor, every quote took
+> two days, so estimators spent their week rebuilding quotes. After the Pilot, quotes went out in four hours. How long
 > does a quote take at your company today?
 
 Say it in your own words once you know it. It carries one idea (see it work first), the Brennan proof, and it ends with the question. The four parts below are covered in the first two minutes of the call.
