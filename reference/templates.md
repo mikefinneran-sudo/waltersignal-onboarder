@@ -47,7 +47,7 @@ Situation (5 min):   two or three questions from discovery-questions.md, groups 
 Problem (5 min):     "Where does [the job] fall through the cracks?"
 Implication (5 min): "How many times a month, and what does one cost you?"
 Need-payoff (5 min): "What number would tell you it is fixed?"
-Close (3 min):       "Does [day, date] work for [next step]? I will send the invite today."
+Close (3 min):       "Does [day, date] work for [next step]? I will send the invite today." Owner: you, who sends the invite and logs the step in the CRM the same day.
 ```
 
 Placeholders: [Name] is the person you are speaking to; [reason] is their words from the first
@@ -108,7 +108,7 @@ noticed in their work, not by describing WalterSignal. **Ask:** one reply by the
 Subject: [Their process] at [Business]
 
 [Name], [business] is hiring a second dispatcher [or other why-now signal from your brief], which
-is usually when jobs start getting re-keyed twice.
+is usually when jobs get re-keyed twice and quotes slow down.
 
 A 38-person contractor we worked with cut the time to send a quote from two days to four hours
 after we mapped how the work ran. How do quotes get from request to customer at [Business] today? Please reply by [reply-by date] and I will call you [call date].

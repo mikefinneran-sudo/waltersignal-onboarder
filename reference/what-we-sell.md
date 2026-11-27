@@ -16,10 +16,10 @@ CEO prices everything that is not on this page.
 | **Build** (Build) | The rest of the system, in modules, with documentation and staff training | 3 to 6 months | Usually **$60,000 to $180,000**, priced per module from the Pilot | Internal. The Founder & CEO prices every Build |
 
 **Sprint credit:** if the client signs a Pilot within 30 days of the Sprint readout, the full
-$7,500 is credited toward the Pilot.
+$7,500 is credited toward the Pilot. At the readout, say "The $7,500 comes off the Pilot if you sign within 30 days."
 
 **How each price is billed:** the Sprint and the Pilot are one-time fixed prices. A Build is priced
-per module, one time. Support Plans are billed monthly. Change requests are billed by the hour.
+per module, one time. Support Plans are billed monthly. Change requests are billed by the hour. When a client asks "is that monthly?", answer with the billing unit in this paragraph.
 
 ## After Go-Live: Support Plans
 
@@ -27,9 +27,9 @@ Every Build ends with an offer of a monthly Support Plan. The client may also ta
 
 | Plan | Price per month | What is included | Response time |
 |---|---|---|---|
-| **Essentials** | $1,500 | Hosting, monitoring, and fixes to anything that breaks | 2 business days |
-| **Standard** | $3,000 | Essentials, plus up to 10 hours of changes a month | 1 business day |
-| **Priority** | $5,000 | Essentials, plus up to 25 hours of changes a month | Same business day |
+| **Essentials** | $1,500 | Hosting, monitoring, and fixes to anything that breaks | 2 business days. Offer it to a client who wants it kept running and needs few changes. |
+| **Standard** | $3,000 | Essentials, plus up to 10 hours of changes a month | 1 business day. Offer it to a client who expects regular changes. |
+| **Priority** | $5,000 | Essentials, plus up to 25 hours of changes a month | Same business day. Offer it to a client who cannot wait a day. |
 
 Support Plan prices are Quotable after launch. Plans are month to month. When a client asks about life after go-live, name all three plans and let the client choose.
 
