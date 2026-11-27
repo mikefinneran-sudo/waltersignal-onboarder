@@ -57,8 +57,8 @@ message; [the job] is the task they named; [day, date] is a real calendar date.
 
 | Stage | Enter when | Required fields | Exit when |
 |---|---|---|---|
-| Leads | A prospect is identified | Four qualifying answers, source, dated next step | A proposal is sent |
-| Proposals | A written proposal is sent | Proposal date, the three options, dated follow-up | Signed agreement returns, or the prospect says no |
+| Leads | A prospect is identified | Four qualifying answers, source, owner (you), dated next step | A proposal is sent |
+| Proposals | A written proposal is sent | Proposal date, the three options, owner (you, with the Head of Sales approving), dated follow-up | Signed agreement returns, or the prospect says no |
 | Closed Won | Signed agreement returned | Signing date, Head of Sales told | Delivery Lead takes over |
 | Closed Lost | No, silence after three dated follow-ups, or not a fit | Reason | Prospect returns with a new need |
 
@@ -117,7 +117,7 @@ noticed in their work, not by describing WalterSignal. **Ask:** one reply by the
 Subject: [Their process] at [Business]
 
 [Name], [business] is hiring a second dispatcher [or other why-now signal from your brief], which
-is usually when jobs get re-keyed twice and quotes slow down.
+is usually when jobs get re-keyed twice and quotes slow down. Most owners assume the fix is another tool; the slowdown is usually in how the work is handed from one person to the next.
 
 A 38-person contractor we worked with cut the time to send a quote from two days to four hours
 after we mapped how the work ran. How do quotes get from request to customer at [Business] today? Please reply by [reply-by date] and I will call you [call date].

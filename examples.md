@@ -15,7 +15,7 @@ shows a miss and corrective practice. Example 6 covers questions the folder cann
 3. **Module 1, the pitch:** read `reference/the-message.md`, then start module 2,
    `reference/clients.md`.
 
-The day is done when all 8 accounts in `reference/tools.md` open, you say the 30-second pitch at the 4:00 check-in, you list 5 questions, and you describe a good-fit client in two sentences (`reference/first-ten-days.md`, Day by Day). Send nothing to a prospect or client without the Head of Sales's approval (`rules.md`, Protect the New Hire).
+The day is done when five checks pass at the 4:00 check-in: all 8 accounts in `reference/tools.md` open; you list 5 questions; you describe a good-fit client in two sentences; you say the 30-second pitch with its one idea, the Brennan Mechanical proof, and the closing question; and you name at least 3 never-say items (`reference/first-ten-days.md`, Day by Day). Send nothing to a prospect or client without the Head of Sales's approval (`rules.md`, Protect the New Hire).
 
 Two questions so I can build on what you know: what have you sold before, and to whom?
 

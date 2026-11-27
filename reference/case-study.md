@@ -33,10 +33,10 @@ their hours rebuilding quotes instead of pricing new work.
 
 **The outcome (Brennan's numbers).** Median time to send a quote fell from two business days to
 four hours during the Pilot. After the Build, finished jobs stopped being typed twice. Brennan now
-pays for the Standard Support Plan.
+pays for the Standard Support Plan, the plan Brennan chose after go-live.
 
 **Where the numbers come from.** The quote time is the Pilot measurement taken against the number
-agreed at the start. The Build result is Brennan's own account after go-live.
+agreed at the start. The Build result and the choice of the Standard Support Plan are Brennan's own account after go-live; they are reported, not projected or estimated.
 
 **What to point out.** The Sprint ranked the accounting software last and left it alone. WalterSignal recommends less when less is right.
 

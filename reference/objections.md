@@ -116,7 +116,7 @@ Practice follows I do, we do, you do (`syllabus.md`).
 
 - **Buyer may mean:** price anchoring, or a real budget limit.
 - **Acknowledge:** "Budget is a real limit, and I will not pretend otherwise."
-- **Ask:** "What number were you hoping for, and what is it based on?"
+- **Ask:** "What problem is this price being weighed against, and what number were you hoping for?"
 - **Name the gap:** "So you have a budget that does not match this price, you want a result you can afford, and the gap is the amount you cannot spend."
 - **Isolate:** "If budget were settled, is anything else holding this back?"
 - **Prove:** "We sell three phases, each signed on its own. You can stop after the two-week
@@ -151,7 +151,7 @@ Practice follows I do, we do, you do (`syllabus.md`).
 - **Name the gap:** "So you have been shown claims before, you want a result you can check, and a wrong bet costs you time and money."
 - **Isolate:** "If you saw that result from a business like yours, would anything else hold you
   back?"
-- **Prove:** pick the closer story and tell it as the client's own. Brennan Mechanical: median
+- **Prove:** reframe from "do they have a slide" to "did a business like yours measure it": pick the closer story and tell it as the client's own. Brennan Mechanical: median
   time to send a quote fell from two business days to four hours in the Pilot. Harbor Dental Group:
   staff time per insurance check fell from about 12 minutes to about 3. (`case-study.md`)
 - **Confirm and next step:** "Does that look like your problem? I will send the full story by
@@ -166,8 +166,8 @@ Practice follows I do, we do, you do (`syllabus.md`).
 - **Acknowledge:** "That is the right question to ask before anything is built."
 - **Ask:** "What data worries you most, and does a rule or a contract govern it?"
 - **Name the gap:** "So today your data is held in places you control, you want it to stay that way, and a leak would cost you clients."
-- **Isolate:** "If you had a straight answer on that, is there anything else on security?"
-- **Prove:** this folder does not answer security questions, so you do not. The one fact you can
+- **Isolate:** "If you had a straight answer on that, is data the only thing holding this back?"
+- **Prove:** reframe from "is it secure" to "who holds the data and who can answer for it". This folder does not answer security questions, so you do not. The one fact you can
   state is that every account is in the client's name, as with Brennan Mechanical's $140,000 Build (`what-we-sell.md`, `case-study.md`). Say "I will get you a
   straight answer from our Solutions Engineering lead." (`who-owns-what.md`)
 - **Confirm and next step:** "Does that sound fair? I will send your two questions to Solutions
@@ -181,8 +181,8 @@ Practice follows I do, we do, you do (`syllabus.md`).
 - **Acknowledge:** "You want to know how long this takes, and a date that matters is a fair thing to ask about."
 - **Ask:** "What date are you working to, and what happens if it slips?"
 - **Name the gap:** "So you have a date that matters, you want the work done by then, and missing it costs you the season."
-- **Isolate:** "If we meet that date, is anything else in the way of going ahead?"
-- **Prove:** "A Discovery Sprint takes 2 weeks and a Pilot 6 to 8 weeks. Brennan Mechanical's Pilot
+- **Isolate:** "If we meet that date, is the date the only thing in the way of going ahead?"
+- **Prove:** reframe the question from "how long overall" to "how long until the first result": "A Discovery Sprint takes 2 weeks and a Pilot 6 to 8 weeks. Brennan Mechanical's Pilot
   took 7 weeks and its Build 5 months. A Build is usually 3 to 6 months." (`what-we-sell.md`,
   `case-study.md`) You never promise a date; Solutions Engineering sets dates after scoping.
 - **Confirm and next step:** "Does that fit your date? I will ask Solutions Engineering what is

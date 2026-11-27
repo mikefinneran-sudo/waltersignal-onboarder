@@ -34,7 +34,7 @@ follow-ups moves to Closed Lost (Head of Sales)."
 1. When you doubt a fact in this folder, search Cairn for it before you repeat it to anyone.
 2. When a decision changes in Cairn (a price, a rule, a new title), the Head of Sales updates the
    matching file here. Ask at the check-in if you think a file is out of date.
-3. When the onboarder cannot answer a question, it goes in `question-log.md`. The owner answers
+3. When the onboarder cannot answer a question, you add it to `question-log.md` and bring it to the check-in. The owner answers
    at the check-in, stores the answer in Cairn, and the Head of Sales adds it to this folder.
 
 ## What the Onboarder Can and Cannot See

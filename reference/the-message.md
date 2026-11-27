@@ -2,7 +2,7 @@
 
 This file gives the one message every WalterSignal conversation carries: a 30-second pitch, the
 the four parts to cover in the first two minutes, and what never to say. The message is one idea: nobody builds anything
-until they have seen how your work runs, and you own what is built.
+until they have seen how your work runs. Ownership of what is built is a supporting fact, not a second idea.
 
 ## The 30-Second Pitch
 
@@ -29,7 +29,7 @@ Use this form to check the pitch is complete:
 
 Most owners believe they need new software. In most of the businesses we meet, the cost is the
 same job typed twice and a decision made late because nobody can see the numbers. Say this when a
-prospect asks "what do you do?" so the conversation starts with their work, not our technology.
+prospect asks "what do you do?" so the conversation starts with their work, not our technology. This is why WalterSignal maps the work first and proves one fix before it builds the rest.
 
 ## The Four Parts to Cover in the First Two Minutes
 

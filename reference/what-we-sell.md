@@ -15,6 +15,8 @@ CEO prices everything that is not on this page.
 | **Pilot** (Validate) | One workflow (one piece of the work, such as quoting or dispatch) live in the client's business, measured against one number agreed at the start, plus 30 days of support | 6 to 8 weeks | **$20,000** for one workflow connected to up to two existing tools. **$30,000** if it connects to three or more tools or includes an AI step | Quotable |
 | **Build** (Build) | The rest of the system, in modules, with documentation and staff training | 3 to 6 months | Usually **$60,000 to $180,000**, priced per module from the Pilot | Internal. The Founder & CEO prices every Build |
 
+**How to say it:** "We work in three phases, each signed on its own: first we map how your work runs, then we prove one fix on your own numbers, then we build the rest." Ask which phase fits where they are today.
+
 **Sprint credit:** if the client signs a Pilot within 30 days of the Sprint readout, the full
 $7,500 is credited toward the Pilot. At the readout, say "The $7,500 comes off the Pilot if you sign within 30 days."
 
@@ -31,13 +33,13 @@ Every Build ends with an offer of a monthly Support Plan. The client may also ta
 | **Standard** | $3,000 | Essentials, plus up to 10 hours of changes a month | 1 business day. Offer it to a client who expects regular changes. |
 | **Priority** | $5,000 | Essentials, plus up to 25 hours of changes a month | Same business day. Offer it to a client who cannot wait a day. |
 
-Support Plan prices are Quotable after launch. Plans are month to month. When a client asks about life after go-live, name all three plans and let the client choose.
+Support Plan prices are Quotable after launch. Plans are month to month. When a client asks about life after go-live, name all three plans and let the client choose; you can say, "Plans are month to month, so you can change or stop each month."
 
 ## Changes Outside the Agreement
 
 Work the client asks for that is not in the signed agreement is a **change request**. It is
 quoted in writing at **$175 per hour** before any work starts (Internal: the Delivery Lead sends
-the quote, not you).
+the quote, not you). When a client asks for extra work, say, "I will have the Delivery Lead send you a written quote before any work starts."
 
 ## What Every Client Gets
 
