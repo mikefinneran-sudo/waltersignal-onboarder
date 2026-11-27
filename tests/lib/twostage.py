@@ -1,27 +1,29 @@
 #!/usr/bin/env python3
-"""Two-stage non-Claude grading. Gemini grades first; Grok is asked only for items Gemini fails or errors on.
-An item passes if Gemini passes it, or Grok passes it. Both verdicts are kept in the reason.
-Usage: twostage.py single|turns < prompt   (calls lib/llm.sh gemini|grok)"""
+"""Non-Claude faithfulness grading with two graders on every item (FIRST, default codex; SECOND, default grok).
+An item passes only if BOTH pass. Each grader's own verdict is kept as a suffix: [codex=PASS grok=FAIL].
+An item with a FAIL from either grader is a FAIL. An item where a grader errored and the other passed prints
+nothing, so it shows as UNGRADED and can be retried.
+Usage: twostage.py single|turns < prompt   (calls lib/llm.sh <grader>)"""
 import os, re, subprocess, sys
-mode = sys.argv[1]; F1 = os.environ.get('FIRST','gemini'); F2 = os.environ.get('SECOND','grok'); prompt = sys.stdin.read(); T = os.path.dirname(os.path.abspath(__file__))
+mode = sys.argv[1]; F1 = os.environ.get('FIRST', 'codex'); F2 = os.environ.get('SECOND', 'grok')
+prompt = sys.stdin.read(); T = os.path.dirname(os.path.abspath(__file__))
 def ask(g): return subprocess.run([f'{T}/llm.sh', g], input=prompt, capture_output=True, text=True).stdout
+def tag(a, b): return f' [{F1}={a} {F2}={b}]'
+def word(s): return s.split()[0].rstrip(':|') if s else 'ERR'
 if mode == 'single':
     pat = re.compile(r'^(PASS|FAIL)\b.*', re.M)
     gm = pat.search(ask(F1)); g = gm.group(0) if gm else ''
-    if g.startswith('PASS'): print(g); sys.exit()
     km = pat.search(ask(F2)); k = km.group(0) if km else ''
-    if k.startswith('PASS'): print(k + ' [' + F2 + '; ' + F1 + ': ' + (g or 'ERR') + ']')
-    else: print(g or k)
+    wg, wk = word(g), word(k)
+    if wg == 'PASS' and wk == 'PASS': print(g + tag('PASS', 'PASS'))
+    elif 'FAIL' in (wg, wk): print((g if wg == 'FAIL' else k) + tag(wg, wk))
 else:
     pat = re.compile(r'^TURN (\d+): .*', re.M)
     gl = {m.group(1): m.group(0) for m in pat.finditer(ask(F1))}
-    ns = [str(i) for i in range(1, 9)]
-    if any(not gl.get(n, '').startswith(f'TURN {n}: PASS') for n in ns):
-        kl = {m.group(1): m.group(0) for m in pat.finditer(ask(F2))}
-        for n in ns:
-            if gl.get(n, '').startswith(f'TURN {n}: PASS'): continue
-            k = kl.get(n, '')
-            if k.startswith(f'TURN {n}: PASS'): gl[n] = k + ' [' + F2 + '; ' + F1 + ': ' + (gl.get(n) or 'ERR') + ']'
-            elif not gl.get(n): gl[n] = k
-    for n in ns:
-        if n in gl: print(gl[n])
+    kl = {m.group(1): m.group(0) for m in pat.finditer(ask(F2))}
+    for n in [str(i) for i in range(1, 9)]:
+        g, k = gl.get(n, ''), kl.get(n, '')
+        wg = 'PASS' if g.startswith(f'TURN {n}: PASS') else 'FAIL' if g.startswith(f'TURN {n}: FAIL') else 'ERR'
+        wk = 'PASS' if k.startswith(f'TURN {n}: PASS') else 'FAIL' if k.startswith(f'TURN {n}: FAIL') else 'ERR'
+        if wg == 'PASS' and wk == 'PASS': print(g + tag('PASS', 'PASS'))
+        elif 'FAIL' in (wg, wk): print((g if wg == 'FAIL' else k) + tag(wg, wk))
