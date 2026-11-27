@@ -27,7 +27,7 @@ follow-ups moves to Closed Lost (Head of Sales)."
 - **You can:** search Cairn for any decision or fact, and read the evidence.
 - **You do not:** add or change entries. The owner of a decision stores it (`who-owns-what.md`).
 - **Newest wins:** if Cairn and a note in the Vault disagree, Cairn is current. Tell the Head of
-  Sales so the note gets fixed.
+  Sales at the check-in so the Vault note gets fixed. A conflict between Cairn and this folder is also reported to the Head of Sales, who updates the folder.
 
 ## How This Folder Connects
 

@@ -13,7 +13,7 @@ only the missed part and show it again at the next check-in (the Mastery Rule in
 ## Before Day 1
 
 - WalterSignal is remote-first, with no office. You work from home on your own internet
-  connection; all meetings are on Google Meet and team chat is in Slack.
+  connection; all meetings are on Google Meet and team chat is in Slack. There is no office, so there is no parking. This folder does not state a dress code; ask People Operations.
 - The Friday before you start, the Head of Sales emails your personal address with the video link
   for the 9:00 AM Eastern welcome call on day 1 and your account invites. If it has not arrived by
   Friday 5:00 PM Eastern, reply to the email your offer came from.

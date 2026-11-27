@@ -11,7 +11,7 @@ CEO prices everything that is not on this page.
 
 | Phase | What the client gets | How long | Price | Who may say the price |
 |---|---|---|---|---|
-| **Discovery Sprint** (Research) | Interviews with the team, a map of how the work runs today, a ranked list of what to fix and what to leave alone, a recommended Pilot, and a 60-minute readout with the decider | 2 weeks | **$7,500**, fixed | Quotable |
+| **Discovery Sprint** (Research) | Interviews with the team (one deliverable; the whole Sprint lasts 2 weeks), a map of how the work runs today, a ranked list of what to fix and what to leave alone, a recommended Pilot, and a 60-minute readout with the decider | 2 weeks | **$7,500**, fixed | Quotable |
 | **Pilot** (Validate) | One workflow (one piece of the work, such as quoting or dispatch) live in the client's business, measured against one number agreed at the start, plus 30 days of support | 6 to 8 weeks | **$20,000** for one workflow connected to up to two existing tools. **$30,000** if it connects to three or more tools or includes an AI step | Quotable |
 | **Build** (Build) | The rest of the system, in modules, with documentation and staff training | 3 to 6 months | Usually **$60,000 to $180,000**, priced per module from the Pilot | Internal. The Founder & CEO prices every Build |
 
