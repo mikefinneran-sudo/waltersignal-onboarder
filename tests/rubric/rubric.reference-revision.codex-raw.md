@@ -1,0 +1,21 @@
+## SECTION: REFERENCE_FACTS
+F1 | If the file primarily defines or maintains clients, PASS if every client entry has a unique name or anonymized label plus at least one concrete descriptor that distinguishes it from other clients; if it does not primarily define or maintain clients, mark NA. | Made to Stick (Heath and Heath, 2007)
+F2 | If the file primarily defines or maintains prices, PASS if every price is paired with a currency, billing unit or period, and the named offer to which it applies; if it does not primarily define or maintain prices, mark NA. | Made to Stick (Heath and Heath, 2007)
+F3 | If the file primarily defines or maintains the organization chart, PASS if every listed role has a reporting relationship and a sales-relevant responsibility; if it does not primarily define or maintain the organization chart, mark NA. | Made to Stick (Heath and Heath, 2007)
+F4 | If the file primarily defines or maintains recurring meetings, PASS if every recurring meeting lists its purpose, participants, cadence, and owner; if it does not primarily define or maintain recurring meetings, mark NA. | Preparing Instructional Objectives (Mager, 1962)
+F5 | If the file primarily defines or maintains sales tools, PASS if every tool entry states the tool’s name and one specific sales use; if it does not primarily define or maintain sales tools, mark NA. | Made to Stick (Heath and Heath, 2007)
+F6 | If the file primarily defines or maintains glossary terms, PASS if every glossary entry gives one unambiguous plain-language definition and does not define the term using the term itself; if it does not primarily define or maintain glossary terms, mark NA. | Made to Stick (Heath and Heath, 2007)
+F7 | If the file primarily defines or maintains a change log, PASS if the log records dated changes or explicitly states that no changes have yet been recorded, and every recorded change names an owner; if it does not primarily define or maintain a change log, mark NA. | SMART Criteria (Doran, 1981)
+F8 | For every reference file, PASS if the file opens with a one-sentence statement of what it is for, uses headings or tables that allow a rep to find any item in under 10 seconds, and contains no sentence that restates another sentence or praises the company; otherwise FAIL. | Made to Stick (Heath and Heath, 2007)
+F9 | For every reference file, PASS if every substantive entry or table row states a concrete action the rep takes or words the rep says rather than presenting only a fact; otherwise FAIL. | Preparing Instructional Objectives (Mager, 1962)
+
+## NOTES
+F1 | Apply F1 only when clients are a primary subject of the file; an incidental client mention or example does not bring the file into scope.
+F2 | Apply F2 only when prices are a primary subject of the file; an incidental price mention or example does not bring the file into scope.
+F3 | Apply F3 only when organizational roles and reporting relationships are a primary subject of the file; naming a person or role in passing does not bring the file into scope.
+F4 | Apply F4 only when recurring meetings are a primary subject of the file; mentioning a meeting, call, or event in passing does not bring the file into scope.
+F5 | Apply F5 only when sales tools are a primary subject of the file; mentioning a tool as part of an instruction or example does not bring the file into scope.
+F6 | Apply F6 only when defining terms is a primary purpose of the file; defining an isolated term for context does not bring the file into scope.
+F7 | Apply F7 only when recording changes is a primary purpose of the file; a date, revision note, or update mentioned elsewhere does not bring the file into scope.
+F8 | For the 10-second test, use the visible headings, table labels, and entry names without relying on full-text search. A sentence restates another when it repeats the same claim without adding operational meaning; company praise includes unsupported claims of superiority, excellence, or prestige.
+F9 | An entry is actionable when it tells the rep what to do, what to say, when to use the information, or what next step to take; a descriptive fact by itself is insufficient.

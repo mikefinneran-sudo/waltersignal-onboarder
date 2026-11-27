@@ -29,5 +29,5 @@ esac
   echo "Check every concrete fact in the reply against the folder. Output exactly one line: PASS or FAIL, then ' | ' and a reason under 25 words."
 } > $res/grade/$name.prompt
 cd $SANDBOX
-claude -p --setting-sources "" --tools "" --no-session-persistence --model $GRADER_MODEL \
-  < $res/grade/$name.prompt > $res/grade/$name.txt 2> $res/grade/$name.err
+# Grader is a non-Claude model (default codex); never Claude.
+$TESTS/lib/llm.sh ${GRADER:-codex} < $res/grade/$name.prompt | grep -m1 -E '^(PASS|FAIL)' > $res/grade/$name.txt

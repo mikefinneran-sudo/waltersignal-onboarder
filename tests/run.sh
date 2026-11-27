@@ -10,12 +10,12 @@
 # Usage:  tests/run.sh [folder] [label]
 #   folder  onboarder folder to test (default: this repo)
 #   label   results subfolder name (default: current)
-# Env:    RUNS=3 CONVOS=3 JOBS=8 ONBOARDER_MODEL=sonnet GRADER_MODEL=opus
+# Env:    RUNS=3 CONVOS=3 JOBS=8 ONBOARDER_MODEL=sonnet GRADER=codex
 # Needs:  the Claude Code CLI (`claude`) signed in.
 set -euo pipefail
 export TESTS=${0:A:h}
 folder=${1:-$TESTS/..}; folder=${folder:A}; label=${2:-current}
-export ONBOARDER_MODEL=${ONBOARDER_MODEL:-sonnet} GRADER_MODEL=${GRADER_MODEL:-opus}
+export ONBOARDER_MODEL=${ONBOARDER_MODEL:-sonnet} GRADER=${GRADER:-codex}
 export SANDBOX=$(mktemp -d)   # empty dir, so no project CLAUDE.md is picked up
 RUNS=${RUNS:-3} CONVOS=${CONVOS:-3} JOBS=${JOBS:-8}
 res=$TESTS/results/$label
