@@ -20,26 +20,27 @@ Sales checks). Each pass of the pitch below is one step of that sequence.
 
 ## Your Two Mentors
 
-Each title in `who-owns-what.md` is held by one person. Day one gives you two mentors, one for the
-morning blocks and one for the afternoon blocks. With each, you first watch the mentor do the work
-(model, I do), then you try it with the mentor guiding you (guided, we do).
+Each title in `who-owns-what.md` is held by one person. Day one gives you two mentors, the leaders
+of two departments: one for the morning blocks and one for the afternoon blocks. Neither is your
+manager. The Head of Sales is your manager and runs the welcome call and the 4:00 PM check-in. With
+each mentor, you first watch the mentor do the work (model, I do), then you try it with the mentor
+guiding you (guided, we do).
 
-| Mentor | Blocks | What They Own (`who-owns-what.md`) | What You Do With Them |
-|---|---|---|---|
-| **Revenue Operations** | 1 and 2 (morning) | The CRM, tool access and logins, access to the Vault and Cairn | Watch them open each tool in `tools.md`, then open each one yourself with them guiding. In Block 2, watch them route one sample question to its owning title, then route two yourself with them guiding |
-| **Head of Sales** (your manager) | 3 and 4 (afternoon) | Your training, the 4:00 PM check-in, call coaching, approving every draft before it goes to a client | Watch them say the 30-second pitch (heard first on the 9:00 AM welcome call), then say it yourself with them guiding, then alone |
+| Mentor | Blocks | What They Own (`who-owns-what.md`) | Why You Need It | What You Do With Them |
+|---|---|---|---|---|
+| **Revenue Operations** leader | 1 and 2 (morning) | The CRM, tool access and logins, access to the Vault and Cairn | What you need to work at all | Watch them open each tool in `tools.md`, then open each one yourself with them guiding. In Block 2, watch them route one sample question to its owning title, then route two yourself with them guiding |
+| **Solutions Engineering** leader | 3 and 4 (afternoon) | "Can we build this?", technical scope, timelines before signing, data and security questions | What you need to sell honestly | Watch them answer one sample "Can we build this?" or data question, then say "I will confirm with Solutions Engineering" and name what they would confirm, with them guiding. Then say the pitch with them listening for any claim about what can be built |
 
-The Head of Sales also runs the 9:00 AM welcome call. The hand-off from the morning mentor to the
-afternoon mentor happens at the end of Block 2: tell the Head of Sales what is open, what is not,
-and what is on your question list.
+The hand-off from the morning mentor to the afternoon mentor happens at the end of Block 2: tell
+the Solutions Engineering leader what is open, what is not, and what is on your question list.
 
 ## The Four Blocks (Eastern)
 
 | Block | Goal | What You Do | Done Looks Like | Step |
 |---|---|---|---|---|
-| **1: 9:00 to 11:00 AM** | Start and get access | Welcome call with the Head of Sales at 9:00 (fixed): say what you have sold before, to whom, and what you want to learn, and hear the Head of Sales say the 30-second pitch. Then account setup with your morning mentor, Revenue Operations (fixed): watch them open every tool in `tools.md`, then open each yourself | All 8 tools in `tools.md` open on your own computer, and you can say which does not | Model (I do), then guided (we do) |
-| **2: 11:00 AM to 1:00 PM** | Learn the pitch and who it is for | Read `the-message.md` (pitch, four parts, Say This, Never Say This), `clients.md`, and the three phases in `what-we-sell.md`. Start your question list (`question-log.md`). With Revenue Operations, route sample questions to their owning titles (`who-owns-what.md`). At 1:00 PM hand off to the Head of Sales | Your question list has 5 questions, and you have written two sentences describing a good-fit client that name size, situation, the decider, and the champion | Model, then guided |
-| **3: 1:00 to 3:00 PM** | Say the pitch | With your afternoon mentor, the Head of Sales: first pass with notes: ask the onboarder to name what is missing, then say it again. Second pass with no notes: one idea, the Brennan Mechanical proof, and the closing question. Name 3 never-say items | The no-notes pass has all 3 parts and you name at least 3 never-say items | Guided (we do), then independent (you do) |
+| **1: 9:00 to 11:00 AM** | Start and get access | Welcome call with the Head of Sales at 9:00 (fixed): say what you have sold before, to whom, and what you want to learn, and hear the Head of Sales say the 30-second pitch. Then account setup with your morning mentor, the Revenue Operations leader (fixed): watch them open every tool in `tools.md`, then open each yourself | All 8 tools in `tools.md` open on your own computer, and you can say which does not | Model (I do), then guided (we do) |
+| **2: 11:00 AM to 1:00 PM** | Learn the pitch and who it is for | Read `the-message.md` (pitch, four parts, Say This, Never Say This), `clients.md`, and the three phases in `what-we-sell.md`. Start your question list (`question-log.md`). With the Revenue Operations leader, route sample questions to their owning titles (`who-owns-what.md`). At 1:00 PM hand off to the Solutions Engineering leader | Your question list has 5 questions, and you have written two sentences describing a good-fit client that name size, situation, the decider, and the champion | Model, then guided |
+| **3: 1:00 to 3:00 PM** | Say the pitch | With your afternoon mentor, the Solutions Engineering leader: watch one sample build or data question answered, then first pass with notes: ask the onboarder to name what is missing, then say it again. Second pass with no notes: one idea, the Brennan Mechanical proof, and the closing question. Name 3 never-say items | The no-notes pass has all 3 parts and you name at least 3 never-say items | Guided (we do), then independent (you do) |
 | **4: 3:00 to 5:00 PM** | Check and close | Rehearse once more. At the 4:00 PM check-in (fixed, 4:00 to 4:30) say the pitch, describe the good-fit client, name the never-say items, and read out your question list. Write down the Head of Sales's first task for day two and say it back | The Head of Sales confirms the five Must checks below | Feedback |
 
 ## Practiced Again

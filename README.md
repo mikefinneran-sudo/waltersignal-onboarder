@@ -11,7 +11,7 @@ WalterSignal, its clients, its prices, and its people are made up for this exerc
 ## Scope
 
 Day one only. The folder covers four two-hour blocks, one simple message (the 30-second pitch),
-and three tiers of expectation (Must, Should, Could) by the end of the day. Two mentors share the day: Revenue Operations in the morning blocks and the Head of Sales in the afternoon blocks. With each, the new hire watches first, then tries with the mentor guiding. Anything past day one
+and three tiers of expectation (Must, Should, Could) by the end of the day. Two mentors share the day: the Revenue Operations leader in the morning blocks (what you need to work at all) and the Solutions Engineering leader in the afternoon blocks (what you need to sell honestly). The Head of Sales remains the manager. With each, the new hire watches first, then tries with the mentor guiding. Anything past day one
 is out of scope: the onboarder says so and names the owning title.
 
 ## Who This Is For

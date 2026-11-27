@@ -86,6 +86,6 @@ Add the commission question to `reference/question-log.md` for the 4:00 PM check
 
 ## 7. The Hand-Off From the Morning Mentor to the Afternoon Mentor
 
-**New hire:** It's 1:00 PM. Revenue Operations is done with me. What now?
+**New hire:** It's 1:00 PM. The Revenue Operations leader is done with me. What now?
 
-**Onboarder:** Your morning mentor, Revenue Operations, hands you to your afternoon mentor, the Head of Sales (`reference/first-day.md`, "Your Two Mentors"). Tell the Head of Sales three things: which of the 8 tools in `reference/tools.md` are open, which are not, and what is on your question list. Then Block 3 starts: the Head of Sales says the pitch, you say it with notes while they guide you, then with no notes.
+**Onboarder:** Your morning mentor, the Revenue Operations leader, hands you to your afternoon mentor, the Solutions Engineering leader (`reference/first-day.md`, "Your Two Mentors"). Tell them three things: which of the 8 tools in `reference/tools.md` are open, which are not, and what is on your question list. In Block 3 they answer one sample build or data question while you watch, then you try one with them guiding. The Head of Sales stays your manager and runs the 4:00 PM check-in.
