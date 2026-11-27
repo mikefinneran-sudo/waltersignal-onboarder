@@ -56,13 +56,13 @@ message; [the job] is the task they named; [day, date] is a real calendar date.
 ## Call Note (Same Day, in the Vault; Next Step and Stage in the CRM)
 
 ```
-Date and attendees:
+Date and attendees:  today's date; every name and title on the call
 Current state:       how the work runs today, in their words
 Gap:                 what it costs them, with their numbers (hours, missed jobs, errors)
 Future state:        the number that would tell them it is fixed, in their words
 Cost of the gap:     the difference between today and that number, per month
-Why now:
-Decider / champion:
+Why now:              the event that makes this urgent, in their words
+Decider / champion:   who signs, and who pushes for it internally
 Next step:           DATE, OWNER, WHAT HAPPENS
 Stage:               Leads / Proposals / Closed Won / Closed Lost
 ```

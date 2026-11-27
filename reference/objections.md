@@ -69,7 +69,7 @@ Practice follows I do, we do, you do (`syllabus.md`).
 - **Name the gap:** "So today you cannot see what this will cost or what it fixes. You want a number you can act on, and guessing costs you a bad decision."
 - **Isolate:** "If the price fits, is there anything else you would need before a next step?"
 - **Prove (before launch):** you quote no price. Say "Let me get you the right person for that,"
-  and bring in the Head of Sales.
+  and bring in the Head of Sales. You can say that Brennan Mechanical saw one fix on its own numbers before it bought the rest (`case-study.md`).
 - **Prove (after launch):** "The first step is a two-week Discovery Sprint at a fixed $7,500. It
   is credited in full toward a Pilot if you sign within 30 days of the readout." Harbor Dental
   Group's Sprint was credited toward its $20,000 Pilot. (`what-we-sell.md`, `case-study.md`)

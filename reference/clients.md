@@ -5,7 +5,7 @@ This page tells you which businesses are a good fit, who you talk to inside them
 ## A Good-Fit Client
 
 - **Size:** an established business of roughly 10 to 250 employees, with revenue coming in and a
-  real operation to improve. Not a startup still finding customers. Ask the headcount in the
+  real operation to improve. If the company is still finding its first customers, say you will revisit when revenue is steady, and log it as not a fit. Ask the headcount in the
   first five minutes of the call.
 - **Situation:** the work runs on spreadsheets, whiteboards, email, and paper, or on several
   tools that do not share information, so people type the same thing twice. Ask "Where do you type the same thing twice?"

@@ -13,4 +13,4 @@ This page is where you record every question the onboarder could not answer. The
 
 | Date | Question | Owner (title) | Answer added to |
 |---|---|---|---|
-| No entries recorded yet. | | | |
+| (Add a row here: today's date, the question in your own words, the title the onboarder named, blank) | | | |

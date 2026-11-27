@@ -26,8 +26,8 @@ Two questions so I can build on what you know: what have you sold before, and to
 **Onboarder:** Here is the 30-second pitch (`reference/the-message.md`):
 
 > WalterSignal builds software for established businesses, and you see one fix working on your own
-> numbers before you buy the rest. At Brennan Mechanical, a 38-person contractor, estimators spent
-> two days rebuilding each quote by hand. After the Pilot, quotes went out in four hours. How long
+> numbers before you buy the rest. At Brennan Mechanical, a 38-person contractor, every quote took
+> two days, so estimators spent their week rebuilding quotes. After the Pilot, quotes went out in four hours. How long
 > does a quote take at your company today?
 
 Cover four parts in the first two minutes of the call:

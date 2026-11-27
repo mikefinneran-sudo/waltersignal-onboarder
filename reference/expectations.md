@@ -70,7 +70,7 @@ present your own deals at the weekly pipeline review (`meetings.md`).
 | Research brief written before each call | Saved in the Vault | 100% |
 | Call notes saved in the Vault | Same day | 100% |
 | Anything sent to a client without Head of Sales approval | Any day | 0 |
-| Continuing Education CE1 signed off | By day 30 | 1 of 1 |
+| Continuing Education CE1 signed off | The Head of Sales watches you complete the CE1 task in `syllabus.md` without notes, with no errors | 1 of 1 by day 30 |
 
 **What good looks like:** a call note with the prospect's own numbers in Gap and a next step with
 a date. **What weak looks like:** a call note that says "good call, will follow up."

@@ -4,7 +4,7 @@ This file lists every meeting, what each is for, and who runs it. Each one start
 
 | Meeting | Purpose | Owner | When (Eastern) | Starts | Who | What You Do |
 |---|---|---|---|---|---|---|
-| Daily Check-In | Questions, sign-offs, tomorrow's first task | Head of Sales | Every workday, 4:00 to 4:30 through day 10; 4:15 to 4:30 after launch | Day 1 | You and the Head of Sales | Bring your question list |
+| Daily Check-In | Questions, sign-offs, next day's first task | Head of Sales | Every workday, 4:00 to 4:30 through day 10; 4:15 to 4:30 after launch | Day 1 | You and the Head of Sales | Bring your question list |
 | Weekly 1:1 | Your scorecard and coaching | Head of Sales | Fridays, 2:00 to 2:30 | Day 5 (first Friday) | You and the Head of Sales | Bring one win, one hard thing, and your scorecard |
 | Weekly Pipeline Review | Walk every deal and its next step | Head of Sales | Mondays, 10:00 to 10:45 | Day 6 (second Monday) | Head of Sales (runs it), you, Revenue Operations, Solutions Engineering, Delivery Lead | Listen on days 6 to 10, then present your own deals |
 
@@ -18,9 +18,9 @@ This file lists every meeting, what each is for, and who runs it. Each one start
 
 ## Daily Check-In
 
-1. Your question list from `question-log.md`, one question at a time.
-2. Milestone sign-offs, if a module is ready (`syllabus.md`).
-3. The one thing you do first tomorrow.
+1. Read out your question list from `question-log.md`, one question at a time.
+2. If a module is ready, ask the Head of Sales to watch you do its task and sign it off (`syllabus.md`).
+3. Write down the Head of Sales's first task for tomorrow and say it back.
 
 ## Weekly 1:1
 
