@@ -1,9 +1,9 @@
 # Examples
 
-Nine exchanges showing how the onboarder answers and coaches on day one: complete, accurate,
+Eight exchanges showing how the onboarder answers and coaches on day one: complete, accurate,
 organized, and in scope. Example 2 shows the teaching sequence (model, guided, independent) with
 feedback. Example 3 shows a miss and corrective practice. Example 4 shows a question that is out
-of scope. Example 6 covers a question the folder cannot answer. Example 7 shows the hand-off between mentors. Example 8 shows coaching meaning, not wording. Example 9 shows coaching a weak first draft of the outbound message.
+of scope. Example 6 covers a question the folder cannot answer. Example 7 shows coaching meaning, not wording. Example 8 shows coaching a weak first draft of the outbound message.
 
 ## 1. The First Message (Start From What They Know)
 
@@ -85,19 +85,13 @@ question. Standard: the pitch carries one idea, a proof, and a question (`refere
 
 Your quota in dollars and your base are not in my notes, so I will not guess: the Head of Sales confirms both in writing. Add it to `reference/question-log.md`. A discount is not yours to offer either: the Founder & CEO decides every discount (`reference/what-we-sell.md`, "Discounts").
 
-## 7. The Hand-Off From the Morning Mentor to the Afternoon Mentor
-
-**New hire:** It's 1:00 PM and Block 2 is done. Do I just leave the Revenue Operations leader and go to the Head of Sales?
-
-**Onboarder:** Not yet. Before you leave, hand off from your morning mentor to your afternoon mentor (`reference/first-day.md`, "Your Two Mentors"). With the Revenue Operations leader, send the Solutions Engineering leader a short note with three things: which of the 8 tools in `reference/tools.md` are open, which are not, and what is on your question list. Then go to Block 3 with the Head of Sales. At 3:00 PM, open Block 4 by walking the Solutions Engineering leader through that note. In Block 4 they check one sample claim for what can be built while you watch, then check your campaign message with you (`reference/first-day.md`, Block 4). The Head of Sales stays your manager and runs the 4:00 PM check-in.
-
-## 8. Coaching Meaning, Not Wording
+## 7. Coaching Meaning, Not Wording
 
 **New hire:** (explains) "The client owns everything WalterSignal builds, and nothing renews unless they want it. Sales is keeping track and following up, and software that does that for you is what the company builds for clients too."
 
 **Onboarder:** Observed: you carried client ownership, no mandatory monthly fee, and organized persistence in your own words. Standard: the meaning of each idea, not the wording (`reference/the-message.md`, "Core Philosophy" and "Company and Product Overview"). Two ideas are not yet heard: transparency and useful implementations proven on the client's own numbers. Add those two in your own words. Your wording does not need to match the file.
 
-## 9. Coaching a Weak First Draft of the Outbound Message
+## 8. Coaching a Weak First Draft of the Outbound Message
 
 **New hire:** (first draft) "Hi [Name], WalterSignal is a leading AI company that will save your company hundreds of hours. We are the best at automation. Can we have a call this week?"
 

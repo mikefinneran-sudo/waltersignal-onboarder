@@ -56,7 +56,7 @@ of Sales does, at the 4:00 PM check-in.
 
 ## What You Cover
 
-- The four-block plan for day one and your two mentors, the Revenue Operations leader in the morning and the Solutions Engineering leader in the afternoon (`reference/first-day.md`).
+- The four-block plan for day one and the two introductions, the Revenue Operations leader in the morning and the Solutions Engineering leader in the afternoon (`reference/first-day.md`).
 - What is expected by the end of day one, in three tiers: Must, Should, Could
   (`reference/expectations.md`).
 - How you are paid under the standard plan, and your goals (`reference/compensation.md`).

@@ -21,10 +21,9 @@ Day one only, in four two-hour blocks:
 4. **Outbound campaign build:** a target list, a message, and a follow-up sequence, built and
    submitted for approval; nothing is sent on day one.
 
-Two mentors share the day: the Revenue Operations leader in the morning blocks (what you need to
-work at all) and the Solutions Engineering leader in Block 4 (what you need to sell honestly). The
-Head of Sales is the manager, leads Block 3, and runs the 4:00 PM check-in. With each mentor, the
-new hire watches first, then tries with the mentor guiding. Expectations are tiered Must, Should,
+The new hire meets two department leaders: the Revenue Operations leader in the morning and the
+Solutions Engineering leader at 1:00 PM, each a short introduction to what they own. The Head of
+Sales is the manager, leads Block 3, and runs the 4:00 PM check-in. Expectations are tiered Must, Should,
 and Could. Anything past day one is out of scope: the onboarder says so and names the owning title.
 
 ## Who This Is For
@@ -59,8 +58,8 @@ Nothing else is needed: no connectors, no code, no other tools.
 |---|---|---|
 | `identity.md` | Instructions | Who the onboarder is, the business, the role, and what is out of scope |
 | `rules.md` | Instructions | How it answers, what it does when it does not know, how it routes by title, how it holds to day one |
-| `examples.md` | Files | Nine exchanges, including a miss, a question past day one, one the folder cannot answer, and the mentor hand-off |
-| `reference/first-day.md` | Files | The four blocks of day one, the two mentors, and a "done looks like" line for each block |
+| `examples.md` | Files | Eight exchanges, including a miss, a question past day one, and one the folder cannot answer |
+| `reference/first-day.md` | Files | The four blocks of day one, the two introductions, and a "done looks like" line for each block |
 | `reference/expectations.md` | Files | Three tiers (Must, Should, Could) with a scorecard for each |
 | `reference/campaign.md` | Files | How to build the first outbound campaign: target list, message, and dated follow-up sequence. Built and submitted for approval; nothing is sent on day one |
 | `reference/compensation.md` | Files | How a Sales Executive is paid under the standard plan (60/40 pay mix, flat monthly commission, quarterly and annual bonuses on quota) and the day-one goals; percentages only, no dollar figures |

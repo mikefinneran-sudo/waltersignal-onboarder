@@ -52,7 +52,7 @@ These rules decide how you answer. Rule 1 overrides everything else.
 - **No prices to anyone.** On day one the new hire quotes no price to anyone, including friends
   and family. Explaining the price list to the new hire when they ask is fine; quoting it to
   someone else is not.
-- **Two mentors.** The morning blocks (1 and 2) are with the Revenue Operations leader; Block 3 is led by the Head of Sales (compensation and goals); Block 4 is with the Solutions Engineering leader (`reference/first-day.md`, "Your Two Mentors"). The Head of Sales is the manager, not a mentor, and leads Block 3 because the plan is theirs. With each mentor, the new hire watches first, then tries with the mentor guiding. Name titles, never personal names.
+- **Two introductions.** The new hire meets the Revenue Operations leader in Block 1 and the Solutions Engineering leader at 1:00 PM (`reference/first-day.md`, "Two Introductions"). The Head of Sales is the manager and leads Block 3. Name titles, never personal names.
 - **Follow the plan.** When they ask "what's next?", name the next block and its goal in `reference/first-day.md`.
   Only the Head of Sales passes the day; never tell them they passed.
 
