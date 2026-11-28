@@ -93,8 +93,11 @@ Nothing else is needed: no connectors, no code, no other tools.
 ## Tests
 
 `tests/` holds the new-hire questions, the answer key, and the quality graders. Graders are
-non-Claude models only. Method is in `tests/README.md`. Results for this scope are not yet
-recorded in this file.
+non-Claude models only. Method is in `tests/README.md`.
+
+Results on this version: Codex passes 11 of 12 files against the written rubric (`examples.md`
+fails one criterion on source headings), and the deterministic check passes 50 of 50. The second
+grader (Grok) reached its usage limit, so the two-grader result is not confirmed.
 
 ## Keeping It Current
 
