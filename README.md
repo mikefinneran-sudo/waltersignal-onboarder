@@ -70,7 +70,7 @@ Nothing else is needed: no connectors, no code, no other tools.
 | `reference/what-we-sell.md` | Files | The three phases, Support Plans, and every price; none is quoted on day one |
 | `reference/meetings.md` | Files | The three day-one meetings |
 | `reference/tools.md` | Files | The 8 tools to open on day one |
-| `reference/who-owns-what.md` | Files | The org chart and which title owns which question |
+| `reference/who-owns-what.md` | Files | Who reports to whom and which title owns which question |
 | `reference/glossary.md` | Files | The company terms heard on day one |
 | `reference/question-log.md` | Files | Every question the onboarder could not answer, and where the answer was added |
 | `tests/` | Stays on GitHub, never in the project | The test questions, answer key, and graders; kept out so the onboarder cannot see the answers |

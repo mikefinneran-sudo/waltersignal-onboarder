@@ -2,22 +2,9 @@
 
 This page tells you which title owns each question. Most answers are in this folder; this page covers the rest.
 
-## The Org Chart
+## Who Reports to Whom
 
-```
-Founder & CEO
-├── Head of Sales ── Sales Executive (you)
-├── Revenue Operations
-├── Solutions Engineering
-├── Delivery Lead
-├── Finance & Billing
-├── People Operations
-├── Legal & Contracts
-├── Partnerships
-└── Marketing
-```
-
-Each title is held by one person, and every person is in Slack under their title. Find the owning title below, then say it by title, not by name: "This is a Revenue Operations question."
+Every title reports to the Founder & CEO, except you: the Sales Executive reports to the Head of Sales. Each title is held by one person, and every person is in Slack under their title. Find the owning title in the table below, then say it by title, not by name: "This is a Revenue Operations question."
 
 ## What Each Title Owns
 
