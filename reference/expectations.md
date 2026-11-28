@@ -4,8 +4,7 @@ This file says what is expected of the new Sales Executive by the end of day one
 (Must, Should, Could), what is not expected, and the scorecard the Head of Sales checks at the 4:00 PM
 Eastern check-in. Every scorecard line is something the Head of Sales can see or hear.
 
-The tiers follow I do, we do, you do. The Head of Sales shows you, you do it together, then you do
-it alone, and each tier asks for more independent work than the one before. Anything past day one
+The tiers rise in independence. Tier 1 (Must): the Head of Sales shows each line once and you repeat it. Tier 2 (Should): the Head of Sales gives only a one-line prompt and you answer. Tier 3 (Could): you do it alone, with no prompt. Each tier asks for more independent work than the one before. Anything past day one
 is out of scope here; the Head of Sales tells you at the check-in what day two holds.
 
 ## The Pass Rule
@@ -17,14 +16,14 @@ The day passes when every Must line meets its target. If a Must line misses:
 2. You repeat only that line, and say it again at the next daily check-in.
 3. The Head of Sales checks it again before anything new is added.
 
-Should and Could lines never block the day; a miss is carried to the question list.
+Should and Could lines never block the day. A missed Should line gets the same treatment: one example, then you repeat it once before the check-in ends. A missed Could line is carried to the question list.
 
 ## Not Expected on Day One
 
 Pitching to anyone outside the company, quoting any price, contacting any prospect or client, and
 sending anything to a client.
 
-## Tier 1: Must (Head of Sales Shows, You Repeat Alone)
+## Tier 1: Must (Head of Sales Shows, You Repeat)
 
 | Scorecard Line | Condition | Target |
 |---|---|---|
@@ -38,31 +37,30 @@ sending anything to a client.
 | Never-say items named (`the-message.md`) | At the check-in | At least 3 |
 
 **What good looks like:** you say the pitch in your own words and include Brennan Mechanical and
-the closing question. **What weak looks like:** you read the pitch, or leave out the Brennan proof
-or the closing question.
+the closing question. **What weak looks like:** you read the pitch, leave out the Brennan proof or the closing question, or need the Head of Sales to show it a second time.
 
-## Tier 2: Should (Done Together)
+## Tier 2: Should (Head of Sales Prompts, You Answer)
 
 | Scorecard Line | Condition | Target |
 |---|---|---|
-| Four parts of the first two minutes named (`the-message.md`) | At the check-in, no notes | 4 of 4 |
-| Four categories of alternatives and each gap named (`landscape.md`) | At the check-in, in your own words, no notes; meaning counts, not wording | 4 of 4 categories, each with its gap |
-| Three phases named (`what-we-sell.md`) | At the check-in, no notes | 3 of 3: Research, Validate, Build |
+| Four parts of the first two minutes named (`the-message.md`) | After a one-line prompt at the check-in, no notes | 4 of 4 |
+| Four categories of alternatives and each gap named (`landscape.md`) | After a one-line prompt at the check-in, in your own words, no notes; meaning counts, not wording | 4 of 4 categories, each with its gap |
+| Three phases named (`what-we-sell.md`) | After a one-line prompt at the check-in, no notes | 3 of 3: Research, Validate, Build |
 | Owning title named for sample questions (`who-owns-what.md`) | The Head of Sales reads out three sample questions | 3 of 3 |
 
 **What good looks like:** asked "Who answers whether client data is safe?", you say "Solutions
-Engineering" without looking. **What weak looks like:** you answer "ask the founder."
+Engineering" without looking. **What weak looks like:** you answer "ask the founder," or need a second prompt.
 
-## Tier 3: Could (You Do It Alone)
+## Tier 3: Could (You Do It Alone, Unprompted)
 
 | Scorecard Line | Condition | Target |
 |---|---|---|
-| Not-a-fit requests named (`clients.md`) | At the check-in, no notes | 4 of 4 |
+| Not-a-fit requests named (`clients.md`) | Offered at the check-in with no prompt and no notes | 4 of 4 |
 | Meeting invites accepted (`meetings.md`) | Every invite the Head of Sales has sent by the check-in | 100% |
 | Pitch adapted to a business you have sold to before | Said once with no notes, naming that business's situation, with the one idea, the Brennan proof, and the closing question | 3 of 3 parts |
 
 **What good looks like:** you name the situation of a business you know in the first sentence.
-**What weak looks like:** you name only an industry.
+**What weak looks like:** you name only an industry, or wait to be asked.
 
 Your quota is set monthly by the Head of Sales and confirmed in writing; other meeting and pipeline
 targets after day one are not in this folder.

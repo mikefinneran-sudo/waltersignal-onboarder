@@ -14,14 +14,14 @@ This page tells you which businesses are a good fit, who you talk to inside them
   calling around." When you hear one, ask "How often does that happen, and what does it cost?"
 - **Common industries:** field service (HVAC, plumbing, electrical), distribution and wholesale,
   light manufacturing, multi-location healthcare offices (dental, physical therapy), and
-  professional services firms. No industry is excluded; judge each business on its own facts. Never refuse a lead for its industry alone.
+  professional services firms. No industry is excluded: judge each business on its own facts.
 
 ## Example Clients
 
 | Client | Size and industry | Decider | Champion | What You Do |
 |---|---|---|---|---|
 | Brennan Mechanical | 38-person heating, cooling, and plumbing contractor | The owner | The office manager | The pitch's proof (`the-message.md`) |
-| Harbor Dental Group | Four offices, about 60 staff | The two dentist-owners | The operations director | Example of a multi-location office |
+| Harbor Dental Group | Four offices, about 60 staff | The two dentist-owners | The operations director | When a prospect has several locations, say "Harbor Dental Group runs four offices" and ask how the locations share information today |
 
 ## Who You Talk To
 

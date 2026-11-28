@@ -11,10 +11,10 @@ This file defines the company words a new hire hears on day one, in plain langua
 | **CRM** | The system where every lead and deal is tracked (HubSpot) | Open it to confirm access | `tools.md` |
 | **Decider** | The person at the client who signs and approves the money | Name one in your good-fit description | `clients.md` |
 | **Discovery Sprint** | The first phase: two weeks mapping how the client's work runs, $7,500 fixed | Name it as the first of the three phases; quote no price | `what-we-sell.md` |
-| **Internal price** | A price kept inside the company | Never say it to a client | `what-we-sell.md` |
+| **Who quotes** | The title that states a price to the client; no price is hidden from a client | Quote none on day one; route to the title that quotes it (`what-we-sell.md`) | `what-we-sell.md` |
 | **Pilot** | The second phase: one workflow live and measured, 6 to 8 weeks | Name it as the second of the three phases; quote no price | `what-we-sell.md` |
 | **Question log** | The list of questions the onboarder could not answer | Add your own rows | `question-log.md` |
-| **Quotable price** | A price a Sales Executive may say to a client once the Head of Sales allows it | Quote none on day one | `what-we-sell.md` |
+| **Quotable price** | A price the Sales Executive states to a client once the Head of Sales clears it | Quote none on day one | `what-we-sell.md` |
 | **Support Plan** | An optional monthly plan after go-live (Essentials, Standard, or Priority); the client may take none | Say it is optional if asked; quote no price | `what-we-sell.md` |
 | **The Vault** | The company's shared notes in Obsidian | Open it to confirm access | `tools.md` |
 | **Workflow** | One piece of a client's work from start to finish, such as quoting or scheduling | Name the one being fixed when you say the pitch | `what-we-sell.md` |

@@ -8,10 +8,10 @@ This page tells you which tool to open for each job. It never lists passwords or
 | **Slack** | Team chat | Message the team; the two urgent cases in `who-owns-what.md` go here |
 | **Google Meet** | Video calls | Join every meeting in `meetings.md` |
 | **The CRM (HubSpot)** | The system where every lead and deal is tracked | Open it on day one to confirm access, and log your draft campaign sequence as dated next steps (`campaign.md`); Revenue Operations owns it |
-| **The Vault (Obsidian)** | The company's notes | Open it on day one to confirm access |
-| **Cairn** | The company's memory of decisions and facts | Open it on day one to confirm access |
-| **Google Docs** | Shared documents | Open it on day one to confirm access |
-| **Linear** | The team's task tracker | See the tasks the Head of Sales assigns you |
+| **The Vault (Obsidian)** | The company's notes | Save your campaign draft here before the 4:00 PM check-in (`campaign.md`) |
+| **Cairn** | The company's memory of decisions and facts | Search it for a decision or fact before you add the question to your list |
+| **Google Docs** | Shared documents | Open and read any document the Head of Sales shares with you |
+| **Linear** | The team's task tracker | Read the tasks the Head of Sales assigns you, including your first task for day two |
 
 ## The Rule for Every Tool
 

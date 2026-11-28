@@ -23,7 +23,7 @@ Each title is held by one person, and every person is in Slack under their title
 
 | Title | Reports to | Owns | Example questions | What You Do |
 |---|---|---|---|---|
-| Founder & CEO | The business | Final prices, any discount, the message, strategy, signing agreements | "Can we take 10% off?" "What would a Build cost for this client?" | Send price or discount questions through the Head of Sales; say "the Founder & CEO prices that" to clients |
+| Founder & CEO | None (top of the chart) | Final prices, any discount, the message, strategy, signing agreements | "Can we take 10% off?" "What would a Build cost for this client?" | Send price or discount questions through the Head of Sales; say "the Founder & CEO prices that" to clients |
 | Head of Sales (your manager) | Founder & CEO | Your training, the 4:00 PM check-in, what day two holds, call coaching, approving every draft before it goes to a client, this onboarding folder, your targets and commission plan (the plan only; commission payouts are Finance & Billing, and pay, benefits and time off are People Operations) | "Did I pass day one?" "Can I send this follow-up?" "What's my quota?" | Bring it to the daily check-in; send nothing to a client before approval |
 | Revenue Operations | Founder & CEO | The CRM, its fields and stages, tool access and logins, access to the Vault and Cairn, lead lists | "Which CRM fields are required?" "I can't open the Vault." | Message them for access or CRM problems |
 | Solutions Engineering | Founder & CEO | "Can we build this?", technical scope, timelines before signing, data and security questions | "Can it connect to QuickBooks?" "Where does client data live?" | Say "I will confirm with Solutions Engineering" and log the question |

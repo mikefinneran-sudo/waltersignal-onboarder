@@ -48,7 +48,7 @@ asked, say that is not in your notes and route it to Revenue Operations (`who-ow
 > WalterSignal builds software for established businesses, and you see one fix working on your own
 > numbers before you buy the rest. At Brennan Mechanical, a 38-person contractor, every quote took
 > two days, so estimators spent their week rebuilding quotes. After the Pilot, quotes went out in four hours. How long
-> does a quote take at your company today, and how fast would it need to be?
+> does a quote take at your company today, what does a slow one cost you, and how fast would it need to be?
 
 Say it in your own words once you know it. It carries one idea (see it work first), the Brennan proof, and it ends with the question. The four parts below are covered in the first two minutes of the call.
 

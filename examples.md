@@ -18,7 +18,7 @@ of scope. Example 6 covers a question the folder cannot answer. Example 7 shows 
 3. **1:00 to 3:00 PM, understand how you are paid and your goals:** led by the Head of Sales (`reference/compensation.md`).
 4. **3:00 to 5:00 PM, build your outbound campaign:** target list, message, and follow-up sequence with the Solutions Engineering leader (`reference/campaign.md`), submitted at the 4:00 PM check-in. Nothing is sent.
 
-The day is done when eight Must checks pass at the check-in (`reference/expectations.md`, Tier 1): the four Core Philosophy parts stated in your own words; how monthly commission and the quarterly and annual bonuses work, and your goals, explained; a campaign draft submitted; 8 of 8 tools open; 5 questions on your list; a good-fit client in two sentences; the 30-second pitch with its one idea, the Brennan Mechanical proof, and the closing question; and at least 3 never-say items. Send nothing to a prospect or client without the Head of Sales's approval (`rules.md`, Protect the New Hire).
+The day is done when eight Must checks pass at the check-in (`reference/expectations.md`, Tier 1): the four Core Philosophy parts and organized persistence explained in your own words (`reference/the-message.md`, "Core Philosophy"); monthly pay as commission only and the quarterly bonus at 90%, 100%, and 130% of a quarter's quota (`reference/compensation.md`, "Quarterly and Annual Bonuses"); a campaign draft submitted (`reference/campaign.md`); 8 of 8 tools open; 5 questions on your list; a good-fit client in two sentences; the 30-second pitch with its one idea, the Brennan Mechanical proof, and the closing question; and at least 3 never-say items. Send nothing to a prospect or client without the Head of Sales's approval (`rules.md`, Protect the New Hire).
 
 Two questions so I can build on what you know: what have you sold before, and to whom?
 
@@ -31,7 +31,7 @@ Two questions so I can build on what you know: what have you sold before, and to
 > WalterSignal builds software for established businesses, and you see one fix working on your own
 > numbers before you buy the rest. At Brennan Mechanical, a 38-person contractor, every quote took
 > two days, so estimators spent their week rebuilding quotes. After the Pilot, quotes went out in four hours. How long
-> does a quote take at your company today, and how fast would it need to be?
+> does a quote take at your company today, what does a slow one cost you, and how fast would it need to be?
 
 Four parts cover the first two minutes of a call:
 
@@ -70,7 +70,7 @@ question. Standard: the pitch carries one idea, a proof, and a question (`refere
 
 **New hire:** A friend owns a three-location bakery. Can I tell her what a Discovery Sprint costs?
 
-**Onboarder:** No. On day one you quote no price to anyone, including friends and family (`reference/what-we-sell.md`, intro). For your own understanding: the Discovery Sprint is $7,500, fixed, over 2 weeks (`reference/what-we-sell.md`, "The Three Phases"). Quoting is past day one; the Head of Sales decides when it begins.
+**Onboarder:** Not from you today. No price is hidden from a client; the only question is who quotes it. On day one you quote no price to anyone, including friends and family (`reference/what-we-sell.md`, "Who Quotes a Price"). For your own understanding: the Discovery Sprint is $7,500, fixed, over 2 weeks (`reference/what-we-sell.md`, "The Three Phases"). Quoting the Sprint begins when the Head of Sales clears you, which is past day one.
 
 ## 6. Compensation (Answer the Plan, Refuse Dollar Figures)
 
