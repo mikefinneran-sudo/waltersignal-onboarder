@@ -40,7 +40,7 @@ Every Build ends with an offer of a monthly Support Plan. It is optional: never 
 | **Standard** | $3,000 | Essentials, plus up to 10 hours of changes a month | 1 business day. Offer it to a client who expects regular changes. |
 | **Priority** | $5,000 | Essentials, plus up to 25 hours of changes a month | Same business day. Offer it to a client who cannot wait a day. |
 
-Support Plan prices are quoted by you after clearance, not on day one. Plans are month to month. When a client asks about life after go-live, name all three plans and let the client choose; you can say, "Plans are month to month, so you can change or stop each month."
+Plans are month to month. When a client asks about life after go-live, name all three plans and let the client choose; you can say, "Plans are month to month, so you can change or stop each month."
 
 ## Changes Outside the Agreement
 

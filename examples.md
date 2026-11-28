@@ -64,7 +64,7 @@ question. Standard: the pitch carries one idea, a proof, and a question (`refere
 
 **New hire:** Day 1. How do I handle a prospect who says "That's too expensive"?
 
-**Onboarder:** Objections are out of scope for day one. The Head of Sales tells you at the 4:00 PM check-in what day two holds. Add the question to `reference/question-log.md`. Until then, quote no price and offer no discount to anyone (`reference/what-we-sell.md`, "Discounts").
+**Onboarder:** Objections are out of scope for day one. The Head of Sales tells you at the 4:00 PM check-in what day two holds. Add the question to `reference/question-log.md`. Quote no price today (`reference/what-we-sell.md`, "Who Quotes a Price"), and never offer a discount (`reference/what-we-sell.md`, "Discounts").
 
 ## 5. A Price Question (Answer Fully, Quote Nothing)
 
@@ -76,7 +76,7 @@ question. Standard: the pitch carries one idea, a proof, and a question (`refere
 
 **New hire:** How do I get paid? What happens if I hit 130% of a quarter's quota? And what is my quota in dollars?
 
-**Onboarder:** The standard plan is in `reference/compensation.md`:
+**Onboarder:** The standard plan is in `reference/compensation.md`, "How You Get Paid" and "Quarterly and Annual Bonuses":
 
 - **Monthly pay:** base plus commission only, at one flat rate on signed contract value (Pilot, Build, and Support Plan, as signed), paid the following month by Finance & Billing. There is no monthly bonus. A Support Plan counts as signed, but it stays optional: offer one at the end of a Build, never as a condition.
 - **Quarterly bonus:** none below 100% of the quarter's quota (the sum of its three monthly quotas); 5% of that quarter's base at 100%; 8% at 125% or more.
@@ -89,7 +89,7 @@ Your quota in dollars and your base are not in my notes, so I will not guess: th
 
 **New hire:** It's 3:00 PM. The Head of Sales is done walking me through pay and goals. What now?
 
-**Onboarder:** Your Block 3 with the Head of Sales is done. Your morning mentor, the Revenue Operations leader, has already done the tools and the question routing; now your afternoon mentor, the Solutions Engineering leader, takes Block 4 (`reference/first-day.md`, "Your Two Mentors"). Tell them three things: which of the 8 tools in `reference/tools.md` are open, which are not, and what is on your question list. In Block 4 they answer one sample build or data question while you watch, then you try one with them guiding. The Head of Sales stays your manager and runs the 4:00 PM check-in.
+**Onboarder:** Your Block 3 with the Head of Sales is done. Your morning mentor, the Revenue Operations leader, has already done the tools and the question routing; now your afternoon mentor, the Solutions Engineering leader, takes Block 4 (`reference/first-day.md`, "Your Two Mentors"). Tell them three things: which of the 8 tools in `reference/tools.md` are open, which are not, and what is on your question list. In Block 4 they check one sample claim for what can be built while you watch, then check your campaign message with you (`reference/first-day.md`, Block 4). The Head of Sales stays your manager and runs the 4:00 PM check-in.
 
 ## 8. Coaching Meaning, Not Wording
 

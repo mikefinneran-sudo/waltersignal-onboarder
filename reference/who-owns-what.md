@@ -1,6 +1,6 @@
 # Who Owns What
 
-This page tells you which title to route each question to. Route by title, not by name; most answers are in this folder, and this page says who owns the rest.
+This page tells you which title owns each question. Most answers are in this folder; this page covers the rest.
 
 ## The Org Chart
 
@@ -17,7 +17,7 @@ Founder & CEO
 └── Marketing
 ```
 
-Each title is held by one person, and every person is in Slack under their title. When you route a question, say it by title: "This is a Revenue Operations question."
+Each title is held by one person, and every person is in Slack under their title. Find the owning title below, then say it by title, not by name: "This is a Revenue Operations question."
 
 ## What Each Title Owns
 

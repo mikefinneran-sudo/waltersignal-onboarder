@@ -20,7 +20,7 @@ This page tells you which businesses are a good fit, who you talk to inside them
 
 | Client | Size and industry | Decider | Champion | What You Do |
 |---|---|---|---|---|
-| Brennan Mechanical | 38-person heating, cooling, and plumbing contractor | The owner | The office manager | The pitch's proof (`the-message.md`) |
+| Brennan Mechanical | 38-person heating, cooling, and plumbing contractor | The owner | The office manager | Say "At Brennan Mechanical, quotes took two days; after the Pilot, four hours" as the pitch's proof (`the-message.md`) |
 | Harbor Dental Group | Four offices, about 60 staff | The two dentist-owners | The operations director | When a prospect has several locations, say "Harbor Dental Group runs four offices" and ask how the locations share information today |
 
 ## Who You Talk To
