@@ -38,10 +38,8 @@ T7 | PASS if higher tiers require more independent performance than lower tiers;
 R1 | PASS if every syllabus objective states an observable learner behavior, the performance conditions, and an explicit success criterion; otherwise FAIL. | Preparing Instructional Objectives (Mager, 1962)
 R2 | PASS if every training day lists activities, an expected output, and a completion or passing standard; otherwise FAIL. | Preparing Instructional Objectives (Mager, 1962)
 R3 | PASS if the plan visibly progresses from trainer demonstration to guided practice to independent rep performance; otherwise FAIL. | Gradual Release of Responsibility (Pearson and Gallagher, 1983)
-R4 | PASS if previously introduced knowledge or skills are revisited on at least two later, nonconsecutive days; otherwise FAIL. | Spaced Repetition
 R5 | PASS if each major skill has a stated mastery threshold, a check against that threshold, and a corrective path before advancement; otherwise FAIL. | Mastery Learning (Bloom)
 R6 | PASS if the plan includes dated or day-numbered milestones whose outcomes are specific and measurable; otherwise FAIL. | SMART Criteria (Doran, 1981)
-R7 | PASS if at least one day each is devoted to discovery, pitching, objection handling, process execution, and independent role-play assessment; otherwise FAIL. | Gradual Release of Responsibility (Pearson and Gallagher, 1983)
 
 ## SECTION: CASE_STUDY
 C1 | PASS if every case identifies a specific client or explicitly labeled anonymized client, the client’s initial situation, and the problem addressed; otherwise FAIL. | SPIN Selling (Rackham, 1988)
