@@ -1,0 +1,7 @@
+T1: PASS | Defines three ordered, distinctly named tiers: Tier 1 Must, Tier 2 Should, and Tier 3 Could.
+T2: PASS | Every tier’s scorecard uses observable actions such as explaining, naming, opening, submitting, accepting, and adapting.
+T3: PASS | Every scorecard row states performance conditions and an explicit numeric threshold, count, completeness requirement, or percentage.
+T4: PASS | All tiers have measurable sales-role targets due by the day-one 4:00 PM check-in.
+T5: PASS | Prompting anchors distinguish tiers: repeat after demonstration, answer after one prompt, then perform unprompted; observable good and weak examples reinforce differences.
+T6: PASS | Passing requires every Must target; misses receive an example, focused repetition, and reassessment at the next check-in before new work.
+T7: PASS | Independence explicitly increases from demonstrated repetition, to one-line prompting, to unprompted performance without notes.

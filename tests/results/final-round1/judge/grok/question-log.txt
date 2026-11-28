@@ -1,0 +1,9 @@
+F1: NA | Clients are not the subject; the file only records unanswered questions.
+F2: NA | Prices are not defined or maintained in this question log.
+F3: NA | Roles appear only as question owners, not as an organization chart.
+F4: NA | The check-in is mentioned in passing, not maintained as a meeting list.
+F5: NA | No sales-tool catalog; Cairn is named only inside one process step.
+F6: NA | Defining terms is not this file's purpose.
+F7: NA | Recording material changes is not the purpose; it logs unanswered questions.
+F8: PASS | It opens with one purpose sentence, is scannable by heading and table, and has no restatement or praise.
+F9: PASS | Every how-to step and the log row tells the rep to add, bring, ask, read, or mark.

@@ -1,0 +1,9 @@
+F1: PASS | Both named clients have unique names plus size or industry descriptors that distinguish them.
+F2: NA | Dollar amounts set a fit threshold; the file does not define or maintain prices.
+F3: NA | Roles described are people at the client, not the company organization chart.
+F4: NA | No recurring meeting is defined; a call is mentioned only in passing.
+F5: NA | The file does not define or maintain sales tools.
+F6: NA | Role labels give working context; defining a glossary is not the purpose.
+F7: NA | The file does not record changes or keep a change log.
+F8: PASS | It opens with a purpose sentence, headings and tables are scannable, and nothing restates or praises the company.
+F9: FAIL | The Brennan Mechanical row only names it as the pitch's proof and gives facts, with no action or words to say.

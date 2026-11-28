@@ -1,0 +1,16 @@
+unit                       codex      grok  overall
+clients                 FAIL(1f)  FAIL(1f)  FAIL
+examples                FAIL(1f)  FAIL(1f)  FAIL
+expectations            PASS(0f)  PASS(0f)  PASS
+first-day               FAIL(1f)  FAIL(3f)  FAIL
+glossary                PASS(0f)  PASS(0f)  PASS
+identity-rules          PASS(0f)  PASS(0f)  PASS
+meetings                PASS(0f)  PASS(0f)  PASS
+question-log            PASS(0f)  PASS(0f)  PASS
+the-message             PASS(0f)  FAIL(1f)  FAIL
+tools                   PASS(0f)  PASS(0f)  PASS
+what-we-sell            PASS(0f)  FAIL(1f)  FAIL
+who-owns-what           FAIL(2f)  PASS(0f)  FAIL
+per-grader pass: codex 8/12, grok 7/12
+unanimous agreement on unit verdict: 9/12
+OVERALL (required: codex and grok): 6/12 units pass

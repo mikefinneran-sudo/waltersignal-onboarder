@@ -1,0 +1,16 @@
+unit                       codex    gemini  overall
+clients                 PASS(0f)  PASS(0f)  PASS
+examples                FAIL(1f)       ERR  FAIL
+expectations            PASS(0f)  FAIL(1f)  FAIL
+first-day               PASS(0f)  FAIL(1f)  FAIL
+glossary                PASS(0f)  PASS(0f)  PASS
+identity-rules          PASS(0f)  PASS(0f)  PASS
+meetings                PASS(0f)  PASS(0f)  PASS
+question-log            PASS(0f)  PASS(0f)  PASS
+the-message             PASS(0f)  PASS(0f)  PASS
+tools                   PASS(0f)  PASS(0f)  PASS
+what-we-sell            PASS(0f)  PASS(0f)  PASS
+who-owns-what           PASS(0f)  PASS(0f)  PASS
+per-grader pass: codex 11/12, gemini 9/11
+unanimous agreement on unit verdict: 10/12
+OVERALL (required: codex and gemini): 9/12 units pass

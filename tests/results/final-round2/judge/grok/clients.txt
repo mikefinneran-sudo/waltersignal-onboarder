@@ -1,0 +1,9 @@
+F1: PASS | Both example clients have a unique name and a concrete size or industry descriptor.
+F2: NA | A Pilot dollar figure is only a fit cutoff, not a price list.
+F3: NA | Client-side roles appear; the company organization chart is not the subject.
+F4: NA | The file does not define or maintain recurring meetings.
+F5: NA | The file does not define or maintain sales tools.
+F6: NA | Defining glossary terms is not this file's purpose.
+F7: NA | Recording changes is not this file's purpose.
+F8: PASS | It opens with one purpose sentence, headings and tables are scannable, and no sentence restates another or praises the company.
+F9: PASS | Every substantive bullet and table row tells the rep what to say, ask, or do.

@@ -1,0 +1,7 @@
+P1: PASS | Labeled Value Statement names target businesses, operational need, consultancy category, proof-first benefit, and subscription-vendor/freelancer differentiation.
+P2: PASS | The 66-word pitch takes about 26 seconds at 150 words per minute and centers on proving one fix before further purchase.
+P3: PASS | It concretely describes Brennan Mechanical reducing quote turnaround from two days to four hours after the Pilot.
+P4: PASS | The Brennan Mechanical result is attributable to the matching proof point in reference/clients.md.
+P5: PASS | Two-day quotes became four-hour quotes; the stated gap consequence was estimators spending their week rebuilding quotes.
+P6: PASS | It contrasts owners’ assumed need for software with workflow visibility costs, then connects that insight to mapping and proving one fix.
+P7: PASS | The pitch ends by asking the buyer’s current quote time and required future speed.

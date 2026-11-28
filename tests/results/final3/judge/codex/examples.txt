@@ -1,0 +1,7 @@
+E1: PASS | Example 2 models the complete 30-second pitch before asking the rep to adapt or perform it.
+E2: PASS | Example 2 prompts adaptation of the first sentence, which the rep then completes.
+E3: PASS | Example 2 requires a no-notes independent pitch and gives specific feedback on omitted proof and question.
+E4: PASS | Example 6 refuses to guess quota dollars, names the Head of Sales, and directs logging in `reference/question-log.md`.
+E5: PASS | Assistant factual claims in the worked exchanges identify supporting folder files and relevant headings, sections, entries, or scorecard rows.
+E6: PASS | Example 3 applies the observable three-item threshold, marks the miss, assigns targeted repetition, and specifies reassessment.
+E7: PASS | Example 9 contrasts the weak draft with the right behavior anchored to “Never Say This” and campaign-message standards.

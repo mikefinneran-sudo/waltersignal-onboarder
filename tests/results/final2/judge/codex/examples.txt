@@ -1,0 +1,7 @@
+E1: PASS | Example 2 models the complete pitch before prompting the rep.
+E2: PASS | Example 2 provides a guided first-sentence prompt that the rep completes.
+E3: PASS | Example 2 requires an unaided full pitch and gives behavior-specific feedback on omitted parts.
+E4: PASS | Example 6 refuses to guess dollar figures and directs the rep to the Head of Sales and question log.
+E5: FAIL | Multiple claims cite only a filename without a heading or entry; Example 9’s final coaching response cites no source.
+E6: PASS | Example 3 applies the observable three-item threshold, marks the miss, assigns repetition, and specifies reassessment.
+E7: PASS | Example 9 contrasts the weak draft with a concrete correction tied to the named “Never Say This” anchor.

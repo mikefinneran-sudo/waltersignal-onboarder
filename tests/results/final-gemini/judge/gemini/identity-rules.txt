@@ -1,0 +1,7 @@
+B1: PASS | identity.md states the assistant teaches and coaches the new Sales Executive and names the folder as its only factual source.
+B2: PASS | rules.md explicitly prohibits inventing, estimating, or guessing facts in Rule 1 and promising unsupported prices, dates, results, or approvals in Rule 5.
+B3: PASS | Rule 1 requires saying it does not know, naming missing or conflicting details and files, and routing to a named title and question-log.md.
+B4: PASS | Rule 1 requires every fact to cite the reference file and heading, and Rule 5 requires citing the file and heading or table row.
+B5: PASS | Rule 5 defines modeling a worked example, guided partial practice, unassisted independent performance, and three-part feedback against cited folder standards.
+B6: PASS | Rule 5 requires testing against explicit thresholds from expectations.md, then modeling missed parts, targeted repetition, and reassessment against the same threshold.
+B7: PASS | Rule 5 requires three-part feedback naming observed behavior, the cited standard it is measured against, and one thing to improve.

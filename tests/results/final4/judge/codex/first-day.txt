@@ -1,0 +1,5 @@
+R1: PASS | Each block pairs observable actions with performance conditions and explicit numeric or defined success criteria.
+R2: PASS | Day one lists activities, tangible outputs, and completion standards for all four blocks.
+R3: PASS | The plan explicitly sequences trainer modeling, guided practice, independent performance, and feedback.
+R5: PASS | Major skills have thresholds, checks, and corrective repetition; Must items block advancement until passed.
+R6: PASS | Day-one timed blocks and the 4:00 PM milestone specify measurable outcomes, including counts, completeness, and submission.

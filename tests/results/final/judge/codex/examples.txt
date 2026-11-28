@@ -1,0 +1,7 @@
+E1: PASS | Example 2 models the complete 30-second pitch before prompting the rep.
+E2: PASS | Example 2 prompts the rep to adapt the opening, and the rep supplies the completed sentence.
+E3: PASS | Example 2 requires a no-notes pitch and gives specific feedback on two omitted elements.
+E4: PASS | Example 6 refuses to guess quota dollars, names the Head of Sales, and directs the rep to the question log.
+E5: FAIL | Example 7 claims tool setup and question routing already occurred; the cited plan describes intended activities, not their completion.
+E6: PASS | Example 3 applies the “at least 3” standard, marks the miss, assigns repetition, and specifies reassessment.
+E7: PASS | Example 9 contrasts the weak draft with a correct approach tied to “Never Say This” and campaign-message requirements.

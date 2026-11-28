@@ -1,0 +1,9 @@
+F1: NA | The file does not primarily define or maintain clients.
+F2: PASS | Every price names its offer and includes currency plus a one-time, monthly, per-module, per-workflow, or hourly billing unit.
+F3: NA | The file does not primarily define or maintain an organization chart.
+F4: NA | The file does not primarily define or maintain recurring meetings.
+F5: NA | The file does not primarily define or maintain sales tools.
+F6: NA | The file does not primarily define or maintain glossary terms.
+F7: NA | The file does not primarily define or maintain a change log.
+F8: PASS | It opens with its purpose, uses searchable headings and tables, and contains no redundant claims or company praise.
+F9: PASS | Every substantive section and row tells the rep what to say, do, offer, route, or avoid.

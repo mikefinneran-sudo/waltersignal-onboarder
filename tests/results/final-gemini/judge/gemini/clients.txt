@@ -1,0 +1,9 @@
+F1: PASS | Both client entries have unique names (Brennan Mechanical, Harbor Dental Group) and concrete distinguishing size, industry, decider, and champion descriptors.
+F2: NA | Prices are not a primary subject; the $20,000 Pilot is mentioned only incidentally as a not-a-fit threshold.
+F3: NA | The file describes client-side buyer roles, not WalterSignal's organization chart or internal reporting relationships.
+F4: NA | The file does not define or maintain recurring meetings; calls are mentioned only in passing.
+F5: NA | The file does not define or maintain sales tools.
+F6: NA | The file does not primarily define or maintain glossary terms.
+F7: NA | The file does not primarily define or maintain a change log.
+F8: PASS | Opens with a one-sentence purpose statement, uses clear scannable headings and tables for fast lookup, and contains no redundant sentences or company praise.
+F9: PASS | Every bullet and table row includes a rep action, question, or phrasing rather than stating a descriptive fact alone.

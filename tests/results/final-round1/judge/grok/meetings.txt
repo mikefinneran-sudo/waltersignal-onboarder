@@ -1,0 +1,9 @@
+F1: NA | The file defines day-one meetings and contains no client entries.
+F2: NA | The file defines meetings and contains no prices.
+F3: NA | Titles appear only as meeting owners, not as a reporting chart.
+F4: PASS | Daily Check-In lists purpose, participants, every-workday cadence, and Head of Sales as owner.
+F5: NA | Opening tools is a meeting task, not a sales-tool catalog.
+F6: NA | The file does not define glossary terms.
+F7: NA | The file does not record changes or a change log.
+F8: PASS | It opens with its purpose, the table is scannable, and no sentence restates or praises.
+F9: PASS | Every meeting row and check-in step states an action or words the rep says.

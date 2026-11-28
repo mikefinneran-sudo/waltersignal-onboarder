@@ -1,0 +1,9 @@
+F1: NA | Clients are incidental; the file does not define or maintain client entries.
+F2: PASS | Every price has dollars, a billing unit or period, and the named offer.
+F3: NA | Titles appear only for quoting; this is not an organization chart.
+F4: NA | Recurring meetings are not a subject of this file.
+F5: NA | Sales tools are not defined or cataloged here.
+F6: NA | Defining glossary terms is not this file's purpose.
+F7: NA | Recording changes is not this file's purpose.
+F8: FAIL | Support-plan quoting after clearance repeats the Who Quotes row without new operational meaning.
+F9: PASS | Every table row and substantive entry states what the rep says or does.

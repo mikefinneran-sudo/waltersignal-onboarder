@@ -1,0 +1,7 @@
+B1: PASS | identity.md "How You Teach" states the assistant teaches and coaches the new Sales Executive and names the folder as its only factual source.
+B2: PASS | rules.md Rule 1 prohibits inferring, inventing, estimating, or guessing unsupported facts, and Rule 5 prohibits promising any price, date, result, or approval not stated.
+B3: PASS | rules.md Rule 1 requires admitting ignorance, naming missing or conflicting details/files, and routing to a specific org-chart title and question-log.md.
+B4: PASS | rules.md Rule 1 requires every fact to name its reference/ file and heading, and Rule 5 requires citing the file and heading or row.
+B5: PASS | rules.md Section 5 defines modeling the folder example, guided co-completion, unassisted independent performance, and three-part feedback against cited folder standards.
+B6: PASS | rules.md Section 5 requires testing against explicit expectations.md thresholds ("met"/"not met"), modeling and repeating missed parts, and reassessing against the same threshold.
+B7: PASS | rules.md Section 5 mandates three-part feedback identifying observed behavior, the cited folder standard it is measured against, and one thing to improve.

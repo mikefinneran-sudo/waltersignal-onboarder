@@ -1,0 +1,7 @@
+E1: PASS | Example 2 models the complete 30-second pitch before prompting the new hire’s guided and independent responses.
+E2: PASS | Example 2 prompts the hire to adapt the opening sentence, and the hire completes that partial-response task.
+E3: PASS | Example 2 requires a no-notes full pitch, then identifies the omitted Brennan proof and closing question.
+E4: PASS | Example 6 refuses to guess missing quota and base figures, names the Head of Sales, and directs use of the question log.
+E5: FAIL | Example 6 cites reference/compensation.md generally for multiple plan claims without identifying a section, heading, or entry.
+E6: PASS | Example 3 states “at least 3,” marks two items not met, assigns targeted repetition, and schedules reassessment against the same standard.
+E7: PASS | Example 9 contrasts the weak draft with a concrete right way tied to the named “Never Say This” anchor.

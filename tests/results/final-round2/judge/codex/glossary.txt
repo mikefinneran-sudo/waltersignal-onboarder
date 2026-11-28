@@ -1,0 +1,9 @@
+F1: NA | Clients are not the file’s primary subject.
+F2: NA | Prices are mentioned incidentally; the file does not primarily maintain prices.
+F3: NA | The organization chart is not the file’s primary subject.
+F4: NA | Recurring meetings are not the file’s primary subject.
+F5: NA | Sales tools are mentioned incidentally; the file primarily defines glossary terms.
+F6: PASS | Every term has a clear plain-language definition that does not use the term itself.
+F7: NA | The file does not maintain a change log.
+F8: PASS | It opens with its purpose, uses a scannable table, and contains no repetition or company praise.
+F9: PASS | Every glossary row includes a specific action in the “What You Do” column.

@@ -1,0 +1,5 @@
+R1: PASS | Every block objective specifies observable behavior, conditions such as no notes or guided work, and explicit quantitative or completeness criteria.
+R2: PASS | Day one lists activities, required outputs, and completion standards for all four blocks.
+R3: PASS | The plan explicitly sequences modeling, guided practice, independent performance, and feedback across mentors, pitch practice, and campaign work.
+R5: PASS | Major skills have stated thresholds, Head of Sales or mentor checks, and repeat-and-recheck correction before advancement.
+R6: PASS | Day one, timed blocks, and the 4:00 PM check-in establish milestones with specific measurable outcomes.

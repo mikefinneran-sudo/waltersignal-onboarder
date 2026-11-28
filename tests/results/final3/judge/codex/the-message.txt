@@ -1,0 +1,7 @@
+P1: PASS | Labeled Value Statement names target, need, consultancy category, proof-first benefit, and subscription-vendor/freelancer differentiation.
+P2: PASS | The 58-word pitch takes about 23 seconds at 150 words per minute and centers on proving one fix before further purchase.
+P3: PASS | Brennan Mechanical provides a concrete buyer scenario with quote turnaround improving from two days to four hours.
+P4: PASS | The attributable Brennan Mechanical result is corroborated in reference/clients.md and reference/campaign.md.
+P5: PASS | Brennan’s quotes moved from two days to four hours; the stated consequence was estimators spending their week rebuilding quotes.
+P6: PASS | It contrasts owners’ assumed need for software with unseen process costs, then connects that insight to mapping work and proving one fix.
+P7: PASS | The pitch ends by asking the buyer’s current quote time and required future speed.

@@ -1,0 +1,7 @@
+T1: PASS | Three ordered tiers have distinct names: Tier 1 Must, Tier 2 Should, and Tier 3 Could.
+T2: PASS | Every tier scorecard lists observable acts: explanations, pitches, tool openings, titles named, and campaign submission.
+T3: PASS | Every scored row states performance conditions and an explicit criterion, such as 8 of 8, 5 of 5, or at least 3.
+T4: PASS | Every tier sets numeric sales targets due at the day-one 4:00 PM check-in, relevant to the Sales Executive.
+T5: PASS | Adjacent tiers are separated by observable show-then-repeat, one-line prompt, or unprompted performance, with quoted good and weak anchors.
+T6: PASS | The day advances only when every Must target is met; a miss gets an example, a repeat, and a recheck.
+T7: PASS | Higher tiers require more independence: prompted answers exceed show-and-repeat, and unprompted work exceeds prompted answers.

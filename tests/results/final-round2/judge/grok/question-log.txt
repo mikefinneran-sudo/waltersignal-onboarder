@@ -1,0 +1,9 @@
+F1: NA | The file records unanswered questions and does not maintain client entries.
+F2: NA | The file records unanswered questions and does not maintain prices.
+F3: NA | Titles appear only to route logged questions, not as an organization chart.
+F4: NA | The check-in appears only as when to bring logged questions.
+F5: NA | Cairn is named only as where an owner stores an answer.
+F6: NA | The file gives logging steps and does not define glossary terms.
+F7: NA | Its purpose is recording unanswered questions, not dated changes.
+F8: PASS | A purpose sentence opens it; headings and the log table locate items; nothing restates or praises.
+F9: PASS | Every step and the table row tells the rep to add, bring, ask, read, or mark the log.

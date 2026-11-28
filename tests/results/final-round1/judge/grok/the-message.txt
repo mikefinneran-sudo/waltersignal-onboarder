@@ -1,0 +1,7 @@
+P1: PASS | Labeled Value Statement names the 10-to-250-person customer, spreadsheet need, consultancy category, prove-first benefit, and ownership versus vendors or freelancers.
+P2: PASS | Spoken pitch is 73 words, under 30 seconds at 150 wpm, and states one benefit: see one fix work before buying the rest.
+P3: PASS | Names Brennan Mechanical, two-day quotes, estimators rebuilding quotes all week, and four-hour quotes after the Pilot.
+P4: PASS | Brennan’s two-day to four-hour Pilot result is specific and named, and campaign.md plus clients.md record that same 38-person firm.
+P5: FAIL | The listener’s current state, future state, and gap cost are only asked; Brennan’s two days versus four hours is proof.
+P6: PASS | Contrasts the belief that owners need new software with double-typed work and late decisions, then connects that to mapping and proving one fix.
+P7: PASS | Ends by asking quote duration, the cost of a slow quote, and the required speed, which advances discovery.

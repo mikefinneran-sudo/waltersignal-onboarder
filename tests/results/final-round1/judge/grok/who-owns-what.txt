@@ -1,0 +1,9 @@
+F1: NA | The file assigns questions to titles and does not define or maintain clients.
+F2: NA | The file names who owns price questions and does not define or maintain prices.
+F3: PASS | Every listed role shows a reporting line and a responsibility used when selling or routing.
+F4: NA | The check-in is mentioned in passing; recurring meetings are not the subject.
+F5: NA | Tools are named only as systems roles own, not as a tool catalog.
+F6: NA | Defining glossary terms is not this file's purpose.
+F7: NA | The file does not keep a change log or record changes.
+F8: PASS | A one-sentence purpose opens it, the title table is scannable, and nothing repeats a claim or praises the company.
+F9: PASS | Each title row and how-to step tells the rep what to do or what to say.

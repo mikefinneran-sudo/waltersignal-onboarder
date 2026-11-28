@@ -1,0 +1,7 @@
+T1: PASS | Defines three ordered, distinctly named tiers: Tier 1 Must, Tier 2 Should, and Tier 3 Could.
+T2: PASS | Every tier’s scorecard specifies observable actions in speech, submitted work, opened tools, CRM records, or accepted invitations.
+T3: PASS | Every scorecard line states performance conditions and a numeric or explicit completion threshold.
+T4: PASS | Each tier has measurable, sales-relevant targets due by the day-one 4:00 PM check-in.
+T5: PASS | Prompt dependence concretely distinguishes tiers, anchored by the observable Solutions Engineering routing example.
+T6: PASS | Passing requires every Must target; misses receive an example, focused repetition, and reassessment at the next daily check-in.
+T7: PASS | Tier 1 follows demonstration, Tier 2 uses one prompt, and Tier 3 requires unprompted independent performance.

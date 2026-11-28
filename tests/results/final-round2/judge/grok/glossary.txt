@@ -1,0 +1,9 @@
+F1: NA | Glossary defines terms, not client records; role mentions are incidental.
+F2: NA | Prices are not the subject; $7,500 appears only inside one definition.
+F3: NA | Job titles appear in definitions; this file does not maintain the org chart.
+F4: NA | Check-in is one defined term; recurring meetings are not the file’s subject.
+F5: NA | Tool names are glossary entries; the file does not maintain a tools list.
+F6: PASS | All fourteen entries give one plain definition and none uses the term to define itself.
+F7: NA | This glossary does not record changes or keep a change log.
+F8: PASS | One-sentence purpose, a scannable term table, and no restated sentence or company praise.
+F9: PASS | Every table row’s What You Do column states a concrete action or words to say.

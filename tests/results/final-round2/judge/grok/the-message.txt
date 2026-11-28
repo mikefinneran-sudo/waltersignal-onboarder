@@ -1,0 +1,7 @@
+P1: PASS | The labeled Value Statement names the customer, spreadsheet gap, consultancy category, prove-then-build benefit, and a vendor or freelancer alternative.
+P2: PASS | The spoken pitch is 73 words, under 30 seconds at 150 words per minute, and asserts one idea: see it work first.
+P3: PASS | The Brennan Mechanical scene shows two-day quotes, estimators rebuilding them all week, and four-hour quotes after the Pilot.
+P4: PASS | Brennan Mechanical’s two-day quotes becoming four hours after the Pilot is the proof stated in clients.md.
+P5: FAIL | It recounts Brennan’s two-day and four-hour states, then asks the buyer, without stating that buyer’s current state, future, or gap cost.
+P6: PASS | It contrasts owners’ belief they need new software with retyped work and late decisions, then links that to mapping and proving first.
+P7: FAIL | Closing sentence stacks three discovery questions: current quote time, slow-quote cost, and required speed.

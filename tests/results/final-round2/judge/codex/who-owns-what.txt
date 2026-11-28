@@ -1,0 +1,9 @@
+F1: NA | Clients are not a primary subject.
+F2: NA | Prices are not a primary subject.
+F3: PASS | Every listed role has a reporting relationship and a sales-relevant responsibility or routing duty.
+F4: NA | Recurring meetings are not a primary subject.
+F5: NA | Sales tools are not a primary subject.
+F6: NA | Defining glossary terms is not a primary purpose.
+F7: NA | Recording changes is not a primary purpose.
+F8: PASS | It opens with its purpose, uses clear headings and a scannable table, and contains no repetition or company praise.
+F9: FAIL | The org-chart entries present reporting facts only and state no concrete rep action or words to say.

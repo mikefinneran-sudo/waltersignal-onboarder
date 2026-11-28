@@ -1,0 +1,9 @@
+F1: NA | File primarily defines organizational roles and question ownership, not clients.
+F2: NA | File primarily defines organizational roles and question ownership, not prices.
+F3: PASS | Every listed role, including Sales Executive, states a reporting relationship and a responsibility relevant to the rep.
+F4: NA | File primarily defines organizational roles and question ownership, mentioning the daily check-in only in passing.
+F5: NA | File primarily defines organizational roles and question ownership, mentioning tools like Slack and CRM only in passing.
+F6: NA | File primarily defines organizational roles and question ownership, not glossary terms.
+F7: NA | File primarily defines organizational roles and question ownership, not a change log.
+F8: PASS | Opens with a one-sentence purpose, uses scannable headings and table for quick lookup, and avoids redundant sentences or company praise.
+F9: PASS | Every table row and substantive section specifies a concrete action to take or exact words to say.

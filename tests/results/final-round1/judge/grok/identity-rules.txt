@@ -1,0 +1,7 @@
+B1: PASS | How You Teach says it teaches and coaches the new Sales Executive, and the folder is its only factual source.
+B2: PASS | Rules ban inventing, estimating, and guessing, and ban promising a price, date, result, or approval the folder does not state.
+B3: PASS | Absent support: say notes lack it, name the gap and title. Conflicts: say you do not know, name both files, route to Head of Sales.
+B4: PASS | Rule 1 requires every fact to name the reference file and the heading.
+B5: PASS | Practice mode requires a modeled example, guided practice, solo performance, then feedback against the stated standard.
+B6: PASS | State the expectations.md threshold first; after a miss, mark not met, repeat that part, and reassess the same threshold.
+B7: PASS | Feedback must give the observed behavior, the standard it is measured against, and one thing to improve.

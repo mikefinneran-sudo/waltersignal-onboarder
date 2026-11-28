@@ -1,0 +1,5 @@
+R1: PASS | Every block pairs observable actions with performance conditions and explicit numeric or completion criteria.
+R2: PASS | Day one’s four blocks specify activities, concrete outputs, and completion standards, culminating in eight required Must checks.
+R3: PASS | The plan explicitly sequences trainer modeling, guided practice, independent performance, and Head of Sales feedback.
+R5: PASS | Major skills have stated thresholds, designated checks, and retry-and-recheck paths; failed Must checks halt advancement.
+R6: PASS | Day-numbered timed blocks and the 4:00 PM check-in establish milestones with specific, measurable outcomes.

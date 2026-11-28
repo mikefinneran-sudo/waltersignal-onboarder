@@ -1,0 +1,5 @@
+R1: FAIL | Block goals omit performance conditions and success criteria, and several Done When items omit aids/notes conditions or observable behavior verbs.
+R2: PASS | Day one lists concrete block activities, expected outputs (tools, questions, fit description, campaign draft, recitations), and an eight-check passing standard.
+R3: PASS | The plan visibly progresses from trainer/mentor demonstration in Blocks 1–4 to guided practice to independent, unassisted performance at the check-in.
+R5: FAIL | Question routing lacks any threshold, check, or corrective path, and Block 2's landscape categories/gaps are excluded from the Must advancement gate.
+R6: PASS | Day-numbered, time-boxed Day 1 block and 4:00 PM check-in milestones specify measurable outcomes like 8 tools, 5 questions, and 3 pitch parts.

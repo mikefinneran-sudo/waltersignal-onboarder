@@ -1,0 +1,9 @@
+F1: NA | File maintains an unanswered-question log, not client entries.
+F2: NA | File maintains an unanswered-question log, not prices or offers.
+F3: NA | File maintains a question log, not an organization chart; roles appear only in passing.
+F4: NA | File maintains a question log, not recurring meetings; check-ins are mentioned only in passing.
+F5: NA | File maintains a question log, not sales tools; Cairn is mentioned only in passing.
+F6: NA | File maintains a question log, not glossary definitions.
+F7: NA | File records unanswered onboarding questions rather than maintaining a change log of revisions.
+F8: PASS | Opens with a one-sentence purpose, uses clear headings and table, has no restatement or company praise.
+F9: PASS | All four workflow steps and the log table row state concrete actions for the rep.

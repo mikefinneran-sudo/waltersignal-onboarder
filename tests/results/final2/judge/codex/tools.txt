@@ -1,0 +1,9 @@
+F1: NA | The file does not primarily define or maintain clients.
+F2: NA | The file does not primarily define or maintain prices.
+F3: NA | The file does not primarily define or maintain an organization chart.
+F4: NA | The file does not primarily define or maintain recurring meetings.
+F5: PASS | All eight tool entries name the tool and state a specific onboarding or sales-work use.
+F6: NA | The file does not primarily define or maintain glossary terms.
+F7: NA | The file does not primarily define or maintain a change log.
+F8: PASS | It opens with its purpose, uses a scannable table and heading, and contains no redundant sentence or company praise.
+F9: PASS | Every tool row tells the rep what to do, and the final rule gives concrete actions when access fails.

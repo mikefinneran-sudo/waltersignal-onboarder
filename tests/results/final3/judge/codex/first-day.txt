@@ -1,0 +1,5 @@
+R1: PASS | All four block objectives specify observable actions, performance conditions, and explicit measurable criteria in their corresponding “Done Looks Like” entries.
+R2: PASS | Day one lists activities, expected outputs for all four blocks, and eight Must checks defining completion.
+R3: PASS | The plan explicitly sequences mentor modeling, guided practice, independent performance, and Head of Sales feedback.
+R5: PASS | Major skills have numeric or complete-component thresholds, scheduled checks, and repeat/recheck paths that prevent advancement after Must failures.
+R6: PASS | Time-numbered blocks and the 4:00 PM check-in establish milestones with specific, measurable outcomes.

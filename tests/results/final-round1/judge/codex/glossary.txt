@@ -1,0 +1,9 @@
+F1: NA | The file does not primarily define or maintain clients.
+F2: NA | The file does not primarily define or maintain prices.
+F3: NA | The file does not primarily define or maintain the organization chart.
+F4: NA | The file does not primarily define or maintain recurring meetings.
+F5: NA | The file does not primarily define or maintain sales tools.
+F6: PASS | Every glossary entry provides a clear, plain-language, non-circular definition.
+F7: NA | The file does not primarily define or maintain a change log.
+F8: PASS | It opens with its purpose, uses a scannable table, and contains no redundant statements or company praise.
+F9: PASS | Every glossary row includes a specific action for the rep in the “What You Do” column.

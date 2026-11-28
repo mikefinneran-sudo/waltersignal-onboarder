@@ -1,0 +1,5 @@
+R1: PASS | Each block pairs observable actions with stated conditions and explicit “Done Looks Like” criteria.
+R2: PASS | Day one lists activities, concrete outputs, and eight Must checks as the passing standard.
+R3: PASS | The plan explicitly moves from mentor modeling through guided practice to independent performance and feedback.
+R5: FAIL | Block 2’s major landscape skill is nonblocking; a miss requires repetition but not demonstrated mastery before advancement.
+R6: PASS | Day-one blocks and fixed check-ins are time-numbered milestones with specific, measurable outcomes.

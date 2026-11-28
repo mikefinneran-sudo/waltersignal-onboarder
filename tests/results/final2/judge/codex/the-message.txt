@@ -1,0 +1,7 @@
+P1: PASS | Labeled Value Statement names target, need, consultancy category, benefit, and differentiated alternatives.
+P2: PASS | The 58-word pitch fits 30 seconds at 150 words per minute and carries one primary idea.
+P3: PASS | Brennan Mechanical provides a concrete quoting scenario with observable before-and-after results.
+P4: PASS | The Brennan Mechanical proof is attributable and corroborated in reference/clients.md and reference/campaign.md.
+P5: PASS | Quotes improve from two days to four hours; estimators previously spent their week rebuilding them.
+P6: PASS | It contrasts assuming new software is needed with duplicated work as the real cost, then connects mapping and validation.
+P7: PASS | The pitch ends by asking the buyer’s current and required quote times, advancing discovery.

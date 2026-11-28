@@ -1,0 +1,9 @@
+F1: NA | Clients are not a primary subject.
+F2: PASS | Every stated price names its offer, uses dollars, and specifies a one-time, per-module, monthly, or hourly billing unit.
+F3: NA | The organization chart is not a primary subject.
+F4: NA | Recurring meetings are not a primary subject.
+F5: NA | Sales tools are not a primary subject.
+F6: NA | Defining glossary terms is not a primary purpose.
+F7: NA | Recording changes is not a primary purpose.
+F8: PASS | The opening states its purpose; clear headings and tables support quick lookup, with no redundant praise or nonoperational repetition.
+F9: PASS | Every substantive section and row tells the rep what to say, do, offer, ask, route, or avoid.

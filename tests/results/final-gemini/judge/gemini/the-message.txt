@@ -1,0 +1,7 @@
+P1: PASS | The Value Statement names target customer, need, category, primary benefit, alternatives, and client-ownership differentiation.
+P2: PASS | The 30-second pitch is 66 words (~26 seconds at 150 WPM) and conveys one primary idea: proving one fix before buying the rest.
+P3: PASS | Uses a concrete scenario and named deliverable: Brennan Mechanical estimators rebuilding two-day quotes reduced to four hours after a Pilot.
+P4: PASS | Cites Brennan Mechanical, a 38-person contractor cutting quotes from two days to four hours after a Pilot, verifiable in reference/clients.md.
+P5: PASS | Contrasts two-day quotes with four-hour post-Pilot quotes and states the cost: estimators spending their week rebuilding quotes.
+P6: PASS | Contrasts the assumption of needing new software against re-keying and late decisions, connecting that insight to mapping work and proving one fix.
+P7: PASS | The 30-second pitch ends with one explicit discovery question asking current quote turnaround time and target speed.

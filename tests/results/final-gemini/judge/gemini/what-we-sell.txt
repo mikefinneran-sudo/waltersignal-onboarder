@@ -1,0 +1,9 @@
+F1: NA | File defines offers and prices, not client profiles or client entries.
+F2: PASS | Every price pairs currency ($), billing unit or period (one-time, per module, monthly, hourly), and its named offer.
+F3: NA | File mentions roles only for pricing authority and does not define the organization chart.
+F4: NA | File defines offers and prices, not recurring meetings.
+F5: NA | File defines offers and prices, not sales tools.
+F6: NA | File defines offers and prices, not glossary terms.
+F7: NA | File defines offers and prices, not a change log.
+F8: PASS | Opens with a one-sentence purpose, uses scannable headings and tables, and contains no redundant sentences or company praise.
+F9: PASS | Every table row and section states a concrete rep action, spoken line, or usage trigger, including saying every-client items on every call.

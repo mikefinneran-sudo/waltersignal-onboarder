@@ -1,0 +1,7 @@
+T1: PASS | Defines three ordered proficiency tiers rising in independence with distinct names: Tier 1 (Must), Tier 2 (Should), and Tier 3 (Could).
+T2: PASS | Every tier has a scorecard table of directly observable behaviors (explaining, naming, submitting, opening tools, accepting invites) rather than traits or vague labels.
+T3: PASS | Every scorecard row across all three tiers specifies performance conditions in the Condition column and a numeric passing criterion in the Target column.
+T4: PASS | All three tiers state sales-relevant measurable targets (counts or percentages) tied to an explicit timeframe: day one's 4:00 PM Eastern check-in.
+T5: PASS | "What Separates the Tiers" and per-tier good/weak anchors use directly observable quoted and paraphrased behaviors distinguishing Tier 1, Tier 2, and Tier 3.
+T6: PASS | Passing day one requires meeting every Must target; missed Must lines receive modeled examples, targeted repetition, and reassessment at the next check-in before advancing.
+T7: PASS | Independence rises across tiers from repeating after being shown (Tier 1), to answering a one-line prompt (Tier 2), to unprompted solo performance (Tier 3).

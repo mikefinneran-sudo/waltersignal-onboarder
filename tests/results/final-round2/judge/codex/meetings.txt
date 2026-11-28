@@ -1,0 +1,9 @@
+F1: NA | The file does not primarily define or maintain clients.
+F2: NA | The file does not primarily define or maintain prices.
+F3: NA | The file does not primarily define or maintain the organization chart.
+F4: PASS | Every meeting lists its purpose, participants, timing or cadence, and owner.
+F5: NA | The file does not primarily define or maintain sales tools.
+F6: NA | The file does not primarily define or maintain glossary terms.
+F7: NA | The file does not primarily define or maintain a change log.
+F8: PASS | It opens with its purpose, uses clear headings and a labeled table, and contains no redundant sentence or company praise.
+F9: PASS | Every meeting row and check-in step tells the rep what to do or say.

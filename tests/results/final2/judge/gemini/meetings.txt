@@ -1,0 +1,9 @@
+F1: NA | File defines day-one meetings, not clients.
+F2: NA | File defines day-one meetings, not prices.
+F3: NA | File defines day-one meetings, not the organization chart.
+F4: PASS | The recurring Daily Check-In lists purpose, participants, cadence ("Every workday, 4:00 to 4:30 PM"), and owner (Head of Sales).
+F5: NA | File defines day-one meetings, not sales tools.
+F6: NA | File defines day-one meetings, not glossary terms.
+F7: NA | File defines day-one meetings, not a change log.
+F8: PASS | Opens with a one-sentence purpose, uses a scannable table and heading, and contains no redundant restatements or company praise.
+F9: PASS | Every table row includes a concrete "What You Do" action, and each Daily Check-In step directs specific rep actions.

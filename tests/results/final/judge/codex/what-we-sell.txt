@@ -1,0 +1,9 @@
+F1: NA | Clients are mentioned, but defining or maintaining client entries is not the file’s primary purpose.
+F2: PASS | Every listed price identifies the offer, uses dollars, and states a one-time, monthly, per-module, or hourly billing unit.
+F3: NA | The file assigns pricing authority but does not primarily define or maintain an organization chart.
+F4: NA | The file does not primarily define or maintain recurring meetings.
+F5: NA | The file does not primarily define or maintain sales tools.
+F6: NA | The file explains offers and pricing; defining glossary terms is not its primary purpose.
+F7: NA | The file does not primarily maintain a change log.
+F8: PASS | It opens with its purpose, uses clear headings and tables, and contains no redundant restatements or company praise.
+F9: PASS | Every substantive section and table row tells the rep what to say, do, offer, route, or avoid.

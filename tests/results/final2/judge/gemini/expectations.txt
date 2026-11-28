@@ -1,0 +1,7 @@
+T1: PASS | Defines three ordered tiers rising in independence with distinct names: Tier 1 (Must), Tier 2 (Should), and Tier 3 (Could).
+T2: PASS | Every tier has a scorecard of observable behaviors (explaining, naming, submitting drafts, opening tools, accepting invites) with no personality traits or vague labels.
+T3: PASS | Every scored behavior across all three tiers specifies both performance conditions and a numeric passing target.
+T4: PASS | Every tier states numeric, sales-relevant targets (pitch, campaign, ICP, landscape, routing, disqualification) tied to the day-one 4:00 PM Eastern check-in.
+T5: FAIL | Good/weak anchors only contrast pass versus fail within each tier on unrelated tasks, never distinguishing adjacent tiers (Tier 1–2 or 2–3) behaviorally.
+T6: PASS | Passing day one requires meeting every Must target; misses trigger an example, corrective repetition of the missed line, and reassessment before advancing.
+T7: PASS | Independence rises across tiers from repeating after demonstration (Tier 1) to answering a one-line prompt (Tier 2) to unprompted solo performance (Tier 3).

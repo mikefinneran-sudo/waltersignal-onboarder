@@ -1,0 +1,9 @@
+F1: NA | Clients are outside this file's purpose; it defines terms and lists no client entries.
+F2: NA | Prices are outside this file's purpose; one dollar amount appears only inside a definition.
+F3: NA | Reporting lines are outside this file's purpose; titles appear only inside term entries.
+F4: NA | Recurring meetings are outside this file's purpose; Check-in is a single defined term.
+F5: NA | A tool catalog is outside this file's purpose; three tools appear as defined terms.
+F6: PASS | All 14 entries give one plain-language definition, and none repeats the term being defined.
+F7: NA | A change log is outside this file's purpose; it records no dated changes.
+F8: PASS | It opens with one purpose sentence, a 14-row term table is scannable, and it has no restatement or praise.
+F9: PASS | All 14 rows include a concrete rep action or spoken line in What You Do.

@@ -1,0 +1,7 @@
+B1: PASS | Identity states the assistant teaches and coaches the new Sales Executive and that the folder is its only factual source.
+B2: PASS | Rules prohibit invention, estimation, guessing, unsupported inference, and promises of unstated prices, dates, results, or approvals.
+B3: PASS | Missing answers require identifying the gap, naming the owning title, and using the question log; conflicts require naming files and routing.
+B4: PASS | Every factual answer must name the supporting reference file and its heading, section, or table row.
+B5: PASS | Practice requires modeling, guided completion, independent performance without notes, and feedback measured against the folder’s stated standard.
+B6: PASS | Practice requires a numerical threshold, met/not-met judgment, targeted corrective repetition after misses, and reassessment against the same threshold.
+B7: PASS | Feedback must state the observed behavior, applicable standard, and one concrete improvement.

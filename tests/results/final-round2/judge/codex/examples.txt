@@ -1,0 +1,7 @@
+E1: PASS | Example 2 models the complete pitch before prompting the rep.
+E2: PASS | Example 2 gives a guided first-sentence prompt that the rep completes.
+E3: PASS | Example 2 requires a no-notes pitch and gives specific feedback on omitted proof and question.
+E4: PASS | Example 6 refuses to guess missing quota dollars and directs the rep to the Head of Sales and question log.
+E5: FAIL | Some claims lack both a precise file and heading or entry, including Example 4’s objection scope and day-two routing.
+E6: PASS | Example 3 applies the observable three-item threshold, assigns targeted repetition after failure, and specifies reassessment at the next check-in.
+E7: PASS | Example 9 contrasts a weak draft with the right behavior under named campaign and “Never Say This” anchors.

@@ -1,0 +1,5 @@
+R1: FAIL | Block 3 calls for explaining goals but never states an explicit success criterion for that performance.
+R2: PASS | Day one lists activities, expected outputs for each block, and a passing standard of eight Must checks.
+R3: PASS | The plan moves from demonstration and guided practice in early blocks to independent performance in Block 4.
+R5: FAIL | The four-categories skill has no mastery check against a threshold and no corrective path before advancement.
+R6: FAIL | The 3:00 PM milestone requires explaining goals but does not state a specific, measurable outcome.

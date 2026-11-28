@@ -1,0 +1,7 @@
+P1: PASS | "The Value Statement" names target customer, need, category, primary benefit, and alternative/differentiation in one labeled positioning statement.
+P2: PASS | The 30-second pitch is 66 words (under 30 seconds at 150 wpm) and expresses one primary idea: proving one fix first.
+P3: PASS | Uses a concrete client example (Brennan Mechanical), observable scenario (two-day quotes rebuilt by estimators), and named deliverable (the Pilot).
+P4: PASS | Includes the specific, attributable Brennan Mechanical proof (38-person contractor, two-day quotes reduced to four hours), corroborated in clients.md.
+P5: PASS | Contrasts current state (two-day quotes) with measurable future state (four hours) and states the cost: estimators spending their week rebuilding quotes.
+P6: PASS | Contrasts buyers' assumption (needing new software) with duplicate entry and late decisions, linking this insight to mapping work and proving one fix.
+P7: PASS | The 30-second pitch ends with one explicit discovery question asking how long quotes take today and how fast they need to be.

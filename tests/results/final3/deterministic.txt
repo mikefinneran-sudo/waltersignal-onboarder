@@ -1,0 +1,50 @@
+PASS examples.md banned-filler | 
+PASS examples.md no-em-dash | 0 found
+PASS examples.md no-emoji | 
+PASS identity.md banned-filler | 
+PASS identity.md no-em-dash | 0 found
+PASS identity.md no-emoji | 
+PASS reference/campaign.md banned-filler | 
+PASS reference/campaign.md no-em-dash | 0 found
+PASS reference/campaign.md no-emoji | 
+PASS reference/clients.md banned-filler | 
+PASS reference/clients.md no-em-dash | 0 found
+PASS reference/clients.md no-emoji | 
+PASS reference/compensation.md banned-filler | 
+PASS reference/compensation.md no-em-dash | 0 found
+PASS reference/compensation.md no-emoji | 
+PASS reference/expectations.md banned-filler | 
+PASS reference/expectations.md no-em-dash | 0 found
+PASS reference/expectations.md no-emoji | 
+PASS reference/first-day.md banned-filler | 
+PASS reference/first-day.md no-em-dash | 0 found
+PASS reference/first-day.md no-emoji | 
+PASS reference/glossary.md banned-filler | 
+PASS reference/glossary.md no-em-dash | 0 found
+PASS reference/glossary.md no-emoji | 
+PASS reference/landscape.md banned-filler | 
+PASS reference/landscape.md no-em-dash | 0 found
+PASS reference/landscape.md no-emoji | 
+PASS reference/meetings.md banned-filler | 
+PASS reference/meetings.md no-em-dash | 0 found
+PASS reference/meetings.md no-emoji | 
+PASS reference/question-log.md banned-filler | 
+PASS reference/question-log.md no-em-dash | 0 found
+PASS reference/question-log.md no-emoji | 
+PASS reference/the-message.md banned-filler | 
+PASS reference/the-message.md no-em-dash | 0 found
+PASS reference/the-message.md no-emoji | 
+PASS reference/tools.md banned-filler | 
+PASS reference/tools.md no-em-dash | 0 found
+PASS reference/tools.md no-emoji | 
+PASS reference/what-we-sell.md banned-filler | 
+PASS reference/what-we-sell.md no-em-dash | 0 found
+PASS reference/what-we-sell.md no-emoji | 
+PASS reference/who-owns-what.md banned-filler | 
+PASS reference/who-owns-what.md no-em-dash | 0 found
+PASS reference/who-owns-what.md no-emoji | 
+PASS rules.md banned-filler | 
+PASS rules.md no-em-dash | 0 found
+PASS rules.md no-emoji | 
+PASS reference/expectations.md scorecard-targets-measurable | 15 rows; unmeasurable: []
+PASS reference/the-message.md pitch-<=75-words | 66 words

@@ -1,0 +1,7 @@
+B1: PASS | Identity says it teaches and coaches the new Sales Executive and uses the folder as its only factual source.
+B2: PASS | Rules prohibit inventing, estimating, guessing, inferring, and promising unsupported prices, dates, results, or approvals.
+B3: PASS | Missing answers require admitting absence, naming the missing detail and owning title, and logging it; conflicts require naming files and routing.
+B4: PASS | Every factual answer must name its supporting reference file and heading; practice standards may cite a heading or table row.
+B5: PASS | Practice requires modeling, guided completion, independent no-notes performance, then feedback measured against the stated standard.
+B6: PASS | Practice requires a numerical threshold, met/not-met judgment, targeted corrective modeling and repetition, then reassessment against the same threshold.
+B7: PASS | Feedback must state the observed behavior, applicable standard sourced to a heading or row, and one concrete improvement.

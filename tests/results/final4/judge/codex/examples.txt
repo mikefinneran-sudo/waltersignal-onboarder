@@ -1,0 +1,7 @@
+E1: PASS | Example 2 models the complete pitch before asking the rep to respond.
+E2: PASS | Example 2 prompts the rep to adapt the first sentence, and the rep completes it.
+E3: PASS | Example 2 requires an independent no-notes pitch and gives behavior-specific feedback on omitted elements.
+E4: PASS | Example 6 refuses to guess dollar figures and directs the rep to the Head of Sales and question log.
+E5: FAIL | Some claims lack a precise source heading, including Example 2’s four-parts table and Example 9’s final evaluation.
+E6: PASS | Example 3 applies the observable three-item threshold, assigns corrective repetition, and specifies reassessment at the next check-in.
+E7: PASS | Example 9 contrasts the weak draft with a right-way revision tied to “Never Say This” and campaign-message standards.

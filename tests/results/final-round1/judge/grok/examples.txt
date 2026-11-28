@@ -1,0 +1,7 @@
+E1: PASS | Example 2 shows the full 30-second pitch before the guided prompt asks the rep to respond.
+E2: PASS | Example 2 prompts the rep to adapt the pitch's first sentence, and the rep completes that rewrite.
+E3: PASS | Example 2 requires the pitch with no notes, then feedback names the missing Brennan proof and question.
+E4: PASS | Example 6 refuses to guess the dollar quota and base, names Head of Sales, and cites the question log.
+E5: FAIL | Example 4 time-limits no-discount until the check-in; Example 7 adds a Block 4 data-question the folder never states.
+E6: PASS | Example 3 marks two never-say items not met against at least 3, then assigns a repeat and a recheck.
+E7: PASS | Example 9 sets the hype draft against a proof-and-question rewrite tied to Never Say This and campaign Part 2.

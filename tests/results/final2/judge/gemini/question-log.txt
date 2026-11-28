@@ -1,0 +1,9 @@
+F1: NA | File is a question log for unanswered onboarding questions and does not primarily define or maintain clients.
+F2: NA | File is a question log and does not primarily define or maintain prices.
+F3: NA | File is a question log and does not primarily define or maintain the organization chart.
+F4: NA | File is a question log and does not primarily define or maintain recurring meetings.
+F5: NA | File is a question log and does not primarily define or maintain sales tools.
+F6: NA | File is a question log and does not primarily define or maintain glossary terms.
+F7: NA | File logs unanswered onboarding questions rather than primarily defining or maintaining a change log.
+F8: PASS | Opens with a one-sentence purpose, uses scannable headings and table, and contains no redundant sentences or company praise.
+F9: PASS | Every numbered step and the log template row gives a concrete action for the rep to take.

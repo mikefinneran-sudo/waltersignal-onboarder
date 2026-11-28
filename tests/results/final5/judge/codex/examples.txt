@@ -1,0 +1,7 @@
+E1: PASS | Example 2 models the complete pitch before asking the rep to adapt and perform it.
+E2: PASS | Example 2 prompts the rep to adapt the first sentence, and the rep completes that guided portion.
+E3: PASS | Example 2 requires a no-notes performance and gives specific feedback on the omitted proof and closing question.
+E4: PASS | Example 6 refuses to guess missing quota dollars, names the Head of Sales, and directs entry in the question log.
+E5: FAIL | Example 2 attributes the four first-two-minutes parts to “Core Philosophy,” not their actual named heading, so not every claim is traceable as cited.
+E6: PASS | Example 3 applies the three-item standard, marks the miss, assigns targeted repetition, and schedules reassessment at the next check-in.
+E7: PASS | Example 9 contrasts specific hype and result claims with a corrected approach tied to the named “Never Say This” anchor.

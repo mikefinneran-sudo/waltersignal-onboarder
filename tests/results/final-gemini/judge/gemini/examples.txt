@@ -1,0 +1,7 @@
+E1: PASS | Example 2 models the complete 30-second pitch verbatim before prompting the rep to respond in the guided step.
+E2: PASS | Example 2 prompts the rep to adapt the pitch's opening sentence for a restaurant group, and the rep completes it.
+E3: PASS | Example 2 requires an independent unassisted pitch and provides behavior-specific feedback noting the omitted Brennan proof and closing question.
+E4: PASS | Example 6 refuses to guess quota and base dollar figures, routes the rep to the Head of Sales, and cites question-log.md.
+E5: PASS | Every assistant factual claim across all nine exchanges matches and traces to an identified file and section or heading in the folder.
+E6: PASS | Example 3 evaluates against the 3-item Tier 1 standard, assigns corrective repetition after a miss, and specifies reassessment at the next check-in.
+E7: PASS | Example 9 contrasts a concrete weak draft against the right approach and passing revision, tied to campaign.md Part 2 and "Never Say This."

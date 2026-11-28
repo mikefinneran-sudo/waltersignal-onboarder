@@ -1,0 +1,9 @@
+F1: NA | The file assigns question ownership; clients are mentioned only in passing.
+F2: NA | Prices are not the subject; they appear only as sample questions.
+F3: PASS | Every listed role shows a reporting line and a sales-relevant responsibility.
+F4: NA | Recurring meetings are not the subject; the check-in is mentioned in passing.
+F5: NA | Tools are named inside role duties, not maintained as a tool list.
+F6: NA | Defining glossary terms is not this file's purpose.
+F7: NA | Recording changes is not this file's purpose.
+F8: PASS | The opening sentence states purpose, the role table is scannable, and nothing restates or praises.
+F9: PASS | Each ownership row states a concrete action or words the rep says.

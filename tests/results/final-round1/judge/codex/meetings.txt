@@ -1,0 +1,9 @@
+F1: NA | The file does not primarily define or maintain clients.
+F2: NA | The file does not primarily define or maintain prices.
+F3: NA | The file does not primarily define or maintain the organization chart.
+F4: PASS | The recurring Daily Check-In states its purpose, participants, weekday cadence, time, and Head of Sales owner.
+F5: NA | The file does not primarily define or maintain sales tools.
+F6: NA | The file does not primarily define or maintain glossary terms.
+F7: NA | The file does not primarily define or maintain a change log.
+F8: PASS | It opens with its purpose, uses a labeled table and heading for quick lookup, and contains no repetition or company praise.
+F9: PASS | Every meeting row directs a rep action, and every Daily Check-In step specifies what the rep does or says.

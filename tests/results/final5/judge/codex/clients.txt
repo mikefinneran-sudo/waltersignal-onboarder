@@ -1,0 +1,9 @@
+F1: PASS | Both example clients have unique names and concrete size, industry, decider, and champion descriptors.
+F2: NA | Prices are incidental; the file primarily defines client fit, roles, and examples.
+F3: NA | The file does not primarily define organizational roles or reporting relationships.
+F4: NA | The file does not primarily define recurring meetings.
+F5: NA | The file does not primarily define sales tools.
+F6: NA | The file does not primarily maintain glossary terms.
+F7: NA | The file does not primarily maintain a change log.
+F8: PASS | It opens with a clear purpose sentence, uses scannable headings and tables, and contains no redundant sentence or company praise.
+F9: PASS | Every substantive section and table row gives a rep action, question, or specific words to say.

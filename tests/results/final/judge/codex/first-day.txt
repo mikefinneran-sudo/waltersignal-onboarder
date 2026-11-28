@@ -1,0 +1,5 @@
+R1: PASS | Each block objective specifies observable performance, conditions in “What You Do,” and explicit criteria in “Done Looks Like.”
+R2: PASS | Day one lists activities, expected outputs for all four blocks, and eight measurable Must standards required for completion.
+R3: PASS | The plan explicitly sequences trainer modeling, guided practice, independent performance, and feedback, culminating in independent Block 4 checks.
+R5: FAIL | Question routing lacks a stated accuracy threshold, mastery check, and corrective path before advancement; therefore not every major skill meets mastery requirements.
+R6: PASS | Day-one timed blocks and the 4:00 PM check-in are milestones with specific, measurable outcomes.

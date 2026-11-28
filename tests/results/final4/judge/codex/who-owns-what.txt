@@ -1,0 +1,9 @@
+F1: NA | Clients are not a primary subject.
+F2: NA | Prices are not a primary subject.
+F3: PASS | Every listed role has a reporting relationship and responsibilities relevant to sales questions, approvals, operations, or support.
+F4: NA | Recurring meetings are not a primary subject.
+F5: NA | Sales tools are not a primary subject.
+F6: NA | Defining glossary terms is not a primary purpose.
+F7: NA | Recording changes is not a primary purpose.
+F8: PASS | It opens with its purpose, uses clear headings and a labeled table, and contains no redundant sentence or company praise.
+F9: PASS | Every substantive section and role row tells the rep what to do, say, route, log, or ask.

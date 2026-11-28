@@ -1,0 +1,9 @@
+F1: NA | The file catalogs offers and prices, not client entries.
+F2: PASS | Every price has a currency, a billing unit or period, and its named offer.
+F3: NA | Titles appear only for quoting; reporting lines are not the subject.
+F4: NA | No recurring meetings are defined; calls are only instructional asides.
+F5: NA | Sales tools are not defined or maintained here.
+F6: NA | Offer names are sales context; a glossary is not the purpose.
+F7: NA | The file does not keep a change log.
+F8: PASS | One purpose sentence, scannable headings and tables, no restated claim or company praise.
+F9: FAIL | The engagement-model and who-quotes lead-ins state only facts, with no rep action or words.

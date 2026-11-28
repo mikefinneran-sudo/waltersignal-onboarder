@@ -1,0 +1,9 @@
+F1: NA | Clients are not a primary subject.
+F2: NA | Prices are not a primary subject.
+F3: NA | The organization chart is not a primary subject.
+F4: PASS | The recurring Daily Check-In lists its purpose, participants, cadence, and Head of Sales owner.
+F5: NA | Sales tools are not a primary subject.
+F6: NA | Defining glossary terms is not a primary purpose.
+F7: NA | Recording changes is not a primary purpose.
+F8: PASS | It opens with its purpose, uses a labeled table and heading for quick lookup, and contains no repetition or company praise.
+F9: PASS | Every meeting row specifies what the rep does, and every Daily Check-In step directs a concrete action.

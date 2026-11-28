@@ -1,0 +1,7 @@
+T1: PASS | Defines three ordered proficiency tiers rising in independence with distinct names: Tier 1 (Must), Tier 2 (Should), and Tier 3 (Could).
+T2: PASS | Every tier has a scorecard of observable behaviors (explaining, naming, submitting drafts, opening tools, accepting invites), with no traits or vague labels.
+T3: PASS | Every scored behavior across all three tiers specifies its performance condition (e.g., no notes, one-line prompt, unprompted) and a numeric passing target.
+T4: PASS | Every tier sets measurable numeric targets due by the 4:00 PM Day 1 check-in, all directly relevant to Sales Executive onboarding.
+T5: PASS | Each tier scorecard pairs prompting-level distinctions with concrete quoted or paraphrased observable good/weak anchors distinguishing Must, Should, and Could performance.
+T6: PASS | Advancement requires passing all Must targets; missed Must lines receive an example, corrective repetition of that line, and reassessment before advancing.
+T7: PASS | Independence rises across tiers from repeating after demonstration (Tier 1), to answering a one-line prompt (Tier 2), to unprompted solo adaptation (Tier 3).

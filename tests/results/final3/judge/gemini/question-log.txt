@@ -1,0 +1,9 @@
+F1: NA | File is a question log, not a client directory or client reference.
+F2: NA | File is a question log and does not define or maintain prices.
+F3: NA | File is a question log and does not define or maintain an organization chart.
+F4: NA | File is a question log; it only mentions check-ins in passing rather than defining recurring meetings.
+F5: NA | File is a question log; it only mentions Cairn in passing rather than defining sales tools.
+F6: NA | File is a question log and does not define or maintain glossary terms.
+F7: NA | File primarily records unanswered questions for check-ins rather than serving as a change log.
+F8: PASS | Opens with a one-sentence purpose statement, uses clear headings and table for quick scanning, and contains no redundant sentences or company praise.
+F9: PASS | Every numbered step and the log table row directs a concrete action for the rep to take.

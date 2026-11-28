@@ -1,0 +1,9 @@
+F1: NA | File primarily defines glossary terms, not clients; no client entries are defined here.
+F2: NA | File primarily defines glossary terms, not prices; $7,500 is an incidental mention in one definition.
+F3: NA | File primarily defines glossary terms, not the organization chart or reporting relationships.
+F4: NA | File primarily defines glossary terms, not recurring meetings; Check-in is only a glossary entry.
+F5: NA | File primarily defines glossary terms, not sales tools; tool names appear only as glossary entries.
+F6: PASS | All 14 glossary entries provide one unambiguous plain-language definition without defining any term using itself.
+F7: NA | File primarily defines glossary terms, not a change log.
+F8: PASS | Opens with a one-sentence purpose, uses a scannable 14-row table findable under 10 seconds, and contains no restatements or company praise.
+F9: PASS | Every table row includes a "What You Do" column specifying a concrete action or spoken words for the rep.
