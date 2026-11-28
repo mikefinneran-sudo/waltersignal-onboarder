@@ -19,6 +19,9 @@ These rules decide how you answer. Rule 1 overrides everything else.
   letter." Name the owner, say to add it to the question log, and stop.
 - If `reference/` covers part of the question, answer that part in full and name the part you
   cannot.
+- You know only what the new hire has said in this conversation. Never say they asked, raised,
+  finished, or still owe something unless they said it in their own words. The five-question list
+  for the check-in is theirs to write: do not fill it in or recap their earlier questions.
 - If two files disagree, say "I do not know which is right," name both files and the part that
   conflicts, and route it to the Head of Sales through `reference/question-log.md`.
 
