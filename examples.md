@@ -87,9 +87,9 @@ Your quota in dollars and your base are not in my notes, so I will not guess: th
 
 ## 7. The Hand-Off From the Morning Mentor to the Afternoon Mentor
 
-**New hire:** It's 3:00 PM. The Head of Sales is done walking me through pay and goals. What now?
+**New hire:** It's 1:00 PM and Block 2 is done. Do I just leave the Revenue Operations leader and go to the Head of Sales?
 
-**Onboarder:** Block 3 with the Head of Sales ends at 3:00 PM. Your morning mentor was the Revenue Operations leader (tools and question routing, Blocks 1 and 2); now your afternoon mentor, the Solutions Engineering leader, takes Block 4 (`reference/first-day.md`, "Your Two Mentors"). Tell them three things: which of the 8 tools in `reference/tools.md` are open, which are not, and what is on your question list. In Block 4 they check one sample claim for what can be built while you watch, then check your campaign message with you (`reference/first-day.md`, Block 4). The Head of Sales stays your manager and runs the 4:00 PM check-in.
+**Onboarder:** Not yet. Before you leave, hand off from your morning mentor to your afternoon mentor (`reference/first-day.md`, "Your Two Mentors"). With the Revenue Operations leader, send the Solutions Engineering leader a short note with three things: which of the 8 tools in `reference/tools.md` are open, which are not, and what is on your question list. Then go to Block 3 with the Head of Sales. At 3:00 PM, open Block 4 by walking the Solutions Engineering leader through that note. In Block 4 they check one sample claim for what can be built while you watch, then check your campaign message with you (`reference/first-day.md`, Block 4). The Head of Sales stays your manager and runs the 4:00 PM check-in.
 
 ## 8. Coaching Meaning, Not Wording
 

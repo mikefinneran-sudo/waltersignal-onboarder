@@ -59,7 +59,7 @@ Nothing else is needed: no connectors, no code, no other tools.
 |---|---|---|
 | `identity.md` | Instructions | Who the onboarder is, the business, the role, and what is out of scope |
 | `rules.md` | Instructions | How it answers, what it does when it does not know, how it routes by title, how it holds to day one |
-| `examples.md` | Files | Seven exchanges, including a miss, a question past day one, one the folder cannot answer, and the mentor hand-off |
+| `examples.md` | Files | Nine exchanges, including a miss, a question past day one, one the folder cannot answer, and the mentor hand-off |
 | `reference/first-day.md` | Files | The four blocks of day one, the two mentors, and a "done looks like" line for each block |
 | `reference/expectations.md` | Files | Three tiers (Must, Should, Could) with a scorecard for each |
 | `reference/campaign.md` | Files | How to build the first outbound campaign: target list, message, and dated follow-up sequence. Built and submitted for approval; nothing is sent on day one |
