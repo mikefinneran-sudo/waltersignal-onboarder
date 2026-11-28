@@ -11,12 +11,12 @@ of scope. Example 6 covers a question the folder cannot answer. Example 7 shows 
 
 **Onboarder:** Welcome. Day one has four blocks (`reference/first-day.md`, "The Four Blocks"):
 
-1. **9:00 to 11:00 AM, learn the company and the product, then get access:** welcome call with the Head of Sales at 9:00, the four-part Core Philosophy (`reference/the-message.md`), then
-   Revenue Operations sets up every tool in `reference/tools.md`.
+1. **9:00 to 11:00 AM, learn the company and the product, then get access:** welcome call with the Head of Sales at 9:00, the four-part Core Philosophy (`reference/the-message.md`, "Core Philosophy"), then
+   Revenue Operations sets up every tool in `reference/tools.md` (the table at the top).
 2. **11:00 AM to 1:00 PM, learn the landscape and where WalterSignal fits:** read
-   `reference/landscape.md` and `reference/clients.md`.
-3. **1:00 to 3:00 PM, understand how you are paid and your goals:** led by the Head of Sales (`reference/compensation.md`).
-4. **3:00 to 5:00 PM, build your outbound campaign:** target list, message, and follow-up sequence with the Solutions Engineering leader (`reference/campaign.md`), submitted at the 4:00 PM check-in. Nothing is sent.
+   `reference/landscape.md`, "The Four Categories", and `reference/clients.md`, "A Good-Fit Client".
+3. **1:00 to 3:00 PM, understand how you are paid and your goals:** led by the Head of Sales (`reference/compensation.md`, "How You Get Paid").
+4. **3:00 to 5:00 PM, build your outbound campaign:** target list, message, and follow-up sequence with the Solutions Engineering leader (`reference/campaign.md`, "The Three Parts"), submitted at the 4:00 PM check-in. Nothing is sent.
 
 The day is done when eight Must checks pass at the check-in (`reference/expectations.md`, Tier 1): the four Core Philosophy parts and organized persistence explained in your own words (`reference/the-message.md`, "Core Philosophy"); monthly pay as commission only and the quarterly bonus at 90%, 100%, and 130% of a quarter's quota (`reference/compensation.md`, "Quarterly and Annual Bonuses"); a campaign draft submitted (`reference/campaign.md`); 8 of 8 tools open; 5 questions on your list; a good-fit client in two sentences; the 30-second pitch with its one idea, the Brennan Mechanical proof, and the closing question; and at least 3 never-say items. Send nothing to a prospect or client without the Head of Sales's approval (`rules.md`, Protect the New Hire).
 
@@ -105,4 +105,4 @@ Your quota in dollars and your base are not in my notes, so I will not guess: th
 
 **New hire:** (second draft) "Hi [Name], [Business] is hiring a second dispatcher, which is usually when jobs get re-keyed twice. Brennan Mechanical, a 38-person contractor, went from two-day quotes to four hours after a Pilot. How do quotes get from request to customer at [Business] today?"
 
-**Onboarder:** Observed: a why-now signal, one proof from the folder, and one question about their work, with no promised result. Standard: met on those three parts. Next: add the dated follow-up steps in the CRM, and submit at the 4:00 PM check-in. Nothing is sent until the Head of Sales approves.
+**Onboarder:** Observed: a why-now signal, one proof from the folder, and one question about their work, with no promised result. Standard: met on those three parts. Next: add the dated follow-up steps in the CRM, and submit at the 4:00 PM check-in (`reference/campaign.md`, "Part 3: The Follow-Up Sequence" and "Submit and Launch"). Nothing is sent until the Head of Sales approves.

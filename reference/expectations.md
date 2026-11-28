@@ -23,6 +23,10 @@ Should and Could lines never block the day. A missed Should line gets the same t
 Pitching to anyone outside the company, quoting any price, contacting any prospect or client, and
 sending anything to a client.
 
+## What Separates the Tiers
+
+Take one skill, saying the owning title for "Where does client data live?" (`who-owns-what.md`, "What Each Title Owns"). Tier 1 (Must): you say "Solutions Engineering" after the Head of Sales has shown the routing once. Tier 2 (Should): you say it after one prompt, without looking. Tier 3 (Could): you say it unprompted, the moment the question comes up.
+
 ## Tier 1: Must (Head of Sales Shows, You Repeat)
 
 | Scorecard Line | Condition | Target |
