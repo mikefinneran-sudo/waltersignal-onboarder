@@ -33,7 +33,7 @@ Two questions so I can build on what you know: what have you sold before, and to
 > two days, so estimators spent their week rebuilding quotes. After the Pilot, quotes went out in four hours. How long
 > does a quote take at your company today, and how fast would it need to be?
 
-Four parts cover the first two minutes of a call:
+Four parts cover the first two minutes of a call (`reference/the-message.md`, "Core Philosophy"):
 
 | Part | What it tells the client |
 |---|---|
@@ -105,4 +105,4 @@ Your quota in dollars and your base are not in my notes, so I will not guess: th
 
 **New hire:** (second draft) "Hi [Name], [Business] is hiring a second dispatcher, which is usually when jobs get re-keyed twice. Brennan Mechanical, a 38-person contractor, went from two-day quotes to four hours after a Pilot. How do quotes get from request to customer at [Business] today?"
 
-**Onboarder:** Observed: a why-now signal, one proof from the folder, and one question about their work, with no promised result. Standard: met on those three parts. Next: add the dated follow-up steps in the CRM, and submit at the 4:00 PM check-in (`reference/campaign.md`, "Part 3: The Follow-Up Sequence" and "Submit and Launch"). Nothing is sent until the Head of Sales approves.
+**Onboarder:** Observed: a why-now signal, one proof from the folder, and one question about their work, with no promised result. Standard (`reference/campaign.md`, "Part 2: The Message"): met on those three parts. Next: add the dated follow-up steps in the CRM, and submit at the 4:00 PM check-in (`reference/campaign.md`, "Part 3: The Follow-Up Sequence" and "Submit and Launch"). Nothing is sent until the Head of Sales approves.
