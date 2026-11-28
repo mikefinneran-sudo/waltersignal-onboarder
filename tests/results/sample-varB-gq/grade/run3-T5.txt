@@ -1,0 +1,1 @@
+run3-T5    FAIL | The reply correctly identifies the missing info and owner, but fails the "Start from what they know" rule by asking the question *after* answering the PTO query instead of leading with it. [gemini=ERR qwen=FAIL]

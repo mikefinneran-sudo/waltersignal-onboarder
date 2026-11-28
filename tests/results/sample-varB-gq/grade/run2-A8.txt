@@ -1,0 +1,1 @@
+run2-A8    PASS | The reply correctly lists all Quotable and Internal prices from `reference/what-we-sell.md` and accurately states the rule that no prices are quoted before the Launch Gate. [gemini=PASS qwen=PASS]

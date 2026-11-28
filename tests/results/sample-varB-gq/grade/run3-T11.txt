@@ -1,0 +1,1 @@
+run3-T11   PASS | Correctly states the link is not in the folder, identifies the Head of Sales as the owner, and avoids inventing a specific URL. [gemini=ERR qwen=PASS]

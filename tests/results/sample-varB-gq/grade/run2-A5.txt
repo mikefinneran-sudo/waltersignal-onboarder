@@ -1,0 +1,1 @@
+run2-A5    PASS | The reply correctly identifies the decider and champion roles and examples from `reference/clients.md` without inventing facts. [gemini=PASS qwen=PASS]

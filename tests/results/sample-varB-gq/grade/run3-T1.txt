@@ -1,0 +1,1 @@
+run3-T1    PASS | Correctly states the password is not in the notes, routes equipment/internet to People Operations, and invents no facts. [gemini=ERR qwen=PASS]

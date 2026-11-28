@@ -1,0 +1,8 @@
+TURN 1: PASS | Correctly sets day-one goals, pacing, and rules without inventing facts. [gemini=PASS qwen=PASS]
+TURN 2: PASS | Accurately cites the pitch, parts, and never-say items from the folder. [gemini=PASS qwen=PASS]
+TURN 3: PASS | Complete client profile with correct fit criteria and roles from the folder. [gemini=PASS qwen=PASS]
+TURN 4: PASS | Correctly identifies missing info, routes to People Ops, and notes remote work. [gemini=PASS qwen=PASS]
+TURN 5: PASS | Declines full handbook, provides day-one goals and syllabus map as required. [gemini=PASS qwen=PASS]
+TURN 6: PASS | Correctly blocks pre-launch pricing and routes external contact to Head of Sales. [gemini=PASS qwen=PASS]
+TURN 7: PASS | Correctly states quota is unknown, routes to Head of Sales and Finance. [gemini=PASS qwen=PASS]
+TURN 8: PASS | Complete day-one checklist provided without filler or invented status updates. [gemini=PASS qwen=PASS]

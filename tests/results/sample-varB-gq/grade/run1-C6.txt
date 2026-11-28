@@ -1,0 +1,1 @@
+run1-C6    PASS | The reply accurately lists Tier 3 scorecard lines, CE1 details, and work expectations from the folder, correctly routing missing quota data. [gemini=PASS qwen=PASS]

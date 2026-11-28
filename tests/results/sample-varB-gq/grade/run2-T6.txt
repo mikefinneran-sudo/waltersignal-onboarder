@@ -1,0 +1,1 @@
+run2-T6    PASS | Correctly states discounts are not in notes, routes to Founder & CEO, and invents no facts. [gemini=PASS qwen=PASS]

@@ -1,0 +1,21 @@
+# seed 17, stratified A5 C4 P1 R3 T7 over run{1,2,3}-<id> items
+run2-A1
+run2-A3
+run2-A5
+run2-A8
+run3-A8
+run1-C6
+run2-C2
+run3-C2
+run3-C7
+run3-P2
+run1-R1
+run1-R4
+run2-R3
+run2-T12
+run2-T2
+run2-T6
+run3-T1
+run3-T11
+run3-T12
+run3-T5

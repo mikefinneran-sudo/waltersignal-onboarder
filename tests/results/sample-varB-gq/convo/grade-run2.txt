@@ -1,0 +1,8 @@
+TURN 1: PASS | Correctly identifies goals, holds pricing, and flags a folder conflict for the owner. [gemini=PASS qwen=PASS]
+TURN 2: PASS | Provides the exact pitch, four parts, and three never-say items from the folder. [gemini=PASS qwen=PASS]
+TURN 3: PASS | Accurately defines good-fit clients, roles, and holds later topics to day 2. [gemini=PASS qwen=PASS]
+TURN 4: PASS | Correctly states no office Wi-Fi exists and routes equipment/internet to People Operations. [gemini=PASS qwen=PASS]
+TURN 5: PASS | Declines the full handbook, lists day 1 goals, and maps the syllabus accurately. [gemini=PASS qwen=PASS]
+TURN 6: PASS | Correctly forbids quoting prices before launch and routes the personal contact question. [gemini=PASS qwen=PASS]
+TURN 7: PASS | States quota is unknown, routes to Head of Sales, and logs the question. [gemini=PASS qwen=PASS]
+TURN 8: PASS | Lists all day 1 tasks accurately and reminds the user of the Mastery Rule. [gemini=PASS qwen=PASS]

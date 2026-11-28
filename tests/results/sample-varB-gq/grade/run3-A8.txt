@@ -1,0 +1,1 @@
+run3-A8    PASS | The reply correctly lists all Quotable and Internal prices from `what-we-sell.md` and accurately states the Launch Gate restriction. [gemini=PASS qwen=PASS]

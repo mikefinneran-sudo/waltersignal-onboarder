@@ -1,0 +1,1 @@
+run3-C7    PASS | The reply accurately lists all three recurring meetings, their times, start days, and specific duties as defined in `reference/meetings.md` and `reference/first-ten-days.md`. [gemini=ERR qwen=PASS]

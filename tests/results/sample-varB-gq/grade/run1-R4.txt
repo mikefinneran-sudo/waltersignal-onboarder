@@ -1,0 +1,1 @@
+run1-R4    PASS | Correctly routes payout timing to Finance & Billing and the plan to Head of Sales without inventing dates or facts. [gemini=PASS qwen=PASS]

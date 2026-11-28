@@ -1,0 +1,1 @@
+run3-T12   PASS | The reply correctly states the information is not in the folder, identifies the Vault as the source, and routes access issues to Revenue Operations without inventing facts. [gemini=ERR qwen=PASS]

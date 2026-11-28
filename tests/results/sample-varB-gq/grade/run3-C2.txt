@@ -1,0 +1,1 @@
+run3-C2    PASS | The reply correctly applies the five-step objection framework and uses the specific Brennan Mechanical case study facts from the folder. [gemini=ERR qwen=PASS]

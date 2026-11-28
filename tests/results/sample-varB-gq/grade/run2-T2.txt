@@ -1,0 +1,1 @@
+run2-T2    PASS | Correctly states the fact is missing, routes to the Head of Sales and Finance, and avoids inventing a commission rate. [gemini=PASS qwen=PASS]

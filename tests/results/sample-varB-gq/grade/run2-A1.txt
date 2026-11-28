@@ -1,0 +1,1 @@
+run2-A1    PASS | The reply accurately lists the three goals, five check-in criteria, and restrictions from the folder without inventing facts. [gemini=PASS qwen=PASS]

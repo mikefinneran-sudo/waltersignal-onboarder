@@ -1,0 +1,1 @@
+run2-A3    PASS | The reply correctly cites the $7,500 Sprint price, 30-day credit rule, and billing terms from the folder without inventing facts. [gemini=PASS qwen=PASS]

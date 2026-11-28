@@ -1,0 +1,1 @@
+run2-T12   PASS | Correctly states the answer is not in the notes, identifies the Vault as the source, and routes access issues to Revenue Operations without inventing facts. [gemini=PASS qwen=PASS]

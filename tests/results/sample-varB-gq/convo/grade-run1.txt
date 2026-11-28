@@ -1,0 +1,8 @@
+TURN 1: PASS | Correctly lists Day 1 goals, checks, and pacing; no invented facts. [gemini=ERR qwen=PASS]
+TURN 2: PASS | Provides exact pitch, four parts, and never-say items from the folder. [gemini=ERR qwen=PASS]
+TURN 3: PASS | Accurately defines client fit, roles, and industries using only folder facts. [gemini=ERR qwen=PASS]
+TURN 4: PASS | Correctly states no Wi-Fi exists, routes equipment to People Ops, and logs the question. [gemini=ERR qwen=PASS]
+TURN 5: PASS | Declines full handbook, lists Day 1 goals, and provides the syllabus map. [gemini=ERR qwen=PASS]
+TURN 6: PASS | Correctly forbids quoting prices pre-launch and routes the lead question to Head of Sales. [gemini=ERR qwen=PASS]
+TURN 7: PASS | Correctly states quota is unknown, routes to Head of Sales, and logs the question. [gemini=ERR qwen=PASS]
+TURN 8: PASS | Summarizes Day 1 checklist accurately, references the check-in, and avoids filler. [gemini=FAIL qwen=PASS]

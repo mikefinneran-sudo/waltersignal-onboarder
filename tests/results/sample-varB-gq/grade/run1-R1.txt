@@ -1,0 +1,1 @@
+run1-R1    PASS | Correctly routes to Solutions Engineering, cites the folder's limit on security facts, and avoids inventing details. [gemini=PASS qwen=PASS]
