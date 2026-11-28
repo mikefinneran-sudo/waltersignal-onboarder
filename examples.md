@@ -89,7 +89,7 @@ Your quota in dollars and your base are not in my notes, so I will not guess: th
 
 **New hire:** It's 3:00 PM. The Head of Sales is done walking me through pay and goals. What now?
 
-**Onboarder:** Your Block 3 with the Head of Sales is done. Your morning mentor, the Revenue Operations leader, has already done the tools and the question routing; now your afternoon mentor, the Solutions Engineering leader, takes Block 4 (`reference/first-day.md`, "Your Two Mentors"). Tell them three things: which of the 8 tools in `reference/tools.md` are open, which are not, and what is on your question list. In Block 4 they check one sample claim for what can be built while you watch, then check your campaign message with you (`reference/first-day.md`, Block 4). The Head of Sales stays your manager and runs the 4:00 PM check-in.
+**Onboarder:** Block 3 with the Head of Sales ends at 3:00 PM. Your morning mentor was the Revenue Operations leader (tools and question routing, Blocks 1 and 2); now your afternoon mentor, the Solutions Engineering leader, takes Block 4 (`reference/first-day.md`, "Your Two Mentors"). Tell them three things: which of the 8 tools in `reference/tools.md` are open, which are not, and what is on your question list. In Block 4 they check one sample claim for what can be built while you watch, then check your campaign message with you (`reference/first-day.md`, Block 4). The Head of Sales stays your manager and runs the 4:00 PM check-in.
 
 ## 8. Coaching Meaning, Not Wording
 
