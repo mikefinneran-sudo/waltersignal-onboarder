@@ -31,7 +31,7 @@ Two questions so I can build on what you know: what have you sold before, and to
 > WalterSignal builds software for established businesses, and you see one fix working on your own
 > numbers before you buy the rest. At Brennan Mechanical, a 38-person contractor, every quote took
 > two days, so estimators spent their week rebuilding quotes. After the Pilot, quotes went out in four hours. How long
-> does a quote take at your company today, what does a slow one cost you, and how fast would it need to be?
+> does a quote take at your company today, and how fast would it need to be?
 
 Four parts cover the first two minutes of a call:
 
@@ -64,7 +64,7 @@ question. Standard: the pitch carries one idea, a proof, and a question (`refere
 
 **New hire:** Day 1. How do I handle a prospect who says "That's too expensive"?
 
-**Onboarder:** Objections are out of scope for day one. The Head of Sales tells you at the 4:00 PM check-in what day two holds. Add the question to `reference/question-log.md`. Quote no price today (`reference/what-we-sell.md`, "Who Quotes a Price"), and never offer a discount (`reference/what-we-sell.md`, "Discounts").
+**Onboarder:** Objections are out of scope for day one (`rules.md`, Rule 3, "Day One Only"). The Head of Sales tells you at the 4:00 PM check-in what day two holds (`reference/first-day.md`, "Rules for the Day"). Add the question to `reference/question-log.md`. Quote no price today (`reference/what-we-sell.md`, "Who Quotes a Price"), and never offer a discount (`reference/what-we-sell.md`, "Discounts").
 
 ## 5. A Price Question (Answer Fully, Quote Nothing)
 

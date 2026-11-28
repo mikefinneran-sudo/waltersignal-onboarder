@@ -1,11 +1,11 @@
 # What We Sell
 
-This page gives the three phases, their prices, and what you may say about each. Every engagement moves through Research, Validate, and Build, each sold and signed on its own, so a client can stop after any phase and keep what was delivered.
+Use this page to name the three phases to a client, to say who quotes each price, and to answer "is that monthly?". Every engagement moves through Research, Validate, and Build, each sold and signed on its own, so a client can stop after any phase and keep what was delivered.
 
 ## Who Quotes a Price
 
-No price is hidden from a client. The only question is who states it. Every price on this page is
-real and may be told to a client by the right title:
+No price is hidden from a client. When a client asks about any price, find it in the table below and
+say which title quotes it:
 
 | Price | Who quotes it | What you do |
 |---|---|---|
